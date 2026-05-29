@@ -1,0 +1,144 @@
+# GitHub activity report — `tock-ibm`
+
+_Limited to years 2024–2026._
+
+Date range searched: **2015-01-01 → 2026-05-28**.
+
+Compiled from **1,157** events spanning **2024-01-04 → 2026-05-28**, across **3** organizations and **13** repositories.
+
+## Teams & repository access
+
+Member of **7** team(s):
+
+| Team | Role in team |
+| --- | --- |
+| `fabric-contributors` | member |
+| `fabric-core-maintainers` | member |
+| `fabric-triage` | member |
+| `fabric-x-common-maintainers` | maintainer |
+| `fabric-x-orderer-contributors` | maintainer |
+| `fabric-x-orderer-maintainers` | maintainer |
+| `fabric-x-triage` | member |
+
+Repository access granted through those teams (30 repos):
+
+| Repository | Access | Granted by |
+| --- | --- | --- |
+| `fabric` | admin | `fabric-core-maintainers` (admin), `fabric-triage` (triage) |
+| `fabric-amcl` | admin | `fabric-core-maintainers` (admin), `fabric-triage` (triage) |
+| `fabric-config` | admin | `fabric-core-maintainers` (admin), `fabric-triage` (triage) |
+| `fabric-chaincode-go` | maintain | `fabric-core-maintainers` (maintain), `fabric-triage` (triage) |
+| `fabric-docs-i18n` | maintain | `fabric-core-maintainers` (maintain), `fabric-triage` (triage) |
+| `fabric-lib-go` | maintain | `fabric-core-maintainers` (maintain), `fabric-triage` (triage) |
+| `fabric-protos` | maintain | `fabric-core-maintainers` (maintain), `fabric-triage` (triage) |
+| `fabric-protos-go` | maintain | `fabric-core-maintainers` (maintain), `fabric-triage` (triage) |
+| `fabric-protos-go-apiv2` | maintain | `fabric-core-maintainers` (maintain), `fabric-triage` (triage) |
+| `fabric-rfcs` | maintain | `fabric-core-maintainers` (maintain), `fabric-triage` (triage) |
+| `fabric-sdk-py` | maintain | `fabric-core-maintainers` (maintain), `fabric-triage` (triage) |
+| `fabric-x-common` | maintain | `fabric-x-common-maintainers` (maintain), `fabric-x-triage` (triage) |
+| `fabric-x-orderer` | maintain | `fabric-x-orderer-maintainers` (maintain), `fabric-x-orderer-contributors` (write), `fabric-x-triage` (triage) |
+| `fabric-x-rfcs` | maintain | `fabric-x-common-maintainers` (maintain), `fabric-x-orderer-maintainers` (maintain), `fabric-x-triage` (triage) |
+| `fabric-x` | write | `fabric-x-common-maintainers` (write), `fabric-x-orderer-maintainers` (write), `fabric-x-triage` (triage) |
+| `fabric-x-samples` | write | `fabric-x-common-maintainers` (write), `fabric-x-orderer-maintainers` (write), `fabric-x-triage` (triage) |
+| `fabric-admin-sdk` | triage | `fabric-triage` (triage) |
+| `fabric-ca` | triage | `fabric-triage` (triage) |
+| `fabric-chaincode-java` | triage | `fabric-triage` (triage) |
+| `fabric-chaincode-node` | triage | `fabric-triage` (triage) |
+| `fabric-cli` | triage | `fabric-triage` (triage) |
+| `fabric-contract-api-go` | triage | `fabric-triage` (triage) |
+| `fabric-gateway` | triage | `fabric-triage` (triage) |
+| `fabric-private-chaincode` | triage | `fabric-triage` (triage) |
+| `fabric-samples` | triage | `fabric-triage` (triage) |
+| `fabric-test` | triage | `fabric-triage` (triage) |
+| `fabric-x-committer` | triage | `fabric-x-triage` (triage) |
+| `fabric-x-endorser` | triage | `fabric-x-triage` (triage) |
+| `fabric-x-evm` | triage | `fabric-x-triage` (triage) |
+| `fabric-x-sdk` | triage | `fabric-x-triage` (triage) |
+
+
+## Overview
+
+| Metric | Value |
+| --- | --: |
+| Total events | 1,157 |
+| Pull requests opened | 44 |
+| Pull request reviews | 263 |
+| Issues opened | 105 |
+| Pushes | 168 |
+| Commits pushed | 82 |
+| Comments | 361 |
+| Releases | 0 |
+
+## Activity by year
+
+| Year | Events |
+| --- | --: |
+| 2024 | 252 |
+| 2025 | 614 |
+| 2026 | 291 |
+
+## Event types
+
+| Type | Count |
+| --- | --: |
+| PullRequestReviewCommentEvent | 265 |
+| PullRequestReviewEvent | 263 |
+| IssuesEvent | 211 |
+| PushEvent | 168 |
+| PullRequestEvent | 129 |
+| IssueCommentEvent | 96 |
+| DeleteEvent | 9 |
+| CreateEvent | 8 |
+| WatchEvent | 5 |
+| ForkEvent | 2 |
+| GollumEvent | 1 |
+
+## Organizations
+
+| Organization | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`hyperledger`](https://github.com/hyperledger) | 1,131 | 44 | 256 | 162 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 24 | 0 | 6 | 6 |
+| [`LF-Decentralized-Trust`](https://github.com/LF-Decentralized-Trust) | 2 | 0 | 1 | 0 |
+
+## Repositories
+
+| Repository | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`hyperledger/fabric-x-orderer`](https://github.com/hyperledger/fabric-x-orderer) | 820 | 22 | 169 | 142 |
+| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 282 | 21 | 83 | 15 |
+| [`hyperledger-labs/orion-server`](https://github.com/hyperledger-labs/orion-server) | 16 | 0 | 4 | 4 |
+| [`hyperledger/fabric-x-common`](https://github.com/hyperledger/fabric-x-common) | 12 | 0 | 2 | 4 |
+| [`hyperledger-labs/SmartBFT`](https://github.com/hyperledger-labs/SmartBFT) | 5 | 0 | 2 | 2 |
+| [`hyperledger/fabric-config`](https://github.com/hyperledger/fabric-config) | 4 | 0 | 1 | 1 |
+| [`hyperledger/fabric-x`](https://github.com/hyperledger/fabric-x) | 4 | 0 | 0 | 0 |
+| [`hyperledger-labs/orion-sdk-go`](https://github.com/hyperledger-labs/orion-sdk-go) | 3 | 0 | 0 | 0 |
+| [`hyperledger/fabric-protos`](https://github.com/hyperledger/fabric-protos) | 3 | 1 | 0 | 0 |
+| [`hyperledger/fabric-rfcs`](https://github.com/hyperledger/fabric-rfcs) | 3 | 0 | 1 | 0 |
+| [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) | 2 | 0 | 1 | 0 |
+| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 2 | 0 | 0 | 0 |
+| [`hyperledger/fabric-x-rfcs`](https://github.com/hyperledger/fabric-x-rfcs) | 1 | 0 | 0 | 0 |
+
+## Monthly rollup — one table per repository
+
+Months as rows, event types as columns. One file per repository in [`tock-ibm_rollup/`](tock-ibm_rollup/):
+
+| Repository | Events | Rollup |
+| --- | --: | --- |
+| [`hyperledger/fabric-x-orderer`](https://github.com/hyperledger/fabric-x-orderer) | 820 | [hyperledger_fabric-x-orderer.md](tock-ibm_rollup/hyperledger_fabric-x-orderer.md) |
+| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 282 | [hyperledger_fabric.md](tock-ibm_rollup/hyperledger_fabric.md) |
+| [`hyperledger-labs/orion-server`](https://github.com/hyperledger-labs/orion-server) | 16 | [hyperledger-labs_orion-server.md](tock-ibm_rollup/hyperledger-labs_orion-server.md) |
+| [`hyperledger/fabric-x-common`](https://github.com/hyperledger/fabric-x-common) | 12 | [hyperledger_fabric-x-common.md](tock-ibm_rollup/hyperledger_fabric-x-common.md) |
+| [`hyperledger-labs/SmartBFT`](https://github.com/hyperledger-labs/SmartBFT) | 5 | [hyperledger-labs_SmartBFT.md](tock-ibm_rollup/hyperledger-labs_SmartBFT.md) |
+| [`hyperledger/fabric-config`](https://github.com/hyperledger/fabric-config) | 4 | [hyperledger_fabric-config.md](tock-ibm_rollup/hyperledger_fabric-config.md) |
+| [`hyperledger/fabric-x`](https://github.com/hyperledger/fabric-x) | 4 | [hyperledger_fabric-x.md](tock-ibm_rollup/hyperledger_fabric-x.md) |
+| [`hyperledger-labs/orion-sdk-go`](https://github.com/hyperledger-labs/orion-sdk-go) | 3 | [hyperledger-labs_orion-sdk-go.md](tock-ibm_rollup/hyperledger-labs_orion-sdk-go.md) |
+| [`hyperledger/fabric-protos`](https://github.com/hyperledger/fabric-protos) | 3 | [hyperledger_fabric-protos.md](tock-ibm_rollup/hyperledger_fabric-protos.md) |
+| [`hyperledger/fabric-rfcs`](https://github.com/hyperledger/fabric-rfcs) | 3 | [hyperledger_fabric-rfcs.md](tock-ibm_rollup/hyperledger_fabric-rfcs.md) |
+| [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) | 2 | [LF-Decentralized-Trust_governance.md](tock-ibm_rollup/LF-Decentralized-Trust_governance.md) |
+| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 2 | [hyperledger_governance.md](tock-ibm_rollup/hyperledger_governance.md) |
+| [`hyperledger/fabric-x-rfcs`](https://github.com/hyperledger/fabric-x-rfcs) | 1 | [hyperledger_fabric-x-rfcs.md](tock-ibm_rollup/hyperledger_fabric-x-rfcs.md) |
+
+---
+
+<sub>Generated by `gh-report` from `gh-activity` archive data.</sub>

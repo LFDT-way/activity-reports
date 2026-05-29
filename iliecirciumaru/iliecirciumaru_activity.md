@@ -1,0 +1,108 @@
+# GitHub activity report — `iliecirciumaru`
+
+_Limited to years 2024–2026._
+
+Date range searched: **2015-01-01 → 2026-05-28**.
+
+Compiled from **33** events spanning **2024-08-22 → 2026-04-27**, across **3** organizations and **8** repositories.
+
+## Teams & repository access
+
+Member of **2** team(s):
+
+| Team | Role in team |
+| --- | --- |
+| `fabric-x-admins` | maintainer |
+| `fabric-x-release-maintainers` | maintainer |
+
+Repository access granted through those teams (9 repos):
+
+| Repository | Access | Granted by |
+| --- | --- | --- |
+| `fabric-x` | admin | `fabric-x-admins` (admin), `fabric-x-release-maintainers` (maintain) |
+| `fabric-x-committer` | admin | `fabric-x-admins` (admin), `fabric-x-release-maintainers` (maintain) |
+| `fabric-x-common` | admin | `fabric-x-admins` (admin), `fabric-x-release-maintainers` (maintain) |
+| `fabric-x-endorser` | admin | `fabric-x-admins` (admin), `fabric-x-release-maintainers` (maintain) |
+| `fabric-x-evm` | admin | `fabric-x-admins` (admin), `fabric-x-release-maintainers` (maintain) |
+| `fabric-x-orderer` | admin | `fabric-x-admins` (admin), `fabric-x-release-maintainers` (maintain) |
+| `fabric-x-rfcs` | admin | `fabric-x-admins` (admin), `fabric-x-release-maintainers` (maintain) |
+| `fabric-x-samples` | admin | `fabric-x-admins` (admin), `fabric-x-release-maintainers` (maintain) |
+| `fabric-x-sdk` | admin | `fabric-x-admins` (admin), `fabric-x-release-maintainers` (maintain) |
+
+
+## Overview
+
+| Metric | Value |
+| --- | --: |
+| Total events | 33 |
+| Pull requests opened | 4 |
+| Pull request reviews | 3 |
+| Issues opened | 0 |
+| Pushes | 5 |
+| Commits pushed | 2 |
+| Comments | 9 |
+| Releases | 0 |
+
+## Activity by year
+
+| Year | Events |
+| --- | --: |
+| 2024 | 14 |
+| 2025 | 10 |
+| 2026 | 9 |
+
+## Event types
+
+| Type | Count |
+| --- | --: |
+| IssueCommentEvent | 8 |
+| PullRequestEvent | 5 |
+| PushEvent | 5 |
+| PullRequestReviewEvent | 3 |
+| WatchEvent | 3 |
+| CreateEvent | 2 |
+| DeleteEvent | 2 |
+| ForkEvent | 2 |
+| GollumEvent | 1 |
+| IssuesEvent | 1 |
+| PullRequestReviewCommentEvent | 1 |
+
+## Organizations
+
+| Organization | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`hyperledger`](https://github.com/hyperledger) | 18 | 3 | 1 | 3 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 14 | 1 | 2 | 2 |
+| [`LF-Decentralized-Trust-labs`](https://github.com/LF-Decentralized-Trust-labs) | 1 | 0 | 0 | 0 |
+
+## Repositories
+
+| Repository | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`hyperledger/fabric-x`](https://github.com/hyperledger/fabric-x) | 8 | 1 | 0 | 2 |
+| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 7 | 1 | 1 | 0 |
+| [`hyperledger-labs/jsonld-vc-bbs-go`](https://github.com/hyperledger-labs/jsonld-vc-bbs-go) | 7 | 0 | 1 | 2 |
+| [`hyperledger/fabric-x-orderer`](https://github.com/hyperledger/fabric-x-orderer) | 4 | 0 | 1 | 0 |
+| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 3 | 2 | 0 | 0 |
+| [`hyperledger/fabric-x-samples`](https://github.com/hyperledger/fabric-x-samples) | 2 | 0 | 0 | 1 |
+| [`LF-Decentralized-Trust-labs/fabric-x-ansible-collection`](https://github.com/LF-Decentralized-Trust-labs/fabric-x-ansible-collection) | 1 | 0 | 0 | 0 |
+| [`hyperledger/fabric-x-committer`](https://github.com/hyperledger/fabric-x-committer) | 1 | 0 | 0 | 0 |
+
+## Monthly rollup — one table per repository
+
+Months as rows, event types as columns. One file per repository in [`iliecirciumaru_rollup/`](iliecirciumaru_rollup/):
+
+| Repository | Events | Rollup |
+| --- | --: | --- |
+| [`hyperledger/fabric-x`](https://github.com/hyperledger/fabric-x) | 8 | [hyperledger_fabric-x.md](iliecirciumaru_rollup/hyperledger_fabric-x.md) |
+| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 7 | [hyperledger-labs_hyperledger-labs.github.io.md](iliecirciumaru_rollup/hyperledger-labs_hyperledger-labs.github.io.md) |
+| [`hyperledger-labs/jsonld-vc-bbs-go`](https://github.com/hyperledger-labs/jsonld-vc-bbs-go) | 7 | [hyperledger-labs_jsonld-vc-bbs-go.md](iliecirciumaru_rollup/hyperledger-labs_jsonld-vc-bbs-go.md) |
+| [`hyperledger/fabric-x-orderer`](https://github.com/hyperledger/fabric-x-orderer) | 4 | [hyperledger_fabric-x-orderer.md](iliecirciumaru_rollup/hyperledger_fabric-x-orderer.md) |
+| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 3 | [hyperledger_governance.md](iliecirciumaru_rollup/hyperledger_governance.md) |
+| [`hyperledger/fabric-x-samples`](https://github.com/hyperledger/fabric-x-samples) | 2 | [hyperledger_fabric-x-samples.md](iliecirciumaru_rollup/hyperledger_fabric-x-samples.md) |
+| [`LF-Decentralized-Trust-labs/fabric-x-ansible-collection`](https://github.com/LF-Decentralized-Trust-labs/fabric-x-ansible-collection) | 1 | [LF-Decentralized-Trust-labs_fabric-x-ansible-collection.md](iliecirciumaru_rollup/LF-Decentralized-Trust-labs_fabric-x-ansible-collection.md) |
+| [`hyperledger/fabric-x-committer`](https://github.com/hyperledger/fabric-x-committer) | 1 | [hyperledger_fabric-x-committer.md](iliecirciumaru_rollup/hyperledger_fabric-x-committer.md) |
+
+---
+
+<sub>Generated by `gh-report` from `gh-activity` archive data.</sub>

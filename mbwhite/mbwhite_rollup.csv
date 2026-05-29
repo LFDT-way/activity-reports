@@ -1,0 +1,11 @@
+repo,month,PullRequestReviewEvent,PullRequestEvent,IssueCommentEvent,PushEvent,CreateEvent,ReleaseEvent,total
+hyperledger/fabric-chaincode-node,2024-05,2,0,1,0,0,0,3
+hyperledger/fabric-chaincode-node,2024-06,0,0,1,0,0,0,1
+hyperledger/fabric-chaincode-node,2024-11,1,1,0,1,0,0,3
+hyperledger-labs/fabric-ansible-collection,2024-02,1,0,0,0,0,0,1
+hyperledger-labs/fabric-ansible-collection,2024-10,1,1,0,1,1,1,5
+hyperledger/fabric-samples,2024-05,2,1,0,0,0,0,3
+hyperledger/fabric-samples,2024-11,1,0,0,0,0,0,1
+hyperledger/fabric-chaincode-java,2024-11,1,1,0,1,0,0,3
+hyperledger-labs/microfab,2024-05,1,0,0,0,0,0,1
+hyperledger/fabric-contract-api-go,2024-11,0,0,1,0,0,0,1

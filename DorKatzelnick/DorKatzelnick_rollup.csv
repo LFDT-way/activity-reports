@@ -1,0 +1,11 @@
+repo,month,PullRequestReviewEvent,PullRequestReviewCommentEvent,PullRequestEvent,IssuesEvent,IssueCommentEvent,PushEvent,WatchEvent,total
+hyperledger/fabric-x-orderer,2025-07,12,8,6,0,1,0,1,28
+hyperledger/fabric-x-orderer,2025-08,14,12,3,2,0,0,0,31
+hyperledger/fabric-x-orderer,2025-09,14,16,4,2,2,0,0,38
+hyperledger/fabric-x-orderer,2025-10,4,5,2,3,1,0,0,15
+hyperledger/fabric-x-orderer,2025-11,6,2,3,1,0,0,0,12
+hyperledger/fabric-x-orderer,2025-12,0,0,0,3,0,0,0,3
+hyperledger/fabric-x-orderer,2026-01,0,2,4,0,0,1,0,7
+hyperledger/fabric-x-orderer,2026-02,11,8,5,1,0,0,0,25
+hyperledger/fabric-x-orderer,2026-03,0,3,3,0,0,2,0,8
+hyperledger/fabric-x-orderer,2026-04,2,0,2,2,0,1,0,7

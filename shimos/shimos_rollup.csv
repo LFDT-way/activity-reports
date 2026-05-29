@@ -1,0 +1,5 @@
+repo,month,PullRequestReviewEvent,PullRequestEvent,PushEvent,total
+hyperledger/fabric-docs-i18n,2024-05,1,0,0,1
+hyperledger/fabric-docs-i18n,2024-06,0,2,1,3
+hyperledger/fabric-docs-i18n,2024-07,6,4,4,14
+hyperledger/fabric-docs-i18n,2024-08,1,1,1,3

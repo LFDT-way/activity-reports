@@ -1,0 +1,11 @@
+repo,month,PullRequestReviewEvent,IssueCommentEvent,PushEvent,PullRequestEvent,PullRequestReviewCommentEvent,total
+hyperledger/fabric,2024-04,1,1,0,0,0,2
+hyperledger/fabric,2024-06,3,0,3,3,0,9
+hyperledger/fabric,2024-10,1,0,0,0,1,2
+hyperledger/fabric,2024-11,2,0,0,0,0,2
+hyperledger/fabric,2025-05,1,0,0,0,0,1
+hyperledger/fabric,2025-09,1,0,0,0,0,1
+hyperledger/fabric-rfcs,2024-10,0,1,0,0,0,1
+hyperledger/fabric-rfcs,2024-11,0,3,0,0,0,3
+hyperledger/fabric-rfcs,2025-05,2,0,0,0,0,2
+hyperledger/fabric-chaincode-go,2024-04,1,0,1,0,0,2

@@ -1,0 +1,122 @@
+# GitHub activity report — `satota2`
+
+_Limited to years 2024–2026._
+
+Date range searched: **2015-01-01 → 2026-05-28**.
+
+Compiled from **467** events spanning **2024-01-05 → 2026-03-23**, across **3** organizations and **8** repositories.
+
+## Teams & repository access
+
+Member of **5** team(s):
+
+| Team | Role in team |
+| --- | --- |
+| `fabric-core-maintainers` | member |
+| `fabric-ja-jp-doc-maintainers` | maintainer |
+| `fabric-rfc-maintainers` | member |
+| `fabric-samples-maintainers` | member |
+| `fabric-triage` | member |
+
+Repository access granted through those teams (21 repos):
+
+| Repository | Access | Granted by |
+| --- | --- | --- |
+| `fabric` | admin | `fabric-core-maintainers` (admin), `fabric-triage` (triage) |
+| `fabric-amcl` | admin | `fabric-core-maintainers` (admin), `fabric-triage` (triage) |
+| `fabric-config` | admin | `fabric-core-maintainers` (admin), `fabric-triage` (triage) |
+| `fabric-samples` | admin | `fabric-samples-maintainers` (admin), `fabric-triage` (triage) |
+| `fabric-chaincode-go` | maintain | `fabric-core-maintainers` (maintain), `fabric-triage` (triage) |
+| `fabric-docs-i18n` | maintain | `fabric-core-maintainers` (maintain), `fabric-ja-jp-doc-maintainers` (maintain), `fabric-triage` (triage) |
+| `fabric-lib-go` | maintain | `fabric-core-maintainers` (maintain), `fabric-triage` (triage) |
+| `fabric-protos` | maintain | `fabric-core-maintainers` (maintain), `fabric-triage` (triage) |
+| `fabric-protos-go` | maintain | `fabric-core-maintainers` (maintain), `fabric-triage` (triage) |
+| `fabric-protos-go-apiv2` | maintain | `fabric-core-maintainers` (maintain), `fabric-triage` (triage) |
+| `fabric-rfcs` | maintain | `fabric-core-maintainers` (maintain), `fabric-rfc-maintainers` (maintain), `fabric-triage` (triage) |
+| `fabric-sdk-py` | maintain | `fabric-core-maintainers` (maintain), `fabric-triage` (triage) |
+| `fabric-admin-sdk` | triage | `fabric-triage` (triage) |
+| `fabric-ca` | triage | `fabric-triage` (triage) |
+| `fabric-chaincode-java` | triage | `fabric-triage` (triage) |
+| `fabric-chaincode-node` | triage | `fabric-triage` (triage) |
+| `fabric-cli` | triage | `fabric-triage` (triage) |
+| `fabric-contract-api-go` | triage | `fabric-triage` (triage) |
+| `fabric-gateway` | triage | `fabric-triage` (triage) |
+| `fabric-private-chaincode` | triage | `fabric-triage` (triage) |
+| `fabric-test` | triage | `fabric-triage` (triage) |
+
+
+## Overview
+
+| Metric | Value |
+| --- | --: |
+| Total events | 467 |
+| Pull requests opened | 37 |
+| Pull request reviews | 139 |
+| Issues opened | 4 |
+| Pushes | 77 |
+| Commits pushed | 74 |
+| Comments | 104 |
+| Releases | 0 |
+
+## Activity by year
+
+| Year | Events |
+| --- | --: |
+| 2024 | 369 |
+| 2025 | 93 |
+| 2026 | 5 |
+
+## Event types
+
+| Type | Count |
+| --- | --: |
+| PullRequestReviewEvent | 139 |
+| PullRequestEvent | 114 |
+| PushEvent | 77 |
+| IssueCommentEvent | 59 |
+| PullRequestReviewCommentEvent | 45 |
+| IssuesEvent | 20 |
+| DeleteEvent | 10 |
+| CreateEvent | 1 |
+| ForkEvent | 1 |
+| WatchEvent | 1 |
+
+## Organizations
+
+| Organization | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`hyperledger`](https://github.com/hyperledger) | 430 | 35 | 139 | 67 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 31 | 0 | 0 | 10 |
+| [`hyperledger-dlt-landscape`](https://github.com/hyperledger-dlt-landscape) | 6 | 2 | 0 | 0 |
+
+## Repositories
+
+| Repository | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 213 | 20 | 70 | 36 |
+| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 112 | 14 | 34 | 14 |
+| [`hyperledger/fabric-docs-i18n`](https://github.com/hyperledger/fabric-docs-i18n) | 95 | 1 | 32 | 16 |
+| [`hyperledger-labs/fabric-opssc`](https://github.com/hyperledger-labs/fabric-opssc) | 31 | 0 | 0 | 10 |
+| [`hyperledger-dlt-landscape/hyperledger-dlt-landscape`](https://github.com/hyperledger-dlt-landscape/hyperledger-dlt-landscape) | 6 | 2 | 0 | 0 |
+| [`hyperledger/fabric-rfcs`](https://github.com/hyperledger/fabric-rfcs) | 6 | 0 | 2 | 0 |
+| [`hyperledger/fabric-chaincode-go`](https://github.com/hyperledger/fabric-chaincode-go) | 3 | 0 | 1 | 1 |
+| [`hyperledger/fabric-gateway`](https://github.com/hyperledger/fabric-gateway) | 1 | 0 | 0 | 0 |
+
+## Monthly rollup — one table per repository
+
+Months as rows, event types as columns. One file per repository in [`satota2_rollup/`](satota2_rollup/):
+
+| Repository | Events | Rollup |
+| --- | --: | --- |
+| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 213 | [hyperledger_fabric.md](satota2_rollup/hyperledger_fabric.md) |
+| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 112 | [hyperledger_fabric-samples.md](satota2_rollup/hyperledger_fabric-samples.md) |
+| [`hyperledger/fabric-docs-i18n`](https://github.com/hyperledger/fabric-docs-i18n) | 95 | [hyperledger_fabric-docs-i18n.md](satota2_rollup/hyperledger_fabric-docs-i18n.md) |
+| [`hyperledger-labs/fabric-opssc`](https://github.com/hyperledger-labs/fabric-opssc) | 31 | [hyperledger-labs_fabric-opssc.md](satota2_rollup/hyperledger-labs_fabric-opssc.md) |
+| [`hyperledger-dlt-landscape/hyperledger-dlt-landscape`](https://github.com/hyperledger-dlt-landscape/hyperledger-dlt-landscape) | 6 | [hyperledger-dlt-landscape_hyperledger-dlt-landscape.md](satota2_rollup/hyperledger-dlt-landscape_hyperledger-dlt-landscape.md) |
+| [`hyperledger/fabric-rfcs`](https://github.com/hyperledger/fabric-rfcs) | 6 | [hyperledger_fabric-rfcs.md](satota2_rollup/hyperledger_fabric-rfcs.md) |
+| [`hyperledger/fabric-chaincode-go`](https://github.com/hyperledger/fabric-chaincode-go) | 3 | [hyperledger_fabric-chaincode-go.md](satota2_rollup/hyperledger_fabric-chaincode-go.md) |
+| [`hyperledger/fabric-gateway`](https://github.com/hyperledger/fabric-gateway) | 1 | [hyperledger_fabric-gateway.md](satota2_rollup/hyperledger_fabric-gateway.md) |
+
+---
+
+<sub>Generated by `gh-report` from `gh-activity` archive data.</sub>

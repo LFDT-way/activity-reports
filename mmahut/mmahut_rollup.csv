@@ -1,0 +1,5 @@
+repo,month,PullRequestEvent,CreateEvent,DeleteEvent,IssueCommentEvent,total
+hyperledger/firefly-cardano,2025-01,0,0,1,0,1
+hyperledger/firefly-cardano,2025-02,1,1,0,0,2
+hyperledger/firefly,2025-05,0,0,0,1,1
+hyperledger/governance,2025-01,1,0,0,0,1
