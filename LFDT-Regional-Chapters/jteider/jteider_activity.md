@@ -1,8 +1,10 @@
 # GitHub activity report — `jteider`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **35** events spanning **2023-03-16 → 2026-02-05**, across **2** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **33** events spanning **2025-09-06 → 2026-02-05**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -23,20 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 35 |
+| Total events | 33 |
 | Pull requests opened | 0 |
 | Pull request reviews | 0 |
 | Issues opened | 0 |
 | Pushes | 31 |
 | Commits pushed | 36 |
-| Comments | 1 |
+| Comments | 0 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 2 |
 | 2025 | 32 |
 | 2026 | 1 |
 
@@ -45,23 +46,20 @@ Repository access granted through those teams (1 repos):
 | Type | Count |
 | --- | --: |
 | PushEvent | 31 |
-| WatchEvent | 2 |
 | GollumEvent | 1 |
-| IssueCommentEvent | 1 |
+| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`LFDT-Regional-Chapters`](https://github.com/LFDT-Regional-Chapters) | 33 | 0 | 0 | 31 |
-| [`hyperledger`](https://github.com/hyperledger) | 2 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`LFDT-Regional-Chapters/LFDT-Brazil-Chapter`](https://github.com/LFDT-Regional-Chapters/LFDT-Brazil-Chapter) | 33 | 0 | 0 | 31 |
-| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 2 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -70,7 +68,6 @@ Months as rows, event types as columns. One file per repository in [`jteider_rol
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`LFDT-Regional-Chapters/LFDT-Brazil-Chapter`](https://github.com/LFDT-Regional-Chapters/LFDT-Brazil-Chapter) | 33 | [LFDT-Regional-Chapters_LFDT-Brazil-Chapter.md](jteider_rollup/LFDT-Regional-Chapters_LFDT-Brazil-Chapter.md) |
-| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 2 | [hyperledger_toc.md](jteider_rollup/hyperledger_toc.md) |
 
 ---
 

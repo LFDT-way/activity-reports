@@ -1,8 +1,10 @@
 # GitHub activity report — `JoTiTu`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **856** events spanning **2023-12-06 → 2026-02-27**, across **1** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **790** events spanning **2024-01-08 → 2026-02-27**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -23,12 +25,12 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 856 |
-| Pull requests opened | 95 |
+| Total events | 790 |
+| Pull requests opened | 86 |
 | Pull request reviews | 69 |
 | Issues opened | 0 |
-| Pushes | 314 |
-| Commits pushed | 414 |
+| Pushes | 268 |
+| Commits pushed | 354 |
 | Comments | 24 |
 | Releases | 0 |
 
@@ -36,7 +38,6 @@ Repository access granted through those teams (1 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 66 |
 | 2024 | 494 |
 | 2025 | 294 |
 | 2026 | 2 |
@@ -45,26 +46,25 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 351 |
-| PushEvent | 314 |
-| CreateEvent | 76 |
+| PullRequestEvent | 333 |
+| PushEvent | 268 |
+| CreateEvent | 75 |
 | PullRequestReviewEvent | 69 |
 | DeleteEvent | 21 |
 | PullRequestReviewCommentEvent | 21 |
 | IssueCommentEvent | 3 |
-| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 856 | 95 | 69 | 314 |
+| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 790 | 86 | 69 | 268 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs/wallet-framework-dotnet`](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) | 855 | 94 | 69 | 314 |
+| [`openwallet-foundation-labs/wallet-framework-dotnet`](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) | 789 | 85 | 69 | 268 |
 | [`openwallet-foundation-labs/governance`](https://github.com/openwallet-foundation-labs/governance) | 1 | 1 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -73,7 +73,7 @@ Months as rows, event types as columns. One file per repository in [`JoTiTu_roll
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`openwallet-foundation-labs/wallet-framework-dotnet`](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) | 855 | [openwallet-foundation-labs_wallet-framework-dotnet.md](JoTiTu_rollup/openwallet-foundation-labs_wallet-framework-dotnet.md) |
+| [`openwallet-foundation-labs/wallet-framework-dotnet`](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) | 789 | [openwallet-foundation-labs_wallet-framework-dotnet.md](JoTiTu_rollup/openwallet-foundation-labs_wallet-framework-dotnet.md) |
 | [`openwallet-foundation-labs/governance`](https://github.com/openwallet-foundation-labs/governance) | 1 | [openwallet-foundation-labs_governance.md](JoTiTu_rollup/openwallet-foundation-labs_governance.md) |
 
 ---

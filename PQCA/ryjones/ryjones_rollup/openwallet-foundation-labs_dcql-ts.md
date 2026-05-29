@@ -1,6 +1,6 @@
 # [`openwallet-foundation-labs/dcql-ts`](https://github.com/openwallet-foundation-labs/dcql-ts) — monthly activity
 
-| Month | PullRequestEvent | PushEvent | CreateEvent | DeleteEvent | Total |
+| Month | PullRequestEvent | PushEvent | DeleteEvent | CreateEvent | Total |
 | --- | --: | --: | --: | --: | --: |
 | 2025-01 | 2 | 1 | 1 | 1 | 5 |
 | **Total** | **2** | **1** | **1** | **1** | **5** |

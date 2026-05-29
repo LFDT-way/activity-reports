@@ -1,8 +1,10 @@
 # GitHub activity report — `LucasSte`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **3,980** events spanning **2021-06-11 → 2025-07-21**, across **3** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **49** events spanning **2024-01-03 → 2025-07-21**, across **2** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -29,22 +31,19 @@ Repository access granted through those teams (6 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 3,980 |
-| Pull requests opened | 177 |
-| Pull request reviews | 1,590 |
-| Issues opened | 53 |
-| Pushes | 152 |
-| Commits pushed | 156 |
-| Comments | 1,783 |
+| Total events | 49 |
+| Pull requests opened | 0 |
+| Pull request reviews | 36 |
+| Issues opened | 0 |
+| Pushes | 0 |
+| Commits pushed | 0 |
+| Comments | 13 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 93 |
-| 2022 | 1,846 |
-| 2023 | 1,992 |
 | 2024 | 44 |
 | 2025 | 5 |
 
@@ -52,36 +51,24 @@ Repository access granted through those teams (6 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 1,590 |
-| PullRequestReviewCommentEvent | 1,512 |
-| PullRequestEvent | 351 |
-| IssueCommentEvent | 271 |
-| PushEvent | 152 |
-| IssuesEvent | 94 |
-| CreateEvent | 5 |
-| DeleteEvent | 3 |
-| ForkEvent | 2 |
+| PullRequestReviewEvent | 36 |
+| PullRequestReviewCommentEvent | 9 |
+| IssueCommentEvent | 4 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 2,859 | 109 | 1,190 | 97 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 1,116 | 68 | 397 | 55 |
+| [`hyperledger`](https://github.com/hyperledger) | 44 | 0 | 33 | 0 |
 | [`hyperledger-solang`](https://github.com/hyperledger-solang) | 5 | 0 | 3 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/solang`](https://github.com/hyperledger/solang) | 2,793 | 102 | 1,157 | 91 |
-| [`hyperledger-labs/solang`](https://github.com/hyperledger-labs/solang) | 1,110 | 67 | 397 | 54 |
-| [`hyperledger/solang-llvm`](https://github.com/hyperledger/solang-llvm) | 49 | 4 | 25 | 3 |
-| [`hyperledger/homebrew-solang`](https://github.com/hyperledger/homebrew-solang) | 16 | 3 | 7 | 3 |
-| [`hyperledger-labs/homebrew-solang`](https://github.com/hyperledger-labs/homebrew-solang) | 5 | 1 | 0 | 1 |
+| [`hyperledger/solang`](https://github.com/hyperledger/solang) | 42 | 0 | 31 | 0 |
 | [`hyperledger-solang/solang`](https://github.com/hyperledger-solang/solang) | 5 | 0 | 3 | 0 |
-| [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 1 | 0 | 0 | 0 |
-| [`hyperledger/solang-substrate-ci`](https://github.com/hyperledger/solang-substrate-ci) | 1 | 0 | 1 | 0 |
+| [`hyperledger/solang-llvm`](https://github.com/hyperledger/solang-llvm) | 2 | 0 | 2 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -89,14 +76,9 @@ Months as rows, event types as columns. One file per repository in [`LucasSte_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/solang`](https://github.com/hyperledger/solang) | 2,793 | [hyperledger_solang.md](LucasSte_rollup/hyperledger_solang.md) |
-| [`hyperledger-labs/solang`](https://github.com/hyperledger-labs/solang) | 1,110 | [hyperledger-labs_solang.md](LucasSte_rollup/hyperledger-labs_solang.md) |
-| [`hyperledger/solang-llvm`](https://github.com/hyperledger/solang-llvm) | 49 | [hyperledger_solang-llvm.md](LucasSte_rollup/hyperledger_solang-llvm.md) |
-| [`hyperledger/homebrew-solang`](https://github.com/hyperledger/homebrew-solang) | 16 | [hyperledger_homebrew-solang.md](LucasSte_rollup/hyperledger_homebrew-solang.md) |
-| [`hyperledger-labs/homebrew-solang`](https://github.com/hyperledger-labs/homebrew-solang) | 5 | [hyperledger-labs_homebrew-solang.md](LucasSte_rollup/hyperledger-labs_homebrew-solang.md) |
+| [`hyperledger/solang`](https://github.com/hyperledger/solang) | 42 | [hyperledger_solang.md](LucasSte_rollup/hyperledger_solang.md) |
 | [`hyperledger-solang/solang`](https://github.com/hyperledger-solang/solang) | 5 | [hyperledger-solang_solang.md](LucasSte_rollup/hyperledger-solang_solang.md) |
-| [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 1 | [hyperledger-labs_governance.md](LucasSte_rollup/hyperledger-labs_governance.md) |
-| [`hyperledger/solang-substrate-ci`](https://github.com/hyperledger/solang-substrate-ci) | 1 | [hyperledger_solang-substrate-ci.md](LucasSte_rollup/hyperledger_solang-substrate-ci.md) |
+| [`hyperledger/solang-llvm`](https://github.com/hyperledger/solang-llvm) | 2 | [hyperledger_solang-llvm.md](LucasSte_rollup/hyperledger_solang-llvm.md) |
 
 ---
 

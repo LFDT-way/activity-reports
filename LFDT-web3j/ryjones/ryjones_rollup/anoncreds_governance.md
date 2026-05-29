@@ -1,6 +1,6 @@
 # [`anoncreds/governance`](https://github.com/anoncreds/governance) — monthly activity
 
-| Month | PullRequestEvent | PushEvent | CreateEvent | DeleteEvent | PullRequestReviewEvent | Total |
+| Month | PullRequestEvent | PushEvent | DeleteEvent | CreateEvent | PullRequestReviewEvent | Total |
 | --- | --: | --: | --: | --: | --: | --: |
 | 2025-12 | 2 | 3 | 1 | 1 | 1 | 8 |
 | **Total** | **2** | **3** | **1** | **1** | **1** | **8** |

@@ -1,23 +1,29 @@
 # GitHub activity report — `thenswan`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **1,198** events spanning **2025-02-14 → 2026-05-14**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
-Member of **2** team(s):
+Member of **4** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `hiero-consensus-node-committers` | member |
 | `hiero-consensus-node-foundation-codeowners` | member |
+| `hiero-cryptography-committers` | member |
+| `roadmap-viewers` | member |
 
-Repository access granted through those teams (1 repos):
+Repository access granted through those teams (3 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `hiero-consensus-node` | write | `hiero-consensus-node-committers` (write), `hiero-consensus-node-foundation-codeowners` (write) |
+| `hiero-cryptography` | write | `hiero-cryptography-committers` (write) |
+| `roadmap` | read | `roadmap-viewers` (read) |
 
 
 ## Overview

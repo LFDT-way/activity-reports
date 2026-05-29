@@ -1,6 +1,6 @@
 # [`LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io`](https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io) — monthly activity
 
-| Month | PullRequestEvent | IssueCommentEvent | PullRequestReviewEvent | PullRequestReviewCommentEvent | Total |
+| Month | PullRequestEvent | IssueCommentEvent | PullRequestReviewCommentEvent | PullRequestReviewEvent | Total |
 | --- | --: | --: | --: | --: | --: |
 | 2025-03 | 1 | 1 | 1 | 1 | 4 |
 | **Total** | **1** | **1** | **1** | **1** | **4** |

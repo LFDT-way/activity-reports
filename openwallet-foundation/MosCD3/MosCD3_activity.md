@@ -1,8 +1,10 @@
 # GitHub activity report — `MosCD3`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **500** events spanning **2021-05-18 → 2026-04-24**, across **2** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **331** events spanning **2024-01-16 → 2026-04-24**, across **2** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -24,22 +26,19 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 500 |
-| Pull requests opened | 58 |
-| Pull request reviews | 157 |
-| Issues opened | 28 |
+| Total events | 331 |
+| Pull requests opened | 33 |
+| Pull request reviews | 119 |
+| Issues opened | 7 |
 | Pushes | 34 |
 | Commits pushed | 19 |
-| Comments | 181 |
+| Comments | 110 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 51 |
-| 2022 | 98 |
-| 2023 | 20 |
 | 2024 | 181 |
 | 2025 | 126 |
 | 2026 | 24 |
@@ -48,35 +47,29 @@ Repository access granted through those teams (2 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 157 |
-| IssueCommentEvent | 90 |
-| PullRequestReviewCommentEvent | 90 |
-| PullRequestEvent | 86 |
+| PullRequestReviewEvent | 119 |
+| PullRequestReviewCommentEvent | 63 |
+| PullRequestEvent | 57 |
+| IssueCommentEvent | 47 |
 | PushEvent | 34 |
-| IssuesEvent | 31 |
-| ForkEvent | 10 |
-| CommitCommentEvent | 1 |
+| IssuesEvent | 9 |
 | DeleteEvent | 1 |
+| ForkEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`openwallet-foundation`](https://github.com/openwallet-foundation) | 321 | 31 | 116 | 34 |
-| [`hyperledger`](https://github.com/hyperledger) | 179 | 27 | 41 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 10 | 2 | 3 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`openwallet-foundation/bifold-wallet`](https://github.com/openwallet-foundation/bifold-wallet) | 304 | 31 | 116 | 34 |
-| [`hyperledger/aries-framework-javascript`](https://github.com/hyperledger/aries-framework-javascript) | 87 | 8 | 18 | 0 |
-| [`hyperledger/aries-mobile-agent-react-native`](https://github.com/hyperledger/aries-mobile-agent-react-native) | 76 | 18 | 22 | 0 |
 | [`openwallet-foundation/credo-ts`](https://github.com/openwallet-foundation/credo-ts) | 17 | 0 | 0 | 0 |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 12 | 1 | 1 | 0 |
-| [`hyperledger/indy-sdk-react-native`](https://github.com/hyperledger/indy-sdk-react-native) | 2 | 0 | 0 | 0 |
-| [`hyperledger/aries-framework-javascript-ext`](https://github.com/hyperledger/aries-framework-javascript-ext) | 1 | 0 | 0 | 0 |
-| [`hyperledger/aries-mobileagent-xamarin`](https://github.com/hyperledger/aries-mobileagent-xamarin) | 1 | 0 | 0 | 0 |
+| [`hyperledger/aries-mobile-agent-react-native`](https://github.com/hyperledger/aries-mobile-agent-react-native) | 10 | 2 | 3 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -85,13 +78,8 @@ Months as rows, event types as columns. One file per repository in [`MosCD3_roll
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`openwallet-foundation/bifold-wallet`](https://github.com/openwallet-foundation/bifold-wallet) | 304 | [openwallet-foundation_bifold-wallet.md](MosCD3_rollup/openwallet-foundation_bifold-wallet.md) |
-| [`hyperledger/aries-framework-javascript`](https://github.com/hyperledger/aries-framework-javascript) | 87 | [hyperledger_aries-framework-javascript.md](MosCD3_rollup/hyperledger_aries-framework-javascript.md) |
-| [`hyperledger/aries-mobile-agent-react-native`](https://github.com/hyperledger/aries-mobile-agent-react-native) | 76 | [hyperledger_aries-mobile-agent-react-native.md](MosCD3_rollup/hyperledger_aries-mobile-agent-react-native.md) |
 | [`openwallet-foundation/credo-ts`](https://github.com/openwallet-foundation/credo-ts) | 17 | [openwallet-foundation_credo-ts.md](MosCD3_rollup/openwallet-foundation_credo-ts.md) |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 12 | [hyperledger_indy-sdk.md](MosCD3_rollup/hyperledger_indy-sdk.md) |
-| [`hyperledger/indy-sdk-react-native`](https://github.com/hyperledger/indy-sdk-react-native) | 2 | [hyperledger_indy-sdk-react-native.md](MosCD3_rollup/hyperledger_indy-sdk-react-native.md) |
-| [`hyperledger/aries-framework-javascript-ext`](https://github.com/hyperledger/aries-framework-javascript-ext) | 1 | [hyperledger_aries-framework-javascript-ext.md](MosCD3_rollup/hyperledger_aries-framework-javascript-ext.md) |
-| [`hyperledger/aries-mobileagent-xamarin`](https://github.com/hyperledger/aries-mobileagent-xamarin) | 1 | [hyperledger_aries-mobileagent-xamarin.md](MosCD3_rollup/hyperledger_aries-mobileagent-xamarin.md) |
+| [`hyperledger/aries-mobile-agent-react-native`](https://github.com/hyperledger/aries-mobile-agent-react-native) | 10 | [hyperledger_aries-mobile-agent-react-native.md](MosCD3_rollup/hyperledger_aries-mobile-agent-react-native.md) |
 
 ---
 

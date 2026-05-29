@@ -1,8 +1,10 @@
 # GitHub activity report — `matkt`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **4,011** events spanning **2019-11-05 → 2026-05-15**, across **2** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1,502** events spanning **2024-01-03 → 2026-05-15**, across **2** organizations and **5** repositories.
 
 ## Teams & repository access
 
@@ -33,24 +35,19 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 4,011 |
-| Pull requests opened | 384 |
-| Pull request reviews | 1,133 |
-| Issues opened | 117 |
-| Pushes | 346 |
-| Commits pushed | 503 |
-| Comments | 1,380 |
-| Releases | 14 |
+| Total events | 1,502 |
+| Pull requests opened | 84 |
+| Pull request reviews | 469 |
+| Issues opened | 33 |
+| Pushes | 151 |
+| Commits pushed | 303 |
+| Comments | 551 |
+| Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2019 | 4 |
-| 2020 | 514 |
-| 2021 | 854 |
-| 2022 | 581 |
-| 2023 | 556 |
 | 2024 | 775 |
 | 2025 | 565 |
 | 2026 | 162 |
@@ -59,38 +56,32 @@ Repository access granted through those teams (10 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 1,133 |
-| PullRequestReviewCommentEvent | 959 |
-| PullRequestEvent | 798 |
-| IssueCommentEvent | 417 |
-| PushEvent | 346 |
-| IssuesEvent | 263 |
-| CreateEvent | 47 |
-| DeleteEvent | 23 |
-| ReleaseEvent | 14 |
-| CommitCommentEvent | 4 |
-| ForkEvent | 4 |
-| WatchEvent | 3 |
+| PullRequestReviewEvent | 469 |
+| PullRequestReviewCommentEvent | 412 |
+| PullRequestEvent | 222 |
+| PushEvent | 151 |
+| IssueCommentEvent | 139 |
+| IssuesEvent | 76 |
+| CreateEvent | 18 |
+| DeleteEvent | 14 |
+| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 3,961 | 382 | 1,123 | 334 |
+| [`hyperledger`](https://github.com/hyperledger) | 1,452 | 82 | 459 | 139 |
 | [`besu-eth`](https://github.com/besu-eth) | 50 | 2 | 10 | 12 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 3,493 | 348 | 987 | 268 |
-| [`hyperledger/besu-verkle-trie`](https://github.com/hyperledger/besu-verkle-trie) | 254 | 21 | 65 | 39 |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 127 | 4 | 40 | 22 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1,143 | 63 | 371 | 94 |
+| [`hyperledger/besu-verkle-trie`](https://github.com/hyperledger/besu-verkle-trie) | 189 | 16 | 48 | 26 |
+| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 105 | 1 | 35 | 18 |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 50 | 2 | 10 | 12 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 46 | 1 | 21 | 0 |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 24 | 6 | 5 | 4 |
 | [`hyperledger/besu-stateless`](https://github.com/hyperledger/besu-stateless) | 15 | 2 | 5 | 1 |
-| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 2 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -98,14 +89,11 @@ Months as rows, event types as columns. One file per repository in [`matkt_rollu
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 3,493 | [hyperledger_besu.md](matkt_rollup/hyperledger_besu.md) |
-| [`hyperledger/besu-verkle-trie`](https://github.com/hyperledger/besu-verkle-trie) | 254 | [hyperledger_besu-verkle-trie.md](matkt_rollup/hyperledger_besu-verkle-trie.md) |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 127 | [hyperledger_besu-native.md](matkt_rollup/hyperledger_besu-native.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1,143 | [hyperledger_besu.md](matkt_rollup/hyperledger_besu.md) |
+| [`hyperledger/besu-verkle-trie`](https://github.com/hyperledger/besu-verkle-trie) | 189 | [hyperledger_besu-verkle-trie.md](matkt_rollup/hyperledger_besu-verkle-trie.md) |
+| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 105 | [hyperledger_besu-native.md](matkt_rollup/hyperledger_besu-native.md) |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 50 | [besu-eth_besu.md](matkt_rollup/besu-eth_besu.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 46 | [hyperledger_besu-docs.md](matkt_rollup/hyperledger_besu-docs.md) |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 24 | [hyperledger_homebrew-besu.md](matkt_rollup/hyperledger_homebrew-besu.md) |
 | [`hyperledger/besu-stateless`](https://github.com/hyperledger/besu-stateless) | 15 | [hyperledger_besu-stateless.md](matkt_rollup/hyperledger_besu-stateless.md) |
-| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 2 | [hyperledger_governance.md](matkt_rollup/hyperledger_governance.md) |
 
 ---
 

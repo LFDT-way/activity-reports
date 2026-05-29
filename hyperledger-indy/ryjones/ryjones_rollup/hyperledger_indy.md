@@ -1,6 +1,6 @@
 # [`hyperledger/indy`](https://github.com/hyperledger/indy) — monthly activity
 
-| Month | PullRequestEvent | PushEvent | CreateEvent | DeleteEvent | Total |
+| Month | PullRequestEvent | PushEvent | DeleteEvent | CreateEvent | Total |
 | --- | --: | --: | --: | --: | --: |
 | 2024-08 |  | 1 |  |  | 1 |
 | 2025-01 | 2 | 2 | 1 | 1 | 6 |

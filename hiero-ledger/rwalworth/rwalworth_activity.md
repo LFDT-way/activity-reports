@@ -1,12 +1,14 @@
 # GitHub activity report — `rwalworth`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **3,259** events spanning **2024-10-11 → 2026-05-19**, across **2** organizations and **16** repositories.
 
 ## Teams & repository access
 
-Member of **10** team(s):
+Member of **9** team(s):
 
 | Team | Role in team |
 | --- | --- |
@@ -14,24 +16,27 @@ Member of **10** team(s):
 | `hiero-sdk-cpp-committers` | maintainer |
 | `hiero-sdk-cpp-maintainers` | maintainer |
 | `hiero-sdk-good-first-issue-support` | member |
-| `hiero-sdk-js-internal-contributors` | maintainer |
 | `hiero-sdk-swift-maintainers` | maintainer |
 | `hiero-sdk-tck-committers` | maintainer |
-| `hiero-sdk-tck-internal-contributors` | maintainer |
 | `hiero-sdk-tck-maintainers` | maintainer |
+| `hiero-sdk-triage` | member |
 | `sdk-collaboration-hub-maintainers` | maintainer |
 
-Repository access granted through those teams (8 repos):
+Repository access granted through those teams (12 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `hiero-sdk-cpp` | maintain | `hiero-sdk-cpp-maintainers` (maintain), `hiero-sdk-cpp-committers` (write), `hiero-sdk-good-first-issue-support` (triage) |
-| `hiero-sdk-swift` | maintain | `hiero-sdk-swift-maintainers` (maintain), `hiero-sdk-good-first-issue-support` (triage) |
-| `hiero-sdk-tck` | maintain | `hiero-sdk-tck-maintainers` (maintain), `hiero-sdk-tck-committers` (write), `hiero-sdk-tck-internal-contributors` (triage) |
-| `sdk-collaboration-hub` | maintain | `sdk-collaboration-hub-maintainers` (maintain) |
+| `hiero-sdk-cpp` | maintain | `hiero-sdk-cpp-maintainers` (maintain), `hiero-sdk-cpp-committers` (write), `hiero-sdk-good-first-issue-support` (triage), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-swift` | maintain | `hiero-sdk-swift-maintainers` (maintain), `hiero-sdk-good-first-issue-support` (triage), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-tck` | maintain | `hiero-sdk-tck-maintainers` (maintain), `hiero-sdk-tck-committers` (write), `hiero-sdk-triage` (triage) |
+| `sdk-collaboration-hub` | maintain | `sdk-collaboration-hub-maintainers` (maintain), `hiero-sdk-triage` (triage) |
 | `governance` | write | `governance-write` (write) |
-| `hiero-sdk-js` | triage | `hiero-sdk-good-first-issue-support` (triage), `hiero-sdk-js-internal-contributors` (triage) |
-| `hiero-sdk-python` | triage | `hiero-sdk-good-first-issue-support` (triage) |
+| `hiero-enterprise-java` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-go` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-java` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-js` | triage | `hiero-sdk-good-first-issue-support` (triage), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-python` | triage | `hiero-sdk-good-first-issue-support` (triage), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-rust` | triage | `hiero-sdk-triage` (triage) |
 | `hiero-website` | triage | `hiero-sdk-good-first-issue-support` (triage) |
 
 

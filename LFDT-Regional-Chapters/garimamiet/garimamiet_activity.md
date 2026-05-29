@@ -1,8 +1,10 @@
 # GitHub activity report — `garimamiet`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **4** events spanning **2023-09-06 → 2026-01-29**, across **2** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **3** events spanning **2025-06-07 → 2026-01-29**, across **2** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -23,7 +25,7 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 4 |
+| Total events | 3 |
 | Pull requests opened | 0 |
 | Pull request reviews | 0 |
 | Issues opened | 0 |
@@ -36,7 +38,6 @@ Repository access granted through those teams (1 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 1 |
 | 2025 | 2 |
 | 2026 | 1 |
 
@@ -44,7 +45,7 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| ForkEvent | 2 |
+| ForkEvent | 1 |
 | GollumEvent | 1 |
 | PushEvent | 1 |
 
@@ -53,14 +54,13 @@ Repository access granted through those teams (1 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`LFDT-Regional-Chapters`](https://github.com/LFDT-Regional-Chapters) | 2 | 0 | 0 | 1 |
-| [`hyperledger`](https://github.com/hyperledger) | 2 | 0 | 0 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`LFDT-Regional-Chapters/LFDT-India-Chapter`](https://github.com/LFDT-Regional-Chapters/LFDT-India-Chapter) | 2 | 0 | 0 | 1 |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | 0 | 0 | 0 |
 | [`hyperledger/fabric-sdk-node`](https://github.com/hyperledger/fabric-sdk-node) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -70,7 +70,6 @@ Months as rows, event types as columns. One file per repository in [`garimamiet_
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`LFDT-Regional-Chapters/LFDT-India-Chapter`](https://github.com/LFDT-Regional-Chapters/LFDT-India-Chapter) | 2 | [LFDT-Regional-Chapters_LFDT-India-Chapter.md](garimamiet_rollup/LFDT-Regional-Chapters_LFDT-India-Chapter.md) |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | [hyperledger_fabric-samples.md](garimamiet_rollup/hyperledger_fabric-samples.md) |
 | [`hyperledger/fabric-sdk-node`](https://github.com/hyperledger/fabric-sdk-node) | 1 | [hyperledger_fabric-sdk-node.md](garimamiet_rollup/hyperledger_fabric-sdk-node.md) |
 
 ---

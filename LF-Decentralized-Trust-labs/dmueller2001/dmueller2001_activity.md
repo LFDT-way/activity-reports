@@ -1,6 +1,8 @@
 # GitHub activity report — `dmueller2001`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **209** events spanning **2024-10-15 → 2026-02-17**, across **5** organizations and **10** repositories.
 

@@ -1,8 +1,10 @@
 # GitHub activity report — `swaptr`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **183** events spanning **2023-03-11 → 2025-01-16**, across **2** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **137** events spanning **2024-01-10 → 2025-01-16**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -23,20 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 183 |
-| Pull requests opened | 21 |
-| Pull request reviews | 29 |
+| Total events | 137 |
+| Pull requests opened | 5 |
+| Pull request reviews | 22 |
 | Issues opened | 9 |
 | Pushes | 19 |
 | Commits pushed | 19 |
-| Comments | 84 |
+| Comments | 65 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 46 |
 | 2024 | 134 |
 | 2025 | 3 |
 
@@ -44,31 +45,27 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewCommentEvent | 54 |
-| PullRequestEvent | 34 |
-| IssueCommentEvent | 30 |
-| PullRequestReviewEvent | 29 |
+| PullRequestReviewCommentEvent | 46 |
+| PullRequestReviewEvent | 22 |
+| IssueCommentEvent | 19 |
 | PushEvent | 19 |
+| PullRequestEvent | 18 |
 | IssuesEvent | 10 |
-| WatchEvent | 4 |
-| ForkEvent | 3 |
+| ForkEvent | 2 |
+| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-labs`](https://github.com/hyperledger-labs) | 137 | 5 | 22 | 19 |
-| [`hyperledger`](https://github.com/hyperledger) | 46 | 16 | 7 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-labs/aifaq`](https://github.com/hyperledger-labs/aifaq) | 133 | 4 | 22 | 19 |
-| [`hyperledger/aries-vcx`](https://github.com/hyperledger/aries-vcx) | 44 | 16 | 7 | 0 |
 | [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 4 | 1 | 0 | 0 |
-| [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 1 | 0 | 0 | 0 |
-| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -77,10 +74,7 @@ Months as rows, event types as columns. One file per repository in [`swaptr_roll
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`hyperledger-labs/aifaq`](https://github.com/hyperledger-labs/aifaq) | 133 | [hyperledger-labs_aifaq.md](swaptr_rollup/hyperledger-labs_aifaq.md) |
-| [`hyperledger/aries-vcx`](https://github.com/hyperledger/aries-vcx) | 44 | [hyperledger_aries-vcx.md](swaptr_rollup/hyperledger_aries-vcx.md) |
 | [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 4 | [hyperledger-labs_governance.md](swaptr_rollup/hyperledger-labs_governance.md) |
-| [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 1 | [hyperledger_aries-rfcs.md](swaptr_rollup/hyperledger_aries-rfcs.md) |
-| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 1 | [hyperledger_cello.md](swaptr_rollup/hyperledger_cello.md) |
 
 ---
 

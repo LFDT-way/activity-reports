@@ -1,6 +1,8 @@
 # GitHub activity report — `maximilien`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **128** events spanning **2024-03-22 → 2025-04-22**, across **1** organizations and **2** repositories.
 

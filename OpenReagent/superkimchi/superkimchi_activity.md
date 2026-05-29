@@ -1,6 +1,8 @@
 # GitHub activity report — `superkimchi`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **3** events spanning **2026-02-25 → 2026-03-18**, across **2** organizations and **2** repositories.
 
@@ -10,9 +12,13 @@ Member of **1** team(s):
 
 | Team | Role in team |
 | --- | --- |
-| `openreagent-maintainers` | member |
+| `openreagent-maintainers` | maintainer |
 
-_Those teams grant no repository access._
+Repository access granted through those teams (1 repos):
+
+| Repository | Access | Granted by |
+| --- | --- | --- |
+| `openreagent` | maintain | `openreagent-maintainers` (maintain) |
 
 
 ## Overview

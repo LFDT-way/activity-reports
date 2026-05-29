@@ -1,8 +1,10 @@
 # GitHub activity report — `0x009922`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **4,277** events spanning **2021-06-04 → 2025-10-31**, across **2** organizations and **11** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **2,303** events spanning **2024-01-05 → 2025-10-31**, across **2** organizations and **10** repositories.
 
 ## Teams & repository access
 
@@ -30,22 +32,19 @@ Repository access granted through those teams (6 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 4,277 |
-| Pull requests opened | 251 |
-| Pull request reviews | 1,374 |
-| Issues opened | 229 |
-| Pushes | 262 |
-| Commits pushed | 838 |
-| Comments | 1,715 |
+| Total events | 2,303 |
+| Pull requests opened | 121 |
+| Pull request reviews | 756 |
+| Issues opened | 124 |
+| Pushes | 106 |
+| Commits pushed | 139 |
+| Comments | 962 |
 | Releases | 7 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 79 |
-| 2022 | 391 |
-| 2023 | 1,504 |
 | 2024 | 1,563 |
 | 2025 | 740 |
 
@@ -53,38 +52,36 @@ Repository access granted through those teams (6 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 1,374 |
-| PullRequestReviewCommentEvent | 1,251 |
-| PullRequestEvent | 471 |
-| IssueCommentEvent | 464 |
-| IssuesEvent | 360 |
-| PushEvent | 262 |
-| CreateEvent | 55 |
-| DeleteEvent | 24 |
-| ForkEvent | 9 |
+| PullRequestReviewEvent | 756 |
+| PullRequestReviewCommentEvent | 687 |
+| IssueCommentEvent | 275 |
+| PullRequestEvent | 238 |
+| IssuesEvent | 209 |
+| PushEvent | 106 |
+| CreateEvent | 22 |
 | ReleaseEvent | 7 |
+| DeleteEvent | 3 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 3,465 | 166 | 1,204 | 179 |
+| [`hyperledger`](https://github.com/hyperledger) | 1,491 | 36 | 586 | 23 |
 | [`hyperledger-iroha`](https://github.com/hyperledger-iroha) | 812 | 85 | 170 | 83 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 2,475 | 59 | 995 | 68 |
-| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 539 | 54 | 129 | 63 |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 1,318 | 31 | 537 | 19 |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 522 | 41 | 154 | 30 |
-| [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 349 | 49 | 45 | 43 |
 | [`hyperledger-iroha/iroha-javascript`](https://github.com/hyperledger-iroha/iroha-javascript) | 210 | 36 | 0 | 34 |
-| [`hyperledger/iroha-rfcs`](https://github.com/hyperledger/iroha-rfcs) | 83 | 3 | 28 | 3 |
+| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 89 | 2 | 26 | 1 |
+| [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 77 | 3 | 19 | 3 |
 | [`hyperledger-iroha/iroha-2-docs`](https://github.com/hyperledger-iroha/iroha-2-docs) | 48 | 4 | 9 | 12 |
 | [`hyperledger-iroha/hub-chain-poc`](https://github.com/hyperledger-iroha/hub-chain-poc) | 22 | 2 | 4 | 7 |
-| [`hyperledger/iroha-2-examples`](https://github.com/hyperledger/iroha-2-examples) | 16 | 1 | 5 | 2 |
 | [`hyperledger-iroha/iroha-rfcs`](https://github.com/hyperledger-iroha/iroha-rfcs) | 10 | 2 | 3 | 0 |
+| [`hyperledger/iroha-2-examples`](https://github.com/hyperledger/iroha-2-examples) | 4 | 0 | 2 | 0 |
 | [`hyperledger/iroha-news`](https://github.com/hyperledger/iroha-news) | 3 | 0 | 2 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -93,16 +90,15 @@ Months as rows, event types as columns. One file per repository in [`0x009922_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 2,475 | [hyperledger_iroha.md](0x009922_rollup/hyperledger_iroha.md) |
-| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 539 | [hyperledger_iroha-2-docs.md](0x009922_rollup/hyperledger_iroha-2-docs.md) |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 1,318 | [hyperledger_iroha.md](0x009922_rollup/hyperledger_iroha.md) |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 522 | [hyperledger-iroha_iroha.md](0x009922_rollup/hyperledger-iroha_iroha.md) |
-| [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 349 | [hyperledger_iroha-javascript.md](0x009922_rollup/hyperledger_iroha-javascript.md) |
 | [`hyperledger-iroha/iroha-javascript`](https://github.com/hyperledger-iroha/iroha-javascript) | 210 | [hyperledger-iroha_iroha-javascript.md](0x009922_rollup/hyperledger-iroha_iroha-javascript.md) |
-| [`hyperledger/iroha-rfcs`](https://github.com/hyperledger/iroha-rfcs) | 83 | [hyperledger_iroha-rfcs.md](0x009922_rollup/hyperledger_iroha-rfcs.md) |
+| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 89 | [hyperledger_iroha-2-docs.md](0x009922_rollup/hyperledger_iroha-2-docs.md) |
+| [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 77 | [hyperledger_iroha-javascript.md](0x009922_rollup/hyperledger_iroha-javascript.md) |
 | [`hyperledger-iroha/iroha-2-docs`](https://github.com/hyperledger-iroha/iroha-2-docs) | 48 | [hyperledger-iroha_iroha-2-docs.md](0x009922_rollup/hyperledger-iroha_iroha-2-docs.md) |
 | [`hyperledger-iroha/hub-chain-poc`](https://github.com/hyperledger-iroha/hub-chain-poc) | 22 | [hyperledger-iroha_hub-chain-poc.md](0x009922_rollup/hyperledger-iroha_hub-chain-poc.md) |
-| [`hyperledger/iroha-2-examples`](https://github.com/hyperledger/iroha-2-examples) | 16 | [hyperledger_iroha-2-examples.md](0x009922_rollup/hyperledger_iroha-2-examples.md) |
 | [`hyperledger-iroha/iroha-rfcs`](https://github.com/hyperledger-iroha/iroha-rfcs) | 10 | [hyperledger-iroha_iroha-rfcs.md](0x009922_rollup/hyperledger-iroha_iroha-rfcs.md) |
+| [`hyperledger/iroha-2-examples`](https://github.com/hyperledger/iroha-2-examples) | 4 | [hyperledger_iroha-2-examples.md](0x009922_rollup/hyperledger_iroha-2-examples.md) |
 | [`hyperledger/iroha-news`](https://github.com/hyperledger/iroha-news) | 3 | [hyperledger_iroha-news.md](0x009922_rollup/hyperledger_iroha-news.md) |
 
 ---

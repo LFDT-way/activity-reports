@@ -1,6 +1,8 @@
 # GitHub activity report — `carolacnet`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **40** events spanning **2025-09-19 → 2026-04-21**, across **1** organizations and **2** repositories.
 

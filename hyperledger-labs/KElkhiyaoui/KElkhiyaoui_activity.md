@@ -1,8 +1,10 @@
 # GitHub activity report — `KElkhiyaoui`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **835** events spanning **2020-01-09 → 2026-05-23**, across **1** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **181** events spanning **2024-02-16 → 2026-05-23**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -25,23 +27,19 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 835 |
-| Pull requests opened | 20 |
-| Pull request reviews | 330 |
-| Issues opened | 22 |
-| Pushes | 100 |
-| Commits pushed | 360 |
-| Comments | 301 |
+| Total events | 181 |
+| Pull requests opened | 3 |
+| Pull request reviews | 74 |
+| Issues opened | 8 |
+| Pushes | 34 |
+| Commits pushed | 177 |
+| Comments | 53 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2020 | 1 |
-| 2021 | 85 |
-| 2022 | 528 |
-| 2023 | 40 |
 | 2024 | 130 |
 | 2025 | 49 |
 | 2026 | 2 |
@@ -50,31 +48,27 @@ Repository access granted through those teams (2 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 330 |
-| PullRequestReviewCommentEvent | 296 |
-| PushEvent | 100 |
-| IssuesEvent | 36 |
-| PullRequestEvent | 29 |
-| CreateEvent | 25 |
-| DeleteEvent | 9 |
-| IssueCommentEvent | 5 |
-| WatchEvent | 4 |
+| PullRequestReviewEvent | 74 |
+| PullRequestReviewCommentEvent | 52 |
+| PushEvent | 34 |
+| IssuesEvent | 9 |
+| CreateEvent | 7 |
+| PullRequestEvent | 3 |
 | GollumEvent | 1 |
+| IssueCommentEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 835 | 20 | 330 | 100 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 181 | 3 | 74 | 34 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/fabric-token-sdk`](https://github.com/hyperledger-labs/fabric-token-sdk) | 825 | 20 | 322 | 100 |
-| [`hyperledger-labs/fabric-smart-client`](https://github.com/hyperledger-labs/fabric-smart-client) | 8 | 0 | 8 | 0 |
-| [`hyperledger-labs/fabric-private-chaincode`](https://github.com/hyperledger-labs/fabric-private-chaincode) | 1 | 0 | 0 | 0 |
-| [`hyperledger-labs/weaver-dlt-interoperability`](https://github.com/hyperledger-labs/weaver-dlt-interoperability) | 1 | 0 | 0 | 0 |
+| [`hyperledger-labs/fabric-token-sdk`](https://github.com/hyperledger-labs/fabric-token-sdk) | 180 | 3 | 73 | 34 |
+| [`hyperledger-labs/fabric-smart-client`](https://github.com/hyperledger-labs/fabric-smart-client) | 1 | 0 | 1 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -82,10 +76,8 @@ Months as rows, event types as columns. One file per repository in [`KElkhiyaoui
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/fabric-token-sdk`](https://github.com/hyperledger-labs/fabric-token-sdk) | 825 | [hyperledger-labs_fabric-token-sdk.md](KElkhiyaoui_rollup/hyperledger-labs_fabric-token-sdk.md) |
-| [`hyperledger-labs/fabric-smart-client`](https://github.com/hyperledger-labs/fabric-smart-client) | 8 | [hyperledger-labs_fabric-smart-client.md](KElkhiyaoui_rollup/hyperledger-labs_fabric-smart-client.md) |
-| [`hyperledger-labs/fabric-private-chaincode`](https://github.com/hyperledger-labs/fabric-private-chaincode) | 1 | [hyperledger-labs_fabric-private-chaincode.md](KElkhiyaoui_rollup/hyperledger-labs_fabric-private-chaincode.md) |
-| [`hyperledger-labs/weaver-dlt-interoperability`](https://github.com/hyperledger-labs/weaver-dlt-interoperability) | 1 | [hyperledger-labs_weaver-dlt-interoperability.md](KElkhiyaoui_rollup/hyperledger-labs_weaver-dlt-interoperability.md) |
+| [`hyperledger-labs/fabric-token-sdk`](https://github.com/hyperledger-labs/fabric-token-sdk) | 180 | [hyperledger-labs_fabric-token-sdk.md](KElkhiyaoui_rollup/hyperledger-labs_fabric-token-sdk.md) |
+| [`hyperledger-labs/fabric-smart-client`](https://github.com/hyperledger-labs/fabric-smart-client) | 1 | [hyperledger-labs_fabric-smart-client.md](KElkhiyaoui_rollup/hyperledger-labs_fabric-smart-client.md) |
 
 ---
 

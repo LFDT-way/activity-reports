@@ -1,6 +1,8 @@
 # GitHub activity report — `humannyty`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 **No activity found** for `humannyty` in the date range searched.
 
@@ -10,7 +12,7 @@ Member of **1** team(s):
 
 | Team | Role in team |
 | --- | --- |
-| `hoprs-maintainers` | member |
+| `hoprs-maintainers` | maintainer |
 
 Repository access granted through those teams (1 repos):
 

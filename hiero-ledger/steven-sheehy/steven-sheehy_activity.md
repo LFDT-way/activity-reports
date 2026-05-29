@@ -1,12 +1,14 @@
 # GitHub activity report — `steven-sheehy`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **5,557** events spanning **2024-05-30 → 2026-05-26**, across **4** organizations and **17** repositories.
 
 ## Teams & repository access
 
-Member of **8** team(s):
+Member of **9** team(s):
 
 | Team | Role in team |
 | --- | --- |
@@ -15,19 +17,33 @@ Member of **8** team(s):
 | `hiero-improvement-proposals-committers` | member |
 | `hiero-mirror-node-committers` | maintainer |
 | `hiero-mirror-node-maintainers` | maintainer |
+| `hiero-triage` | member |
 | `roadmap-committers` | maintainer |
 | `roadmap-maintainers` | maintainer |
 | `roadmap-viewers` | maintainer |
 
-Repository access granted through those teams (5 repos):
+Repository access granted through those teams (18 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `hiero-mirror-node` | admin | `hiero-mirror-node-maintainers` (admin), `hiero-mirror-node-committers` (write) |
-| `roadmap` | maintain | `roadmap-maintainers` (maintain), `roadmap-committers` (write), `roadmap-viewers` (read) |
+| `hiero-mirror-node` | admin | `hiero-mirror-node-maintainers` (admin), `hiero-mirror-node-committers` (write), `hiero-triage` (triage) |
+| `roadmap` | maintain | `roadmap-maintainers` (maintain), `hiero-triage` (write), `roadmap-committers` (write), `roadmap-viewers` (read) |
 | `governance` | write | `governance-write` (write) |
-| `hiero-consensus-node` | write | `hiero-consensus-node-release-managers` (write), `hiero-mirror-node-maintainers` (write) |
+| `hiero-consensus-node` | write | `hiero-consensus-node-release-managers` (write), `hiero-mirror-node-maintainers` (write), `hiero-triage` (triage) |
 | `hiero-improvement-proposals` | write | `hiero-improvement-proposals-committers` (write) |
+| `hiero-block-node` | triage | `hiero-triage` (triage) |
+| `hiero-contracts` | triage | `hiero-triage` (triage) |
+| `hiero-docs` | triage | `hiero-triage` (triage) |
+| `hiero-json-rpc-relay` | triage | `hiero-triage` (triage) |
+| `hiero-local-node` | triage | `hiero-triage` (triage) |
+| `hiero-mirror-node-explorer` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-cpp` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-go` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-java` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-js` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-rust` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-swift` | triage | `hiero-triage` (triage) |
+| `solo` | triage | `hiero-triage` (triage) |
 
 
 ## Overview

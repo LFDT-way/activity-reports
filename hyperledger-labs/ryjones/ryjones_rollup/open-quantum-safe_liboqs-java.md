@@ -1,6 +1,6 @@
 # [`open-quantum-safe/liboqs-java`](https://github.com/open-quantum-safe/liboqs-java) — monthly activity
 
-| Month | PullRequestEvent | CreateEvent | DeleteEvent | Total |
+| Month | PullRequestEvent | DeleteEvent | CreateEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2024-03 | 1 | 1 | 1 | 3 |
 | **Total** | **1** | **1** | **1** | **3** |

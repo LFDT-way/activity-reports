@@ -1,8 +1,10 @@
 # GitHub activity report — `shoaebjindani`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **241** events spanning **2023-05-18 → 2026-03-30**, across **3** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **186** events spanning **2024-01-12 → 2026-03-30**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -27,20 +29,19 @@ Repository access granted through those teams (3 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 241 |
-| Pull requests opened | 38 |
-| Pull request reviews | 52 |
-| Issues opened | 4 |
-| Pushes | 42 |
-| Commits pushed | 68 |
-| Comments | 5 |
-| Releases | 14 |
+| Total events | 186 |
+| Pull requests opened | 27 |
+| Pull request reviews | 33 |
+| Issues opened | 1 |
+| Pushes | 39 |
+| Commits pushed | 65 |
+| Comments | 2 |
+| Releases | 13 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 55 |
 | 2024 | 103 |
 | 2025 | 81 |
 | 2026 | 2 |
@@ -49,34 +50,31 @@ Repository access granted through those teams (3 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 82 |
-| PullRequestReviewEvent | 52 |
-| PushEvent | 42 |
-| CreateEvent | 29 |
-| ReleaseEvent | 14 |
-| DeleteEvent | 9 |
-| ForkEvent | 4 |
-| IssueCommentEvent | 4 |
-| IssuesEvent | 4 |
-| PullRequestReviewCommentEvent | 1 |
+| PullRequestEvent | 66 |
+| PushEvent | 39 |
+| PullRequestReviewEvent | 33 |
+| CreateEvent | 25 |
+| ReleaseEvent | 13 |
+| DeleteEvent | 6 |
+| IssueCommentEvent | 2 |
+| ForkEvent | 1 |
+| IssuesEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 236 | 37 | 52 | 42 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 182 | 26 | 33 | 39 |
 | [`LF-Decentralized-Trust-labs`](https://github.com/LF-Decentralized-Trust-labs) | 4 | 1 | 0 | 0 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/fabric-operator`](https://github.com/hyperledger-labs/fabric-operator) | 168 | 30 | 37 | 20 |
-| [`hyperledger-labs/fabric-operations-console`](https://github.com/hyperledger-labs/fabric-operations-console) | 47 | 6 | 15 | 12 |
+| [`hyperledger-labs/fabric-operator`](https://github.com/hyperledger-labs/fabric-operator) | 119 | 21 | 19 | 17 |
+| [`hyperledger-labs/fabric-operations-console`](https://github.com/hyperledger-labs/fabric-operations-console) | 42 | 4 | 14 | 12 |
 | [`hyperledger-labs/fabric-chaincode-builder`](https://github.com/hyperledger-labs/fabric-chaincode-builder) | 21 | 1 | 0 | 10 |
 | [`LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io`](https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io) | 4 | 1 | 0 | 0 |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -84,11 +82,10 @@ Months as rows, event types as columns. One file per repository in [`shoaebjinda
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/fabric-operator`](https://github.com/hyperledger-labs/fabric-operator) | 168 | [hyperledger-labs_fabric-operator.md](shoaebjindani_rollup/hyperledger-labs_fabric-operator.md) |
-| [`hyperledger-labs/fabric-operations-console`](https://github.com/hyperledger-labs/fabric-operations-console) | 47 | [hyperledger-labs_fabric-operations-console.md](shoaebjindani_rollup/hyperledger-labs_fabric-operations-console.md) |
+| [`hyperledger-labs/fabric-operator`](https://github.com/hyperledger-labs/fabric-operator) | 119 | [hyperledger-labs_fabric-operator.md](shoaebjindani_rollup/hyperledger-labs_fabric-operator.md) |
+| [`hyperledger-labs/fabric-operations-console`](https://github.com/hyperledger-labs/fabric-operations-console) | 42 | [hyperledger-labs_fabric-operations-console.md](shoaebjindani_rollup/hyperledger-labs_fabric-operations-console.md) |
 | [`hyperledger-labs/fabric-chaincode-builder`](https://github.com/hyperledger-labs/fabric-chaincode-builder) | 21 | [hyperledger-labs_fabric-chaincode-builder.md](shoaebjindani_rollup/hyperledger-labs_fabric-chaincode-builder.md) |
 | [`LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io`](https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io) | 4 | [LF-Decentralized-Trust-labs_LF-Decentralized-Trust-labs.github.io.md](shoaebjindani_rollup/LF-Decentralized-Trust-labs_LF-Decentralized-Trust-labs.github.io.md) |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | [hyperledger_fabric-samples.md](shoaebjindani_rollup/hyperledger_fabric-samples.md) |
 
 ---
 

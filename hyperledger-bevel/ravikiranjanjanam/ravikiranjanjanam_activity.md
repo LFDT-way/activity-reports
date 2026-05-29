@@ -1,8 +1,10 @@
 # GitHub activity report — `ravikiranjanjanam`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **85** events spanning **2022-08-18 → 2023-05-31**, across **1** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `ravikiranjanjanam` in the date range searched.
 
 ## Teams & repository access
 
@@ -20,59 +22,6 @@ Repository access granted through those teams (3 repos):
 | `bevel-operator-fabric` | read | `bevel-contributors` (read) |
 | `bevel-samples` | read | `bevel-contributors` (read) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 85 |
-| Pull requests opened | 13 |
-| Pull request reviews | 22 |
-| Issues opened | 1 |
-| Pushes | 0 |
-| Commits pushed | 0 |
-| Comments | 33 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2022 | 18 |
-| 2023 | 67 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| PullRequestReviewCommentEvent | 22 |
-| PullRequestReviewEvent | 22 |
-| PullRequestEvent | 17 |
-| IssueCommentEvent | 11 |
-| ForkEvent | 9 |
-| IssuesEvent | 4 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 85 | 13 | 22 | 0 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 83 | 13 | 22 | 0 |
-| [`hyperledger/bevel-samples`](https://github.com/hyperledger/bevel-samples) | 2 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`ravikiranjanjanam_rollup/`](ravikiranjanjanam_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 83 | [hyperledger_bevel.md](ravikiranjanjanam_rollup/hyperledger_bevel.md) |
-| [`hyperledger/bevel-samples`](https://github.com/hyperledger/bevel-samples) | 2 | [hyperledger_bevel-samples.md](ravikiranjanjanam_rollup/hyperledger_bevel-samples.md) |
 
 ---
 

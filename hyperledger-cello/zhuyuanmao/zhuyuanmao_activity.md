@@ -1,8 +1,10 @@
 # GitHub activity report — `zhuyuanmao`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **195** events spanning **2021-05-30 → 2024-09-19**, across **1** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **8** events spanning **2024-08-09 → 2024-09-19**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -25,52 +27,41 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 195 |
-| Pull requests opened | 57 |
-| Pull request reviews | 40 |
-| Issues opened | 9 |
-| Pushes | 16 |
-| Commits pushed | 22 |
-| Comments | 30 |
-| Releases | 1 |
+| Total events | 8 |
+| Pull requests opened | 2 |
+| Pull request reviews | 3 |
+| Issues opened | 0 |
+| Pushes | 0 |
+| Commits pushed | 0 |
+| Comments | 3 |
+| Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 33 |
-| 2022 | 98 |
-| 2023 | 56 |
 | 2024 | 8 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 80 |
-| PullRequestReviewEvent | 40 |
-| PullRequestReviewCommentEvent | 18 |
-| PushEvent | 16 |
-| IssuesEvent | 14 |
-| IssueCommentEvent | 12 |
-| ForkEvent | 7 |
-| CreateEvent | 3 |
-| DeleteEvent | 3 |
-| ReleaseEvent | 1 |
-| WatchEvent | 1 |
+| PullRequestReviewCommentEvent | 3 |
+| PullRequestReviewEvent | 3 |
+| PullRequestEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 195 | 57 | 40 | 16 |
+| [`hyperledger`](https://github.com/hyperledger) | 8 | 2 | 3 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 188 | 55 | 38 | 16 |
-| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 7 | 2 | 2 | 0 |
+| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 5 | 1 | 2 | 0 |
+| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 3 | 1 | 1 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -78,8 +69,8 @@ Months as rows, event types as columns. One file per repository in [`zhuyuanmao_
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 188 | [hyperledger_cello.md](zhuyuanmao_rollup/hyperledger_cello.md) |
-| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 7 | [hyperledger_toc.md](zhuyuanmao_rollup/hyperledger_toc.md) |
+| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 5 | [hyperledger_toc.md](zhuyuanmao_rollup/hyperledger_toc.md) |
+| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 3 | [hyperledger_cello.md](zhuyuanmao_rollup/hyperledger_cello.md) |
 
 ---
 

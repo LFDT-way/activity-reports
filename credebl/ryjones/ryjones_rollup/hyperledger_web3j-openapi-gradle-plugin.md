@@ -1,6 +1,6 @@
 # [`hyperledger/web3j-openapi-gradle-plugin`](https://github.com/hyperledger/web3j-openapi-gradle-plugin) — monthly activity
 
-| Month | PullRequestEvent | CreateEvent | DeleteEvent | Total |
+| Month | PullRequestEvent | DeleteEvent | CreateEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2024-04 | 3 | 3 | 3 | 9 |
 | **Total** | **3** | **3** | **3** | **9** |

@@ -1,6 +1,6 @@
 # [`openwallet-foundation/credential-format-comparison-sig`](https://github.com/openwallet-foundation/credential-format-comparison-sig) — monthly activity
 
-| Month | PullRequestEvent | PullRequestReviewCommentEvent | PullRequestReviewEvent | ForkEvent | Total |
+| Month | PullRequestEvent | PullRequestReviewEvent | PullRequestReviewCommentEvent | ForkEvent | Total |
 | --- | --: | --: | --: | --: | --: |
 | 2024-04 | 1 | 1 | 1 | 1 | 4 |
 | **Total** | **1** | **1** | **1** | **1** | **4** |

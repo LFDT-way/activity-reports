@@ -1,6 +1,8 @@
 # GitHub activity report — `hanluOMH`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **271** events spanning **2025-06-10 → 2026-05-07**, across **2** organizations and **5** repositories.
 

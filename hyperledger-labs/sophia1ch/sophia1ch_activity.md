@@ -1,6 +1,8 @@
 # GitHub activity report — `sophia1ch`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **35** events spanning **2024-12-11 → 2025-10-07**, across **1** organizations and **3** repositories.
 

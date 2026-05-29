@@ -1,8 +1,10 @@
 # GitHub activity report — `goncalo-frade-iohk`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **538** events spanning **2023-05-29 → 2026-05-04**, across **4** organizations and **22** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **533** events spanning **2024-02-20 → 2026-05-04**, across **4** organizations and **22** repositories.
 
 ## Teams & repository access
 
@@ -40,9 +42,9 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 538 |
-| Pull requests opened | 35 |
-| Pull request reviews | 77 |
+| Total events | 533 |
+| Pull requests opened | 34 |
+| Pull request reviews | 75 |
 | Issues opened | 7 |
 | Pushes | 214 |
 | Commits pushed | 264 |
@@ -53,7 +55,6 @@ Repository access granted through those teams (17 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 5 |
 | 2024 | 222 |
 | 2025 | 295 |
 | 2026 | 16 |
@@ -63,8 +64,8 @@ Repository access granted through those teams (17 repos):
 | Type | Count |
 | --- | --: |
 | PushEvent | 214 |
-| PullRequestReviewEvent | 77 |
-| PullRequestEvent | 70 |
+| PullRequestReviewEvent | 75 |
+| PullRequestEvent | 68 |
 | CreateEvent | 58 |
 | PullRequestReviewCommentEvent | 39 |
 | DeleteEvent | 38 |
@@ -72,7 +73,6 @@ Repository access granted through those teams (17 repos):
 | IssuesEvent | 11 |
 | ReleaseEvent | 8 |
 | DiscussionEvent | 1 |
-| ForkEvent | 1 |
 | WatchEvent | 1 |
 
 ## Organizations
@@ -80,8 +80,8 @@ Repository access granted through those teams (17 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-identus`](https://github.com/hyperledger-identus) | 288 | 19 | 41 | 125 |
-| [`hyperledger`](https://github.com/hyperledger) | 246 | 16 | 33 | 89 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 3 | 0 | 2 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 243 | 15 | 33 | 89 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 1 | 0 | 0 | 0 |
 | [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 1 | 0 | 1 | 0 |
 
 ## Repositories
@@ -100,13 +100,13 @@ Repository access granted through those teams (17 repos):
 | [`hyperledger/identus-vdr`](https://github.com/hyperledger/identus-vdr) | 8 | 0 | 0 | 7 |
 | [`hyperledger/identus-cloud-agent`](https://github.com/hyperledger/identus-cloud-agent) | 5 | 0 | 4 | 0 |
 | [`hyperledger-identus/prism-vdr-driver`](https://github.com/hyperledger-identus/prism-vdr-driver) | 4 | 0 | 1 | 0 |
-| [`hyperledger/anoncreds-rs`](https://github.com/hyperledger/anoncreds-rs) | 4 | 1 | 0 | 0 |
-| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 3 | 0 | 2 | 0 |
 | [`hyperledger/identus`](https://github.com/hyperledger/identus) | 3 | 0 | 1 | 1 |
 | [`hyperledger/anoncreds-clsignatures-rs`](https://github.com/hyperledger/anoncreds-clsignatures-rs) | 2 | 0 | 0 | 0 |
 | [`hyperledger-identus/cloud-agent`](https://github.com/hyperledger-identus/cloud-agent) | 1 | 0 | 1 | 0 |
 | [`hyperledger-identus/governance`](https://github.com/hyperledger-identus/governance) | 1 | 0 | 1 | 0 |
 | [`hyperledger-identus/hyperledger-identus`](https://github.com/hyperledger-identus/hyperledger-identus) | 1 | 0 | 0 | 0 |
+| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 1 | 0 | 0 | 0 |
+| [`hyperledger/anoncreds-rs`](https://github.com/hyperledger/anoncreds-rs) | 1 | 0 | 0 | 0 |
 | [`hyperledger/identus-docs`](https://github.com/hyperledger/identus-docs) | 1 | 0 | 1 | 0 |
 | [`hyperledger/identus-edge-agent-sdk-ts`](https://github.com/hyperledger/identus-edge-agent-sdk-ts) | 1 | 0 | 1 | 0 |
 | [`openwallet-foundation-labs/sd-jwt-rust`](https://github.com/openwallet-foundation-labs/sd-jwt-rust) | 1 | 0 | 1 | 0 |
@@ -129,13 +129,13 @@ Months as rows, event types as columns. One file per repository in [`goncalo-fra
 | [`hyperledger/identus-vdr`](https://github.com/hyperledger/identus-vdr) | 8 | [hyperledger_identus-vdr.md](goncalo-frade-iohk_rollup/hyperledger_identus-vdr.md) |
 | [`hyperledger/identus-cloud-agent`](https://github.com/hyperledger/identus-cloud-agent) | 5 | [hyperledger_identus-cloud-agent.md](goncalo-frade-iohk_rollup/hyperledger_identus-cloud-agent.md) |
 | [`hyperledger-identus/prism-vdr-driver`](https://github.com/hyperledger-identus/prism-vdr-driver) | 4 | [hyperledger-identus_prism-vdr-driver.md](goncalo-frade-iohk_rollup/hyperledger-identus_prism-vdr-driver.md) |
-| [`hyperledger/anoncreds-rs`](https://github.com/hyperledger/anoncreds-rs) | 4 | [hyperledger_anoncreds-rs.md](goncalo-frade-iohk_rollup/hyperledger_anoncreds-rs.md) |
-| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 3 | [hyperledger-labs_open-enterprise-agent.md](goncalo-frade-iohk_rollup/hyperledger-labs_open-enterprise-agent.md) |
 | [`hyperledger/identus`](https://github.com/hyperledger/identus) | 3 | [hyperledger_identus.md](goncalo-frade-iohk_rollup/hyperledger_identus.md) |
 | [`hyperledger/anoncreds-clsignatures-rs`](https://github.com/hyperledger/anoncreds-clsignatures-rs) | 2 | [hyperledger_anoncreds-clsignatures-rs.md](goncalo-frade-iohk_rollup/hyperledger_anoncreds-clsignatures-rs.md) |
 | [`hyperledger-identus/cloud-agent`](https://github.com/hyperledger-identus/cloud-agent) | 1 | [hyperledger-identus_cloud-agent.md](goncalo-frade-iohk_rollup/hyperledger-identus_cloud-agent.md) |
 | [`hyperledger-identus/governance`](https://github.com/hyperledger-identus/governance) | 1 | [hyperledger-identus_governance.md](goncalo-frade-iohk_rollup/hyperledger-identus_governance.md) |
 | [`hyperledger-identus/hyperledger-identus`](https://github.com/hyperledger-identus/hyperledger-identus) | 1 | [hyperledger-identus_hyperledger-identus.md](goncalo-frade-iohk_rollup/hyperledger-identus_hyperledger-identus.md) |
+| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 1 | [hyperledger-labs_open-enterprise-agent.md](goncalo-frade-iohk_rollup/hyperledger-labs_open-enterprise-agent.md) |
+| [`hyperledger/anoncreds-rs`](https://github.com/hyperledger/anoncreds-rs) | 1 | [hyperledger_anoncreds-rs.md](goncalo-frade-iohk_rollup/hyperledger_anoncreds-rs.md) |
 | [`hyperledger/identus-docs`](https://github.com/hyperledger/identus-docs) | 1 | [hyperledger_identus-docs.md](goncalo-frade-iohk_rollup/hyperledger_identus-docs.md) |
 | [`hyperledger/identus-edge-agent-sdk-ts`](https://github.com/hyperledger/identus-edge-agent-sdk-ts) | 1 | [hyperledger_identus-edge-agent-sdk-ts.md](goncalo-frade-iohk_rollup/hyperledger_identus-edge-agent-sdk-ts.md) |
 | [`openwallet-foundation-labs/sd-jwt-rust`](https://github.com/openwallet-foundation-labs/sd-jwt-rust) | 1 | [openwallet-foundation-labs_sd-jwt-rust.md](goncalo-frade-iohk_rollup/openwallet-foundation-labs_sd-jwt-rust.md) |

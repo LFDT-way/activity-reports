@@ -1,8 +1,10 @@
 # GitHub activity report — `kenkosmowski`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **148** events spanning **2023-07-14 → 2025-06-30**, across **2** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **145** events spanning **2024-02-29 → 2025-06-30**, across **2** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -23,9 +25,9 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 148 |
-| Pull requests opened | 12 |
-| Pull request reviews | 56 |
+| Total events | 145 |
+| Pull requests opened | 10 |
+| Pull request reviews | 55 |
 | Issues opened | 0 |
 | Pushes | 37 |
 | Commits pushed | 49 |
@@ -36,7 +38,6 @@ Repository access granted through those teams (1 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 3 |
 | 2024 | 52 |
 | 2025 | 93 |
 
@@ -44,10 +45,10 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 56 |
+| PullRequestReviewEvent | 55 |
 | PushEvent | 37 |
 | PullRequestReviewCommentEvent | 28 |
-| PullRequestEvent | 15 |
+| PullRequestEvent | 13 |
 | CreateEvent | 9 |
 | IssueCommentEvent | 3 |
 
@@ -55,15 +56,14 @@ Repository access granted through those teams (1 repos):
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 145 | 10 | 56 | 37 |
-| [`hyperledger`](https://github.com/hyperledger) | 3 | 2 | 0 | 0 |
+| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 144 | 10 | 55 | 37 |
+| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs/wallet-framework-dotnet`](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) | 145 | 10 | 56 | 37 |
-| [`hyperledger/aries-framework-dotnet`](https://github.com/hyperledger/aries-framework-dotnet) | 2 | 2 | 0 | 0 |
+| [`openwallet-foundation-labs/wallet-framework-dotnet`](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) | 144 | 10 | 55 | 37 |
 | [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -72,8 +72,7 @@ Months as rows, event types as columns. One file per repository in [`kenkosmowsk
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`openwallet-foundation-labs/wallet-framework-dotnet`](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) | 145 | [openwallet-foundation-labs_wallet-framework-dotnet.md](kenkosmowski_rollup/openwallet-foundation-labs_wallet-framework-dotnet.md) |
-| [`hyperledger/aries-framework-dotnet`](https://github.com/hyperledger/aries-framework-dotnet) | 2 | [hyperledger_aries-framework-dotnet.md](kenkosmowski_rollup/hyperledger_aries-framework-dotnet.md) |
+| [`openwallet-foundation-labs/wallet-framework-dotnet`](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) | 144 | [openwallet-foundation-labs_wallet-framework-dotnet.md](kenkosmowski_rollup/openwallet-foundation-labs_wallet-framework-dotnet.md) |
 | [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 1 | [hyperledger_indy-sdk.md](kenkosmowski_rollup/hyperledger_indy-sdk.md) |
 
 ---

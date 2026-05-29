@@ -1,8 +1,10 @@
 # GitHub activity report — `chumbert`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **32** events spanning **2021-09-01 → 2023-12-01**, across **1** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `chumbert` in the date range searched.
 
 ## Teams & repository access
 
@@ -26,67 +28,6 @@ Repository access granted through those teams (9 repos):
 | `owl-agent-test-harness` | maintain | `acapy-committers` (maintain) |
 | `owl-akrida` | maintain | `acapy-committers` (maintain) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 32 |
-| Pull requests opened | 15 |
-| Pull request reviews | 1 |
-| Issues opened | 0 |
-| Pushes | 1 |
-| Commits pushed | 1 |
-| Comments | 11 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2021 | 7 |
-| 2022 | 8 |
-| 2023 | 17 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| PullRequestEvent | 15 |
-| IssueCommentEvent | 10 |
-| WatchEvent | 3 |
-| ForkEvent | 1 |
-| PullRequestReviewCommentEvent | 1 |
-| PullRequestReviewEvent | 1 |
-| PushEvent | 1 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 32 | 15 | 1 | 1 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 27 | 15 | 1 | 0 |
-| [`hyperledger/aries-askar`](https://github.com/hyperledger/aries-askar) | 2 | 0 | 0 | 0 |
-| [`hyperledger/aries-acapy-plugins`](https://github.com/hyperledger/aries-acapy-plugins) | 1 | 0 | 0 | 1 |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 1 | 0 | 0 | 0 |
-| [`hyperledger/ursa`](https://github.com/hyperledger/ursa) | 1 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`chumbert_rollup/`](chumbert_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 27 | [hyperledger_aries-cloudagent-python.md](chumbert_rollup/hyperledger_aries-cloudagent-python.md) |
-| [`hyperledger/aries-askar`](https://github.com/hyperledger/aries-askar) | 2 | [hyperledger_aries-askar.md](chumbert_rollup/hyperledger_aries-askar.md) |
-| [`hyperledger/aries-acapy-plugins`](https://github.com/hyperledger/aries-acapy-plugins) | 1 | [hyperledger_aries-acapy-plugins.md](chumbert_rollup/hyperledger_aries-acapy-plugins.md) |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 1 | [hyperledger_indy-sdk.md](chumbert_rollup/hyperledger_indy-sdk.md) |
-| [`hyperledger/ursa`](https://github.com/hyperledger/ursa) | 1 | [hyperledger_ursa.md](chumbert_rollup/hyperledger_ursa.md) |
 
 ---
 

@@ -1,8 +1,10 @@
 # GitHub activity report — `thomwiggers`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1,122** events spanning **2018-11-06 → 2024-10-01**, across **1** organizations and **6** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **17** events spanning **2024-03-22 → 2024-10-01**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -41,58 +43,40 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 1,122 |
-| Pull requests opened | 53 |
-| Pull request reviews | 99 |
-| Issues opened | 28 |
-| Pushes | 281 |
-| Commits pushed | 634 |
-| Comments | 268 |
-| Releases | 10 |
+| Total events | 17 |
+| Pull requests opened | 0 |
+| Pull request reviews | 2 |
+| Issues opened | 1 |
+| Pushes | 0 |
+| Commits pushed | 0 |
+| Comments | 13 |
+| Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2018 | 18 |
-| 2019 | 8 |
-| 2020 | 112 |
-| 2021 | 476 |
-| 2022 | 167 |
-| 2023 | 324 |
 | 2024 | 17 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 281 |
-| IssueCommentEvent | 228 |
-| PullRequestEvent | 211 |
-| DeleteEvent | 136 |
-| PullRequestReviewEvent | 99 |
-| CreateEvent | 60 |
-| IssuesEvent | 52 |
-| PullRequestReviewCommentEvent | 39 |
-| ReleaseEvent | 10 |
-| ForkEvent | 4 |
-| CommitCommentEvent | 1 |
-| MemberEvent | 1 |
+| IssueCommentEvent | 9 |
+| PullRequestReviewCommentEvent | 4 |
+| IssuesEvent | 2 |
+| PullRequestReviewEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 1,122 | 53 | 99 | 281 |
+| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 17 | 0 | 2 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe/liboqs-rust`](https://github.com/open-quantum-safe/liboqs-rust) | 896 | 37 | 79 | 275 |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 181 | 12 | 14 | 6 |
-| [`open-quantum-safe/openssl`](https://github.com/open-quantum-safe/openssl) | 16 | 2 | 0 | 0 |
-| [`open-quantum-safe/openssh`](https://github.com/open-quantum-safe/openssh) | 12 | 2 | 4 | 0 |
 | [`open-quantum-safe/tsc`](https://github.com/open-quantum-safe/tsc) | 12 | 0 | 2 | 0 |
 | [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 5 | 0 | 0 | 0 |
 
@@ -102,10 +86,6 @@ Months as rows, event types as columns. One file per repository in [`thomwiggers
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`open-quantum-safe/liboqs-rust`](https://github.com/open-quantum-safe/liboqs-rust) | 896 | [open-quantum-safe_liboqs-rust.md](thomwiggers_rollup/open-quantum-safe_liboqs-rust.md) |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 181 | [open-quantum-safe_liboqs.md](thomwiggers_rollup/open-quantum-safe_liboqs.md) |
-| [`open-quantum-safe/openssl`](https://github.com/open-quantum-safe/openssl) | 16 | [open-quantum-safe_openssl.md](thomwiggers_rollup/open-quantum-safe_openssl.md) |
-| [`open-quantum-safe/openssh`](https://github.com/open-quantum-safe/openssh) | 12 | [open-quantum-safe_openssh.md](thomwiggers_rollup/open-quantum-safe_openssh.md) |
 | [`open-quantum-safe/tsc`](https://github.com/open-quantum-safe/tsc) | 12 | [open-quantum-safe_tsc.md](thomwiggers_rollup/open-quantum-safe_tsc.md) |
 | [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 5 | [open-quantum-safe_oqs-provider.md](thomwiggers_rollup/open-quantum-safe_oqs-provider.md) |
 

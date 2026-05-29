@@ -1,6 +1,8 @@
 # GitHub activity report — `Mateja3m`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **4** events spanning **2026-04-27 → 2026-05-06**, across **1** organizations and **1** repositories.
 
@@ -10,7 +12,7 @@ Member of **1** team(s):
 
 | Team | Role in team |
 | --- | --- |
-| `onboard-diagnostics-maintainers` | member |
+| `onboard-diagnostics-maintainers` | maintainer |
 
 Repository access granted through those teams (1 repos):
 

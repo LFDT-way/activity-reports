@@ -1,8 +1,10 @@
 # GitHub activity report — `iljabvh`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **83** events spanning **2023-04-03 → 2025-11-10**, across **1** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **76** events spanning **2024-01-09 → 2025-11-10**, across **1** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -33,20 +35,19 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 83 |
-| Pull requests opened | 11 |
+| Total events | 76 |
+| Pull requests opened | 8 |
 | Pull request reviews | 22 |
-| Issues opened | 4 |
+| Issues opened | 3 |
 | Pushes | 12 |
 | Commits pushed | 71 |
-| Comments | 10 |
+| Comments | 9 |
 | Releases | 1 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 7 |
 | 2024 | 64 |
 | 2025 | 12 |
 
@@ -54,29 +55,28 @@ Repository access granted through those teams (10 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 29 |
+| PullRequestEvent | 25 |
 | PullRequestReviewEvent | 22 |
 | PushEvent | 12 |
-| IssueCommentEvent | 8 |
-| IssuesEvent | 6 |
+| IssueCommentEvent | 7 |
+| IssuesEvent | 5 |
 | PullRequestReviewCommentEvent | 2 |
 | CreateEvent | 1 |
 | ForkEvent | 1 |
 | ReleaseEvent | 1 |
-| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 83 | 11 | 22 | 12 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 76 | 8 | 22 | 12 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 38 | 5 | 12 | 7 |
-| [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 34 | 4 | 8 | 5 |
+| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 36 | 4 | 12 | 7 |
+| [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 29 | 2 | 8 | 5 |
 | [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 7 | 1 | 0 | 0 |
 | [`hyperledger-labs/perun-eth-contracts`](https://github.com/hyperledger-labs/perun-eth-contracts) | 4 | 1 | 2 | 0 |
 
@@ -86,8 +86,8 @@ Months as rows, event types as columns. One file per repository in [`iljabvh_rol
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 38 | [hyperledger-labs_go-perun.md](iljabvh_rollup/hyperledger-labs_go-perun.md) |
-| [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 34 | [hyperledger-labs_perun-eth-backend.md](iljabvh_rollup/hyperledger-labs_perun-eth-backend.md) |
+| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 36 | [hyperledger-labs_go-perun.md](iljabvh_rollup/hyperledger-labs_go-perun.md) |
+| [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 29 | [hyperledger-labs_perun-eth-backend.md](iljabvh_rollup/hyperledger-labs_perun-eth-backend.md) |
 | [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 7 | [hyperledger-labs_governance.md](iljabvh_rollup/hyperledger-labs_governance.md) |
 | [`hyperledger-labs/perun-eth-contracts`](https://github.com/hyperledger-labs/perun-eth-contracts) | 4 | [hyperledger-labs_perun-eth-contracts.md](iljabvh_rollup/hyperledger-labs_perun-eth-contracts.md) |
 

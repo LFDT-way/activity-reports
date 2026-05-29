@@ -1,8 +1,10 @@
 # GitHub activity report — `dmitrizagidulin`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **204** events spanning **2017-10-24 → 2026-05-21**, across **2** organizations and **6** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **199** events spanning **2025-01-04 → 2026-05-21**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -23,21 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 204 |
+| Total events | 199 |
 | Pull requests opened | 9 |
 | Pull request reviews | 33 |
 | Issues opened | 2 |
 | Pushes | 46 |
 | Commits pushed | 244 |
-| Comments | 53 |
+| Comments | 52 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2017 | 4 |
-| 2019 | 1 |
 | 2025 | 195 |
 | 2026 | 4 |
 
@@ -49,10 +49,9 @@ Repository access granted through those teams (1 repos):
 | DeleteEvent | 40 |
 | PullRequestReviewEvent | 33 |
 | PullRequestReviewCommentEvent | 30 |
-| IssueCommentEvent | 23 |
+| IssueCommentEvent | 22 |
 | CreateEvent | 14 |
 | PullRequestEvent | 12 |
-| WatchEvent | 4 |
 | IssuesEvent | 2 |
 
 ## Organizations
@@ -60,18 +59,12 @@ Repository access granted through those teams (1 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 199 | 9 | 33 | 46 |
-| [`hyperledger`](https://github.com/hyperledger) | 5 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`openwallet-foundation-labs/learner-credential-wallet`](https://github.com/openwallet-foundation-labs/learner-credential-wallet) | 199 | 9 | 33 | 46 |
-| [`hyperledger/aries-framework-go`](https://github.com/hyperledger/aries-framework-go) | 1 | 0 | 0 | 0 |
-| [`hyperledger/indy-crypto`](https://github.com/hyperledger/indy-crypto) | 1 | 0 | 0 | 0 |
-| [`hyperledger/indy-node`](https://github.com/hyperledger/indy-node) | 1 | 0 | 0 | 0 |
-| [`hyperledger/indy-plenum`](https://github.com/hyperledger/indy-plenum) | 1 | 0 | 0 | 0 |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -80,11 +73,6 @@ Months as rows, event types as columns. One file per repository in [`dmitrizagid
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`openwallet-foundation-labs/learner-credential-wallet`](https://github.com/openwallet-foundation-labs/learner-credential-wallet) | 199 | [openwallet-foundation-labs_learner-credential-wallet.md](dmitrizagidulin_rollup/openwallet-foundation-labs_learner-credential-wallet.md) |
-| [`hyperledger/aries-framework-go`](https://github.com/hyperledger/aries-framework-go) | 1 | [hyperledger_aries-framework-go.md](dmitrizagidulin_rollup/hyperledger_aries-framework-go.md) |
-| [`hyperledger/indy-crypto`](https://github.com/hyperledger/indy-crypto) | 1 | [hyperledger_indy-crypto.md](dmitrizagidulin_rollup/hyperledger_indy-crypto.md) |
-| [`hyperledger/indy-node`](https://github.com/hyperledger/indy-node) | 1 | [hyperledger_indy-node.md](dmitrizagidulin_rollup/hyperledger_indy-node.md) |
-| [`hyperledger/indy-plenum`](https://github.com/hyperledger/indy-plenum) | 1 | [hyperledger_indy-plenum.md](dmitrizagidulin_rollup/hyperledger_indy-plenum.md) |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 1 | [hyperledger_indy-sdk.md](dmitrizagidulin_rollup/hyperledger_indy-sdk.md) |
 
 ---
 

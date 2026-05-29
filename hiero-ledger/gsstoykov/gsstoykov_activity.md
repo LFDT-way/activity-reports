@@ -1,12 +1,14 @@
 # GitHub activity report — `gsstoykov`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **1,795** events spanning **2024-10-29 → 2026-05-22**, across **1** organizations and **10** repositories.
 
 ## Teams & repository access
 
-Member of **9** team(s):
+Member of **10** team(s):
 
 | Team | Role in team |
 | --- | --- |
@@ -17,20 +19,26 @@ Member of **9** team(s):
 | `hiero-sdk-go-maintainers` | member |
 | `hiero-sdk-rust-maintainers` | maintainer |
 | `hiero-sdk-tck-committers` | member |
+| `hiero-sdk-triage` | member |
 | `hiero-solo-action-maintainers` | member |
 | `sdk-collaboration-hub-committers` | maintainer |
 
-Repository access granted through those teams (7 repos):
+Repository access granted through those teams (12 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `hiero-sdk-cpp` | maintain | `hiero-sdk-cpp-maintainers` (maintain), `hiero-sdk-cpp-committers` (write) |
-| `hiero-sdk-go` | maintain | `hiero-sdk-go-maintainers` (maintain), `hiero-sdk-go-committers` (write) |
-| `hiero-sdk-rust` | maintain | `hiero-sdk-rust-maintainers` (maintain) |
+| `hiero-sdk-cpp` | maintain | `hiero-sdk-cpp-maintainers` (maintain), `hiero-sdk-cpp-committers` (write), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-go` | maintain | `hiero-sdk-go-maintainers` (maintain), `hiero-sdk-go-committers` (write), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-rust` | maintain | `hiero-sdk-rust-maintainers` (maintain), `hiero-sdk-triage` (triage) |
 | `hiero-solo-action` | maintain | `hiero-solo-action-maintainers` (maintain) |
 | `governance` | write | `governance-write` (write) |
-| `hiero-sdk-tck` | write | `hiero-sdk-tck-committers` (write) |
-| `sdk-collaboration-hub` | write | `sdk-collaboration-hub-committers` (write) |
+| `hiero-sdk-tck` | write | `hiero-sdk-tck-committers` (write), `hiero-sdk-triage` (triage) |
+| `sdk-collaboration-hub` | write | `sdk-collaboration-hub-committers` (write), `hiero-sdk-triage` (triage) |
+| `hiero-enterprise-java` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-java` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-js` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-python` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-swift` | triage | `hiero-sdk-triage` (triage) |
 
 
 ## Overview

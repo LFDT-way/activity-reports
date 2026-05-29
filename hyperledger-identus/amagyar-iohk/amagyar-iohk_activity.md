@@ -1,8 +1,10 @@
 # GitHub activity report — `amagyar-iohk`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1,138** events spanning **2023-10-04 → 2026-05-11**, across **3** organizations and **21** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1,132** events spanning **2024-01-17 → 2026-05-11**, across **3** organizations and **21** repositories.
 
 ## Teams & repository access
 
@@ -40,12 +42,12 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 1,138 |
-| Pull requests opened | 77 |
-| Pull request reviews | 81 |
+| Total events | 1,132 |
+| Pull requests opened | 76 |
+| Pull request reviews | 80 |
 | Issues opened | 33 |
-| Pushes | 365 |
-| Commits pushed | 675 |
+| Pushes | 363 |
+| Commits pushed | 673 |
 | Comments | 73 |
 | Releases | 2 |
 
@@ -53,7 +55,6 @@ Repository access granted through those teams (17 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 6 |
 | 2024 | 467 |
 | 2025 | 553 |
 | 2026 | 112 |
@@ -62,11 +63,11 @@ Repository access granted through those teams (17 repos):
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 365 |
+| PushEvent | 363 |
 | DeleteEvent | 296 |
-| PullRequestEvent | 153 |
-| CreateEvent | 100 |
-| PullRequestReviewEvent | 81 |
+| PullRequestEvent | 152 |
+| CreateEvent | 98 |
+| PullRequestReviewEvent | 80 |
 | IssuesEvent | 66 |
 | IssueCommentEvent | 54 |
 | PullRequestReviewCommentEvent | 19 |
@@ -79,7 +80,7 @@ Repository access granted through those teams (17 repos):
 | --- | --: | --: | --: | --: |
 | [`hyperledger`](https://github.com/hyperledger) | 607 | 41 | 42 | 165 |
 | [`hyperledger-identus`](https://github.com/hyperledger-identus) | 475 | 29 | 25 | 183 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 56 | 7 | 14 | 17 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 50 | 6 | 13 | 15 |
 
 ## Repositories
 
@@ -92,7 +93,7 @@ Repository access granted through those teams (17 repos):
 | [`hyperledger-identus/sdk-ts`](https://github.com/hyperledger-identus/sdk-ts) | 88 | 5 | 6 | 31 |
 | [`hyperledger-identus/cloud-agent`](https://github.com/hyperledger-identus/cloud-agent) | 64 | 6 | 9 | 24 |
 | [`hyperledger-identus/sdk-swift`](https://github.com/hyperledger-identus/sdk-swift) | 62 | 6 | 5 | 16 |
-| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 56 | 7 | 14 | 17 |
+| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 50 | 6 | 13 | 15 |
 | [`hyperledger/identus-edge-agent-sdk-swift`](https://github.com/hyperledger/identus-edge-agent-sdk-swift) | 23 | 5 | 0 | 7 |
 | [`hyperledger-identus/mediator`](https://github.com/hyperledger-identus/mediator) | 18 | 0 | 2 | 3 |
 | [`hyperledger-identus/sdk-kmp`](https://github.com/hyperledger-identus/sdk-kmp) | 16 | 1 | 0 | 3 |
@@ -120,7 +121,7 @@ Months as rows, event types as columns. One file per repository in [`amagyar-ioh
 | [`hyperledger-identus/sdk-ts`](https://github.com/hyperledger-identus/sdk-ts) | 88 | [hyperledger-identus_sdk-ts.md](amagyar-iohk_rollup/hyperledger-identus_sdk-ts.md) |
 | [`hyperledger-identus/cloud-agent`](https://github.com/hyperledger-identus/cloud-agent) | 64 | [hyperledger-identus_cloud-agent.md](amagyar-iohk_rollup/hyperledger-identus_cloud-agent.md) |
 | [`hyperledger-identus/sdk-swift`](https://github.com/hyperledger-identus/sdk-swift) | 62 | [hyperledger-identus_sdk-swift.md](amagyar-iohk_rollup/hyperledger-identus_sdk-swift.md) |
-| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 56 | [hyperledger-labs_open-enterprise-agent.md](amagyar-iohk_rollup/hyperledger-labs_open-enterprise-agent.md) |
+| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 50 | [hyperledger-labs_open-enterprise-agent.md](amagyar-iohk_rollup/hyperledger-labs_open-enterprise-agent.md) |
 | [`hyperledger/identus-edge-agent-sdk-swift`](https://github.com/hyperledger/identus-edge-agent-sdk-swift) | 23 | [hyperledger_identus-edge-agent-sdk-swift.md](amagyar-iohk_rollup/hyperledger_identus-edge-agent-sdk-swift.md) |
 | [`hyperledger-identus/mediator`](https://github.com/hyperledger-identus/mediator) | 18 | [hyperledger-identus_mediator.md](amagyar-iohk_rollup/hyperledger-identus_mediator.md) |
 | [`hyperledger-identus/sdk-kmp`](https://github.com/hyperledger-identus/sdk-kmp) | 16 | [hyperledger-identus_sdk-kmp.md](amagyar-iohk_rollup/hyperledger-identus_sdk-kmp.md) |

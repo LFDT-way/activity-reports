@@ -1,8 +1,10 @@
 # GitHub activity report — `lucas-campelo`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **2** events spanning **2023-01-25 → 2026-01-28**, across **2** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1** events spanning **2026-01-28 → 2026-01-28**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -23,7 +25,7 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 2 |
+| Total events | 1 |
 | Pull requests opened | 1 |
 | Pull request reviews | 0 |
 | Issues opened | 0 |
@@ -36,7 +38,6 @@ Repository access granted through those teams (1 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 1 |
 | 2026 | 1 |
 
 ## Event types
@@ -44,21 +45,18 @@ Repository access granted through those teams (1 repos):
 | Type | Count |
 | --- | --: |
 | PullRequestEvent | 1 |
-| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`LFDT-Paladin`](https://github.com/LFDT-Paladin) | 1 | 1 | 0 | 0 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`LFDT-Paladin/paladin`](https://github.com/LFDT-Paladin/paladin) | 1 | 1 | 0 | 0 |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -67,7 +65,6 @@ Months as rows, event types as columns. One file per repository in [`lucas-campe
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`LFDT-Paladin/paladin`](https://github.com/LFDT-Paladin/paladin) | 1 | [LFDT-Paladin_paladin.md](lucas-campelo_rollup/LFDT-Paladin_paladin.md) |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | [hyperledger_fabric.md](lucas-campelo_rollup/hyperledger_fabric.md) |
 
 ---
 

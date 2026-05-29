@@ -1,39 +1,48 @@
 # GitHub activity report — `RodriM11`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **194** events spanning **2024-10-29 → 2026-05-27**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
-Member of **2** team(s):
+Member of **6** team(s):
 
 | Team | Role in team |
 | --- | --- |
+| `liboqs-committers` | member |
 | `oqs-contributors` | member |
-| `oqs-provider-committers` | member |
+| `oqs-provider-codeowners` | maintainer |
+| `oqs-provider-committers` | maintainer |
+| `oqs-provider-maintainers` | maintainer |
+| `tsc` | maintainer |
 
-Repository access granted through those teams (17 repos):
+Repository access granted through those teams (20 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `oqs-provider` | write | `oqs-provider-committers` (write), `oqs-contributors` (triage) |
-| `boringssl` | triage | `oqs-contributors` (triage) |
-| `ci-containers` | triage | `oqs-contributors` (triage) |
-| `liboqs` | triage | `oqs-contributors` (triage) |
-| `liboqs-cpp` | triage | `oqs-contributors` (triage) |
-| `liboqs-cupqc-meta` | triage | `oqs-contributors` (triage) |
-| `liboqs-dotnet` | triage | `oqs-contributors` (triage) |
-| `liboqs-go` | triage | `oqs-contributors` (triage) |
-| `liboqs-java` | triage | `oqs-contributors` (triage) |
-| `liboqs-js` | triage | `oqs-contributors` (triage) |
-| `liboqs-python` | triage | `oqs-contributors` (triage) |
-| `liboqs-rust` | triage | `oqs-contributors` (triage) |
-| `libssh` | triage | `oqs-contributors` (triage) |
-| `openssh` | triage | `oqs-contributors` (triage) |
-| `oqs-demos` | triage | `oqs-contributors` (triage) |
-| `profiling` | triage | `oqs-contributors` (triage) |
-| `www` | triage | `oqs-contributors` (triage) |
+| `oqs-provider` | admin | `oqs-provider-maintainers` (admin), `oqs-provider-codeowners` (write), `oqs-provider-committers` (write), `oqs-contributors` (triage), `tsc` (read) |
+| `liboqs` | write | `liboqs-committers` (write), `oqs-contributors` (triage), `tsc` (read) |
+| `liboqs-cupqc-meta` | write | `liboqs-committers` (write), `oqs-contributors` (triage), `tsc` (read) |
+| `tsc` | write | `tsc` (write) |
+| `boringssl` | triage | `oqs-contributors` (triage), `tsc` (read) |
+| `ci-containers` | triage | `oqs-contributors` (triage), `tsc` (read) |
+| `liboqs-cpp` | triage | `oqs-contributors` (triage), `tsc` (read) |
+| `liboqs-dotnet` | triage | `oqs-contributors` (triage), `tsc` (read) |
+| `liboqs-go` | triage | `oqs-contributors` (triage), `tsc` (read) |
+| `liboqs-java` | triage | `oqs-contributors` (triage), `tsc` (read) |
+| `liboqs-js` | triage | `oqs-contributors` (triage), `tsc` (read) |
+| `liboqs-python` | triage | `oqs-contributors` (triage), `tsc` (read) |
+| `liboqs-rust` | triage | `oqs-contributors` (triage), `tsc` (read) |
+| `libssh` | triage | `oqs-contributors` (triage), `tsc` (read) |
+| `openssh` | triage | `oqs-contributors` (triage), `tsc` (read) |
+| `oqs-demos` | triage | `oqs-contributors` (triage), `tsc` (read) |
+| `profiling` | triage | `oqs-contributors` (triage), `tsc` (read) |
+| `www` | triage | `oqs-contributors` (triage), `tsc` (read) |
+| `.github` | read | `tsc` (read) |
+| `openssl` | read | `tsc` (read) |
 
 
 ## Overview

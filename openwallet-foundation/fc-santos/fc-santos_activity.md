@@ -1,8 +1,10 @@
 # GitHub activity report — `fc-santos`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **227** events spanning **2023-05-01 → 2025-04-22**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **217** events spanning **2024-09-04 → 2025-04-22**, across **2** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -24,20 +26,19 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 227 |
-| Pull requests opened | 38 |
+| Total events | 217 |
+| Pull requests opened | 35 |
 | Pull request reviews | 59 |
-| Issues opened | 3 |
+| Issues opened | 2 |
 | Pushes | 17 |
 | Commits pushed | 21 |
-| Comments | 92 |
+| Comments | 86 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 10 |
 | 2024 | 43 |
 | 2025 | 174 |
 
@@ -46,12 +47,12 @@ Repository access granted through those teams (2 repos):
 | Type | Count |
 | --- | --: |
 | PullRequestReviewEvent | 59 |
-| PullRequestEvent | 52 |
-| IssueCommentEvent | 48 |
+| PullRequestEvent | 49 |
+| IssueCommentEvent | 43 |
 | PullRequestReviewCommentEvent | 41 |
 | PushEvent | 17 |
-| IssuesEvent | 4 |
-| CommitCommentEvent | 3 |
+| IssuesEvent | 3 |
+| CommitCommentEvent | 2 |
 | CreateEvent | 1 |
 | DeleteEvent | 1 |
 | ForkEvent | 1 |
@@ -61,15 +62,13 @@ Repository access granted through those teams (2 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`openwallet-foundation`](https://github.com/openwallet-foundation) | 215 | 34 | 59 | 17 |
-| [`hyperledger`](https://github.com/hyperledger) | 12 | 4 | 0 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 2 | 1 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`openwallet-foundation/bifold-wallet`](https://github.com/openwallet-foundation/bifold-wallet) | 215 | 34 | 59 | 17 |
-| [`hyperledger/aries-mobile-agent-react-native`](https://github.com/hyperledger/aries-mobile-agent-react-native) | 8 | 2 | 0 | 0 |
-| [`hyperledger/aries-mobile-test-harness`](https://github.com/hyperledger/aries-mobile-test-harness) | 2 | 1 | 0 | 0 |
 | [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 2 | 1 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -79,8 +78,6 @@ Months as rows, event types as columns. One file per repository in [`fc-santos_r
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`openwallet-foundation/bifold-wallet`](https://github.com/openwallet-foundation/bifold-wallet) | 215 | [openwallet-foundation_bifold-wallet.md](fc-santos_rollup/openwallet-foundation_bifold-wallet.md) |
-| [`hyperledger/aries-mobile-agent-react-native`](https://github.com/hyperledger/aries-mobile-agent-react-native) | 8 | [hyperledger_aries-mobile-agent-react-native.md](fc-santos_rollup/hyperledger_aries-mobile-agent-react-native.md) |
-| [`hyperledger/aries-mobile-test-harness`](https://github.com/hyperledger/aries-mobile-test-harness) | 2 | [hyperledger_aries-mobile-test-harness.md](fc-santos_rollup/hyperledger_aries-mobile-test-harness.md) |
 | [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 2 | [hyperledger_aries-rfcs.md](fc-santos_rollup/hyperledger_aries-rfcs.md) |
 
 ---

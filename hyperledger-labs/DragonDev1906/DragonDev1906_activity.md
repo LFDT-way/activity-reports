@@ -1,8 +1,10 @@
 # GitHub activity report — `DragonDev1906`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **69** events spanning **2022-08-02 → 2025-07-29**, across **1** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **41** events spanning **2024-01-15 → 2025-07-29**, across **1** organizations and **5** repositories.
 
 ## Teams & repository access
 
@@ -33,21 +35,19 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 69 |
-| Pull requests opened | 9 |
-| Pull request reviews | 21 |
-| Issues opened | 2 |
-| Pushes | 3 |
-| Commits pushed | 42 |
-| Comments | 19 |
+| Total events | 41 |
+| Pull requests opened | 0 |
+| Pull request reviews | 20 |
+| Issues opened | 0 |
+| Pushes | 2 |
+| Commits pushed | 40 |
+| Comments | 17 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 5 |
-| 2023 | 23 |
 | 2024 | 33 |
 | 2025 | 8 |
 
@@ -55,29 +55,25 @@ Repository access granted through those teams (10 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 21 |
+| PullRequestReviewEvent | 20 |
 | PullRequestReviewCommentEvent | 17 |
-| PullRequestEvent | 11 |
-| CreateEvent | 8 |
-| DeleteEvent | 3 |
-| IssuesEvent | 3 |
-| PushEvent | 3 |
-| IssueCommentEvent | 2 |
-| ForkEvent | 1 |
+| PushEvent | 2 |
+| CreateEvent | 1 |
+| PullRequestEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 69 | 9 | 21 | 3 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 41 | 0 | 20 | 2 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/perun-rs`](https://github.com/hyperledger-labs/perun-rs) | 26 | 6 | 2 | 2 |
-| [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 24 | 3 | 6 | 0 |
-| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 15 | 0 | 10 | 1 |
+| [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 17 | 0 | 6 | 0 |
+| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 11 | 0 | 9 | 0 |
+| [`hyperledger-labs/perun-rs`](https://github.com/hyperledger-labs/perun-rs) | 9 | 0 | 2 | 2 |
 | [`hyperledger-labs/perun-eth-contracts`](https://github.com/hyperledger-labs/perun-eth-contracts) | 3 | 0 | 2 | 0 |
 | [`hyperledger-labs/perun-credential-payment`](https://github.com/hyperledger-labs/perun-credential-payment) | 1 | 0 | 1 | 0 |
 
@@ -87,9 +83,9 @@ Months as rows, event types as columns. One file per repository in [`DragonDev19
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/perun-rs`](https://github.com/hyperledger-labs/perun-rs) | 26 | [hyperledger-labs_perun-rs.md](DragonDev1906_rollup/hyperledger-labs_perun-rs.md) |
-| [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 24 | [hyperledger-labs_perun-eth-backend.md](DragonDev1906_rollup/hyperledger-labs_perun-eth-backend.md) |
-| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 15 | [hyperledger-labs_go-perun.md](DragonDev1906_rollup/hyperledger-labs_go-perun.md) |
+| [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 17 | [hyperledger-labs_perun-eth-backend.md](DragonDev1906_rollup/hyperledger-labs_perun-eth-backend.md) |
+| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 11 | [hyperledger-labs_go-perun.md](DragonDev1906_rollup/hyperledger-labs_go-perun.md) |
+| [`hyperledger-labs/perun-rs`](https://github.com/hyperledger-labs/perun-rs) | 9 | [hyperledger-labs_perun-rs.md](DragonDev1906_rollup/hyperledger-labs_perun-rs.md) |
 | [`hyperledger-labs/perun-eth-contracts`](https://github.com/hyperledger-labs/perun-eth-contracts) | 3 | [hyperledger-labs_perun-eth-contracts.md](DragonDev1906_rollup/hyperledger-labs_perun-eth-contracts.md) |
 | [`hyperledger-labs/perun-credential-payment`](https://github.com/hyperledger-labs/perun-credential-payment) | 1 | [hyperledger-labs_perun-credential-payment.md](DragonDev1906_rollup/hyperledger-labs_perun-credential-payment.md) |
 

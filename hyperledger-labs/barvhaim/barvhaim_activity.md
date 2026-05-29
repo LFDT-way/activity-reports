@@ -1,6 +1,8 @@
 # GitHub activity report — `barvhaim`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **42** events spanning **2025-03-03 → 2025-07-24**, across **2** organizations and **3** repositories.
 

@@ -1,8 +1,10 @@
 # GitHub activity report — `conor10`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **23** events spanning **2016-02-17 → 2025-02-12**, across **2** organizations and **7** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **19** events spanning **2024-01-03 → 2025-02-12**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -38,10 +40,10 @@ Repository access granted through those teams (15 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 23 |
-| Pull requests opened | 2 |
+| Total events | 19 |
+| Pull requests opened | 1 |
 | Pull request reviews | 8 |
-| Issues opened | 1 |
+| Issues opened | 0 |
 | Pushes | 1 |
 | Commits pushed | 1 |
 | Comments | 7 |
@@ -51,9 +53,6 @@ Repository access granted through those teams (15 repos):
 
 | Year | Events |
 | --- | --: |
-| 2016 | 1 |
-| 2019 | 1 |
-| 2023 | 2 |
 | 2024 | 18 |
 | 2025 | 1 |
 
@@ -63,29 +62,25 @@ Repository access granted through those teams (15 repos):
 | --- | --: |
 | PullRequestReviewEvent | 8 |
 | PullRequestReviewCommentEvent | 7 |
-| WatchEvent | 3 |
-| PullRequestEvent | 2 |
 | ForkEvent | 1 |
-| IssuesEvent | 1 |
+| PullRequestEvent | 1 |
 | PushEvent | 1 |
+| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 22 | 2 | 8 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 18 | 1 | 8 | 0 |
 | [`hyperledger-web3j`](https://github.com/hyperledger-web3j) | 1 | 0 | 0 | 1 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/hyperledger-hip`](https://github.com/hyperledger/hyperledger-hip) | 16 | 1 | 8 | 0 |
+| [`hyperledger/hyperledger-hip`](https://github.com/hyperledger/hyperledger-hip) | 15 | 0 | 8 | 0 |
 | [`hyperledger/toc`](https://github.com/hyperledger/toc) | 2 | 1 | 0 | 0 |
 | [`hyperledger-web3j/web3j`](https://github.com/hyperledger-web3j/web3j) | 1 | 0 | 0 | 1 |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | 0 | 0 | 0 |
-| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 1 | 0 | 0 | 0 |
-| [`hyperledger/hyperledger`](https://github.com/hyperledger/hyperledger) | 1 | 0 | 0 | 0 |
 | [`hyperledger/web3j`](https://github.com/hyperledger/web3j) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -94,12 +89,9 @@ Months as rows, event types as columns. One file per repository in [`conor10_rol
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/hyperledger-hip`](https://github.com/hyperledger/hyperledger-hip) | 16 | [hyperledger_hyperledger-hip.md](conor10_rollup/hyperledger_hyperledger-hip.md) |
+| [`hyperledger/hyperledger-hip`](https://github.com/hyperledger/hyperledger-hip) | 15 | [hyperledger_hyperledger-hip.md](conor10_rollup/hyperledger_hyperledger-hip.md) |
 | [`hyperledger/toc`](https://github.com/hyperledger/toc) | 2 | [hyperledger_toc.md](conor10_rollup/hyperledger_toc.md) |
 | [`hyperledger-web3j/web3j`](https://github.com/hyperledger-web3j/web3j) | 1 | [hyperledger-web3j_web3j.md](conor10_rollup/hyperledger-web3j_web3j.md) |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | [hyperledger_besu.md](conor10_rollup/hyperledger_besu.md) |
-| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 1 | [hyperledger_governance.md](conor10_rollup/hyperledger_governance.md) |
-| [`hyperledger/hyperledger`](https://github.com/hyperledger/hyperledger) | 1 | [hyperledger_hyperledger.md](conor10_rollup/hyperledger_hyperledger.md) |
 | [`hyperledger/web3j`](https://github.com/hyperledger/web3j) | 1 | [hyperledger_web3j.md](conor10_rollup/hyperledger_web3j.md) |
 
 ---

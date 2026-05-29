@@ -1,8 +1,6 @@
-repo,month,PullRequestReviewEvent,PushEvent,PullRequestReviewCommentEvent,PullRequestEvent,CreateEvent,DeleteEvent,ForkEvent,total
-hiero-ledger/hiero-did-sdk-js,2025-08,22,22,16,7,5,2,0,74
-hiero-ledger/hiero-did-sdk-js,2025-09,1,0,0,0,0,0,0,1
-hiero-ledger/hiero-did-sdk-js,2025-10,1,0,0,0,0,0,0,1
-openwallet-foundation/credo-ts,2025-06,0,0,0,2,0,0,0,2
-hyperledger/indy-node,2020-10,0,0,0,0,0,0,1,1
-hyperledger/indy-sdk,2020-10,0,0,0,0,0,0,1,1
-openwallet-foundation/credo-ts-docs,2025-08,0,0,0,1,0,0,0,1
+repo,month,PullRequestReviewEvent,PushEvent,PullRequestReviewCommentEvent,PullRequestEvent,CreateEvent,DeleteEvent,total
+hiero-ledger/hiero-did-sdk-js,2025-08,22,22,16,7,5,2,74
+hiero-ledger/hiero-did-sdk-js,2025-09,1,0,0,0,0,0,1
+hiero-ledger/hiero-did-sdk-js,2025-10,1,0,0,0,0,0,1
+openwallet-foundation/credo-ts,2025-06,0,0,0,2,0,0,2
+openwallet-foundation/credo-ts-docs,2025-08,0,0,0,1,0,0,1

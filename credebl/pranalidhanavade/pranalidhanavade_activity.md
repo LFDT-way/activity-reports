@@ -1,8 +1,10 @@
 # GitHub activity report — `pranalidhanavade`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **2,564** events spanning **2023-09-08 → 2026-04-29**, across **2** organizations and **9** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **2,292** events spanning **2024-01-02 → 2026-04-29**, across **2** organizations and **5** repositories.
 
 ## Teams & repository access
 
@@ -33,20 +35,19 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 2,564 |
-| Pull requests opened | 300 |
-| Pull request reviews | 277 |
-| Issues opened | 67 |
-| Pushes | 988 |
-| Commits pushed | 2,352 |
-| Comments | 171 |
+| Total events | 2,292 |
+| Pull requests opened | 264 |
+| Pull request reviews | 247 |
+| Issues opened | 55 |
+| Pushes | 877 |
+| Commits pushed | 1,805 |
+| Comments | 139 |
 | Releases | 10 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 272 |
 | 2024 | 1,264 |
 | 2025 | 944 |
 | 2026 | 84 |
@@ -55,36 +56,31 @@ Repository access granted through those teams (10 repos):
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 988 |
-| PullRequestEvent | 525 |
-| PullRequestReviewEvent | 277 |
-| CreateEvent | 238 |
-| DeleteEvent | 225 |
-| IssuesEvent | 124 |
-| PullRequestReviewCommentEvent | 107 |
-| IssueCommentEvent | 64 |
+| PushEvent | 877 |
+| PullRequestEvent | 484 |
+| PullRequestReviewEvent | 247 |
+| DeleteEvent | 219 |
+| CreateEvent | 204 |
+| IssuesEvent | 112 |
+| PullRequestReviewCommentEvent | 76 |
+| IssueCommentEvent | 63 |
 | ReleaseEvent | 10 |
-| WatchEvent | 6 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`credebl`](https://github.com/credebl) | 2,563 | 300 | 277 | 988 |
+| [`credebl`](https://github.com/credebl) | 2,291 | 264 | 247 | 877 |
 | [`openwallet-foundation`](https://github.com/openwallet-foundation) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`credebl/studio`](https://github.com/credebl/studio) | 1,733 | 198 | 181 | 739 |
-| [`credebl/platform`](https://github.com/credebl/platform) | 690 | 72 | 84 | 204 |
+| [`credebl/studio`](https://github.com/credebl/studio) | 1,559 | 171 | 174 | 649 |
+| [`credebl/platform`](https://github.com/credebl/platform) | 597 | 64 | 61 | 183 |
 | [`credebl/credo-controller`](https://github.com/credebl/credo-controller) | 81 | 18 | 9 | 25 |
-| [`credebl/docs`](https://github.com/credebl/docs) | 55 | 12 | 3 | 20 |
-| [`credebl/adeya-sdk`](https://github.com/credebl/adeya-sdk) | 1 | 0 | 0 | 0 |
-| [`credebl/adeya-wallet`](https://github.com/credebl/adeya-wallet) | 1 | 0 | 0 | 0 |
-| [`credebl/afj-controller`](https://github.com/credebl/afj-controller) | 1 | 0 | 0 | 0 |
-| [`credebl/webauthn-server`](https://github.com/credebl/webauthn-server) | 1 | 0 | 0 | 0 |
+| [`credebl/docs`](https://github.com/credebl/docs) | 54 | 11 | 3 | 20 |
 | [`openwallet-foundation/credo-ts`](https://github.com/openwallet-foundation/credo-ts) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -93,14 +89,10 @@ Months as rows, event types as columns. One file per repository in [`pranalidhan
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`credebl/studio`](https://github.com/credebl/studio) | 1,733 | [credebl_studio.md](pranalidhanavade_rollup/credebl_studio.md) |
-| [`credebl/platform`](https://github.com/credebl/platform) | 690 | [credebl_platform.md](pranalidhanavade_rollup/credebl_platform.md) |
+| [`credebl/studio`](https://github.com/credebl/studio) | 1,559 | [credebl_studio.md](pranalidhanavade_rollup/credebl_studio.md) |
+| [`credebl/platform`](https://github.com/credebl/platform) | 597 | [credebl_platform.md](pranalidhanavade_rollup/credebl_platform.md) |
 | [`credebl/credo-controller`](https://github.com/credebl/credo-controller) | 81 | [credebl_credo-controller.md](pranalidhanavade_rollup/credebl_credo-controller.md) |
-| [`credebl/docs`](https://github.com/credebl/docs) | 55 | [credebl_docs.md](pranalidhanavade_rollup/credebl_docs.md) |
-| [`credebl/adeya-sdk`](https://github.com/credebl/adeya-sdk) | 1 | [credebl_adeya-sdk.md](pranalidhanavade_rollup/credebl_adeya-sdk.md) |
-| [`credebl/adeya-wallet`](https://github.com/credebl/adeya-wallet) | 1 | [credebl_adeya-wallet.md](pranalidhanavade_rollup/credebl_adeya-wallet.md) |
-| [`credebl/afj-controller`](https://github.com/credebl/afj-controller) | 1 | [credebl_afj-controller.md](pranalidhanavade_rollup/credebl_afj-controller.md) |
-| [`credebl/webauthn-server`](https://github.com/credebl/webauthn-server) | 1 | [credebl_webauthn-server.md](pranalidhanavade_rollup/credebl_webauthn-server.md) |
+| [`credebl/docs`](https://github.com/credebl/docs) | 54 | [credebl_docs.md](pranalidhanavade_rollup/credebl_docs.md) |
 | [`openwallet-foundation/credo-ts`](https://github.com/openwallet-foundation/credo-ts) | 1 | [openwallet-foundation_credo-ts.md](pranalidhanavade_rollup/openwallet-foundation_credo-ts.md) |
 
 ---

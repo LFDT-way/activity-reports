@@ -1,8 +1,10 @@
 # GitHub activity report — `skounis`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **340** events spanning **2023-03-29 → 2026-04-28**, across **2** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **220** events spanning **2024-01-05 → 2026-04-28**, across **2** organizations and **7** repositories.
 
 ## Teams & repository access
 
@@ -10,7 +12,7 @@ Member of **1** team(s):
 
 | Team | Role in team |
 | --- | --- |
-| `tac` | maintainer |
+| `tac` | member |
 
 Repository access granted through those teams (2 repos):
 
@@ -24,20 +26,19 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 340 |
-| Pull requests opened | 26 |
-| Pull request reviews | 149 |
-| Issues opened | 9 |
-| Pushes | 28 |
-| Commits pushed | 58 |
-| Comments | 79 |
+| Total events | 220 |
+| Pull requests opened | 21 |
+| Pull request reviews | 79 |
+| Issues opened | 6 |
+| Pushes | 25 |
+| Commits pushed | 55 |
+| Comments | 47 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 120 |
 | 2024 | 109 |
 | 2025 | 108 |
 | 2026 | 3 |
@@ -46,34 +47,32 @@ Repository access granted through those teams (2 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 149 |
-| PullRequestReviewCommentEvent | 58 |
-| PullRequestEvent | 54 |
-| PushEvent | 28 |
-| IssueCommentEvent | 21 |
-| IssuesEvent | 15 |
-| ForkEvent | 7 |
+| PullRequestReviewEvent | 79 |
+| PullRequestEvent | 45 |
+| PullRequestReviewCommentEvent | 32 |
+| PushEvent | 25 |
+| IssueCommentEvent | 15 |
+| IssuesEvent | 12 |
 | CreateEvent | 6 |
+| ForkEvent | 5 |
 | DeleteEvent | 1 |
-| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation`](https://github.com/openwallet-foundation) | 335 | 25 | 149 | 28 |
-| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 5 | 1 | 0 | 0 |
+| [`openwallet-foundation`](https://github.com/openwallet-foundation) | 218 | 21 | 79 | 25 |
+| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 2 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 203 | 19 | 90 | 24 |
-| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 106 | 0 | 53 | 1 |
-| [`openwallet-foundation/safe-wallet-sig`](https://github.com/openwallet-foundation/safe-wallet-sig) | 21 | 4 | 5 | 3 |
-| [`openwallet-foundation-labs/identity-credential`](https://github.com/openwallet-foundation-labs/identity-credential) | 3 | 1 | 0 | 0 |
-| [`openwallet-foundation/architecture-sig`](https://github.com/openwallet-foundation/architecture-sig) | 3 | 1 | 1 | 0 |
+| [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 158 | 19 | 53 | 24 |
+| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 51 | 0 | 24 | 1 |
+| [`openwallet-foundation/safe-wallet-sig`](https://github.com/openwallet-foundation/safe-wallet-sig) | 5 | 1 | 1 | 0 |
 | [`openwallet-foundation/OID4VC-due-diligence-tf`](https://github.com/openwallet-foundation/OID4VC-due-diligence-tf) | 2 | 1 | 0 | 0 |
+| [`openwallet-foundation/architecture-sig`](https://github.com/openwallet-foundation/architecture-sig) | 2 | 0 | 1 | 0 |
 | [`openwallet-foundation-labs/credhub`](https://github.com/openwallet-foundation-labs/credhub) | 1 | 0 | 0 | 0 |
 | [`openwallet-foundation-labs/sd-jwt-dotnet`](https://github.com/openwallet-foundation-labs/sd-jwt-dotnet) | 1 | 0 | 0 | 0 |
 
@@ -83,12 +82,11 @@ Months as rows, event types as columns. One file per repository in [`skounis_rol
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 203 | [openwallet-foundation_tac.md](skounis_rollup/openwallet-foundation_tac.md) |
-| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 106 | [openwallet-foundation_project-proposals.md](skounis_rollup/openwallet-foundation_project-proposals.md) |
-| [`openwallet-foundation/safe-wallet-sig`](https://github.com/openwallet-foundation/safe-wallet-sig) | 21 | [openwallet-foundation_safe-wallet-sig.md](skounis_rollup/openwallet-foundation_safe-wallet-sig.md) |
-| [`openwallet-foundation-labs/identity-credential`](https://github.com/openwallet-foundation-labs/identity-credential) | 3 | [openwallet-foundation-labs_identity-credential.md](skounis_rollup/openwallet-foundation-labs_identity-credential.md) |
-| [`openwallet-foundation/architecture-sig`](https://github.com/openwallet-foundation/architecture-sig) | 3 | [openwallet-foundation_architecture-sig.md](skounis_rollup/openwallet-foundation_architecture-sig.md) |
+| [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 158 | [openwallet-foundation_tac.md](skounis_rollup/openwallet-foundation_tac.md) |
+| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 51 | [openwallet-foundation_project-proposals.md](skounis_rollup/openwallet-foundation_project-proposals.md) |
+| [`openwallet-foundation/safe-wallet-sig`](https://github.com/openwallet-foundation/safe-wallet-sig) | 5 | [openwallet-foundation_safe-wallet-sig.md](skounis_rollup/openwallet-foundation_safe-wallet-sig.md) |
 | [`openwallet-foundation/OID4VC-due-diligence-tf`](https://github.com/openwallet-foundation/OID4VC-due-diligence-tf) | 2 | [openwallet-foundation_OID4VC-due-diligence-tf.md](skounis_rollup/openwallet-foundation_OID4VC-due-diligence-tf.md) |
+| [`openwallet-foundation/architecture-sig`](https://github.com/openwallet-foundation/architecture-sig) | 2 | [openwallet-foundation_architecture-sig.md](skounis_rollup/openwallet-foundation_architecture-sig.md) |
 | [`openwallet-foundation-labs/credhub`](https://github.com/openwallet-foundation-labs/credhub) | 1 | [openwallet-foundation-labs_credhub.md](skounis_rollup/openwallet-foundation-labs_credhub.md) |
 | [`openwallet-foundation-labs/sd-jwt-dotnet`](https://github.com/openwallet-foundation-labs/sd-jwt-dotnet) | 1 | [openwallet-foundation-labs_sd-jwt-dotnet.md](skounis_rollup/openwallet-foundation-labs_sd-jwt-dotnet.md) |
 

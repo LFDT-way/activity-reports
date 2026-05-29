@@ -1,8 +1,10 @@
 # GitHub activity report — `gkozyryatskyy`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **438** events spanning **2023-04-02 → 2026-05-26**, across **2** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **431** events spanning **2025-03-07 → 2026-05-26**, across **1** organizations and **7** repositories.
 
 ## Teams & repository access
 
@@ -28,20 +30,19 @@ Repository access granted through those teams (3 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 438 |
+| Total events | 431 |
 | Pull requests opened | 12 |
 | Pull request reviews | 97 |
-| Issues opened | 20 |
+| Issues opened | 19 |
 | Pushes | 93 |
 | Commits pushed | 103 |
-| Comments | 125 |
+| Comments | 120 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 7 |
 | 2025 | 345 |
 | 2026 | 86 |
 
@@ -52,20 +53,19 @@ Repository access granted through those teams (3 repos):
 | PullRequestReviewEvent | 97 |
 | PushEvent | 93 |
 | PullRequestReviewCommentEvent | 87 |
-| IssuesEvent | 57 |
-| IssueCommentEvent | 38 |
+| IssuesEvent | 56 |
 | PullRequestEvent | 35 |
+| IssueCommentEvent | 33 |
 | CreateEvent | 16 |
 | DeleteEvent | 10 |
-| WatchEvent | 3 |
 | ForkEvent | 2 |
+| WatchEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hiero-ledger`](https://github.com/hiero-ledger) | 431 | 12 | 97 | 93 |
-| [`hyperledger`](https://github.com/hyperledger) | 7 | 0 | 0 | 0 |
 
 ## Repositories
 
@@ -73,7 +73,6 @@ Repository access granted through those teams (3 repos):
 | --- | --: | --: | --: | --: |
 | [`hiero-ledger/hiero-consensus-node`](https://github.com/hiero-ledger/hiero-consensus-node) | 407 | 12 | 91 | 93 |
 | [`hiero-ledger/hiero-improvement-proposals`](https://github.com/hiero-ledger/hiero-improvement-proposals) | 16 | 0 | 6 | 0 |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 7 | 0 | 0 | 0 |
 | [`hiero-ledger/solo`](https://github.com/hiero-ledger/solo) | 3 | 0 | 0 | 0 |
 | [`hiero-ledger/hiero-mirror-node`](https://github.com/hiero-ledger/hiero-mirror-node) | 2 | 0 | 0 | 0 |
 | [`hiero-ledger/hiero-gradle-conventions`](https://github.com/hiero-ledger/hiero-gradle-conventions) | 1 | 0 | 0 | 0 |
@@ -88,7 +87,6 @@ Months as rows, event types as columns. One file per repository in [`gkozyryatsk
 | --- | --: | --- |
 | [`hiero-ledger/hiero-consensus-node`](https://github.com/hiero-ledger/hiero-consensus-node) | 407 | [hiero-ledger_hiero-consensus-node.md](gkozyryatskyy_rollup/hiero-ledger_hiero-consensus-node.md) |
 | [`hiero-ledger/hiero-improvement-proposals`](https://github.com/hiero-ledger/hiero-improvement-proposals) | 16 | [hiero-ledger_hiero-improvement-proposals.md](gkozyryatskyy_rollup/hiero-ledger_hiero-improvement-proposals.md) |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 7 | [hyperledger_besu.md](gkozyryatskyy_rollup/hyperledger_besu.md) |
 | [`hiero-ledger/solo`](https://github.com/hiero-ledger/solo) | 3 | [hiero-ledger_solo.md](gkozyryatskyy_rollup/hiero-ledger_solo.md) |
 | [`hiero-ledger/hiero-mirror-node`](https://github.com/hiero-ledger/hiero-mirror-node) | 2 | [hiero-ledger_hiero-mirror-node.md](gkozyryatskyy_rollup/hiero-ledger_hiero-mirror-node.md) |
 | [`hiero-ledger/hiero-gradle-conventions`](https://github.com/hiero-ledger/hiero-gradle-conventions) | 1 | [hiero-ledger_hiero-gradle-conventions.md](gkozyryatskyy_rollup/hiero-ledger_hiero-gradle-conventions.md) |

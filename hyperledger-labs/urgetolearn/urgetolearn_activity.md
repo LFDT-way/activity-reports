@@ -1,6 +1,8 @@
 # GitHub activity report — `urgetolearn`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **47** events spanning **2024-06-23 → 2025-04-16**, across **2** organizations and **3** repositories.
 

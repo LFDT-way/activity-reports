@@ -1,8 +1,10 @@
 # GitHub activity report — `AdityaKoranga`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **91** events spanning **2022-07-09 → 2026-04-28**, across **4** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **90** events spanning **2024-07-22 → 2026-04-28**, across **4** organizations and **7** repositories.
 
 ## Teams & repository access
 
@@ -33,7 +35,7 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 91 |
+| Total events | 90 |
 | Pull requests opened | 1 |
 | Pull request reviews | 26 |
 | Issues opened | 3 |
@@ -46,7 +48,6 @@ Repository access granted through those teams (10 repos):
 
 | Year | Events |
 | --- | --: |
-| 2022 | 1 |
 | 2024 | 7 |
 | 2025 | 72 |
 | 2026 | 11 |
@@ -61,8 +62,8 @@ Repository access granted through those teams (10 repos):
 | PullRequestReviewCommentEvent | 14 |
 | PushEvent | 9 |
 | IssuesEvent | 6 |
-| ForkEvent | 2 |
 | PullRequestEvent | 2 |
+| ForkEvent | 1 |
 | WatchEvent | 1 |
 
 ## Organizations
@@ -71,8 +72,8 @@ Repository access granted through those teams (10 repos):
 | --- | --: | --: | --: | --: |
 | [`PQCA`](https://github.com/PQCA) | 80 | 0 | 26 | 9 |
 | [`pq-code-package`](https://github.com/pq-code-package) | 8 | 0 | 0 | 0 |
-| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 2 | 0 | 0 | 0 |
 | [`cbomkit`](https://github.com/cbomkit) | 1 | 1 | 0 | 0 |
+| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
@@ -83,7 +84,6 @@ Repository access granted through those teams (10 repos):
 | [`pq-code-package/mlkem-native`](https://github.com/pq-code-package/mlkem-native) | 7 | 0 | 0 | 0 |
 | [`PQCA/governance`](https://github.com/PQCA/governance) | 2 | 0 | 0 | 0 |
 | [`cbomkit/cbomkit`](https://github.com/cbomkit/cbomkit) | 1 | 1 | 0 | 0 |
-| [`open-quantum-safe/openssl`](https://github.com/open-quantum-safe/openssl) | 1 | 0 | 0 | 0 |
 | [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 1 | 0 | 0 | 0 |
 | [`pq-code-package/mlkem-c-aarch64`](https://github.com/pq-code-package/mlkem-c-aarch64) | 1 | 0 | 0 | 0 |
 
@@ -98,7 +98,6 @@ Months as rows, event types as columns. One file per repository in [`AdityaKoran
 | [`pq-code-package/mlkem-native`](https://github.com/pq-code-package/mlkem-native) | 7 | [pq-code-package_mlkem-native.md](AdityaKoranga_rollup/pq-code-package_mlkem-native.md) |
 | [`PQCA/governance`](https://github.com/PQCA/governance) | 2 | [PQCA_governance.md](AdityaKoranga_rollup/PQCA_governance.md) |
 | [`cbomkit/cbomkit`](https://github.com/cbomkit/cbomkit) | 1 | [cbomkit_cbomkit.md](AdityaKoranga_rollup/cbomkit_cbomkit.md) |
-| [`open-quantum-safe/openssl`](https://github.com/open-quantum-safe/openssl) | 1 | [open-quantum-safe_openssl.md](AdityaKoranga_rollup/open-quantum-safe_openssl.md) |
 | [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 1 | [open-quantum-safe_oqs-provider.md](AdityaKoranga_rollup/open-quantum-safe_oqs-provider.md) |
 | [`pq-code-package/mlkem-c-aarch64`](https://github.com/pq-code-package/mlkem-c-aarch64) | 1 | [pq-code-package_mlkem-c-aarch64.md](AdityaKoranga_rollup/pq-code-package_mlkem-c-aarch64.md) |
 

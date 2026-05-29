@@ -1,8 +1,10 @@
 # GitHub activity report — `peppelinux`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **40** events spanning **2021-08-30 → 2025-01-22**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **30** events spanning **2024-01-23 → 2025-01-22**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -23,21 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 40 |
-| Pull requests opened | 3 |
-| Pull request reviews | 9 |
+| Total events | 30 |
+| Pull requests opened | 2 |
+| Pull request reviews | 8 |
 | Issues opened | 1 |
 | Pushes | 2 |
 | Commits pushed | 2 |
-| Comments | 13 |
+| Comments | 9 |
 | Releases | 2 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 1 |
-| 2023 | 9 |
 | 2024 | 29 |
 | 2025 | 1 |
 
@@ -45,31 +45,27 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 9 |
 | PullRequestReviewCommentEvent | 8 |
-| IssueCommentEvent | 5 |
-| PullRequestEvent | 4 |
-| WatchEvent | 4 |
+| PullRequestReviewEvent | 8 |
 | CreateEvent | 3 |
+| PullRequestEvent | 3 |
 | IssuesEvent | 2 |
 | PushEvent | 2 |
 | ReleaseEvent | 2 |
-| ForkEvent | 1 |
+| IssueCommentEvent | 1 |
+| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 39 | 3 | 9 | 2 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
+| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 30 | 2 | 8 | 2 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs/sd-jwt-python`](https://github.com/openwallet-foundation-labs/sd-jwt-python) | 37 | 3 | 9 | 2 |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 1 | 0 | 0 | 0 |
-| [`openwallet-foundation-labs/SD-JWT-Kotlin`](https://github.com/openwallet-foundation-labs/SD-JWT-Kotlin) | 1 | 0 | 0 | 0 |
+| [`openwallet-foundation-labs/sd-jwt-python`](https://github.com/openwallet-foundation-labs/sd-jwt-python) | 29 | 2 | 8 | 2 |
 | [`openwallet-foundation-labs/oid4vc-ts`](https://github.com/openwallet-foundation-labs/oid4vc-ts) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -78,9 +74,7 @@ Months as rows, event types as columns. One file per repository in [`peppelinux_
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`openwallet-foundation-labs/sd-jwt-python`](https://github.com/openwallet-foundation-labs/sd-jwt-python) | 37 | [openwallet-foundation-labs_sd-jwt-python.md](peppelinux_rollup/openwallet-foundation-labs_sd-jwt-python.md) |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 1 | [hyperledger_aries-cloudagent-python.md](peppelinux_rollup/hyperledger_aries-cloudagent-python.md) |
-| [`openwallet-foundation-labs/SD-JWT-Kotlin`](https://github.com/openwallet-foundation-labs/SD-JWT-Kotlin) | 1 | [openwallet-foundation-labs_SD-JWT-Kotlin.md](peppelinux_rollup/openwallet-foundation-labs_SD-JWT-Kotlin.md) |
+| [`openwallet-foundation-labs/sd-jwt-python`](https://github.com/openwallet-foundation-labs/sd-jwt-python) | 29 | [openwallet-foundation-labs_sd-jwt-python.md](peppelinux_rollup/openwallet-foundation-labs_sd-jwt-python.md) |
 | [`openwallet-foundation-labs/oid4vc-ts`](https://github.com/openwallet-foundation-labs/oid4vc-ts) | 1 | [openwallet-foundation-labs_oid4vc-ts.md](peppelinux_rollup/openwallet-foundation-labs_oid4vc-ts.md) |
 
 ---

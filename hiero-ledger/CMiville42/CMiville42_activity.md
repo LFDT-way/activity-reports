@@ -1,6 +1,8 @@
 # GitHub activity report — `CMiville42`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 **No activity found** for `CMiville42` in the date range searched.
 
@@ -13,7 +15,7 @@ Member of **2** team(s):
 | `hiero-block-node-committers` | member |
 | `security-maintainers` | member |
 
-Repository access granted through those teams (40 repos):
+Repository access granted through those teams (41 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
@@ -27,6 +29,7 @@ Repository access granted through those teams (40 repos):
 | `hiero-consensus-node` | triage | `security-maintainers` (triage) |
 | `hiero-consensus-specifications` | triage | `security-maintainers` (triage) |
 | `hiero-contracts` | triage | `security-maintainers` (triage) |
+| `hiero-cryptography` | triage | `security-maintainers` (triage) |
 | `hiero-did-sdk-js` | triage | `security-maintainers` (triage) |
 | `hiero-did-sdk-python` | triage | `security-maintainers` (triage) |
 | `hiero-docs` | triage | `security-maintainers` (triage) |

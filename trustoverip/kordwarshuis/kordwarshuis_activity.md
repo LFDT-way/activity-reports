@@ -1,6 +1,8 @@
 # GitHub activity report — `kordwarshuis`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **817** events spanning **2024-02-05 → 2026-04-27**, across **1** organizations and **18** repositories.
 

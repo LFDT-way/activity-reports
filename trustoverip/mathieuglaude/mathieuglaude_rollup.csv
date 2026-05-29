@@ -1,7 +1,2 @@
-repo,month,PullRequestEvent,ForkEvent,IssueCommentEvent,CreateEvent,IssuesEvent,total
-trustoverip/tswg-trust-registry-protocol,2024-03,0,0,3,0,1,4
-trustoverip/utility-foundry-wg,2020-10,0,1,0,0,0,1
-trustoverip/utility-foundry-wg,2020-11,3,0,0,0,0,3
-hyperledger/aries-rfcs,2023-11,1,1,0,0,0,2
-trustoverip/credential-exchange-protocols,2023-06,0,0,0,2,0,2
-trustoverip/deliverables,2021-02,1,1,0,0,0,2
+repo,month,IssueCommentEvent,IssuesEvent,total
+trustoverip/tswg-trust-registry-protocol,2024-03,3,1,4

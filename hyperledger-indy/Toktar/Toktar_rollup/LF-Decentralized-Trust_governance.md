@@ -1,6 +1,6 @@
 # [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) — monthly activity
 
-| Month | PullRequestReviewCommentEvent | PullRequestReviewEvent | Total |
+| Month | PullRequestReviewEvent | PullRequestReviewCommentEvent | Total |
 | --- | --: | --: | --: |
 | 2025-02 | 1 | 1 | 2 |
 | **Total** | **1** | **1** | **2** |

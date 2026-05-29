@@ -1,8 +1,10 @@
 # GitHub activity report — `hosie`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **251** events spanning **2022-08-14 → 2025-11-03**, across **2** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **219** events spanning **2024-01-25 → 2025-11-03**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -24,21 +26,19 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 251 |
-| Pull requests opened | 19 |
-| Pull request reviews | 54 |
-| Issues opened | 10 |
+| Total events | 219 |
+| Pull requests opened | 11 |
+| Pull request reviews | 53 |
+| Issues opened | 6 |
 | Pushes | 63 |
 | Commits pushed | 361 |
-| Comments | 56 |
+| Comments | 43 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 16 |
-| 2023 | 16 |
 | 2024 | 147 |
 | 2025 | 72 |
 
@@ -47,31 +47,30 @@ Repository access granted through those teams (2 repos):
 | Type | Count |
 | --- | --: |
 | PushEvent | 63 |
-| PullRequestReviewEvent | 54 |
-| PullRequestEvent | 41 |
-| IssueCommentEvent | 30 |
-| PullRequestReviewCommentEvent | 26 |
+| PullRequestReviewEvent | 53 |
+| PullRequestEvent | 30 |
+| PullRequestReviewCommentEvent | 25 |
+| IssueCommentEvent | 18 |
 | DeleteEvent | 12 |
-| IssuesEvent | 12 |
 | CreateEvent | 9 |
-| ForkEvent | 4 |
+| IssuesEvent | 8 |
+| ForkEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`LF-Decentralized-Trust-labs`](https://github.com/LF-Decentralized-Trust-labs) | 214 | 9 | 53 | 63 |
-| [`hyperledger`](https://github.com/hyperledger) | 37 | 10 | 1 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 5 | 2 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`LF-Decentralized-Trust-labs/paladin`](https://github.com/LF-Decentralized-Trust-labs/paladin) | 214 | 9 | 53 | 63 |
-| [`hyperledger/firefly`](https://github.com/hyperledger/firefly) | 19 | 3 | 1 | 0 |
-| [`hyperledger/firefly-evmconnect`](https://github.com/hyperledger/firefly-evmconnect) | 8 | 2 | 0 | 0 |
-| [`hyperledger/firefly-cli`](https://github.com/hyperledger/firefly-cli) | 6 | 2 | 0 | 0 |
-| [`hyperledger/firefly-common`](https://github.com/hyperledger/firefly-common) | 4 | 3 | 0 | 0 |
+| [`hyperledger/firefly-common`](https://github.com/hyperledger/firefly-common) | 3 | 2 | 0 | 0 |
+| [`hyperledger/firefly`](https://github.com/hyperledger/firefly) | 1 | 0 | 0 | 0 |
+| [`hyperledger/firefly-evmconnect`](https://github.com/hyperledger/firefly-evmconnect) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -80,10 +79,9 @@ Months as rows, event types as columns. One file per repository in [`hosie_rollu
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`LF-Decentralized-Trust-labs/paladin`](https://github.com/LF-Decentralized-Trust-labs/paladin) | 214 | [LF-Decentralized-Trust-labs_paladin.md](hosie_rollup/LF-Decentralized-Trust-labs_paladin.md) |
-| [`hyperledger/firefly`](https://github.com/hyperledger/firefly) | 19 | [hyperledger_firefly.md](hosie_rollup/hyperledger_firefly.md) |
-| [`hyperledger/firefly-evmconnect`](https://github.com/hyperledger/firefly-evmconnect) | 8 | [hyperledger_firefly-evmconnect.md](hosie_rollup/hyperledger_firefly-evmconnect.md) |
-| [`hyperledger/firefly-cli`](https://github.com/hyperledger/firefly-cli) | 6 | [hyperledger_firefly-cli.md](hosie_rollup/hyperledger_firefly-cli.md) |
-| [`hyperledger/firefly-common`](https://github.com/hyperledger/firefly-common) | 4 | [hyperledger_firefly-common.md](hosie_rollup/hyperledger_firefly-common.md) |
+| [`hyperledger/firefly-common`](https://github.com/hyperledger/firefly-common) | 3 | [hyperledger_firefly-common.md](hosie_rollup/hyperledger_firefly-common.md) |
+| [`hyperledger/firefly`](https://github.com/hyperledger/firefly) | 1 | [hyperledger_firefly.md](hosie_rollup/hyperledger_firefly.md) |
+| [`hyperledger/firefly-evmconnect`](https://github.com/hyperledger/firefly-evmconnect) | 1 | [hyperledger_firefly-evmconnect.md](hosie_rollup/hyperledger_firefly-evmconnect.md) |
 
 ---
 

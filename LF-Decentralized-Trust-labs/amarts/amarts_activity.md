@@ -1,8 +1,10 @@
 # GitHub activity report — `amarts`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **18** events spanning **2019-10-03 → 2026-03-17**, across **3** organizations and **6** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **12** events spanning **2024-09-13 → 2026-03-17**, across **2** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -23,21 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 18 |
-| Pull requests opened | 2 |
+| Total events | 12 |
+| Pull requests opened | 1 |
 | Pull request reviews | 2 |
 | Issues opened | 0 |
 | Pushes | 1 |
 | Commits pushed | 0 |
-| Comments | 7 |
+| Comments | 6 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2019 | 5 |
-| 2020 | 1 |
 | 2024 | 1 |
 | 2025 | 9 |
 | 2026 | 2 |
@@ -46,20 +46,19 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 6 |
-| WatchEvent | 4 |
-| ForkEvent | 2 |
-| PullRequestEvent | 2 |
+| IssueCommentEvent | 5 |
 | PullRequestReviewEvent | 2 |
+| ForkEvent | 1 |
+| PullRequestEvent | 1 |
 | PullRequestReviewCommentEvent | 1 |
 | PushEvent | 1 |
+| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`LF-Decentralized-Trust-labs`](https://github.com/LF-Decentralized-Trust-labs) | 11 | 1 | 2 | 1 |
-| [`hyperledger`](https://github.com/hyperledger) | 6 | 1 | 0 | 0 |
 | [`hyperledger-labs`](https://github.com/hyperledger-labs) | 1 | 0 | 0 | 0 |
 
 ## Repositories
@@ -68,10 +67,7 @@ Repository access granted through those teams (1 repos):
 | --- | --: | --: | --: | --: |
 | [`LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io`](https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io) | 7 | 1 | 1 | 0 |
 | [`LF-Decentralized-Trust-labs/decentralized-directory-protocol`](https://github.com/LF-Decentralized-Trust-labs/decentralized-directory-protocol) | 4 | 0 | 1 | 1 |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 4 | 1 | 0 | 0 |
 | [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 1 | 0 | 0 | 0 |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 1 | 0 | 0 | 0 |
-| [`hyperledger/ursa`](https://github.com/hyperledger/ursa) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -81,10 +77,7 @@ Months as rows, event types as columns. One file per repository in [`amarts_roll
 | --- | --: | --- |
 | [`LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io`](https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io) | 7 | [LF-Decentralized-Trust-labs_LF-Decentralized-Trust-labs.github.io.md](amarts_rollup/LF-Decentralized-Trust-labs_LF-Decentralized-Trust-labs.github.io.md) |
 | [`LF-Decentralized-Trust-labs/decentralized-directory-protocol`](https://github.com/LF-Decentralized-Trust-labs/decentralized-directory-protocol) | 4 | [LF-Decentralized-Trust-labs_decentralized-directory-protocol.md](amarts_rollup/LF-Decentralized-Trust-labs_decentralized-directory-protocol.md) |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 4 | [hyperledger_aries-cloudagent-python.md](amarts_rollup/hyperledger_aries-cloudagent-python.md) |
 | [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 1 | [hyperledger-labs_hyperledger-labs.github.io.md](amarts_rollup/hyperledger-labs_hyperledger-labs.github.io.md) |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 1 | [hyperledger_indy-sdk.md](amarts_rollup/hyperledger_indy-sdk.md) |
-| [`hyperledger/ursa`](https://github.com/hyperledger/ursa) | 1 | [hyperledger_ursa.md](amarts_rollup/hyperledger_ursa.md) |
 
 ---
 

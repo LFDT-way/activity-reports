@@ -1,8 +1,10 @@
 # GitHub activity report — `AndreAugusto11`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **261** events spanning **2022-02-24 → 2026-05-25**, across **4** organizations and **12** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **172** events spanning **2024-01-18 → 2026-05-25**, across **4** organizations and **8** repositories.
 
 ## Teams & repository access
 
@@ -27,21 +29,19 @@ Repository access granted through those teams (3 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 261 |
-| Pull requests opened | 37 |
-| Pull request reviews | 49 |
-| Issues opened | 20 |
+| Total events | 172 |
+| Pull requests opened | 20 |
+| Pull request reviews | 42 |
+| Issues opened | 12 |
 | Pushes | 7 |
 | Commits pushed | 7 |
-| Comments | 116 |
+| Comments | 68 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 50 |
-| 2023 | 39 |
 | 2024 | 39 |
 | 2025 | 114 |
 | 2026 | 19 |
@@ -50,15 +50,13 @@ Repository access granted through those teams (3 repos):
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 78 |
-| PullRequestReviewEvent | 49 |
-| PullRequestEvent | 44 |
-| PullRequestReviewCommentEvent | 38 |
-| IssuesEvent | 34 |
+| PullRequestReviewEvent | 42 |
+| IssueCommentEvent | 37 |
+| PullRequestReviewCommentEvent | 31 |
+| PullRequestEvent | 26 |
+| IssuesEvent | 24 |
 | PushEvent | 7 |
 | CreateEvent | 4 |
-| ForkEvent | 4 |
-| WatchEvent | 2 |
 | DeleteEvent | 1 |
 
 ## Organizations
@@ -66,8 +64,8 @@ Repository access granted through those teams (3 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-cacti`](https://github.com/hyperledger-cacti) | 137 | 14 | 39 | 6 |
-| [`hyperledger`](https://github.com/hyperledger) | 115 | 23 | 10 | 0 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 7 | 0 | 0 | 1 |
+| [`hyperledger`](https://github.com/hyperledger) | 29 | 6 | 3 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 4 | 0 | 0 | 1 |
 | [`LF-Decentralized-Trust-Mentorships`](https://github.com/LF-Decentralized-Trust-Mentorships) | 2 | 0 | 0 | 0 |
 
 ## Repositories
@@ -75,17 +73,13 @@ Repository access granted through those teams (3 repos):
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-cacti/cacti`](https://github.com/hyperledger-cacti/cacti) | 131 | 13 | 39 | 6 |
-| [`hyperledger/cacti`](https://github.com/hyperledger/cacti) | 59 | 11 | 3 | 0 |
-| [`hyperledger/cactus`](https://github.com/hyperledger/cactus) | 51 | 12 | 7 | 0 |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 4 | 0 | 0 | 0 |
+| [`hyperledger/cacti`](https://github.com/hyperledger/cacti) | 29 | 6 | 3 | 0 |
 | [`hyperledger-cacti/.github`](https://github.com/hyperledger-cacti/.github) | 3 | 1 | 0 | 0 |
 | [`hyperledger-labs/benchmarking-cross-chain-bridge-aggregators`](https://github.com/hyperledger-labs/benchmarking-cross-chain-bridge-aggregators) | 3 | 0 | 0 | 1 |
-| [`hyperledger-labs/benchmarking-cross-chain-bridges`](https://github.com/hyperledger-labs/benchmarking-cross-chain-bridges) | 3 | 0 | 0 | 0 |
 | [`LF-Decentralized-Trust-Mentorships/mentorship-program`](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program) | 2 | 0 | 0 | 0 |
 | [`hyperledger-cacti/cacti-demos`](https://github.com/hyperledger-cacti/cacti-demos) | 2 | 0 | 0 | 0 |
 | [`hyperledger-cacti/interoperability-theory`](https://github.com/hyperledger-cacti/interoperability-theory) | 1 | 0 | 0 | 0 |
-| [`hyperledger-labs/university-course`](https://github.com/hyperledger-labs/university-course) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | 0 | 0 | 0 |
+| [`hyperledger-labs/benchmarking-cross-chain-bridges`](https://github.com/hyperledger-labs/benchmarking-cross-chain-bridges) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -94,17 +88,13 @@ Months as rows, event types as columns. One file per repository in [`AndreAugust
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`hyperledger-cacti/cacti`](https://github.com/hyperledger-cacti/cacti) | 131 | [hyperledger-cacti_cacti.md](AndreAugusto11_rollup/hyperledger-cacti_cacti.md) |
-| [`hyperledger/cacti`](https://github.com/hyperledger/cacti) | 59 | [hyperledger_cacti.md](AndreAugusto11_rollup/hyperledger_cacti.md) |
-| [`hyperledger/cactus`](https://github.com/hyperledger/cactus) | 51 | [hyperledger_cactus.md](AndreAugusto11_rollup/hyperledger_cactus.md) |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 4 | [hyperledger_besu.md](AndreAugusto11_rollup/hyperledger_besu.md) |
+| [`hyperledger/cacti`](https://github.com/hyperledger/cacti) | 29 | [hyperledger_cacti.md](AndreAugusto11_rollup/hyperledger_cacti.md) |
 | [`hyperledger-cacti/.github`](https://github.com/hyperledger-cacti/.github) | 3 | [hyperledger-cacti_.github.md](AndreAugusto11_rollup/hyperledger-cacti_.github.md) |
 | [`hyperledger-labs/benchmarking-cross-chain-bridge-aggregators`](https://github.com/hyperledger-labs/benchmarking-cross-chain-bridge-aggregators) | 3 | [hyperledger-labs_benchmarking-cross-chain-bridge-aggregators.md](AndreAugusto11_rollup/hyperledger-labs_benchmarking-cross-chain-bridge-aggregators.md) |
-| [`hyperledger-labs/benchmarking-cross-chain-bridges`](https://github.com/hyperledger-labs/benchmarking-cross-chain-bridges) | 3 | [hyperledger-labs_benchmarking-cross-chain-bridges.md](AndreAugusto11_rollup/hyperledger-labs_benchmarking-cross-chain-bridges.md) |
 | [`LF-Decentralized-Trust-Mentorships/mentorship-program`](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program) | 2 | [LF-Decentralized-Trust-Mentorships_mentorship-program.md](AndreAugusto11_rollup/LF-Decentralized-Trust-Mentorships_mentorship-program.md) |
 | [`hyperledger-cacti/cacti-demos`](https://github.com/hyperledger-cacti/cacti-demos) | 2 | [hyperledger-cacti_cacti-demos.md](AndreAugusto11_rollup/hyperledger-cacti_cacti-demos.md) |
 | [`hyperledger-cacti/interoperability-theory`](https://github.com/hyperledger-cacti/interoperability-theory) | 1 | [hyperledger-cacti_interoperability-theory.md](AndreAugusto11_rollup/hyperledger-cacti_interoperability-theory.md) |
-| [`hyperledger-labs/university-course`](https://github.com/hyperledger-labs/university-course) | 1 | [hyperledger-labs_university-course.md](AndreAugusto11_rollup/hyperledger-labs_university-course.md) |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | [hyperledger_fabric-samples.md](AndreAugusto11_rollup/hyperledger_fabric-samples.md) |
+| [`hyperledger-labs/benchmarking-cross-chain-bridges`](https://github.com/hyperledger-labs/benchmarking-cross-chain-bridges) | 1 | [hyperledger-labs_benchmarking-cross-chain-bridges.md](AndreAugusto11_rollup/hyperledger-labs_benchmarking-cross-chain-bridges.md) |
 
 ---
 

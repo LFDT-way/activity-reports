@@ -1,9 +1,9 @@
 # [`hyperledger-indy/indy-vdr`](https://github.com/hyperledger-indy/indy-vdr) — monthly activity
 
-| Month | IssueCommentEvent | PullRequestReviewEvent | PullRequestReviewCommentEvent | DeleteEvent | Total |
+| Month | IssueCommentEvent | PullRequestReviewEvent | DeleteEvent | PullRequestReviewCommentEvent | Total |
 | --- | --: | --: | --: | --: | --: |
-| 2026-01 | 1 |  |  | 1 | 2 |
-| 2026-02 |  | 1 | 1 |  | 2 |
+| 2026-01 | 1 |  | 1 |  | 2 |
+| 2026-02 |  | 1 |  | 1 | 2 |
 | 2026-04 |  | 1 |  |  | 1 |
 | **Total** | **1** | **2** | **1** | **1** | **5** |
 

@@ -1,8 +1,10 @@
 # GitHub activity report — `iikirilov`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **149** events spanning **2019-09-16 → 2020-03-25**, across **1** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `iikirilov` in the date range searched.
 
 ## Teams & repository access
 
@@ -32,58 +34,6 @@ Repository access granted through those teams (15 repos):
 | `web3j-solidity-gradle-plugin` | write | `web3j-maintainers` (write) |
 | `web3j-unit` | write | `web3j-maintainers` (write) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 149 |
-| Pull requests opened | 19 |
-| Pull request reviews | 0 |
-| Issues opened | 0 |
-| Pushes | 1 |
-| Commits pushed | 1 |
-| Comments | 123 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2019 | 55 |
-| 2020 | 94 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| PullRequestReviewCommentEvent | 116 |
-| PullRequestEvent | 24 |
-| IssueCommentEvent | 7 |
-| ForkEvent | 1 |
-| PushEvent | 1 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 149 | 19 | 0 | 1 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 136 | 19 | 0 | 1 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 13 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`iikirilov_rollup/`](iikirilov_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 136 | [hyperledger_besu.md](iikirilov_rollup/hyperledger_besu.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 13 | [hyperledger_besu-docs.md](iikirilov_rollup/hyperledger_besu-docs.md) |
 
 ---
 

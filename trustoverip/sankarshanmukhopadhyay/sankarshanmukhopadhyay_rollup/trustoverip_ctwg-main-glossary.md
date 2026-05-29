@@ -1,6 +1,6 @@
 # [`trustoverip/ctwg-main-glossary`](https://github.com/trustoverip/ctwg-main-glossary) — monthly activity
 
-| Month | IssuesEvent | PullRequestEvent | ForkEvent | Total |
+| Month | IssuesEvent | ForkEvent | PullRequestEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2025-02 | 1 | 1 | 1 | 3 |
 | 2025-03 | 1 |  |  | 1 |

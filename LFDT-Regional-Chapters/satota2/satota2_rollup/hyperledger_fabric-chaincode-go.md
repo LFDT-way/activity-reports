@@ -1,6 +1,6 @@
 # [`hyperledger/fabric-chaincode-go`](https://github.com/hyperledger/fabric-chaincode-go) — monthly activity
 
-| Month | PullRequestEvent | PullRequestReviewEvent | PushEvent | Total |
+| Month | PullRequestReviewEvent | PullRequestEvent | PushEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2024-08 | 1 | 1 | 1 | 3 |
 | **Total** | **1** | **1** | **1** | **3** |

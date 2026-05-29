@@ -2,7 +2,7 @@
 
 _Limited to years 2024–2026._
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **2** events spanning **2026-02-09 → 2026-03-30**, across **2** organizations and **2** repositories.
 

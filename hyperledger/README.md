@@ -2,7 +2,7 @@
 
 Per-user activity for 2024–2026 extracted from the archive for the 76 users listed in `groups.yml` (69 with activity).
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 | User | Events | First | Last | Orgs | Repos | Teams |
 | --- | --: | --- | --- | --: | --: | --: |

@@ -1,8 +1,10 @@
 # GitHub activity report — `Dindexx`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **466** events spanning **2022-02-09 → 2026-04-18**, across **3** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **443** events spanning **2024-01-04 → 2026-04-18**, across **2** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -23,21 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 466 |
-| Pull requests opened | 53 |
-| Pull request reviews | 88 |
+| Total events | 443 |
+| Pull requests opened | 41 |
+| Pull request reviews | 87 |
 | Issues opened | 0 |
-| Pushes | 136 |
-| Commits pushed | 238 |
-| Comments | 76 |
+| Pushes | 134 |
+| Commits pushed | 236 |
+| Comments | 74 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 15 |
-| 2023 | 8 |
 | 2024 | 192 |
 | 2025 | 241 |
 | 2026 | 10 |
@@ -46,32 +46,28 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 136 |
-| PullRequestEvent | 110 |
-| PullRequestReviewEvent | 88 |
+| PushEvent | 134 |
+| PullRequestEvent | 96 |
+| PullRequestReviewEvent | 87 |
 | PullRequestReviewCommentEvent | 70 |
-| CreateEvent | 49 |
-| IssueCommentEvent | 6 |
+| CreateEvent | 47 |
+| IssueCommentEvent | 4 |
 | DeleteEvent | 3 |
-| ForkEvent | 2 |
+| ForkEvent | 1 |
 | IssuesEvent | 1 |
-| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 448 | 41 | 88 | 136 |
-| [`hyperledger`](https://github.com/hyperledger) | 16 | 11 | 0 | 0 |
+| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 441 | 40 | 87 | 134 |
 | [`openwallet-foundation`](https://github.com/openwallet-foundation) | 2 | 1 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs/wallet-framework-dotnet`](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) | 448 | 41 | 88 | 136 |
-| [`hyperledger/aries-framework-dotnet`](https://github.com/hyperledger/aries-framework-dotnet) | 13 | 10 | 0 | 0 |
-| [`hyperledger/aries-agent-test-harness`](https://github.com/hyperledger/aries-agent-test-harness) | 3 | 1 | 0 | 0 |
+| [`openwallet-foundation-labs/wallet-framework-dotnet`](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) | 441 | 40 | 87 | 134 |
 | [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 2 | 1 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -80,9 +76,7 @@ Months as rows, event types as columns. One file per repository in [`Dindexx_rol
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`openwallet-foundation-labs/wallet-framework-dotnet`](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) | 448 | [openwallet-foundation-labs_wallet-framework-dotnet.md](Dindexx_rollup/openwallet-foundation-labs_wallet-framework-dotnet.md) |
-| [`hyperledger/aries-framework-dotnet`](https://github.com/hyperledger/aries-framework-dotnet) | 13 | [hyperledger_aries-framework-dotnet.md](Dindexx_rollup/hyperledger_aries-framework-dotnet.md) |
-| [`hyperledger/aries-agent-test-harness`](https://github.com/hyperledger/aries-agent-test-harness) | 3 | [hyperledger_aries-agent-test-harness.md](Dindexx_rollup/hyperledger_aries-agent-test-harness.md) |
+| [`openwallet-foundation-labs/wallet-framework-dotnet`](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) | 441 | [openwallet-foundation-labs_wallet-framework-dotnet.md](Dindexx_rollup/openwallet-foundation-labs_wallet-framework-dotnet.md) |
 | [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 2 | [openwallet-foundation_tac.md](Dindexx_rollup/openwallet-foundation_tac.md) |
 
 ---

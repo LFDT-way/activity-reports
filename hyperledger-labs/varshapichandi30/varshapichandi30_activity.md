@@ -1,8 +1,10 @@
 # GitHub activity report — `varshapichandi30`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **7** events spanning **2023-02-03 → 2025-01-23**, across **2** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **6** events spanning **2024-08-27 → 2025-01-23**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -23,7 +25,7 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 7 |
+| Total events | 6 |
 | Pull requests opened | 3 |
 | Pull request reviews | 0 |
 | Issues opened | 0 |
@@ -36,7 +38,6 @@ Repository access granted through those teams (1 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 1 |
 | 2024 | 4 |
 | 2025 | 2 |
 
@@ -45,21 +46,19 @@ Repository access granted through those teams (1 repos):
 | Type | Count |
 | --- | --: |
 | PullRequestEvent | 4 |
-| ForkEvent | 3 |
+| ForkEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-labs`](https://github.com/hyperledger-labs) | 6 | 3 | 0 | 0 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-labs/fabric-debugger`](https://github.com/hyperledger-labs/fabric-debugger) | 6 | 3 | 0 | 0 |
-| [`hyperledger/fabric-chaincode-java`](https://github.com/hyperledger/fabric-chaincode-java) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -68,7 +67,6 @@ Months as rows, event types as columns. One file per repository in [`varshapicha
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`hyperledger-labs/fabric-debugger`](https://github.com/hyperledger-labs/fabric-debugger) | 6 | [hyperledger-labs_fabric-debugger.md](varshapichandi30_rollup/hyperledger-labs_fabric-debugger.md) |
-| [`hyperledger/fabric-chaincode-java`](https://github.com/hyperledger/fabric-chaincode-java) | 1 | [hyperledger_fabric-chaincode-java.md](varshapichandi30_rollup/hyperledger_fabric-chaincode-java.md) |
 
 ---
 

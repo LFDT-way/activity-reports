@@ -1,8 +1,10 @@
 # GitHub activity report — `macfarla`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **12,114** events spanning **2019-09-15 → 2026-05-28**, across **3** organizations and **12** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **5,442** events spanning **2024-01-02 → 2026-05-28**, across **3** organizations and **12** repositories.
 
 ## Teams & repository access
 
@@ -35,24 +37,19 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 12,114 |
-| Pull requests opened | 943 |
-| Pull request reviews | 3,020 |
-| Issues opened | 407 |
-| Pushes | 1,335 |
-| Commits pushed | 1,252 |
-| Comments | 4,070 |
-| Releases | 24 |
+| Total events | 5,442 |
+| Pull requests opened | 425 |
+| Pull request reviews | 1,318 |
+| Issues opened | 174 |
+| Pushes | 642 |
+| Commits pushed | 555 |
+| Comments | 1,725 |
+| Releases | 10 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2019 | 14 |
-| 2020 | 635 |
-| 2021 | 1,427 |
-| 2022 | 2,517 |
-| 2023 | 2,079 |
 | 2024 | 3,015 |
 | 2025 | 1,824 |
 | 2026 | 603 |
@@ -61,24 +58,23 @@ Repository access granted through those teams (10 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 3,020 |
-| PullRequestEvent | 2,435 |
-| PullRequestReviewCommentEvent | 2,052 |
-| IssueCommentEvent | 2,018 |
-| PushEvent | 1,335 |
-| IssuesEvent | 1,118 |
-| CreateEvent | 66 |
-| DeleteEvent | 35 |
-| ReleaseEvent | 24 |
-| ForkEvent | 5 |
+| PullRequestReviewEvent | 1,318 |
+| PullRequestEvent | 1,124 |
+| IssueCommentEvent | 948 |
+| PullRequestReviewCommentEvent | 777 |
+| PushEvent | 642 |
+| IssuesEvent | 549 |
+| CreateEvent | 43 |
+| DeleteEvent | 23 |
+| ReleaseEvent | 10 |
 | GollumEvent | 5 |
-| WatchEvent | 1 |
+| ForkEvent | 3 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 11,811 | 918 | 2,952 | 1,282 |
+| [`hyperledger`](https://github.com/hyperledger) | 5,139 | 400 | 1,250 | 589 |
 | [`besu-eth`](https://github.com/besu-eth) | 298 | 25 | 66 | 53 |
 | [`LF-Decentralized-Trust`](https://github.com/LF-Decentralized-Trust) | 5 | 0 | 2 | 0 |
 
@@ -86,12 +82,12 @@ Repository access granted through those teams (10 repos):
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 10,588 | 787 | 2,543 | 1,172 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 1,003 | 98 | 322 | 81 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 4,638 | 342 | 1,069 | 540 |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 360 | 30 | 128 | 34 |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 268 | 17 | 60 | 50 |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 88 | 3 | 52 | 9 |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 79 | 11 | 22 | 20 |
-| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 40 | 19 | 3 | 0 |
+| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 55 | 3 | 30 | 4 |
+| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 43 | 6 | 10 | 11 |
+| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 30 | 19 | 3 | 0 |
 | [`besu-eth/governance`](https://github.com/besu-eth/governance) | 19 | 6 | 3 | 1 |
 | [`hyperledger/besu-errorprone-checks`](https://github.com/hyperledger/besu-errorprone-checks) | 13 | 0 | 10 | 0 |
 | [`besu-eth/besu-errorprone-checks`](https://github.com/besu-eth/besu-errorprone-checks) | 8 | 2 | 2 | 1 |
@@ -105,12 +101,12 @@ Months as rows, event types as columns. One file per repository in [`macfarla_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 10,588 | [hyperledger_besu.md](macfarla_rollup/hyperledger_besu.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 1,003 | [hyperledger_besu-docs.md](macfarla_rollup/hyperledger_besu-docs.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 4,638 | [hyperledger_besu.md](macfarla_rollup/hyperledger_besu.md) |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 360 | [hyperledger_besu-docs.md](macfarla_rollup/hyperledger_besu-docs.md) |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 268 | [besu-eth_besu.md](macfarla_rollup/besu-eth_besu.md) |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 88 | [hyperledger_besu-native.md](macfarla_rollup/hyperledger_besu-native.md) |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 79 | [hyperledger_homebrew-besu.md](macfarla_rollup/hyperledger_homebrew-besu.md) |
-| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 40 | [hyperledger_governance.md](macfarla_rollup/hyperledger_governance.md) |
+| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 55 | [hyperledger_besu-native.md](macfarla_rollup/hyperledger_besu-native.md) |
+| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 43 | [hyperledger_homebrew-besu.md](macfarla_rollup/hyperledger_homebrew-besu.md) |
+| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 30 | [hyperledger_governance.md](macfarla_rollup/hyperledger_governance.md) |
 | [`besu-eth/governance`](https://github.com/besu-eth/governance) | 19 | [besu-eth_governance.md](macfarla_rollup/besu-eth_governance.md) |
 | [`hyperledger/besu-errorprone-checks`](https://github.com/hyperledger/besu-errorprone-checks) | 13 | [hyperledger_besu-errorprone-checks.md](macfarla_rollup/hyperledger_besu-errorprone-checks.md) |
 | [`besu-eth/besu-errorprone-checks`](https://github.com/besu-eth/besu-errorprone-checks) | 8 | [besu-eth_besu-errorprone-checks.md](macfarla_rollup/besu-eth_besu-errorprone-checks.md) |

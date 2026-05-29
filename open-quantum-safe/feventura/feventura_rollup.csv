@@ -1,5 +1,4 @@
 repo,month,PullRequestReviewCommentEvent,PullRequestReviewEvent,IssueCommentEvent,PullRequestEvent,total
-open-quantum-safe/oqs-provider,2023-12,0,0,1,1,2
 open-quantum-safe/oqs-provider,2024-02,5,5,0,0,10
 open-quantum-safe/oqs-provider,2024-03,15,14,6,0,35
 open-quantum-safe/oqs-provider,2024-04,0,0,1,0,1

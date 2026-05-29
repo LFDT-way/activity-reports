@@ -1,6 +1,8 @@
 # GitHub activity report — `guillevalin`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **24** events spanning **2026-03-11 → 2026-03-19**, across **1** organizations and **1** repositories.
 
@@ -12,10 +14,11 @@ Member of **1** team(s):
 | --- | --- |
 | `nightstream-maintainers` | member |
 
-Repository access granted through those teams (3 repos):
+Repository access granted through those teams (4 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
+| `MVE-Planning` | maintain | `nightstream-maintainers` (maintain) |
 | `Nightstream` | maintain | `nightstream-maintainers` (maintain) |
 | `Starstream` | maintain | `nightstream-maintainers` (maintain) |
 | `governance` | maintain | `nightstream-maintainers` (maintain) |

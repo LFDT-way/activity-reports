@@ -1,8 +1,10 @@
 # GitHub activity report — `sharmawiki`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **7** events spanning **2021-12-23 → 2025-07-10**, across **4** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **2** events spanning **2025-07-10 → 2025-07-10**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -23,8 +25,8 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 7 |
-| Pull requests opened | 1 |
+| Total events | 2 |
+| Pull requests opened | 0 |
 | Pull request reviews | 0 |
 | Issues opened | 0 |
 | Pushes | 2 |
@@ -36,36 +38,25 @@ Repository access granted through those teams (1 repos):
 
 | Year | Events |
 | --- | --: |
-| 2021 | 4 |
-| 2022 | 1 |
 | 2025 | 2 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| ForkEvent | 3 |
 | PushEvent | 2 |
-| PullRequestEvent | 1 |
-| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`Hyperledger-India`](https://github.com/Hyperledger-India) | 3 | 1 | 0 | 0 |
 | [`LFDT-Regional-Chapters`](https://github.com/LFDT-Regional-Chapters) | 2 | 0 | 0 | 2 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`Hyperledger-India/hyperledger-challenge`](https://github.com/Hyperledger-India/hyperledger-challenge) | 3 | 1 | 0 | 0 |
 | [`LFDT-Regional-Chapters/LFDT-India-Chapter`](https://github.com/LFDT-Regional-Chapters/LFDT-India-Chapter) | 2 | 0 | 0 | 2 |
-| [`hyperledger-labs/fabric-operations-console`](https://github.com/hyperledger-labs/fabric-operations-console) | 1 | 0 | 0 | 0 |
-| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -73,10 +64,7 @@ Months as rows, event types as columns. One file per repository in [`sharmawiki_
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`Hyperledger-India/hyperledger-challenge`](https://github.com/Hyperledger-India/hyperledger-challenge) | 3 | [Hyperledger-India_hyperledger-challenge.md](sharmawiki_rollup/Hyperledger-India_hyperledger-challenge.md) |
 | [`LFDT-Regional-Chapters/LFDT-India-Chapter`](https://github.com/LFDT-Regional-Chapters/LFDT-India-Chapter) | 2 | [LFDT-Regional-Chapters_LFDT-India-Chapter.md](sharmawiki_rollup/LFDT-Regional-Chapters_LFDT-India-Chapter.md) |
-| [`hyperledger-labs/fabric-operations-console`](https://github.com/hyperledger-labs/fabric-operations-console) | 1 | [hyperledger-labs_fabric-operations-console.md](sharmawiki_rollup/hyperledger-labs_fabric-operations-console.md) |
-| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 1 | [hyperledger_bevel.md](sharmawiki_rollup/hyperledger_bevel.md) |
 
 ---
 

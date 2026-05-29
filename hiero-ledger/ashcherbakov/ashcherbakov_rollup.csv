@@ -1,0 +1,7 @@
+repo,month,IssueCommentEvent,IssuesEvent,PullRequestEvent,PullRequestReviewEvent,PushEvent,WatchEvent,total
+hyperledger/indy-node,2024-01,2,0,0,0,1,0,3
+openwallet-foundation/project-proposals,2024-04,1,0,1,0,0,0,2
+hyperledger/governance,2024-01,0,1,0,0,0,0,1
+hyperledger/indy-did-method,2024-04,0,0,0,1,0,0,1
+openwallet-foundation-labs/eudi-wallet-kit-react-native,2024-04,0,0,0,0,0,1,1
+openwallet-foundation-labs/sd-jwt-rust,2024-12,1,0,0,0,0,0,1

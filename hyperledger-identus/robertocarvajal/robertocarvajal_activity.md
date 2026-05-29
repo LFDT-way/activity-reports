@@ -1,8 +1,10 @@
 # GitHub activity report — `robertocarvajal`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **62** events spanning **2023-09-21 → 2025-11-18**, across **4** organizations and **18** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **60** events spanning **2024-02-25 → 2025-11-18**, across **4** organizations and **17** repositories.
 
 ## Teams & repository access
 
@@ -38,7 +40,7 @@ Repository access granted through those teams (16 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 62 |
+| Total events | 60 |
 | Pull requests opened | 5 |
 | Pull request reviews | 2 |
 | Issues opened | 11 |
@@ -51,7 +53,6 @@ Repository access granted through those teams (16 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 2 |
 | 2024 | 27 |
 | 2025 | 33 |
 
@@ -61,8 +62,8 @@ Repository access granted through those teams (16 repos):
 | --- | --: |
 | IssueCommentEvent | 28 |
 | IssuesEvent | 12 |
-| WatchEvent | 7 |
 | PullRequestEvent | 6 |
+| WatchEvent | 5 |
 | ForkEvent | 3 |
 | CreateEvent | 2 |
 | PullRequestReviewEvent | 2 |
@@ -74,8 +75,8 @@ Repository access granted through those teams (16 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-identus`](https://github.com/hyperledger-identus) | 32 | 1 | 2 | 1 |
-| [`hyperledger`](https://github.com/hyperledger) | 19 | 2 | 0 | 0 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 9 | 2 | 0 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 18 | 2 | 0 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 8 | 2 | 0 | 0 |
 | [`trustoverip`](https://github.com/trustoverip) | 2 | 0 | 0 | 0 |
 
 ## Repositories
@@ -83,7 +84,7 @@ Repository access granted through those teams (16 repos):
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-identus/sdk-ts`](https://github.com/hyperledger-identus/sdk-ts) | 15 | 1 | 1 | 1 |
-| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 9 | 2 | 0 | 0 |
+| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 8 | 2 | 0 | 0 |
 | [`hyperledger-identus/cloud-agent`](https://github.com/hyperledger-identus/cloud-agent) | 5 | 0 | 0 | 0 |
 | [`hyperledger-identus/identus`](https://github.com/hyperledger-identus/identus) | 5 | 0 | 0 | 0 |
 | [`hyperledger/identus`](https://github.com/hyperledger/identus) | 5 | 0 | 0 | 0 |
@@ -95,7 +96,6 @@ Repository access granted through those teams (16 repos):
 | [`hyperledger-identus/hyperledger-identus`](https://github.com/hyperledger-identus/hyperledger-identus) | 1 | 0 | 0 | 0 |
 | [`hyperledger-identus/integration`](https://github.com/hyperledger-identus/integration) | 1 | 0 | 0 | 0 |
 | [`hyperledger-identus/mediator`](https://github.com/hyperledger-identus/mediator) | 1 | 0 | 0 | 0 |
-| [`hyperledger/aries-socketdock`](https://github.com/hyperledger/aries-socketdock) | 1 | 0 | 0 | 0 |
 | [`hyperledger/identus-docs`](https://github.com/hyperledger/identus-docs) | 1 | 0 | 0 | 0 |
 | [`hyperledger/identus-vdr`](https://github.com/hyperledger/identus-vdr) | 1 | 0 | 0 | 0 |
 | [`trustoverip/spec-up-t`](https://github.com/trustoverip/spec-up-t) | 1 | 0 | 0 | 0 |
@@ -108,7 +108,7 @@ Months as rows, event types as columns. One file per repository in [`robertocarv
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`hyperledger-identus/sdk-ts`](https://github.com/hyperledger-identus/sdk-ts) | 15 | [hyperledger-identus_sdk-ts.md](robertocarvajal_rollup/hyperledger-identus_sdk-ts.md) |
-| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 9 | [hyperledger-labs_open-enterprise-agent.md](robertocarvajal_rollup/hyperledger-labs_open-enterprise-agent.md) |
+| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 8 | [hyperledger-labs_open-enterprise-agent.md](robertocarvajal_rollup/hyperledger-labs_open-enterprise-agent.md) |
 | [`hyperledger-identus/cloud-agent`](https://github.com/hyperledger-identus/cloud-agent) | 5 | [hyperledger-identus_cloud-agent.md](robertocarvajal_rollup/hyperledger-identus_cloud-agent.md) |
 | [`hyperledger-identus/identus`](https://github.com/hyperledger-identus/identus) | 5 | [hyperledger-identus_identus.md](robertocarvajal_rollup/hyperledger-identus_identus.md) |
 | [`hyperledger/identus`](https://github.com/hyperledger/identus) | 5 | [hyperledger_identus.md](robertocarvajal_rollup/hyperledger_identus.md) |
@@ -120,7 +120,6 @@ Months as rows, event types as columns. One file per repository in [`robertocarv
 | [`hyperledger-identus/hyperledger-identus`](https://github.com/hyperledger-identus/hyperledger-identus) | 1 | [hyperledger-identus_hyperledger-identus.md](robertocarvajal_rollup/hyperledger-identus_hyperledger-identus.md) |
 | [`hyperledger-identus/integration`](https://github.com/hyperledger-identus/integration) | 1 | [hyperledger-identus_integration.md](robertocarvajal_rollup/hyperledger-identus_integration.md) |
 | [`hyperledger-identus/mediator`](https://github.com/hyperledger-identus/mediator) | 1 | [hyperledger-identus_mediator.md](robertocarvajal_rollup/hyperledger-identus_mediator.md) |
-| [`hyperledger/aries-socketdock`](https://github.com/hyperledger/aries-socketdock) | 1 | [hyperledger_aries-socketdock.md](robertocarvajal_rollup/hyperledger_aries-socketdock.md) |
 | [`hyperledger/identus-docs`](https://github.com/hyperledger/identus-docs) | 1 | [hyperledger_identus-docs.md](robertocarvajal_rollup/hyperledger_identus-docs.md) |
 | [`hyperledger/identus-vdr`](https://github.com/hyperledger/identus-vdr) | 1 | [hyperledger_identus-vdr.md](robertocarvajal_rollup/hyperledger_identus-vdr.md) |
 | [`trustoverip/spec-up-t`](https://github.com/trustoverip/spec-up-t) | 1 | [trustoverip_spec-up-t.md](robertocarvajal_rollup/trustoverip_spec-up-t.md) |

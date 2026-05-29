@@ -1,8 +1,10 @@
 # GitHub activity report — `minyu66`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **407** events spanning **2023-05-02 → 2026-05-18**, across **3** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **374** events spanning **2024-01-03 → 2026-05-18**, across **3** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -24,20 +26,19 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 407 |
-| Pull requests opened | 29 |
+| Total events | 374 |
+| Pull requests opened | 24 |
 | Pull request reviews | 0 |
-| Issues opened | 6 |
-| Pushes | 100 |
-| Commits pushed | 103 |
-| Comments | 32 |
+| Issues opened | 4 |
+| Pushes | 97 |
+| Commits pushed | 100 |
+| Comments | 22 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 33 |
 | 2024 | 133 |
 | 2025 | 213 |
 | 2026 | 28 |
@@ -46,20 +47,19 @@ Repository access granted through those teams (2 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 151 |
-| PushEvent | 100 |
-| DeleteEvent | 67 |
-| CreateEvent | 32 |
-| IssueCommentEvent | 32 |
+| PullRequestEvent | 142 |
+| PushEvent | 97 |
+| DeleteEvent | 65 |
+| CreateEvent | 26 |
+| IssueCommentEvent | 22 |
 | GollumEvent | 14 |
-| IssuesEvent | 10 |
-| ForkEvent | 1 |
+| IssuesEvent | 8 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-dlt-landscape`](https://github.com/hyperledger-dlt-landscape) | 346 | 29 | 0 | 56 |
+| [`hyperledger-dlt-landscape`](https://github.com/hyperledger-dlt-landscape) | 313 | 24 | 0 | 53 |
 | [`LF-Decentralized-Trust-Mentorships`](https://github.com/LF-Decentralized-Trust-Mentorships) | 47 | 0 | 0 | 44 |
 | [`LF-Decentralized-Trust`](https://github.com/LF-Decentralized-Trust) | 14 | 0 | 0 | 0 |
 
@@ -67,7 +67,7 @@ Repository access granted through those teams (2 repos):
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-dlt-landscape/hyperledger-dlt-landscape`](https://github.com/hyperledger-dlt-landscape/hyperledger-dlt-landscape) | 346 | 29 | 0 | 56 |
+| [`hyperledger-dlt-landscape/hyperledger-dlt-landscape`](https://github.com/hyperledger-dlt-landscape/hyperledger-dlt-landscape) | 313 | 24 | 0 | 53 |
 | [`LF-Decentralized-Trust-Mentorships/mentorship-program`](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program) | 47 | 0 | 0 | 44 |
 | [`LF-Decentralized-Trust/wiki`](https://github.com/LF-Decentralized-Trust/wiki) | 14 | 0 | 0 | 0 |
 
@@ -77,7 +77,7 @@ Months as rows, event types as columns. One file per repository in [`minyu66_rol
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-dlt-landscape/hyperledger-dlt-landscape`](https://github.com/hyperledger-dlt-landscape/hyperledger-dlt-landscape) | 346 | [hyperledger-dlt-landscape_hyperledger-dlt-landscape.md](minyu66_rollup/hyperledger-dlt-landscape_hyperledger-dlt-landscape.md) |
+| [`hyperledger-dlt-landscape/hyperledger-dlt-landscape`](https://github.com/hyperledger-dlt-landscape/hyperledger-dlt-landscape) | 313 | [hyperledger-dlt-landscape_hyperledger-dlt-landscape.md](minyu66_rollup/hyperledger-dlt-landscape_hyperledger-dlt-landscape.md) |
 | [`LF-Decentralized-Trust-Mentorships/mentorship-program`](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program) | 47 | [LF-Decentralized-Trust-Mentorships_mentorship-program.md](minyu66_rollup/LF-Decentralized-Trust-Mentorships_mentorship-program.md) |
 | [`LF-Decentralized-Trust/wiki`](https://github.com/LF-Decentralized-Trust/wiki) | 14 | [LF-Decentralized-Trust_wiki.md](minyu66_rollup/LF-Decentralized-Trust_wiki.md) |
 

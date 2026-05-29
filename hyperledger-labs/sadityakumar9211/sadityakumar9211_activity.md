@@ -1,8 +1,10 @@
 # GitHub activity report — `sadityakumar9211`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **25** events spanning **2023-05-03 → 2025-11-20**, across **2** organizations and **6** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **14** events spanning **2024-06-03 → 2025-11-20**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -23,20 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 25 |
+| Total events | 14 |
 | Pull requests opened | 1 |
 | Pull request reviews | 5 |
 | Issues opened | 0 |
 | Pushes | 6 |
 | Commits pushed | 9 |
-| Comments | 3 |
+| Comments | 1 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 11 |
 | 2024 | 7 |
 | 2025 | 7 |
 
@@ -45,29 +46,21 @@ Repository access granted through those teams (1 repos):
 | Type | Count |
 | --- | --: |
 | PushEvent | 6 |
-| ForkEvent | 5 |
 | PullRequestReviewEvent | 5 |
-| WatchEvent | 4 |
-| IssueCommentEvent | 3 |
 | PullRequestEvent | 2 |
+| IssueCommentEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-labs`](https://github.com/hyperledger-labs) | 14 | 1 | 5 | 6 |
-| [`hyperledger`](https://github.com/hyperledger) | 11 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-labs/bdls`](https://github.com/hyperledger-labs/bdls) | 14 | 1 | 5 | 6 |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 4 | 0 | 0 | 0 |
-| [`hyperledger/aries`](https://github.com/hyperledger/aries) | 2 | 0 | 0 | 0 |
-| [`hyperledger/aries-framework-javascript`](https://github.com/hyperledger/aries-framework-javascript) | 2 | 0 | 0 | 0 |
-| [`hyperledger/caliper-benchmarks`](https://github.com/hyperledger/caliper-benchmarks) | 2 | 0 | 0 | 0 |
-| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -76,11 +69,6 @@ Months as rows, event types as columns. One file per repository in [`sadityakuma
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`hyperledger-labs/bdls`](https://github.com/hyperledger-labs/bdls) | 14 | [hyperledger-labs_bdls.md](sadityakumar9211_rollup/hyperledger-labs_bdls.md) |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 4 | [hyperledger_fabric.md](sadityakumar9211_rollup/hyperledger_fabric.md) |
-| [`hyperledger/aries`](https://github.com/hyperledger/aries) | 2 | [hyperledger_aries.md](sadityakumar9211_rollup/hyperledger_aries.md) |
-| [`hyperledger/aries-framework-javascript`](https://github.com/hyperledger/aries-framework-javascript) | 2 | [hyperledger_aries-framework-javascript.md](sadityakumar9211_rollup/hyperledger_aries-framework-javascript.md) |
-| [`hyperledger/caliper-benchmarks`](https://github.com/hyperledger/caliper-benchmarks) | 2 | [hyperledger_caliper-benchmarks.md](sadityakumar9211_rollup/hyperledger_caliper-benchmarks.md) |
-| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 1 | [hyperledger_bevel.md](sadityakumar9211_rollup/hyperledger_bevel.md) |
 
 ---
 

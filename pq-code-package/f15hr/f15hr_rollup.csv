@@ -1,0 +1,5 @@
+repo,month,PushEvent,IssueCommentEvent,PullRequestEvent,CreateEvent,total
+pq-code-package/mldsa-native,2026-01,6,2,2,1,11
+pq-code-package/mldsa-native,2026-02,1,1,1,0,3
+pq-code-package/mlkem-native,2026-01,11,0,1,0,12
+pq-code-package/mlkem-native,2026-02,0,2,0,0,2

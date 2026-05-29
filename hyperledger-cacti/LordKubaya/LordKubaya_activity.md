@@ -1,6 +1,8 @@
 # GitHub activity report — `LordKubaya`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **485** events spanning **2024-03-18 → 2026-04-28**, across **3** organizations and **3** repositories.
 

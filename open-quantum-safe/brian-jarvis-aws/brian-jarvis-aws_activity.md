@@ -1,8 +1,10 @@
 # GitHub activity report — `brian-jarvis-aws`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **233** events spanning **2023-01-18 → 2026-05-09**, across **2** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **232** events spanning **2024-04-03 → 2026-05-09**, across **2** organizations and **5** repositories.
 
 ## Teams & repository access
 
@@ -43,20 +45,19 @@ Repository access granted through those teams (20 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 233 |
+| Total events | 232 |
 | Pull requests opened | 3 |
 | Pull request reviews | 55 |
 | Issues opened | 11 |
 | Pushes | 34 |
 | Commits pushed | 39 |
-| Comments | 87 |
+| Comments | 86 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 1 |
 | 2024 | 83 |
 | 2025 | 130 |
 | 2026 | 19 |
@@ -66,7 +67,7 @@ Repository access granted through those teams (20 repos):
 | Type | Count |
 | --- | --: |
 | PullRequestReviewEvent | 55 |
-| IssueCommentEvent | 46 |
+| IssueCommentEvent | 45 |
 | PullRequestReviewCommentEvent | 41 |
 | PushEvent | 34 |
 | IssuesEvent | 25 |
@@ -81,7 +82,7 @@ Repository access granted through those teams (20 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`PQCA`](https://github.com/PQCA) | 217 | 3 | 49 | 34 |
-| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 16 | 0 | 6 | 0 |
+| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 15 | 0 | 6 | 0 |
 
 ## Repositories
 
@@ -90,8 +91,8 @@ Repository access granted through those teams (20 repos):
 | [`PQCA/TAC`](https://github.com/PQCA/TAC) | 202 | 3 | 46 | 32 |
 | [`PQCA/governance`](https://github.com/PQCA/governance) | 14 | 0 | 3 | 2 |
 | [`open-quantum-safe/tsc`](https://github.com/open-quantum-safe/tsc) | 14 | 0 | 6 | 0 |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 2 | 0 | 0 | 0 |
 | [`PQCA/wiki`](https://github.com/PQCA/wiki) | 1 | 0 | 0 | 0 |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -102,8 +103,8 @@ Months as rows, event types as columns. One file per repository in [`brian-jarvi
 | [`PQCA/TAC`](https://github.com/PQCA/TAC) | 202 | [PQCA_TAC.md](brian-jarvis-aws_rollup/PQCA_TAC.md) |
 | [`PQCA/governance`](https://github.com/PQCA/governance) | 14 | [PQCA_governance.md](brian-jarvis-aws_rollup/PQCA_governance.md) |
 | [`open-quantum-safe/tsc`](https://github.com/open-quantum-safe/tsc) | 14 | [open-quantum-safe_tsc.md](brian-jarvis-aws_rollup/open-quantum-safe_tsc.md) |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 2 | [open-quantum-safe_liboqs.md](brian-jarvis-aws_rollup/open-quantum-safe_liboqs.md) |
 | [`PQCA/wiki`](https://github.com/PQCA/wiki) | 1 | [PQCA_wiki.md](brian-jarvis-aws_rollup/PQCA_wiki.md) |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 1 | [open-quantum-safe_liboqs.md](brian-jarvis-aws_rollup/open-quantum-safe_liboqs.md) |
 
 ---
 

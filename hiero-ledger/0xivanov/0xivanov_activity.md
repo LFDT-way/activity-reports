@@ -1,34 +1,42 @@
 # GitHub activity report — `0xivanov`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **3,057** events spanning **2024-11-15 → 2026-04-15**, across **1** organizations and **14** repositories.
 
 ## Teams & repository access
 
-Member of **8** team(s):
+Member of **9** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `governance-write` | member |
 | `hiero-sdk-go-committers` | member |
 | `hiero-sdk-go-maintainers` | member |
-| `hiero-sdk-java-committers` | maintainer |
-| `hiero-sdk-java-maintainers` | maintainer |
+| `hiero-sdk-java-committers` | member |
+| `hiero-sdk-java-maintainers` | member |
 | `hiero-sdk-js-committers` | member |
 | `hiero-sdk-tck-committers` | member |
-| `sdk-collaboration-hub-committers` | maintainer |
+| `hiero-sdk-triage` | member |
+| `sdk-collaboration-hub-committers` | member |
 
-Repository access granted through those teams (6 repos):
+Repository access granted through those teams (11 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `hiero-sdk-go` | maintain | `hiero-sdk-go-maintainers` (maintain), `hiero-sdk-go-committers` (write) |
-| `hiero-sdk-java` | maintain | `hiero-sdk-java-maintainers` (maintain), `hiero-sdk-java-committers` (write) |
+| `hiero-sdk-go` | maintain | `hiero-sdk-go-maintainers` (maintain), `hiero-sdk-go-committers` (write), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-java` | maintain | `hiero-sdk-java-maintainers` (maintain), `hiero-sdk-java-committers` (write), `hiero-sdk-triage` (triage) |
 | `governance` | write | `governance-write` (write) |
-| `hiero-sdk-js` | write | `hiero-sdk-js-committers` (write) |
-| `hiero-sdk-tck` | write | `hiero-sdk-tck-committers` (write) |
-| `sdk-collaboration-hub` | write | `sdk-collaboration-hub-committers` (write) |
+| `hiero-sdk-js` | write | `hiero-sdk-js-committers` (write), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-tck` | write | `hiero-sdk-tck-committers` (write), `hiero-sdk-triage` (triage) |
+| `sdk-collaboration-hub` | write | `sdk-collaboration-hub-committers` (write), `hiero-sdk-triage` (triage) |
+| `hiero-enterprise-java` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-cpp` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-python` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-rust` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-swift` | triage | `hiero-sdk-triage` (triage) |
 
 
 ## Overview

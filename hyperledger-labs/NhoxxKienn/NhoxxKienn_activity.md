@@ -1,8 +1,10 @@
 # GitHub activity report — `NhoxxKienn`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **116** events spanning **2022-10-06 → 2026-02-09**, across **2** organizations and **7** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **101** events spanning **2024-02-06 → 2026-02-09**, across **1** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -33,10 +35,10 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 116 |
-| Pull requests opened | 16 |
+| Total events | 101 |
+| Pull requests opened | 12 |
 | Pull request reviews | 23 |
-| Issues opened | 5 |
+| Issues opened | 4 |
 | Pushes | 8 |
 | Commits pushed | 38 |
 | Comments | 27 |
@@ -46,8 +48,6 @@ Repository access granted through those teams (10 repos):
 
 | Year | Events |
 | --- | --: |
-| 2022 | 12 |
-| 2023 | 3 |
 | 2024 | 47 |
 | 2025 | 53 |
 | 2026 | 1 |
@@ -56,15 +56,13 @@ Repository access granted through those teams (10 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 31 |
+| PullRequestEvent | 25 |
 | PullRequestReviewEvent | 23 |
 | PullRequestReviewCommentEvent | 20 |
-| IssuesEvent | 11 |
+| IssuesEvent | 10 |
 | PushEvent | 8 |
 | IssueCommentEvent | 7 |
 | CreateEvent | 4 |
-| ForkEvent | 4 |
-| WatchEvent | 4 |
 | DeleteEvent | 2 |
 | ReleaseEvent | 2 |
 
@@ -72,20 +70,16 @@ Repository access granted through those teams (10 repos):
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 108 | 14 | 23 | 8 |
-| [`hyperledger`](https://github.com/hyperledger) | 8 | 2 | 0 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 101 | 12 | 23 | 8 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 75 | 11 | 12 | 7 |
+| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 74 | 11 | 12 | 7 |
 | [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 25 | 1 | 11 | 1 |
-| [`hyperledger/aries-framework-go`](https://github.com/hyperledger/aries-framework-go) | 7 | 2 | 0 | 0 |
-| [`hyperledger-labs/perun-doc`](https://github.com/hyperledger-labs/perun-doc) | 5 | 2 | 0 | 0 |
-| [`hyperledger-labs/perun-credential-payment`](https://github.com/hyperledger-labs/perun-credential-payment) | 2 | 0 | 0 | 0 |
+| [`hyperledger-labs/perun-doc`](https://github.com/hyperledger-labs/perun-doc) | 1 | 0 | 0 | 0 |
 | [`hyperledger-labs/perun-eth-contracts`](https://github.com/hyperledger-labs/perun-eth-contracts) | 1 | 0 | 0 | 0 |
-| [`hyperledger/aries`](https://github.com/hyperledger/aries) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -93,13 +87,10 @@ Months as rows, event types as columns. One file per repository in [`NhoxxKienn_
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 75 | [hyperledger-labs_go-perun.md](NhoxxKienn_rollup/hyperledger-labs_go-perun.md) |
+| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 74 | [hyperledger-labs_go-perun.md](NhoxxKienn_rollup/hyperledger-labs_go-perun.md) |
 | [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 25 | [hyperledger-labs_perun-eth-backend.md](NhoxxKienn_rollup/hyperledger-labs_perun-eth-backend.md) |
-| [`hyperledger/aries-framework-go`](https://github.com/hyperledger/aries-framework-go) | 7 | [hyperledger_aries-framework-go.md](NhoxxKienn_rollup/hyperledger_aries-framework-go.md) |
-| [`hyperledger-labs/perun-doc`](https://github.com/hyperledger-labs/perun-doc) | 5 | [hyperledger-labs_perun-doc.md](NhoxxKienn_rollup/hyperledger-labs_perun-doc.md) |
-| [`hyperledger-labs/perun-credential-payment`](https://github.com/hyperledger-labs/perun-credential-payment) | 2 | [hyperledger-labs_perun-credential-payment.md](NhoxxKienn_rollup/hyperledger-labs_perun-credential-payment.md) |
+| [`hyperledger-labs/perun-doc`](https://github.com/hyperledger-labs/perun-doc) | 1 | [hyperledger-labs_perun-doc.md](NhoxxKienn_rollup/hyperledger-labs_perun-doc.md) |
 | [`hyperledger-labs/perun-eth-contracts`](https://github.com/hyperledger-labs/perun-eth-contracts) | 1 | [hyperledger-labs_perun-eth-contracts.md](NhoxxKienn_rollup/hyperledger-labs_perun-eth-contracts.md) |
-| [`hyperledger/aries`](https://github.com/hyperledger/aries) | 1 | [hyperledger_aries.md](NhoxxKienn_rollup/hyperledger_aries.md) |
 
 ---
 

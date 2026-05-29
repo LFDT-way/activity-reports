@@ -1,8 +1,10 @@
 # GitHub activity report — `bgravenorst`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1,298** events spanning **2019-09-15 → 2026-05-21**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **287** events spanning **2024-01-08 → 2026-05-21**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -29,24 +31,19 @@ Repository access granted through those teams (7 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 1,298 |
-| Pull requests opened | 104 |
-| Pull request reviews | 376 |
-| Issues opened | 108 |
-| Pushes | 135 |
-| Commits pushed | 132 |
-| Comments | 361 |
+| Total events | 287 |
+| Pull requests opened | 27 |
+| Pull request reviews | 99 |
+| Issues opened | 27 |
+| Pushes | 32 |
+| Commits pushed | 28 |
+| Comments | 56 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2019 | 115 |
-| 2020 | 221 |
-| 2021 | 436 |
-| 2022 | 145 |
-| 2023 | 94 |
 | 2024 | 166 |
 | 2025 | 97 |
 | 2026 | 24 |
@@ -55,30 +52,28 @@ Repository access granted through those teams (7 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 376 |
-| PullRequestReviewCommentEvent | 307 |
-| PullRequestEvent | 241 |
-| IssuesEvent | 177 |
-| PushEvent | 135 |
-| IssueCommentEvent | 54 |
-| DeleteEvent | 3 |
-| ForkEvent | 3 |
-| CreateEvent | 2 |
+| PullRequestReviewEvent | 99 |
+| PullRequestEvent | 58 |
+| PullRequestReviewCommentEvent | 45 |
+| IssuesEvent | 40 |
+| PushEvent | 32 |
+| IssueCommentEvent | 11 |
+| DeleteEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 1,287 | 103 | 371 | 133 |
+| [`hyperledger`](https://github.com/hyperledger) | 276 | 26 | 94 | 30 |
 | [`besu-eth`](https://github.com/besu-eth) | 11 | 1 | 5 | 2 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 1,255 | 102 | 362 | 132 |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 31 | 1 | 8 | 1 |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 274 | 26 | 93 | 30 |
 | [`besu-eth/besu-docs`](https://github.com/besu-eth/besu-docs) | 11 | 1 | 5 | 2 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | 0 | 0 | 0 |
 | [`hyperledger/governance`](https://github.com/hyperledger/governance) | 1 | 0 | 1 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -87,9 +82,9 @@ Months as rows, event types as columns. One file per repository in [`bgravenorst
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 1,255 | [hyperledger_besu-docs.md](bgravenorst_rollup/hyperledger_besu-docs.md) |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 31 | [hyperledger_besu.md](bgravenorst_rollup/hyperledger_besu.md) |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 274 | [hyperledger_besu-docs.md](bgravenorst_rollup/hyperledger_besu-docs.md) |
 | [`besu-eth/besu-docs`](https://github.com/besu-eth/besu-docs) | 11 | [besu-eth_besu-docs.md](bgravenorst_rollup/besu-eth_besu-docs.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | [hyperledger_besu.md](bgravenorst_rollup/hyperledger_besu.md) |
 | [`hyperledger/governance`](https://github.com/hyperledger/governance) | 1 | [hyperledger_governance.md](bgravenorst_rollup/hyperledger_governance.md) |
 
 ---

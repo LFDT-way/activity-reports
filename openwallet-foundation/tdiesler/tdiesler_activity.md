@@ -1,8 +1,10 @@
 # GitHub activity report — `tdiesler`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **259** events spanning **2021-11-18 → 2023-02-01**, across **2** organizations and **7** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `tdiesler` in the date range searched.
 
 ## Teams & repository access
 
@@ -19,73 +21,6 @@ Repository access granted through those teams (2 repos):
 | `owl-agent-test-harness` | maintain | `owl-agent-test-harness-committers` (maintain) |
 | `owl` | write | `owl-agent-test-harness-committers` (write) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 259 |
-| Pull requests opened | 28 |
-| Pull request reviews | 1 |
-| Issues opened | 48 |
-| Pushes | 0 |
-| Commits pushed | 0 |
-| Comments | 143 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2021 | 5 |
-| 2022 | 245 |
-| 2023 | 9 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| IssueCommentEvent | 140 |
-| IssuesEvent | 73 |
-| PullRequestEvent | 33 |
-| ForkEvent | 7 |
-| CommitCommentEvent | 2 |
-| WatchEvent | 2 |
-| PullRequestReviewCommentEvent | 1 |
-| PullRequestReviewEvent | 1 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 188 | 21 | 1 | 0 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 71 | 7 | 0 | 0 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger/aries-agent-test-harness`](https://github.com/hyperledger/aries-agent-test-harness) | 86 | 13 | 0 | 0 |
-| [`hyperledger-labs/acapy-java-client`](https://github.com/hyperledger-labs/acapy-java-client) | 71 | 7 | 0 | 0 |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 43 | 2 | 0 | 0 |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 40 | 6 | 1 | 0 |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 16 | 0 | 0 | 0 |
-| [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 2 | 0 | 0 | 0 |
-| [`hyperledger/aries-acapy-controllers`](https://github.com/hyperledger/aries-acapy-controllers) | 1 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`tdiesler_rollup/`](tdiesler_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`hyperledger/aries-agent-test-harness`](https://github.com/hyperledger/aries-agent-test-harness) | 86 | [hyperledger_aries-agent-test-harness.md](tdiesler_rollup/hyperledger_aries-agent-test-harness.md) |
-| [`hyperledger-labs/acapy-java-client`](https://github.com/hyperledger-labs/acapy-java-client) | 71 | [hyperledger-labs_acapy-java-client.md](tdiesler_rollup/hyperledger-labs_acapy-java-client.md) |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 43 | [hyperledger_aries-cloudagent-python.md](tdiesler_rollup/hyperledger_aries-cloudagent-python.md) |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 40 | [hyperledger_indy-sdk.md](tdiesler_rollup/hyperledger_indy-sdk.md) |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 16 | [hyperledger_besu.md](tdiesler_rollup/hyperledger_besu.md) |
-| [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 2 | [hyperledger_aries-rfcs.md](tdiesler_rollup/hyperledger_aries-rfcs.md) |
-| [`hyperledger/aries-acapy-controllers`](https://github.com/hyperledger/aries-acapy-controllers) | 1 | [hyperledger_aries-acapy-controllers.md](tdiesler_rollup/hyperledger_aries-acapy-controllers.md) |
 
 ---
 

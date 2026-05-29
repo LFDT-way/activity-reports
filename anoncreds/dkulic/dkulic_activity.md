@@ -1,8 +1,10 @@
 # GitHub activity report — `dkulic`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **183** events spanning **2018-04-04 → 2024-05-30**, across **1** organizations and **6** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **2** events spanning **2024-05-30 → 2024-05-30**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -35,56 +37,39 @@ Repository access granted through those teams (11 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 183 |
-| Pull requests opened | 39 |
-| Pull request reviews | 29 |
+| Total events | 2 |
+| Pull requests opened | 1 |
+| Pull request reviews | 0 |
 | Issues opened | 1 |
-| Pushes | 3 |
-| Commits pushed | 19 |
-| Comments | 98 |
+| Pushes | 0 |
+| Commits pushed | 0 |
+| Comments | 0 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2018 | 71 |
-| 2019 | 12 |
-| 2020 | 1 |
-| 2022 | 52 |
-| 2023 | 45 |
 | 2024 | 2 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewCommentEvent | 69 |
-| PullRequestEvent | 45 |
-| IssueCommentEvent | 29 |
-| PullRequestReviewEvent | 29 |
-| ForkEvent | 4 |
-| PushEvent | 3 |
-| IssuesEvent | 2 |
-| CreateEvent | 1 |
-| DeleteEvent | 1 |
+| IssuesEvent | 1 |
+| PullRequestEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 183 | 39 | 29 | 3 |
+| [`hyperledger`](https://github.com/hyperledger) | 2 | 1 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 80 | 31 | 0 | 0 |
-| [`hyperledger/anoncreds-rs`](https://github.com/hyperledger/anoncreds-rs) | 52 | 5 | 9 | 3 |
-| [`hyperledger/aries-framework-javascript`](https://github.com/hyperledger/aries-framework-javascript) | 35 | 0 | 17 | 0 |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 9 | 2 | 3 | 0 |
-| [`hyperledger/indy-hipe`](https://github.com/hyperledger/indy-hipe) | 4 | 0 | 0 | 0 |
-| [`hyperledger/aries-askar`](https://github.com/hyperledger/aries-askar) | 3 | 1 | 0 | 0 |
+| [`hyperledger/aries-askar`](https://github.com/hyperledger/aries-askar) | 2 | 1 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -92,12 +77,7 @@ Months as rows, event types as columns. One file per repository in [`dkulic_roll
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 80 | [hyperledger_indy-sdk.md](dkulic_rollup/hyperledger_indy-sdk.md) |
-| [`hyperledger/anoncreds-rs`](https://github.com/hyperledger/anoncreds-rs) | 52 | [hyperledger_anoncreds-rs.md](dkulic_rollup/hyperledger_anoncreds-rs.md) |
-| [`hyperledger/aries-framework-javascript`](https://github.com/hyperledger/aries-framework-javascript) | 35 | [hyperledger_aries-framework-javascript.md](dkulic_rollup/hyperledger_aries-framework-javascript.md) |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 9 | [hyperledger_aries-cloudagent-python.md](dkulic_rollup/hyperledger_aries-cloudagent-python.md) |
-| [`hyperledger/indy-hipe`](https://github.com/hyperledger/indy-hipe) | 4 | [hyperledger_indy-hipe.md](dkulic_rollup/hyperledger_indy-hipe.md) |
-| [`hyperledger/aries-askar`](https://github.com/hyperledger/aries-askar) | 3 | [hyperledger_aries-askar.md](dkulic_rollup/hyperledger_aries-askar.md) |
+| [`hyperledger/aries-askar`](https://github.com/hyperledger/aries-askar) | 2 | [hyperledger_aries-askar.md](dkulic_rollup/hyperledger_aries-askar.md) |
 
 ---
 

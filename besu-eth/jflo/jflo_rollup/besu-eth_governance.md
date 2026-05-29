@@ -1,11 +1,11 @@
 # [`besu-eth/governance`](https://github.com/besu-eth/governance) — monthly activity
 
-| Month | PullRequestReviewEvent | PullRequestEvent | IssuesEvent | IssueCommentEvent | PushEvent | CreateEvent | DeleteEvent | Total |
+| Month | PullRequestReviewEvent | IssuesEvent | PullRequestEvent | IssueCommentEvent | PushEvent | CreateEvent | DeleteEvent | Total |
 | --- | --: | --: | --: | --: | --: | --: | --: | --: |
 | 2025-01 | 1 |  |  |  |  |  |  | 1 |
 | 2025-02 | 1 |  |  |  |  |  |  | 1 |
-| 2025-10 |  |  | 1 | 1 |  |  |  | 2 |
-| 2026-02 |  | 1 |  |  |  | 1 |  | 2 |
+| 2025-10 |  | 1 |  | 1 |  |  |  | 2 |
+| 2026-02 |  |  | 1 |  |  | 1 |  | 2 |
 | 2026-03 |  |  |  |  | 1 |  | 1 | 2 |
 | **Total** | **2** | **1** | **1** | **1** | **1** | **1** | **1** | **8** |
 

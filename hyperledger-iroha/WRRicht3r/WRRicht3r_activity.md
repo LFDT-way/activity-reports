@@ -1,8 +1,10 @@
 # GitHub activity report — `WRRicht3r`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **681** events spanning **2022-01-11 → 2025-07-17**, across **2** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **68** events spanning **2024-01-15 → 2025-07-17**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -28,21 +30,19 @@ Repository access granted through those teams (5 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 681 |
-| Pull requests opened | 14 |
-| Pull request reviews | 307 |
+| Total events | 68 |
+| Pull requests opened | 1 |
+| Pull request reviews | 27 |
 | Issues opened | 1 |
-| Pushes | 1 |
-| Commits pushed | 3 |
-| Comments | 352 |
+| Pushes | 0 |
+| Commits pushed | 0 |
+| Comments | 39 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 361 |
-| 2023 | 252 |
 | 2024 | 54 |
 | 2025 | 14 |
 
@@ -50,30 +50,27 @@ Repository access granted through those teams (5 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewCommentEvent | 344 |
-| PullRequestReviewEvent | 307 |
-| PullRequestEvent | 18 |
-| IssueCommentEvent | 8 |
-| ForkEvent | 2 |
+| PullRequestReviewCommentEvent | 37 |
+| PullRequestReviewEvent | 27 |
+| IssueCommentEvent | 2 |
 | IssuesEvent | 1 |
-| PushEvent | 1 |
+| PullRequestEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 660 | 13 | 297 | 1 |
+| [`hyperledger`](https://github.com/hyperledger) | 47 | 0 | 17 | 0 |
 | [`hyperledger-iroha`](https://github.com/hyperledger-iroha) | 21 | 1 | 10 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 570 | 13 | 256 | 1 |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 52 | 0 | 30 | 0 |
-| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 37 | 0 | 10 | 0 |
 | [`hyperledger-iroha/iroha-2-docs`](https://github.com/hyperledger-iroha/iroha-2-docs) | 21 | 1 | 10 | 0 |
-| [`hyperledger/iroha-2-examples`](https://github.com/hyperledger/iroha-2-examples) | 1 | 0 | 1 | 0 |
+| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 20 | 0 | 2 | 0 |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 15 | 0 | 10 | 0 |
+| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 12 | 0 | 5 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -81,11 +78,10 @@ Months as rows, event types as columns. One file per repository in [`WRRicht3r_r
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 570 | [hyperledger_iroha-2-docs.md](WRRicht3r_rollup/hyperledger_iroha-2-docs.md) |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 52 | [hyperledger_iroha.md](WRRicht3r_rollup/hyperledger_iroha.md) |
-| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 37 | [hyperledger_toc.md](WRRicht3r_rollup/hyperledger_toc.md) |
 | [`hyperledger-iroha/iroha-2-docs`](https://github.com/hyperledger-iroha/iroha-2-docs) | 21 | [hyperledger-iroha_iroha-2-docs.md](WRRicht3r_rollup/hyperledger-iroha_iroha-2-docs.md) |
-| [`hyperledger/iroha-2-examples`](https://github.com/hyperledger/iroha-2-examples) | 1 | [hyperledger_iroha-2-examples.md](WRRicht3r_rollup/hyperledger_iroha-2-examples.md) |
+| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 20 | [hyperledger_toc.md](WRRicht3r_rollup/hyperledger_toc.md) |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 15 | [hyperledger_iroha.md](WRRicht3r_rollup/hyperledger_iroha.md) |
+| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 12 | [hyperledger_iroha-2-docs.md](WRRicht3r_rollup/hyperledger_iroha-2-docs.md) |
 
 ---
 

@@ -1,6 +1,8 @@
 # GitHub activity report — `natanasow`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **1,192** events spanning **2025-02-10 → 2026-05-08**, across **1** organizations and **4** repositories.
 
@@ -16,7 +18,7 @@ Member of **7** team(s):
 | `hiero-json-rpc-relay-committers` | member |
 | `hiero-json-rpc-relay-maintainers` | member |
 | `hiero-local-node-committers` | maintainer |
-| `hiero-local-node-maintainers` | member |
+| `hiero-local-node-maintainers` | maintainer |
 
 Repository access granted through those teams (5 repos):
 

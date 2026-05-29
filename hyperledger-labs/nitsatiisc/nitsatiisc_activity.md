@@ -1,8 +1,10 @@
 # GitHub activity report — `nitsatiisc`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **6** events spanning **2023-04-15 → 2026-04-04**, across **2** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **5** events spanning **2025-10-06 → 2026-04-04**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -23,7 +25,7 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 6 |
+| Total events | 5 |
 | Pull requests opened | 2 |
 | Pull request reviews | 0 |
 | Issues opened | 0 |
@@ -36,7 +38,6 @@ Repository access granted through those teams (1 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 1 |
 | 2025 | 1 |
 | 2026 | 4 |
 
@@ -45,7 +46,7 @@ Repository access granted through those teams (1 repos):
 | Type | Count |
 | --- | --: |
 | PullRequestEvent | 3 |
-| ForkEvent | 2 |
+| ForkEvent | 1 |
 | PullRequestReviewCommentEvent | 1 |
 
 ## Organizations
@@ -53,14 +54,12 @@ Repository access granted through those teams (1 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-labs`](https://github.com/hyperledger-labs) | 5 | 2 | 0 | 0 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-labs/fabric-token-sdk`](https://github.com/hyperledger-labs/fabric-token-sdk) | 5 | 2 | 0 | 0 |
-| [`hyperledger/ursa`](https://github.com/hyperledger/ursa) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -69,7 +68,6 @@ Months as rows, event types as columns. One file per repository in [`nitsatiisc_
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`hyperledger-labs/fabric-token-sdk`](https://github.com/hyperledger-labs/fabric-token-sdk) | 5 | [hyperledger-labs_fabric-token-sdk.md](nitsatiisc_rollup/hyperledger-labs_fabric-token-sdk.md) |
-| [`hyperledger/ursa`](https://github.com/hyperledger/ursa) | 1 | [hyperledger_ursa.md](nitsatiisc_rollup/hyperledger_ursa.md) |
 
 ---
 

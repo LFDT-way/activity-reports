@@ -1,8 +1,10 @@
 # GitHub activity report — `timofeevmd`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **222** events spanning **2023-05-08 → 2025-05-02**, across **2** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **96** events spanning **2024-01-10 → 2025-05-02**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -42,20 +44,19 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 222 |
-| Pull requests opened | 8 |
-| Pull request reviews | 4 |
-| Issues opened | 39 |
-| Pushes | 5 |
-| Commits pushed | 5 |
-| Comments | 48 |
+| Total events | 96 |
+| Pull requests opened | 3 |
+| Pull request reviews | 2 |
+| Issues opened | 18 |
+| Pushes | 0 |
+| Commits pushed | 0 |
+| Comments | 22 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 126 |
 | 2024 | 74 |
 | 2025 | 22 |
 
@@ -63,30 +64,27 @@ Repository access granted through those teams (17 repos):
 
 | Type | Count |
 | --- | --: |
-| IssuesEvent | 141 |
-| IssueCommentEvent | 43 |
-| PullRequestEvent | 14 |
-| ForkEvent | 8 |
-| PullRequestReviewCommentEvent | 5 |
-| PushEvent | 5 |
-| PullRequestReviewEvent | 4 |
-| CreateEvent | 2 |
+| IssuesEvent | 61 |
+| IssueCommentEvent | 20 |
+| ForkEvent | 6 |
+| PullRequestEvent | 5 |
+| PullRequestReviewCommentEvent | 2 |
+| PullRequestReviewEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 200 | 8 | 4 | 5 |
+| [`hyperledger`](https://github.com/hyperledger) | 74 | 3 | 2 | 0 |
 | [`hyperledger-iroha`](https://github.com/hyperledger-iroha) | 22 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 161 | 3 | 2 | 0 |
-| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 24 | 5 | 2 | 5 |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 70 | 3 | 2 | 0 |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 21 | 0 | 0 | 0 |
-| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 15 | 0 | 0 | 0 |
+| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 4 | 0 | 0 | 0 |
 | [`hyperledger-iroha/iroha-2-docs`](https://github.com/hyperledger-iroha/iroha-2-docs) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -95,10 +93,9 @@ Months as rows, event types as columns. One file per repository in [`timofeevmd_
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 161 | [hyperledger_iroha.md](timofeevmd_rollup/hyperledger_iroha.md) |
-| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 24 | [hyperledger_iroha-2-docs.md](timofeevmd_rollup/hyperledger_iroha-2-docs.md) |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 70 | [hyperledger_iroha.md](timofeevmd_rollup/hyperledger_iroha.md) |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 21 | [hyperledger-iroha_iroha.md](timofeevmd_rollup/hyperledger-iroha_iroha.md) |
-| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 15 | [hyperledger_iroha-java.md](timofeevmd_rollup/hyperledger_iroha-java.md) |
+| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 4 | [hyperledger_iroha-java.md](timofeevmd_rollup/hyperledger_iroha-java.md) |
 | [`hyperledger-iroha/iroha-2-docs`](https://github.com/hyperledger-iroha/iroha-2-docs) | 1 | [hyperledger-iroha_iroha-2-docs.md](timofeevmd_rollup/hyperledger-iroha_iroha-2-docs.md) |
 
 ---

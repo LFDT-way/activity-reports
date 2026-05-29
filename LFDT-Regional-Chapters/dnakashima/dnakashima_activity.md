@@ -1,8 +1,10 @@
 # GitHub activity report — `dnakashima`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **88** events spanning **2021-06-28 → 2025-12-24**, across **3** organizations and **9** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **37** events spanning **2024-03-25 → 2025-12-24**, across **3** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -23,22 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 88 |
-| Pull requests opened | 17 |
-| Pull request reviews | 18 |
+| Total events | 37 |
+| Pull requests opened | 7 |
+| Pull request reviews | 6 |
 | Issues opened | 1 |
 | Pushes | 1 |
 | Commits pushed | 1 |
-| Comments | 22 |
+| Comments | 11 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 5 |
-| 2022 | 42 |
-| 2023 | 4 |
 | 2024 | 19 |
 | 2025 | 18 |
 
@@ -46,20 +45,20 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 20 |
-| PullRequestEvent | 20 |
-| PullRequestReviewEvent | 18 |
-| ForkEvent | 11 |
-| IssuesEvent | 8 |
-| WatchEvent | 8 |
-| PullRequestReviewCommentEvent | 2 |
+| IssueCommentEvent | 10 |
+| PullRequestEvent | 8 |
+| PullRequestReviewEvent | 6 |
+| ForkEvent | 5 |
+| IssuesEvent | 4 |
+| WatchEvent | 2 |
+| PullRequestReviewCommentEvent | 1 |
 | PushEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 73 | 16 | 17 | 1 |
+| [`hyperledger`](https://github.com/hyperledger) | 22 | 6 | 5 | 1 |
 | [`hyperledger-cacti`](https://github.com/hyperledger-cacti) | 11 | 1 | 1 | 0 |
 | [`hyperledger-bevel`](https://github.com/hyperledger-bevel) | 4 | 0 | 0 | 0 |
 
@@ -67,15 +66,10 @@ Repository access granted through those teams (1 repos):
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/fabric-docs-i18n`](https://github.com/hyperledger/fabric-docs-i18n) | 65 | 16 | 17 | 1 |
+| [`hyperledger/fabric-docs-i18n`](https://github.com/hyperledger/fabric-docs-i18n) | 20 | 6 | 5 | 1 |
 | [`hyperledger-cacti/cacti`](https://github.com/hyperledger-cacti/cacti) | 11 | 1 | 1 | 0 |
 | [`hyperledger-bevel/bevel`](https://github.com/hyperledger-bevel/bevel) | 4 | 0 | 0 | 0 |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 2 | 0 | 0 | 0 |
 | [`hyperledger/firefly-cli`](https://github.com/hyperledger/firefly-cli) | 2 | 0 | 0 | 0 |
-| [`hyperledger/caliper`](https://github.com/hyperledger/caliper) | 1 | 0 | 0 | 0 |
-| [`hyperledger/caliper-benchmarks`](https://github.com/hyperledger/caliper-benchmarks) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-ca`](https://github.com/hyperledger/fabric-ca) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -83,15 +77,10 @@ Months as rows, event types as columns. One file per repository in [`dnakashima_
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/fabric-docs-i18n`](https://github.com/hyperledger/fabric-docs-i18n) | 65 | [hyperledger_fabric-docs-i18n.md](dnakashima_rollup/hyperledger_fabric-docs-i18n.md) |
+| [`hyperledger/fabric-docs-i18n`](https://github.com/hyperledger/fabric-docs-i18n) | 20 | [hyperledger_fabric-docs-i18n.md](dnakashima_rollup/hyperledger_fabric-docs-i18n.md) |
 | [`hyperledger-cacti/cacti`](https://github.com/hyperledger-cacti/cacti) | 11 | [hyperledger-cacti_cacti.md](dnakashima_rollup/hyperledger-cacti_cacti.md) |
 | [`hyperledger-bevel/bevel`](https://github.com/hyperledger-bevel/bevel) | 4 | [hyperledger-bevel_bevel.md](dnakashima_rollup/hyperledger-bevel_bevel.md) |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 2 | [hyperledger_fabric-samples.md](dnakashima_rollup/hyperledger_fabric-samples.md) |
 | [`hyperledger/firefly-cli`](https://github.com/hyperledger/firefly-cli) | 2 | [hyperledger_firefly-cli.md](dnakashima_rollup/hyperledger_firefly-cli.md) |
-| [`hyperledger/caliper`](https://github.com/hyperledger/caliper) | 1 | [hyperledger_caliper.md](dnakashima_rollup/hyperledger_caliper.md) |
-| [`hyperledger/caliper-benchmarks`](https://github.com/hyperledger/caliper-benchmarks) | 1 | [hyperledger_caliper-benchmarks.md](dnakashima_rollup/hyperledger_caliper-benchmarks.md) |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | [hyperledger_fabric.md](dnakashima_rollup/hyperledger_fabric.md) |
-| [`hyperledger/fabric-ca`](https://github.com/hyperledger/fabric-ca) | 1 | [hyperledger_fabric-ca.md](dnakashima_rollup/hyperledger_fabric-ca.md) |
 
 ---
 

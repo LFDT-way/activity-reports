@@ -1,8 +1,10 @@
 # GitHub activity report — `nithin-pankaj`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **279** events spanning **2022-03-28 → 2026-03-13**, across **2** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **118** events spanning **2024-01-04 → 2026-03-13**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -23,21 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 279 |
-| Pull requests opened | 30 |
-| Pull request reviews | 79 |
+| Total events | 118 |
+| Pull requests opened | 13 |
+| Pull request reviews | 21 |
 | Issues opened | 0 |
-| Pushes | 46 |
-| Commits pushed | 44 |
-| Comments | 51 |
+| Pushes | 29 |
+| Commits pushed | 27 |
+| Comments | 13 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 53 |
-| 2023 | 108 |
 | 2024 | 102 |
 | 2025 | 14 |
 | 2026 | 2 |
@@ -46,30 +46,25 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 79 |
-| PullRequestEvent | 77 |
-| PullRequestReviewCommentEvent | 49 |
-| PushEvent | 46 |
-| DeleteEvent | 19 |
-| WatchEvent | 4 |
-| ForkEvent | 2 |
-| IssueCommentEvent | 2 |
+| PullRequestEvent | 43 |
+| PushEvent | 29 |
+| PullRequestReviewEvent | 21 |
+| PullRequestReviewCommentEvent | 12 |
+| DeleteEvent | 11 |
+| IssueCommentEvent | 1 |
 | IssuesEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 278 | 30 | 79 | 46 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 118 | 13 | 21 | 29 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/hlf-connector`](https://github.com/hyperledger-labs/hlf-connector) | 277 | 30 | 79 | 46 |
-| [`hyperledger-labs/hlf-operator`](https://github.com/hyperledger-labs/hlf-operator) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-gateway`](https://github.com/hyperledger/fabric-gateway) | 1 | 0 | 0 | 0 |
+| [`hyperledger-labs/hlf-connector`](https://github.com/hyperledger-labs/hlf-connector) | 118 | 13 | 21 | 29 |
 
 ## Monthly rollup — one table per repository
 
@@ -77,9 +72,7 @@ Months as rows, event types as columns. One file per repository in [`nithin-pank
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/hlf-connector`](https://github.com/hyperledger-labs/hlf-connector) | 277 | [hyperledger-labs_hlf-connector.md](nithin-pankaj_rollup/hyperledger-labs_hlf-connector.md) |
-| [`hyperledger-labs/hlf-operator`](https://github.com/hyperledger-labs/hlf-operator) | 1 | [hyperledger-labs_hlf-operator.md](nithin-pankaj_rollup/hyperledger-labs_hlf-operator.md) |
-| [`hyperledger/fabric-gateway`](https://github.com/hyperledger/fabric-gateway) | 1 | [hyperledger_fabric-gateway.md](nithin-pankaj_rollup/hyperledger_fabric-gateway.md) |
+| [`hyperledger-labs/hlf-connector`](https://github.com/hyperledger-labs/hlf-connector) | 118 | [hyperledger-labs_hlf-connector.md](nithin-pankaj_rollup/hyperledger-labs_hlf-connector.md) |
 
 ---
 

@@ -1,8 +1,10 @@
 # GitHub activity report — `zustkeeper`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **35** events spanning **2019-11-26 → 2024-03-12**, across **3** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **22** events spanning **2024-01-31 → 2024-03-12**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -23,9 +25,9 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 35 |
+| Total events | 22 |
 | Pull requests opened | 0 |
-| Pull request reviews | 32 |
+| Pull request reviews | 21 |
 | Issues opened | 0 |
 | Pushes | 0 |
 | Commits pushed | 0 |
@@ -36,33 +38,26 @@ Repository access granted through those teams (1 repos):
 
 | Year | Events |
 | --- | --: |
-| 2019 | 1 |
-| 2023 | 12 |
 | 2024 | 22 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 32 |
-| WatchEvent | 2 |
+| PullRequestReviewEvent | 21 |
 | IssueCommentEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 33 | 0 | 32 | 0 |
-| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 1 | 0 | 0 | 0 |
-| [`openwallet-foundation`](https://github.com/openwallet-foundation) | 1 | 0 | 0 | 0 |
+| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 22 | 0 | 21 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs/sd-jwt-js`](https://github.com/openwallet-foundation-labs/sd-jwt-js) | 33 | 0 | 32 | 0 |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 1 | 0 | 0 | 0 |
-| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 1 | 0 | 0 | 0 |
+| [`openwallet-foundation-labs/sd-jwt-js`](https://github.com/openwallet-foundation-labs/sd-jwt-js) | 22 | 0 | 21 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -70,9 +65,7 @@ Months as rows, event types as columns. One file per repository in [`zustkeeper_
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`openwallet-foundation-labs/sd-jwt-js`](https://github.com/openwallet-foundation-labs/sd-jwt-js) | 33 | [openwallet-foundation-labs_sd-jwt-js.md](zustkeeper_rollup/openwallet-foundation-labs_sd-jwt-js.md) |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 1 | [open-quantum-safe_liboqs.md](zustkeeper_rollup/open-quantum-safe_liboqs.md) |
-| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 1 | [openwallet-foundation_project-proposals.md](zustkeeper_rollup/openwallet-foundation_project-proposals.md) |
+| [`openwallet-foundation-labs/sd-jwt-js`](https://github.com/openwallet-foundation-labs/sd-jwt-js) | 22 | [openwallet-foundation-labs_sd-jwt-js.md](zustkeeper_rollup/openwallet-foundation-labs_sd-jwt-js.md) |
 
 ---
 

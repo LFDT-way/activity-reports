@@ -1,8 +1,10 @@
 # GitHub activity report — `jimouris`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **82** events spanning **2017-05-22 → 2025-06-13**, across **2** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **12** events spanning **2024-08-20 → 2025-06-13**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -40,23 +42,19 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 82 |
-| Pull requests opened | 4 |
-| Pull request reviews | 13 |
+| Total events | 12 |
+| Pull requests opened | 0 |
+| Pull request reviews | 7 |
 | Issues opened | 0 |
-| Pushes | 21 |
-| Commits pushed | 30 |
-| Comments | 29 |
+| Pushes | 1 |
+| Commits pushed | 5 |
+| Comments | 3 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2017 | 1 |
-| 2020 | 53 |
-| 2021 | 15 |
-| 2023 | 1 |
 | 2024 | 9 |
 | 2025 | 3 |
 
@@ -64,33 +62,23 @@ Repository access granted through those teams (17 repos):
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 26 |
-| PushEvent | 21 |
-| PullRequestReviewEvent | 13 |
-| PullRequestEvent | 8 |
-| WatchEvent | 5 |
-| CreateEvent | 3 |
-| PullRequestReviewCommentEvent | 3 |
-| DeleteEvent | 1 |
-| ForkEvent | 1 |
-| IssuesEvent | 1 |
+| PullRequestReviewEvent | 7 |
+| IssueCommentEvent | 2 |
+| PullRequestEvent | 1 |
+| PullRequestReviewCommentEvent | 1 |
+| PushEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 81 | 4 | 13 | 21 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
+| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 12 | 0 | 7 | 1 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe/liboqs-java`](https://github.com/open-quantum-safe/liboqs-java) | 78 | 4 | 13 | 21 |
-| [`hyperledger/sawtooth-core`](https://github.com/hyperledger/sawtooth-core) | 1 | 0 | 0 | 0 |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 1 | 0 | 0 | 0 |
-| [`open-quantum-safe/liboqs-cpp`](https://github.com/open-quantum-safe/liboqs-cpp) | 1 | 0 | 0 | 0 |
-| [`open-quantum-safe/liboqs-dotnet`](https://github.com/open-quantum-safe/liboqs-dotnet) | 1 | 0 | 0 | 0 |
+| [`open-quantum-safe/liboqs-java`](https://github.com/open-quantum-safe/liboqs-java) | 12 | 0 | 7 | 1 |
 
 ## Monthly rollup — one table per repository
 
@@ -98,11 +86,7 @@ Months as rows, event types as columns. One file per repository in [`jimouris_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`open-quantum-safe/liboqs-java`](https://github.com/open-quantum-safe/liboqs-java) | 78 | [open-quantum-safe_liboqs-java.md](jimouris_rollup/open-quantum-safe_liboqs-java.md) |
-| [`hyperledger/sawtooth-core`](https://github.com/hyperledger/sawtooth-core) | 1 | [hyperledger_sawtooth-core.md](jimouris_rollup/hyperledger_sawtooth-core.md) |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 1 | [open-quantum-safe_liboqs.md](jimouris_rollup/open-quantum-safe_liboqs.md) |
-| [`open-quantum-safe/liboqs-cpp`](https://github.com/open-quantum-safe/liboqs-cpp) | 1 | [open-quantum-safe_liboqs-cpp.md](jimouris_rollup/open-quantum-safe_liboqs-cpp.md) |
-| [`open-quantum-safe/liboqs-dotnet`](https://github.com/open-quantum-safe/liboqs-dotnet) | 1 | [open-quantum-safe_liboqs-dotnet.md](jimouris_rollup/open-quantum-safe_liboqs-dotnet.md) |
+| [`open-quantum-safe/liboqs-java`](https://github.com/open-quantum-safe/liboqs-java) | 12 | [open-quantum-safe_liboqs-java.md](jimouris_rollup/open-quantum-safe_liboqs-java.md) |
 
 ---
 

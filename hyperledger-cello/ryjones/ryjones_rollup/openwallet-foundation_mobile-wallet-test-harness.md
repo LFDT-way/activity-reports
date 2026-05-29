@@ -1,6 +1,6 @@
 # [`openwallet-foundation/mobile-wallet-test-harness`](https://github.com/openwallet-foundation/mobile-wallet-test-harness) — monthly activity
 
-| Month | PullRequestEvent | PushEvent | CreateEvent | DeleteEvent | ForkEvent | Total |
+| Month | PullRequestEvent | PushEvent | DeleteEvent | CreateEvent | ForkEvent | Total |
 | --- | --: | --: | --: | --: | --: | --: |
 | 2024-03 | 1 | 2 | 2 | 2 | 1 | 8 |
 | **Total** | **1** | **2** | **2** | **2** | **1** | **8** |

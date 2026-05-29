@@ -1,12 +1,14 @@
 # GitHub activity report — `poulok`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **2,280** events spanning **2025-02-03 → 2026-05-28**, across **1** organizations and **3** repositories.
 
 ## Teams & repository access
 
-Member of **6** team(s):
+Member of **7** team(s):
 
 | Team | Role in team |
 | --- | --- |
@@ -16,13 +18,15 @@ Member of **6** team(s):
 | `hiero-consensus-node-internal-contributors` | maintainer |
 | `hiero-consensus-node-maintainers` | member |
 | `hiero-consensus-node-release-managers` | member |
+| `roadmap-committers` | member |
 
-Repository access granted through those teams (2 repos):
+Repository access granted through those teams (3 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `hiero-consensus-node` | maintain | `hiero-consensus-node-maintainers` (maintain), `hiero-consensus-node-committers` (write), `hiero-consensus-node-consensus-codeowners` (write), `hiero-consensus-node-release-managers` (write), `hiero-consensus-node-internal-contributors` (triage) |
 | `governance` | write | `governance-write` (write) |
+| `roadmap` | write | `roadmap-committers` (write) |
 
 
 ## Overview

@@ -1,6 +1,6 @@
 # [`OpenVTC/governance`](https://github.com/OpenVTC/governance) — monthly activity
 
-| Month | PushEvent | CreateEvent | DeleteEvent | Total |
+| Month | PushEvent | DeleteEvent | CreateEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2026-03 | 1 | 1 | 1 | 3 |
 | 2026-05 | 1 | 1 | 1 | 3 |

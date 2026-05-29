@@ -1,10 +1,5 @@
-repo,month,PushEvent,CreateEvent,DeleteEvent,PullRequestReviewEvent,PullRequestEvent,IssuesEvent,total
-hyperledger/iroha-ios,2023-04,0,2,0,0,0,0,2
-hyperledger/iroha-ios,2023-08,8,6,6,0,0,0,20
-hyperledger/iroha-ios,2023-09,18,1,1,0,0,0,20
-hyperledger/iroha-ios,2023-10,5,0,0,0,0,0,5
-hyperledger/iroha-ios,2023-12,1,1,0,0,0,0,2
-hyperledger-iroha/iroha,2026-01,0,0,0,0,0,1,1
-hyperledger-iroha/iroha,2026-03,1,1,0,2,1,0,5
-hyperledger-iroha/iroha,2026-04,0,4,0,2,1,0,7
-hyperledger-iroha/iroha,2026-05,0,0,1,0,0,0,1
+repo,month,CreateEvent,PullRequestReviewEvent,PullRequestEvent,DeleteEvent,IssuesEvent,PushEvent,total
+hyperledger-iroha/iroha,2026-01,0,0,0,0,1,0,1
+hyperledger-iroha/iroha,2026-03,1,2,1,0,0,1,5
+hyperledger-iroha/iroha,2026-04,4,2,1,0,0,0,7
+hyperledger-iroha/iroha,2026-05,0,0,0,1,0,0,1

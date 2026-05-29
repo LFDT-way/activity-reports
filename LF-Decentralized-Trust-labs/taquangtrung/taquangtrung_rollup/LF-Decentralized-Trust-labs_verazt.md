@@ -1,6 +1,6 @@
 # [`LF-Decentralized-Trust-labs/verazt`](https://github.com/LF-Decentralized-Trust-labs/verazt) — monthly activity
 
-| Month | PushEvent | PullRequestEvent | IssuesEvent | CreateEvent | DeleteEvent | WatchEvent | Total |
+| Month | PushEvent | PullRequestEvent | CreateEvent | IssuesEvent | DeleteEvent | WatchEvent | Total |
 | --- | --: | --: | --: | --: | --: | --: | --: |
 | 2025-07 | 14 | 4 | 2 | 2 |  | 1 | 23 |
 | 2025-08 | 41 | 14 |  |  |  |  | 55 |

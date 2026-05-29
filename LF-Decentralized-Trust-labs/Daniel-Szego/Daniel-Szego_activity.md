@@ -1,8 +1,10 @@
 # GitHub activity report — `Daniel-Szego`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **55** events spanning **2018-09-28 → 2026-04-29**, across **3** organizations and **6** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **49** events spanning **2025-03-10 → 2026-04-29**, across **1** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -25,22 +27,19 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 55 |
-| Pull requests opened | 8 |
-| Pull request reviews | 3 |
+| Total events | 49 |
+| Pull requests opened | 7 |
+| Pull request reviews | 2 |
 | Issues opened | 0 |
 | Pushes | 15 |
 | Commits pushed | 7 |
-| Comments | 4 |
+| Comments | 2 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2018 | 1 |
-| 2021 | 1 |
-| 2022 | 4 |
 | 2025 | 33 |
 | 2026 | 16 |
 
@@ -49,13 +48,12 @@ Repository access granted through those teams (2 repos):
 | Type | Count |
 | --- | --: |
 | PushEvent | 15 |
-| PullRequestEvent | 12 |
 | DeleteEvent | 11 |
+| PullRequestEvent | 11 |
 | CreateEvent | 6 |
-| ForkEvent | 3 |
-| PullRequestReviewCommentEvent | 3 |
-| PullRequestReviewEvent | 3 |
-| IssueCommentEvent | 1 |
+| PullRequestReviewCommentEvent | 2 |
+| PullRequestReviewEvent | 2 |
+| ForkEvent | 1 |
 | WatchEvent | 1 |
 
 ## Organizations
@@ -63,8 +61,6 @@ Repository access granted through those teams (2 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`LF-Decentralized-Trust-labs`](https://github.com/LF-Decentralized-Trust-labs) | 49 | 7 | 2 | 15 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 4 | 1 | 1 | 0 |
-| [`hyperledger`](https://github.com/hyperledger) | 2 | 0 | 0 | 0 |
 
 ## Repositories
 
@@ -72,10 +68,7 @@ Repository access granted through those teams (2 repos):
 | --- | --: | --: | --: | --: |
 | [`LF-Decentralized-Trust-labs/zk-learning-group`](https://github.com/LF-Decentralized-Trust-labs/zk-learning-group) | 40 | 6 | 0 | 14 |
 | [`LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io`](https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io) | 6 | 1 | 2 | 0 |
-| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 4 | 1 | 1 | 0 |
 | [`LF-Decentralized-Trust-labs/flavum`](https://github.com/LF-Decentralized-Trust-labs/flavum) | 3 | 0 | 0 | 1 |
-| [`hyperledger/composer`](https://github.com/hyperledger/composer) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -85,10 +78,7 @@ Months as rows, event types as columns. One file per repository in [`Daniel-Szeg
 | --- | --: | --- |
 | [`LF-Decentralized-Trust-labs/zk-learning-group`](https://github.com/LF-Decentralized-Trust-labs/zk-learning-group) | 40 | [LF-Decentralized-Trust-labs_zk-learning-group.md](Daniel-Szego_rollup/LF-Decentralized-Trust-labs_zk-learning-group.md) |
 | [`LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io`](https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io) | 6 | [LF-Decentralized-Trust-labs_LF-Decentralized-Trust-labs.github.io.md](Daniel-Szego_rollup/LF-Decentralized-Trust-labs_LF-Decentralized-Trust-labs.github.io.md) |
-| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 4 | [hyperledger-labs_hyperledger-labs.github.io.md](Daniel-Szego_rollup/hyperledger-labs_hyperledger-labs.github.io.md) |
 | [`LF-Decentralized-Trust-labs/flavum`](https://github.com/LF-Decentralized-Trust-labs/flavum) | 3 | [LF-Decentralized-Trust-labs_flavum.md](Daniel-Szego_rollup/LF-Decentralized-Trust-labs_flavum.md) |
-| [`hyperledger/composer`](https://github.com/hyperledger/composer) | 1 | [hyperledger_composer.md](Daniel-Szego_rollup/hyperledger_composer.md) |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | [hyperledger_fabric-samples.md](Daniel-Szego_rollup/hyperledger_fabric-samples.md) |
 
 ---
 

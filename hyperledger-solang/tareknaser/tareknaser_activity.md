@@ -1,8 +1,10 @@
 # GitHub activity report — `tareknaser`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **99** events spanning **2023-09-06 → 2025-04-22**, across **3** organizations and **6** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **47** events spanning **2024-02-20 → 2025-04-22**, across **3** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -29,20 +31,19 @@ Repository access granted through those teams (6 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 99 |
-| Pull requests opened | 18 |
-| Pull request reviews | 12 |
-| Issues opened | 20 |
+| Total events | 47 |
+| Pull requests opened | 9 |
+| Pull request reviews | 3 |
+| Issues opened | 6 |
 | Pushes | 11 |
 | Commits pushed | 19 |
-| Comments | 28 |
+| Comments | 12 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 52 |
 | 2024 | 42 |
 | 2025 | 5 |
 
@@ -50,34 +51,31 @@ Repository access granted through those teams (6 repos):
 
 | Type | Count |
 | --- | --: |
-| IssuesEvent | 21 |
-| PullRequestEvent | 21 |
-| IssueCommentEvent | 16 |
-| PullRequestReviewCommentEvent | 12 |
-| PullRequestReviewEvent | 12 |
 | PushEvent | 11 |
+| PullRequestEvent | 10 |
+| IssueCommentEvent | 9 |
+| IssuesEvent | 7 |
+| PullRequestReviewCommentEvent | 3 |
+| PullRequestReviewEvent | 3 |
 | CreateEvent | 2 |
-| ForkEvent | 2 |
 | DeleteEvent | 1 |
-| WatchEvent | 1 |
+| ForkEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 60 | 10 | 9 | 0 |
 | [`hyperledger-labs`](https://github.com/hyperledger-labs) | 23 | 3 | 0 | 11 |
 | [`hyperledger-solang`](https://github.com/hyperledger-solang) | 16 | 5 | 3 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 8 | 1 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/solang-aqd`](https://github.com/hyperledger/solang-aqd) | 37 | 4 | 4 | 0 |
 | [`hyperledger-labs/solang-playground`](https://github.com/hyperledger-labs/solang-playground) | 23 | 3 | 0 | 11 |
-| [`hyperledger/solang`](https://github.com/hyperledger/solang) | 20 | 4 | 5 | 0 |
 | [`hyperledger-solang/solang`](https://github.com/hyperledger-solang/solang) | 16 | 5 | 3 | 0 |
-| [`hyperledger/solang-llvm`](https://github.com/hyperledger/solang-llvm) | 2 | 2 | 0 | 0 |
+| [`hyperledger/solang-aqd`](https://github.com/hyperledger/solang-aqd) | 7 | 1 | 0 | 0 |
 | [`hyperledger/governance`](https://github.com/hyperledger/governance) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -86,11 +84,9 @@ Months as rows, event types as columns. One file per repository in [`tareknaser_
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/solang-aqd`](https://github.com/hyperledger/solang-aqd) | 37 | [hyperledger_solang-aqd.md](tareknaser_rollup/hyperledger_solang-aqd.md) |
 | [`hyperledger-labs/solang-playground`](https://github.com/hyperledger-labs/solang-playground) | 23 | [hyperledger-labs_solang-playground.md](tareknaser_rollup/hyperledger-labs_solang-playground.md) |
-| [`hyperledger/solang`](https://github.com/hyperledger/solang) | 20 | [hyperledger_solang.md](tareknaser_rollup/hyperledger_solang.md) |
 | [`hyperledger-solang/solang`](https://github.com/hyperledger-solang/solang) | 16 | [hyperledger-solang_solang.md](tareknaser_rollup/hyperledger-solang_solang.md) |
-| [`hyperledger/solang-llvm`](https://github.com/hyperledger/solang-llvm) | 2 | [hyperledger_solang-llvm.md](tareknaser_rollup/hyperledger_solang-llvm.md) |
+| [`hyperledger/solang-aqd`](https://github.com/hyperledger/solang-aqd) | 7 | [hyperledger_solang-aqd.md](tareknaser_rollup/hyperledger_solang-aqd.md) |
 | [`hyperledger/governance`](https://github.com/hyperledger/governance) | 1 | [hyperledger_governance.md](tareknaser_rollup/hyperledger_governance.md) |
 
 ---

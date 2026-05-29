@@ -1,8 +1,10 @@
 # GitHub activity report — `sergmetelin`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **23** events spanning **2021-09-14 → 2026-02-13**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **22** events spanning **2025-04-09 → 2026-02-13**, across **1** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -26,7 +28,7 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 23 |
+| Total events | 22 |
 | Pull requests opened | 0 |
 | Pull request reviews | 13 |
 | Issues opened | 0 |
@@ -39,7 +41,6 @@ Repository access granted through those teams (2 repos):
 
 | Year | Events |
 | --- | --: |
-| 2021 | 1 |
 | 2025 | 21 |
 | 2026 | 1 |
 
@@ -51,14 +52,13 @@ Repository access granted through those teams (2 repos):
 | PullRequestEvent | 3 |
 | PushEvent | 3 |
 | DeleteEvent | 2 |
-| WatchEvent | 2 |
+| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hiero-ledger`](https://github.com/hiero-ledger) | 22 | 0 | 13 | 3 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
@@ -67,7 +67,6 @@ Repository access granted through those teams (2 repos):
 | [`hiero-ledger/hiero-improvement-proposals`](https://github.com/hiero-ledger/hiero-improvement-proposals) | 20 | 0 | 12 | 3 |
 | [`hiero-ledger/governance`](https://github.com/hiero-ledger/governance) | 1 | 0 | 1 | 0 |
 | [`hiero-ledger/hiero-cli`](https://github.com/hiero-ledger/hiero-cli) | 1 | 0 | 0 | 0 |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -78,7 +77,6 @@ Months as rows, event types as columns. One file per repository in [`sergmetelin
 | [`hiero-ledger/hiero-improvement-proposals`](https://github.com/hiero-ledger/hiero-improvement-proposals) | 20 | [hiero-ledger_hiero-improvement-proposals.md](sergmetelin_rollup/hiero-ledger_hiero-improvement-proposals.md) |
 | [`hiero-ledger/governance`](https://github.com/hiero-ledger/governance) | 1 | [hiero-ledger_governance.md](sergmetelin_rollup/hiero-ledger_governance.md) |
 | [`hiero-ledger/hiero-cli`](https://github.com/hiero-ledger/hiero-cli) | 1 | [hiero-ledger_hiero-cli.md](sergmetelin_rollup/hiero-ledger_hiero-cli.md) |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | [hyperledger_besu.md](sergmetelin_rollup/hyperledger_besu.md) |
 
 ---
 

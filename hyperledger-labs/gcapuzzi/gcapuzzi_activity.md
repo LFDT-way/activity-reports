@@ -1,8 +1,10 @@
 # GitHub activity report — `gcapuzzi`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **260** events spanning **2023-10-30 → 2026-01-09**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **245** events spanning **2024-02-27 → 2026-01-09**, across **2** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -23,20 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 260 |
+| Total events | 245 |
 | Pull requests opened | 40 |
-| Pull request reviews | 7 |
+| Pull request reviews | 0 |
 | Issues opened | 4 |
 | Pushes | 50 |
 | Commits pushed | 47 |
-| Comments | 37 |
+| Comments | 30 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 15 |
 | 2024 | 94 |
 | 2025 | 149 |
 | 2026 | 2 |
@@ -47,12 +48,10 @@ Repository access granted through those teams (1 repos):
 | --- | --: |
 | PullRequestEvent | 92 |
 | PushEvent | 50 |
-| ForkEvent | 38 |
+| ForkEvent | 37 |
 | IssueCommentEvent | 30 |
 | IssuesEvent | 15 |
 | CreateEvent | 11 |
-| PullRequestReviewCommentEvent | 7 |
-| PullRequestReviewEvent | 7 |
 | DeleteEvent | 5 |
 | WatchEvent | 5 |
 
@@ -60,7 +59,7 @@ Repository access granted through those teams (1 repos):
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 256 | 40 | 7 | 50 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 241 | 40 | 0 | 50 |
 | [`LF-Decentralized-Trust-Mentorships`](https://github.com/LF-Decentralized-Trust-Mentorships) | 4 | 0 | 0 | 0 |
 
 ## Repositories
@@ -68,7 +67,6 @@ Repository access granted through those teams (1 repos):
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-labs/aifaq`](https://github.com/hyperledger-labs/aifaq) | 240 | 40 | 0 | 50 |
-| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 15 | 0 | 7 | 0 |
 | [`LF-Decentralized-Trust-Mentorships/mentorship-program`](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program) | 4 | 0 | 0 | 0 |
 | [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 1 | 0 | 0 | 0 |
 
@@ -79,7 +77,6 @@ Months as rows, event types as columns. One file per repository in [`gcapuzzi_ro
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`hyperledger-labs/aifaq`](https://github.com/hyperledger-labs/aifaq) | 240 | [hyperledger-labs_aifaq.md](gcapuzzi_rollup/hyperledger-labs_aifaq.md) |
-| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 15 | [hyperledger-labs_hyperledger-labs.github.io.md](gcapuzzi_rollup/hyperledger-labs_hyperledger-labs.github.io.md) |
 | [`LF-Decentralized-Trust-Mentorships/mentorship-program`](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program) | 4 | [LF-Decentralized-Trust-Mentorships_mentorship-program.md](gcapuzzi_rollup/LF-Decentralized-Trust-Mentorships_mentorship-program.md) |
 | [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 1 | [hyperledger-labs_governance.md](gcapuzzi_rollup/hyperledger-labs_governance.md) |
 

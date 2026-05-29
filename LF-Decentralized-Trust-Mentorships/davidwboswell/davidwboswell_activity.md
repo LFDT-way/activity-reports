@@ -1,8 +1,10 @@
 # GitHub activity report — `davidwboswell`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **139** events spanning **2021-04-01 → 2026-04-23**, across **4** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **134** events spanning **2024-01-17 → 2026-04-23**, across **4** organizations and **6** repositories.
 
 ## Teams & repository access
 
@@ -24,21 +26,19 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 139 |
-| Pull requests opened | 1 |
+| Total events | 134 |
+| Pull requests opened | 0 |
 | Pull request reviews | 3 |
 | Issues opened | 0 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 15 |
+| Comments | 12 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 2 |
-| 2022 | 3 |
 | 2024 | 8 |
 | 2025 | 115 |
 | 2026 | 11 |
@@ -48,10 +48,8 @@ Repository access granted through those teams (2 repos):
 | Type | Count |
 | --- | --: |
 | GollumEvent | 119 |
-| IssueCommentEvent | 14 |
+| IssueCommentEvent | 11 |
 | PullRequestReviewEvent | 3 |
-| ForkEvent | 1 |
-| PullRequestEvent | 1 |
 | PullRequestReviewCommentEvent | 1 |
 
 ## Organizations
@@ -59,8 +57,8 @@ Repository access granted through those teams (2 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`LF-Decentralized-Trust`](https://github.com/LF-Decentralized-Trust) | 119 | 0 | 0 | 0 |
-| [`hyperledger`](https://github.com/hyperledger) | 10 | 1 | 2 | 0 |
 | [`LF-Decentralized-Trust-labs`](https://github.com/LF-Decentralized-Trust-labs) | 7 | 0 | 1 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 5 | 0 | 2 | 0 |
 | [`hyperledger-labs`](https://github.com/hyperledger-labs) | 3 | 0 | 0 | 0 |
 
 ## Repositories
@@ -71,8 +69,6 @@ Repository access granted through those teams (2 repos):
 | [`LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io`](https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io) | 7 | 0 | 1 | 0 |
 | [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 3 | 0 | 0 | 0 |
 | [`hyperledger/toc`](https://github.com/hyperledger/toc) | 3 | 0 | 1 | 0 |
-| [`hyperledger/tsc`](https://github.com/hyperledger/tsc) | 3 | 0 | 0 | 0 |
-| [`hyperledger/fabric-docs-i18n`](https://github.com/hyperledger/fabric-docs-i18n) | 2 | 1 | 0 | 0 |
 | [`hyperledger/aries`](https://github.com/hyperledger/aries) | 1 | 0 | 1 | 0 |
 | [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | 0 | 0 | 0 |
 
@@ -86,8 +82,6 @@ Months as rows, event types as columns. One file per repository in [`davidwboswe
 | [`LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io`](https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io) | 7 | [LF-Decentralized-Trust-labs_LF-Decentralized-Trust-labs.github.io.md](davidwboswell_rollup/LF-Decentralized-Trust-labs_LF-Decentralized-Trust-labs.github.io.md) |
 | [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 3 | [hyperledger-labs_hyperledger-labs.github.io.md](davidwboswell_rollup/hyperledger-labs_hyperledger-labs.github.io.md) |
 | [`hyperledger/toc`](https://github.com/hyperledger/toc) | 3 | [hyperledger_toc.md](davidwboswell_rollup/hyperledger_toc.md) |
-| [`hyperledger/tsc`](https://github.com/hyperledger/tsc) | 3 | [hyperledger_tsc.md](davidwboswell_rollup/hyperledger_tsc.md) |
-| [`hyperledger/fabric-docs-i18n`](https://github.com/hyperledger/fabric-docs-i18n) | 2 | [hyperledger_fabric-docs-i18n.md](davidwboswell_rollup/hyperledger_fabric-docs-i18n.md) |
 | [`hyperledger/aries`](https://github.com/hyperledger/aries) | 1 | [hyperledger_aries.md](davidwboswell_rollup/hyperledger_aries.md) |
 | [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | [hyperledger_besu.md](davidwboswell_rollup/hyperledger_besu.md) |
 

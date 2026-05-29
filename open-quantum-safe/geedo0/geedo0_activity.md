@@ -1,8 +1,10 @@
 # GitHub activity report — `geedo0`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **72** events spanning **2023-02-22 → 2024-08-28**, across **1** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **69** events spanning **2024-06-18 → 2024-08-28**, across **1** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -40,33 +42,31 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 72 |
+| Total events | 69 |
 | Pull requests opened | 8 |
 | Pull request reviews | 6 |
 | Issues opened | 3 |
 | Pushes | 5 |
 | Commits pushed | 5 |
-| Comments | 33 |
+| Comments | 32 |
 | Releases | 1 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 3 |
 | 2024 | 69 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 28 |
+| IssueCommentEvent | 27 |
 | PullRequestEvent | 15 |
 | IssuesEvent | 7 |
 | PullRequestReviewEvent | 6 |
 | PullRequestReviewCommentEvent | 5 |
 | PushEvent | 5 |
-| WatchEvent | 2 |
 | CreateEvent | 1 |
 | ForkEvent | 1 |
 | GollumEvent | 1 |
@@ -76,15 +76,14 @@ Repository access granted through those teams (17 repos):
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 72 | 8 | 6 | 5 |
+| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 69 | 8 | 6 | 5 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe/openssh`](https://github.com/open-quantum-safe/openssh) | 67 | 8 | 5 | 5 |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 3 | 0 | 1 | 0 |
-| [`open-quantum-safe/openssl`](https://github.com/open-quantum-safe/openssl) | 1 | 0 | 0 | 0 |
+| [`open-quantum-safe/openssh`](https://github.com/open-quantum-safe/openssh) | 66 | 8 | 5 | 5 |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 2 | 0 | 1 | 0 |
 | [`open-quantum-safe/tsc`](https://github.com/open-quantum-safe/tsc) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -93,9 +92,8 @@ Months as rows, event types as columns. One file per repository in [`geedo0_roll
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`open-quantum-safe/openssh`](https://github.com/open-quantum-safe/openssh) | 67 | [open-quantum-safe_openssh.md](geedo0_rollup/open-quantum-safe_openssh.md) |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 3 | [open-quantum-safe_liboqs.md](geedo0_rollup/open-quantum-safe_liboqs.md) |
-| [`open-quantum-safe/openssl`](https://github.com/open-quantum-safe/openssl) | 1 | [open-quantum-safe_openssl.md](geedo0_rollup/open-quantum-safe_openssl.md) |
+| [`open-quantum-safe/openssh`](https://github.com/open-quantum-safe/openssh) | 66 | [open-quantum-safe_openssh.md](geedo0_rollup/open-quantum-safe_openssh.md) |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 2 | [open-quantum-safe_liboqs.md](geedo0_rollup/open-quantum-safe_liboqs.md) |
 | [`open-quantum-safe/tsc`](https://github.com/open-quantum-safe/tsc) | 1 | [open-quantum-safe_tsc.md](geedo0_rollup/open-quantum-safe_tsc.md) |
 
 ---

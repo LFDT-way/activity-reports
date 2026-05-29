@@ -1,8 +1,10 @@
 # GitHub activity report — `outoftardis`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **2,154** events spanning **2022-03-31 → 2024-11-05**, across **2** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **78** events spanning **2024-01-15 → 2024-11-05**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -28,56 +30,49 @@ Repository access granted through those teams (5 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 2,154 |
-| Pull requests opened | 119 |
-| Pull request reviews | 684 |
-| Issues opened | 38 |
-| Pushes | 71 |
-| Commits pushed | 72 |
-| Comments | 1,053 |
+| Total events | 78 |
+| Pull requests opened | 2 |
+| Pull request reviews | 24 |
+| Issues opened | 0 |
+| Pushes | 3 |
+| Commits pushed | 3 |
+| Comments | 32 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 1,532 |
-| 2023 | 544 |
 | 2024 | 78 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewCommentEvent | 950 |
-| PullRequestReviewEvent | 684 |
-| PullRequestEvent | 195 |
-| IssuesEvent | 137 |
-| IssueCommentEvent | 103 |
-| PushEvent | 71 |
-| CreateEvent | 6 |
-| ForkEvent | 5 |
-| DeleteEvent | 3 |
+| PullRequestReviewEvent | 24 |
+| PullRequestReviewCommentEvent | 23 |
+| IssuesEvent | 10 |
+| IssueCommentEvent | 9 |
+| PullRequestEvent | 6 |
+| PushEvent | 3 |
+| CreateEvent | 2 |
+| DeleteEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 2,148 | 118 | 682 | 70 |
+| [`hyperledger`](https://github.com/hyperledger) | 72 | 1 | 22 | 2 |
 | [`hyperledger-iroha`](https://github.com/hyperledger-iroha) | 6 | 1 | 2 | 1 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 1,022 | 26 | 374 | 5 |
-| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 961 | 82 | 252 | 59 |
-| [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 106 | 1 | 45 | 0 |
-| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 46 | 9 | 7 | 6 |
-| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 12 | 0 | 4 | 0 |
+| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 68 | 1 | 18 | 2 |
 | [`hyperledger-iroha/iroha-2-docs`](https://github.com/hyperledger-iroha/iroha-2-docs) | 5 | 0 | 2 | 1 |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 4 | 0 | 4 | 0 |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 1 | 1 | 0 | 0 |
-| [`hyperledger/iroha-ios`](https://github.com/hyperledger/iroha-ios) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -85,14 +80,10 @@ Months as rows, event types as columns. One file per repository in [`outoftardis
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 1,022 | [hyperledger_iroha.md](outoftardis_rollup/hyperledger_iroha.md) |
-| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 961 | [hyperledger_iroha-2-docs.md](outoftardis_rollup/hyperledger_iroha-2-docs.md) |
-| [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 106 | [hyperledger_iroha-javascript.md](outoftardis_rollup/hyperledger_iroha-javascript.md) |
-| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 46 | [hyperledger_iroha-java.md](outoftardis_rollup/hyperledger_iroha-java.md) |
-| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 12 | [hyperledger_toc.md](outoftardis_rollup/hyperledger_toc.md) |
+| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 68 | [hyperledger_iroha-2-docs.md](outoftardis_rollup/hyperledger_iroha-2-docs.md) |
 | [`hyperledger-iroha/iroha-2-docs`](https://github.com/hyperledger-iroha/iroha-2-docs) | 5 | [hyperledger-iroha_iroha-2-docs.md](outoftardis_rollup/hyperledger-iroha_iroha-2-docs.md) |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 4 | [hyperledger_iroha.md](outoftardis_rollup/hyperledger_iroha.md) |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 1 | [hyperledger-iroha_iroha.md](outoftardis_rollup/hyperledger-iroha_iroha.md) |
-| [`hyperledger/iroha-ios`](https://github.com/hyperledger/iroha-ios) | 1 | [hyperledger_iroha-ios.md](outoftardis_rollup/hyperledger_iroha-ios.md) |
 
 ---
 

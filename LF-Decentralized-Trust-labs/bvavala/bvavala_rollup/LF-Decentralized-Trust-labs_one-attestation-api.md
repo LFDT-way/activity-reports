@@ -1,6 +1,6 @@
 # [`LF-Decentralized-Trust-labs/one-attestation-api`](https://github.com/LF-Decentralized-Trust-labs/one-attestation-api) — monthly activity
 
-| Month | PullRequestEvent | WatchEvent | ForkEvent | Total |
+| Month | PullRequestEvent | ForkEvent | WatchEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2024-12 | 1 | 1 | 1 | 3 |
 | **Total** | **1** | **1** | **1** | **3** |

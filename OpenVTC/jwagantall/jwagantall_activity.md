@@ -1,8 +1,10 @@
 # GitHub activity report — `jwagantall`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **2,336** events spanning **2017-04-19 → 2026-05-27**, across **12** organizations and **131** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **2,214** events spanning **2024-12-17 → 2026-05-27**, across **12** organizations and **93** repositories.
 
 ## Teams & repository access
 
@@ -23,23 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 2,336 |
-| Pull requests opened | 318 |
+| Total events | 2,214 |
+| Pull requests opened | 301 |
 | Pull request reviews | 239 |
 | Issues opened | 30 |
 | Pushes | 527 |
 | Commits pushed | 649 |
-| Comments | 359 |
+| Comments | 355 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2017 | 21 |
-| 2018 | 45 |
-| 2019 | 52 |
-| 2020 | 4 |
 | 2024 | 5 |
 | 2025 | 1,864 |
 | 2026 | 345 |
@@ -49,16 +47,15 @@ Repository access granted through those teams (1 repos):
 | Type | Count |
 | --- | --: |
 | PushEvent | 527 |
-| PullRequestEvent | 474 |
-| CreateEvent | 416 |
-| IssueCommentEvent | 262 |
+| PullRequestEvent | 447 |
+| CreateEvent | 374 |
+| IssueCommentEvent | 258 |
 | PullRequestReviewEvent | 239 |
-| DeleteEvent | 122 |
+| DeleteEvent | 103 |
 | IssuesEvent | 99 |
 | PullRequestReviewCommentEvent | 97 |
 | GollumEvent | 60 |
-| ForkEvent | 26 |
-| MemberEvent | 13 |
+| ForkEvent | 9 |
 | DiscussionEvent | 1 |
 
 ## Organizations
@@ -66,7 +63,7 @@ Repository access granted through those teams (1 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hiero-ledger`](https://github.com/hiero-ledger) | 1,691 | 176 | 222 | 356 |
-| [`hyperledger`](https://github.com/hyperledger) | 496 | 123 | 2 | 124 |
+| [`hyperledger`](https://github.com/hyperledger) | 374 | 106 | 2 | 124 |
 | [`LF-Decentralized-Trust`](https://github.com/LF-Decentralized-Trust) | 81 | 6 | 11 | 27 |
 | [`LF-Decentralized-Trust-labs`](https://github.com/LF-Decentralized-Trust-labs) | 20 | 3 | 2 | 9 |
 | [`LFDT-Paladin`](https://github.com/LFDT-Paladin) | 14 | 2 | 1 | 6 |
@@ -120,7 +117,6 @@ Repository access granted through those teams (1 repos):
 | [`LF-Decentralized-Trust/contribute`](https://github.com/LF-Decentralized-Trust/contribute) | 12 | 1 | 0 | 3 |
 | [`hiero-ledger/hiero-sdk-cpp`](https://github.com/hiero-ledger/hiero-sdk-cpp) | 12 | 4 | 0 | 2 |
 | [`hyperledger/indy-besu`](https://github.com/hyperledger/indy-besu) | 12 | 4 | 0 | 3 |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 12 | 0 | 0 | 0 |
 | [`hiero-ledger/hiero-sdk-go`](https://github.com/hiero-ledger/hiero-sdk-go) | 11 | 3 | 0 | 0 |
 | [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 11 | 2 | 0 | 6 |
 | [`hyperledger/firefly-sdk-nodejs`](https://github.com/hyperledger/firefly-sdk-nodejs) | 11 | 4 | 0 | 3 |
@@ -131,64 +127,33 @@ Repository access granted through those teams (1 repos):
 | [`LFDT-Paladin/.github`](https://github.com/LFDT-Paladin/.github) | 8 | 1 | 0 | 5 |
 | [`hyperledger/anoncreds-revocation`](https://github.com/hyperledger/anoncreds-revocation) | 8 | 3 | 0 | 2 |
 | [`hyperledger/anoncreds-wrapper-javascript`](https://github.com/hyperledger/anoncreds-wrapper-javascript) | 8 | 2 | 0 | 3 |
-| [`hyperledger/fabric-chaincode-node`](https://github.com/hyperledger/fabric-chaincode-node) | 8 | 1 | 2 | 2 |
 | [`hyperledger/indy-test-automation`](https://github.com/hyperledger/indy-test-automation) | 8 | 3 | 0 | 3 |
 | [`credebl/mobile-sdk`](https://github.com/credebl/mobile-sdk) | 7 | 1 | 0 | 3 |
-| [`hyperledger/sawtooth-sdk-python`](https://github.com/hyperledger/sawtooth-sdk-python) | 7 | 1 | 0 | 0 |
-| [`hyperledger/sawtooth-sdk-rust`](https://github.com/hyperledger/sawtooth-sdk-rust) | 7 | 1 | 0 | 0 |
+| [`hyperledger/fabric-chaincode-node`](https://github.com/hyperledger/fabric-chaincode-node) | 7 | 1 | 2 | 2 |
 | [`LF-Decentralized-Trust/project-proposals`](https://github.com/LF-Decentralized-Trust/project-proposals) | 6 | 0 | 0 | 2 |
 | [`hiero-ledger/hiero-did-sdk-js`](https://github.com/hiero-ledger/hiero-did-sdk-js) | 6 | 1 | 0 | 0 |
-| [`hyperledger/indy-agent`](https://github.com/hyperledger/indy-agent) | 6 | 1 | 0 | 0 |
-| [`hyperledger/ursa`](https://github.com/hyperledger/ursa) | 6 | 1 | 0 | 0 |
-| [`hyperledger/ursa-rfcs`](https://github.com/hyperledger/ursa-rfcs) | 6 | 1 | 0 | 0 |
 | [`hiero-ledger/hiero-cli`](https://github.com/hiero-ledger/hiero-cli) | 5 | 2 | 0 | 0 |
 | [`hiero-ledger/hiero-hederium`](https://github.com/hiero-ledger/hiero-hederium) | 5 | 0 | 0 | 1 |
-| [`hyperledger/composer`](https://github.com/hyperledger/composer) | 5 | 3 | 0 | 0 |
-| [`hyperledger/education-sawtooth-simple-supply`](https://github.com/hyperledger/education-sawtooth-simple-supply) | 5 | 1 | 0 | 0 |
 | [`hyperledger/fabric-protos`](https://github.com/hyperledger/fabric-protos) | 5 | 2 | 0 | 2 |
 | [`hyperledger/firefly`](https://github.com/hyperledger/firefly) | 5 | 2 | 0 | 1 |
 | [`hyperledger/firefly-helm-charts`](https://github.com/hyperledger/firefly-helm-charts) | 5 | 1 | 0 | 3 |
-| [`hyperledger/grid-rfcs`](https://github.com/hyperledger/grid-rfcs) | 5 | 1 | 0 | 0 |
 | [`hyperledger/indy-node-monitor`](https://github.com/hyperledger/indy-node-monitor) | 5 | 3 | 0 | 0 |
-| [`hyperledger/ursa-docs`](https://github.com/hyperledger/ursa-docs) | 5 | 1 | 0 | 0 |
 | [`LF-Decentralized-Trust/tac-eligibility-check`](https://github.com/LF-Decentralized-Trust/tac-eligibility-check) | 4 | 1 | 0 | 0 |
 | [`LFDT-Paladin/paladin`](https://github.com/LFDT-Paladin/paladin) | 4 | 1 | 1 | 1 |
-| [`hyperledger/iroha-ametsuchi`](https://github.com/hyperledger/iroha-ametsuchi) | 4 | 2 | 0 | 0 |
-| [`hyperledger/sawtooth-sabre`](https://github.com/hyperledger/sawtooth-sabre) | 4 | 0 | 0 | 0 |
 | [`openwallet-foundation-labs/oid4vc-ts`](https://github.com/openwallet-foundation-labs/oid4vc-ts) | 4 | 1 | 0 | 0 |
 | [`LF-Decentralized-Trust-labs/governance`](https://github.com/LF-Decentralized-Trust-labs/governance) | 3 | 1 | 1 | 1 |
 | [`hyperledger-identus/sdk-kmp`](https://github.com/hyperledger-identus/sdk-kmp) | 3 | 1 | 0 | 1 |
 | [`hyperledger-identus/sdk-ts`](https://github.com/hyperledger-identus/sdk-ts) | 3 | 1 | 0 | 1 |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 3 | 1 | 0 | 1 |
 | [`hyperledger/fabric-chaincode-java`](https://github.com/hyperledger/fabric-chaincode-java) | 3 | 0 | 0 | 1 |
 | [`hyperledger/fabric-gateway`](https://github.com/hyperledger/fabric-gateway) | 3 | 1 | 0 | 0 |
-| [`hyperledger/indy-docs`](https://github.com/hyperledger/indy-docs) | 3 | 0 | 0 | 0 |
-| [`hyperledger/iroha-docs-l10n`](https://github.com/hyperledger/iroha-docs-l10n) | 3 | 0 | 0 | 0 |
 | [`openwallet-foundation-labs/eudi-wallet-kit-react-native`](https://github.com/openwallet-foundation-labs/eudi-wallet-kit-react-native) | 3 | 1 | 0 | 0 |
 | [`LFDT-Paladin/governance`](https://github.com/LFDT-Paladin/governance) | 2 | 0 | 0 | 0 |
 | [`hiero-ledger/homebrew-tools`](https://github.com/hiero-ledger/homebrew-tools) | 2 | 1 | 0 | 0 |
 | [`hiero-ledger/identity-collaboration-hub`](https://github.com/hiero-ledger/identity-collaboration-hub) | 2 | 0 | 0 | 0 |
 | [`hyperledger-identus/cloud-agent`](https://github.com/hyperledger-identus/cloud-agent) | 2 | 1 | 0 | 0 |
-| [`hyperledger/aries-framework-go`](https://github.com/hyperledger/aries-framework-go) | 2 | 0 | 0 | 0 |
-| [`hyperledger/composer-sample-applications`](https://github.com/hyperledger/composer-sample-applications) | 2 | 1 | 0 | 0 |
-| [`hyperledger/composer-sample-models`](https://github.com/hyperledger/composer-sample-models) | 2 | 1 | 0 | 0 |
-| [`hyperledger/composer-sample-networks`](https://github.com/hyperledger/composer-sample-networks) | 2 | 1 | 0 | 0 |
-| [`hyperledger/composer-vscode-plugin`](https://github.com/hyperledger/composer-vscode-plugin) | 2 | 1 | 0 | 0 |
-| [`hyperledger/fabric-cli`](https://github.com/hyperledger/fabric-cli) | 2 | 0 | 0 | 0 |
-| [`hyperledger/fabric-gateway-java`](https://github.com/hyperledger/fabric-gateway-java) | 2 | 0 | 0 | 0 |
-| [`hyperledger/fabric-lib-go`](https://github.com/hyperledger/fabric-lib-go) | 2 | 0 | 0 | 0 |
-| [`hyperledger/fabric-sdk-node`](https://github.com/hyperledger/fabric-sdk-node) | 2 | 0 | 0 | 0 |
+| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 2 | 1 | 0 | 1 |
 | [`hyperledger/fabric-x`](https://github.com/hyperledger/fabric-x) | 2 | 0 | 0 | 0 |
-| [`hyperledger/grid-contrib`](https://github.com/hyperledger/grid-contrib) | 2 | 0 | 0 | 0 |
-| [`hyperledger/grid-website`](https://github.com/hyperledger/grid-website) | 2 | 0 | 0 | 0 |
-| [`hyperledger/hyperledger-iroha-java`](https://github.com/hyperledger/hyperledger-iroha-java) | 2 | 0 | 0 | 0 |
 | [`hyperledger/indy-plenum`](https://github.com/hyperledger/indy-plenum) | 2 | 1 | 0 | 0 |
-| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 2 | 0 | 0 | 0 |
-| [`hyperledger/iroha-testcontainers`](https://github.com/hyperledger/iroha-testcontainers) | 2 | 0 | 0 | 0 |
-| [`hyperledger/sawtooth-ansible`](https://github.com/hyperledger/sawtooth-ansible) | 2 | 0 | 0 | 0 |
-| [`hyperledger/sawtooth-core`](https://github.com/hyperledger/sawtooth-core) | 2 | 0 | 0 | 0 |
-| [`hyperledger/sawtooth-poet`](https://github.com/hyperledger/sawtooth-poet) | 2 | 0 | 0 | 0 |
-| [`hyperledger/sawtooth-raft`](https://github.com/hyperledger/sawtooth-raft) | 2 | 0 | 0 | 0 |
 | [`openwallet-foundation-labs/dcql-ts`](https://github.com/openwallet-foundation-labs/dcql-ts) | 2 | 1 | 0 | 0 |
 | [`openwallet-foundation-labs/openid-federation-ts`](https://github.com/openwallet-foundation-labs/openid-federation-ts) | 2 | 0 | 0 | 0 |
 | [`LF-Decentralized-Trust-Mentorships/mentorship-program`](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program) | 1 | 0 | 0 | 0 |
@@ -200,15 +165,9 @@ Repository access granted through those teams (1 repos):
 | [`hyperledger-dlt-landscape/hyperledger-dlt-landscape`](https://github.com/hyperledger-dlt-landscape/hyperledger-dlt-landscape) | 1 | 1 | 0 | 0 |
 | [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 1 | 0 | 1 | 0 |
 | [`hyperledger-labs/splice-wallet-kernel`](https://github.com/hyperledger-labs/splice-wallet-kernel) | 1 | 0 | 0 | 0 |
-| [`hyperledger/ci-management`](https://github.com/hyperledger/ci-management) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-baseimage`](https://github.com/hyperledger/fabric-baseimage) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-sdk-java`](https://github.com/hyperledger/fabric-sdk-java) | 1 | 0 | 0 | 0 |
 | [`hyperledger/governance`](https://github.com/hyperledger/governance) | 1 | 1 | 0 | 0 |
-| [`hyperledger/hyperledger-iroha-testcontainers`](https://github.com/hyperledger/hyperledger-iroha-testcontainers) | 1 | 0 | 0 | 0 |
+| [`hyperledger/indy-docs`](https://github.com/hyperledger/indy-docs) | 1 | 0 | 0 | 0 |
 | [`hyperledger/indy-node`](https://github.com/hyperledger/indy-node) | 1 | 0 | 0 | 0 |
-| [`hyperledger/libiroha`](https://github.com/hyperledger/libiroha) | 1 | 0 | 0 | 0 |
-| [`hyperledger/perf-and-scale-wg`](https://github.com/hyperledger/perf-and-scale-wg) | 1 | 0 | 0 | 0 |
-| [`hyperledger/sawtooth-next-directory`](https://github.com/hyperledger/sawtooth-next-directory) | 1 | 0 | 0 | 0 |
 | [`openwallet-foundation-labs/tuvali`](https://github.com/openwallet-foundation-labs/tuvali) | 1 | 0 | 0 | 0 |
 | [`openwallet-foundation/askar-wrapper-javascript`](https://github.com/openwallet-foundation/askar-wrapper-javascript) | 1 | 0 | 0 | 0 |
 | [`openwallet-foundation/bifold-wallet`](https://github.com/openwallet-foundation/bifold-wallet) | 1 | 0 | 0 | 0 |
@@ -258,7 +217,6 @@ Months as rows, event types as columns. One file per repository in [`jwagantall_
 | [`LF-Decentralized-Trust/contribute`](https://github.com/LF-Decentralized-Trust/contribute) | 12 | [LF-Decentralized-Trust_contribute.md](jwagantall_rollup/LF-Decentralized-Trust_contribute.md) |
 | [`hiero-ledger/hiero-sdk-cpp`](https://github.com/hiero-ledger/hiero-sdk-cpp) | 12 | [hiero-ledger_hiero-sdk-cpp.md](jwagantall_rollup/hiero-ledger_hiero-sdk-cpp.md) |
 | [`hyperledger/indy-besu`](https://github.com/hyperledger/indy-besu) | 12 | [hyperledger_indy-besu.md](jwagantall_rollup/hyperledger_indy-besu.md) |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 12 | [hyperledger_iroha.md](jwagantall_rollup/hyperledger_iroha.md) |
 | [`hiero-ledger/hiero-sdk-go`](https://github.com/hiero-ledger/hiero-sdk-go) | 11 | [hiero-ledger_hiero-sdk-go.md](jwagantall_rollup/hiero-ledger_hiero-sdk-go.md) |
 | [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 11 | [hyperledger_fabric-samples.md](jwagantall_rollup/hyperledger_fabric-samples.md) |
 | [`hyperledger/firefly-sdk-nodejs`](https://github.com/hyperledger/firefly-sdk-nodejs) | 11 | [hyperledger_firefly-sdk-nodejs.md](jwagantall_rollup/hyperledger_firefly-sdk-nodejs.md) |
@@ -269,64 +227,33 @@ Months as rows, event types as columns. One file per repository in [`jwagantall_
 | [`LFDT-Paladin/.github`](https://github.com/LFDT-Paladin/.github) | 8 | [LFDT-Paladin_.github.md](jwagantall_rollup/LFDT-Paladin_.github.md) |
 | [`hyperledger/anoncreds-revocation`](https://github.com/hyperledger/anoncreds-revocation) | 8 | [hyperledger_anoncreds-revocation.md](jwagantall_rollup/hyperledger_anoncreds-revocation.md) |
 | [`hyperledger/anoncreds-wrapper-javascript`](https://github.com/hyperledger/anoncreds-wrapper-javascript) | 8 | [hyperledger_anoncreds-wrapper-javascript.md](jwagantall_rollup/hyperledger_anoncreds-wrapper-javascript.md) |
-| [`hyperledger/fabric-chaincode-node`](https://github.com/hyperledger/fabric-chaincode-node) | 8 | [hyperledger_fabric-chaincode-node.md](jwagantall_rollup/hyperledger_fabric-chaincode-node.md) |
 | [`hyperledger/indy-test-automation`](https://github.com/hyperledger/indy-test-automation) | 8 | [hyperledger_indy-test-automation.md](jwagantall_rollup/hyperledger_indy-test-automation.md) |
 | [`credebl/mobile-sdk`](https://github.com/credebl/mobile-sdk) | 7 | [credebl_mobile-sdk.md](jwagantall_rollup/credebl_mobile-sdk.md) |
-| [`hyperledger/sawtooth-sdk-python`](https://github.com/hyperledger/sawtooth-sdk-python) | 7 | [hyperledger_sawtooth-sdk-python.md](jwagantall_rollup/hyperledger_sawtooth-sdk-python.md) |
-| [`hyperledger/sawtooth-sdk-rust`](https://github.com/hyperledger/sawtooth-sdk-rust) | 7 | [hyperledger_sawtooth-sdk-rust.md](jwagantall_rollup/hyperledger_sawtooth-sdk-rust.md) |
+| [`hyperledger/fabric-chaincode-node`](https://github.com/hyperledger/fabric-chaincode-node) | 7 | [hyperledger_fabric-chaincode-node.md](jwagantall_rollup/hyperledger_fabric-chaincode-node.md) |
 | [`LF-Decentralized-Trust/project-proposals`](https://github.com/LF-Decentralized-Trust/project-proposals) | 6 | [LF-Decentralized-Trust_project-proposals.md](jwagantall_rollup/LF-Decentralized-Trust_project-proposals.md) |
 | [`hiero-ledger/hiero-did-sdk-js`](https://github.com/hiero-ledger/hiero-did-sdk-js) | 6 | [hiero-ledger_hiero-did-sdk-js.md](jwagantall_rollup/hiero-ledger_hiero-did-sdk-js.md) |
-| [`hyperledger/indy-agent`](https://github.com/hyperledger/indy-agent) | 6 | [hyperledger_indy-agent.md](jwagantall_rollup/hyperledger_indy-agent.md) |
-| [`hyperledger/ursa`](https://github.com/hyperledger/ursa) | 6 | [hyperledger_ursa.md](jwagantall_rollup/hyperledger_ursa.md) |
-| [`hyperledger/ursa-rfcs`](https://github.com/hyperledger/ursa-rfcs) | 6 | [hyperledger_ursa-rfcs.md](jwagantall_rollup/hyperledger_ursa-rfcs.md) |
 | [`hiero-ledger/hiero-cli`](https://github.com/hiero-ledger/hiero-cli) | 5 | [hiero-ledger_hiero-cli.md](jwagantall_rollup/hiero-ledger_hiero-cli.md) |
 | [`hiero-ledger/hiero-hederium`](https://github.com/hiero-ledger/hiero-hederium) | 5 | [hiero-ledger_hiero-hederium.md](jwagantall_rollup/hiero-ledger_hiero-hederium.md) |
-| [`hyperledger/composer`](https://github.com/hyperledger/composer) | 5 | [hyperledger_composer.md](jwagantall_rollup/hyperledger_composer.md) |
-| [`hyperledger/education-sawtooth-simple-supply`](https://github.com/hyperledger/education-sawtooth-simple-supply) | 5 | [hyperledger_education-sawtooth-simple-supply.md](jwagantall_rollup/hyperledger_education-sawtooth-simple-supply.md) |
 | [`hyperledger/fabric-protos`](https://github.com/hyperledger/fabric-protos) | 5 | [hyperledger_fabric-protos.md](jwagantall_rollup/hyperledger_fabric-protos.md) |
 | [`hyperledger/firefly`](https://github.com/hyperledger/firefly) | 5 | [hyperledger_firefly.md](jwagantall_rollup/hyperledger_firefly.md) |
 | [`hyperledger/firefly-helm-charts`](https://github.com/hyperledger/firefly-helm-charts) | 5 | [hyperledger_firefly-helm-charts.md](jwagantall_rollup/hyperledger_firefly-helm-charts.md) |
-| [`hyperledger/grid-rfcs`](https://github.com/hyperledger/grid-rfcs) | 5 | [hyperledger_grid-rfcs.md](jwagantall_rollup/hyperledger_grid-rfcs.md) |
 | [`hyperledger/indy-node-monitor`](https://github.com/hyperledger/indy-node-monitor) | 5 | [hyperledger_indy-node-monitor.md](jwagantall_rollup/hyperledger_indy-node-monitor.md) |
-| [`hyperledger/ursa-docs`](https://github.com/hyperledger/ursa-docs) | 5 | [hyperledger_ursa-docs.md](jwagantall_rollup/hyperledger_ursa-docs.md) |
 | [`LF-Decentralized-Trust/tac-eligibility-check`](https://github.com/LF-Decentralized-Trust/tac-eligibility-check) | 4 | [LF-Decentralized-Trust_tac-eligibility-check.md](jwagantall_rollup/LF-Decentralized-Trust_tac-eligibility-check.md) |
 | [`LFDT-Paladin/paladin`](https://github.com/LFDT-Paladin/paladin) | 4 | [LFDT-Paladin_paladin.md](jwagantall_rollup/LFDT-Paladin_paladin.md) |
-| [`hyperledger/iroha-ametsuchi`](https://github.com/hyperledger/iroha-ametsuchi) | 4 | [hyperledger_iroha-ametsuchi.md](jwagantall_rollup/hyperledger_iroha-ametsuchi.md) |
-| [`hyperledger/sawtooth-sabre`](https://github.com/hyperledger/sawtooth-sabre) | 4 | [hyperledger_sawtooth-sabre.md](jwagantall_rollup/hyperledger_sawtooth-sabre.md) |
 | [`openwallet-foundation-labs/oid4vc-ts`](https://github.com/openwallet-foundation-labs/oid4vc-ts) | 4 | [openwallet-foundation-labs_oid4vc-ts.md](jwagantall_rollup/openwallet-foundation-labs_oid4vc-ts.md) |
 | [`LF-Decentralized-Trust-labs/governance`](https://github.com/LF-Decentralized-Trust-labs/governance) | 3 | [LF-Decentralized-Trust-labs_governance.md](jwagantall_rollup/LF-Decentralized-Trust-labs_governance.md) |
 | [`hyperledger-identus/sdk-kmp`](https://github.com/hyperledger-identus/sdk-kmp) | 3 | [hyperledger-identus_sdk-kmp.md](jwagantall_rollup/hyperledger-identus_sdk-kmp.md) |
 | [`hyperledger-identus/sdk-ts`](https://github.com/hyperledger-identus/sdk-ts) | 3 | [hyperledger-identus_sdk-ts.md](jwagantall_rollup/hyperledger-identus_sdk-ts.md) |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 3 | [hyperledger_fabric.md](jwagantall_rollup/hyperledger_fabric.md) |
 | [`hyperledger/fabric-chaincode-java`](https://github.com/hyperledger/fabric-chaincode-java) | 3 | [hyperledger_fabric-chaincode-java.md](jwagantall_rollup/hyperledger_fabric-chaincode-java.md) |
 | [`hyperledger/fabric-gateway`](https://github.com/hyperledger/fabric-gateway) | 3 | [hyperledger_fabric-gateway.md](jwagantall_rollup/hyperledger_fabric-gateway.md) |
-| [`hyperledger/indy-docs`](https://github.com/hyperledger/indy-docs) | 3 | [hyperledger_indy-docs.md](jwagantall_rollup/hyperledger_indy-docs.md) |
-| [`hyperledger/iroha-docs-l10n`](https://github.com/hyperledger/iroha-docs-l10n) | 3 | [hyperledger_iroha-docs-l10n.md](jwagantall_rollup/hyperledger_iroha-docs-l10n.md) |
 | [`openwallet-foundation-labs/eudi-wallet-kit-react-native`](https://github.com/openwallet-foundation-labs/eudi-wallet-kit-react-native) | 3 | [openwallet-foundation-labs_eudi-wallet-kit-react-native.md](jwagantall_rollup/openwallet-foundation-labs_eudi-wallet-kit-react-native.md) |
 | [`LFDT-Paladin/governance`](https://github.com/LFDT-Paladin/governance) | 2 | [LFDT-Paladin_governance.md](jwagantall_rollup/LFDT-Paladin_governance.md) |
 | [`hiero-ledger/homebrew-tools`](https://github.com/hiero-ledger/homebrew-tools) | 2 | [hiero-ledger_homebrew-tools.md](jwagantall_rollup/hiero-ledger_homebrew-tools.md) |
 | [`hiero-ledger/identity-collaboration-hub`](https://github.com/hiero-ledger/identity-collaboration-hub) | 2 | [hiero-ledger_identity-collaboration-hub.md](jwagantall_rollup/hiero-ledger_identity-collaboration-hub.md) |
 | [`hyperledger-identus/cloud-agent`](https://github.com/hyperledger-identus/cloud-agent) | 2 | [hyperledger-identus_cloud-agent.md](jwagantall_rollup/hyperledger-identus_cloud-agent.md) |
-| [`hyperledger/aries-framework-go`](https://github.com/hyperledger/aries-framework-go) | 2 | [hyperledger_aries-framework-go.md](jwagantall_rollup/hyperledger_aries-framework-go.md) |
-| [`hyperledger/composer-sample-applications`](https://github.com/hyperledger/composer-sample-applications) | 2 | [hyperledger_composer-sample-applications.md](jwagantall_rollup/hyperledger_composer-sample-applications.md) |
-| [`hyperledger/composer-sample-models`](https://github.com/hyperledger/composer-sample-models) | 2 | [hyperledger_composer-sample-models.md](jwagantall_rollup/hyperledger_composer-sample-models.md) |
-| [`hyperledger/composer-sample-networks`](https://github.com/hyperledger/composer-sample-networks) | 2 | [hyperledger_composer-sample-networks.md](jwagantall_rollup/hyperledger_composer-sample-networks.md) |
-| [`hyperledger/composer-vscode-plugin`](https://github.com/hyperledger/composer-vscode-plugin) | 2 | [hyperledger_composer-vscode-plugin.md](jwagantall_rollup/hyperledger_composer-vscode-plugin.md) |
-| [`hyperledger/fabric-cli`](https://github.com/hyperledger/fabric-cli) | 2 | [hyperledger_fabric-cli.md](jwagantall_rollup/hyperledger_fabric-cli.md) |
-| [`hyperledger/fabric-gateway-java`](https://github.com/hyperledger/fabric-gateway-java) | 2 | [hyperledger_fabric-gateway-java.md](jwagantall_rollup/hyperledger_fabric-gateway-java.md) |
-| [`hyperledger/fabric-lib-go`](https://github.com/hyperledger/fabric-lib-go) | 2 | [hyperledger_fabric-lib-go.md](jwagantall_rollup/hyperledger_fabric-lib-go.md) |
-| [`hyperledger/fabric-sdk-node`](https://github.com/hyperledger/fabric-sdk-node) | 2 | [hyperledger_fabric-sdk-node.md](jwagantall_rollup/hyperledger_fabric-sdk-node.md) |
+| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 2 | [hyperledger_fabric.md](jwagantall_rollup/hyperledger_fabric.md) |
 | [`hyperledger/fabric-x`](https://github.com/hyperledger/fabric-x) | 2 | [hyperledger_fabric-x.md](jwagantall_rollup/hyperledger_fabric-x.md) |
-| [`hyperledger/grid-contrib`](https://github.com/hyperledger/grid-contrib) | 2 | [hyperledger_grid-contrib.md](jwagantall_rollup/hyperledger_grid-contrib.md) |
-| [`hyperledger/grid-website`](https://github.com/hyperledger/grid-website) | 2 | [hyperledger_grid-website.md](jwagantall_rollup/hyperledger_grid-website.md) |
-| [`hyperledger/hyperledger-iroha-java`](https://github.com/hyperledger/hyperledger-iroha-java) | 2 | [hyperledger_hyperledger-iroha-java.md](jwagantall_rollup/hyperledger_hyperledger-iroha-java.md) |
 | [`hyperledger/indy-plenum`](https://github.com/hyperledger/indy-plenum) | 2 | [hyperledger_indy-plenum.md](jwagantall_rollup/hyperledger_indy-plenum.md) |
-| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 2 | [hyperledger_iroha-java.md](jwagantall_rollup/hyperledger_iroha-java.md) |
-| [`hyperledger/iroha-testcontainers`](https://github.com/hyperledger/iroha-testcontainers) | 2 | [hyperledger_iroha-testcontainers.md](jwagantall_rollup/hyperledger_iroha-testcontainers.md) |
-| [`hyperledger/sawtooth-ansible`](https://github.com/hyperledger/sawtooth-ansible) | 2 | [hyperledger_sawtooth-ansible.md](jwagantall_rollup/hyperledger_sawtooth-ansible.md) |
-| [`hyperledger/sawtooth-core`](https://github.com/hyperledger/sawtooth-core) | 2 | [hyperledger_sawtooth-core.md](jwagantall_rollup/hyperledger_sawtooth-core.md) |
-| [`hyperledger/sawtooth-poet`](https://github.com/hyperledger/sawtooth-poet) | 2 | [hyperledger_sawtooth-poet.md](jwagantall_rollup/hyperledger_sawtooth-poet.md) |
-| [`hyperledger/sawtooth-raft`](https://github.com/hyperledger/sawtooth-raft) | 2 | [hyperledger_sawtooth-raft.md](jwagantall_rollup/hyperledger_sawtooth-raft.md) |
 | [`openwallet-foundation-labs/dcql-ts`](https://github.com/openwallet-foundation-labs/dcql-ts) | 2 | [openwallet-foundation-labs_dcql-ts.md](jwagantall_rollup/openwallet-foundation-labs_dcql-ts.md) |
 | [`openwallet-foundation-labs/openid-federation-ts`](https://github.com/openwallet-foundation-labs/openid-federation-ts) | 2 | [openwallet-foundation-labs_openid-federation-ts.md](jwagantall_rollup/openwallet-foundation-labs_openid-federation-ts.md) |
 | [`LF-Decentralized-Trust-Mentorships/mentorship-program`](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program) | 1 | [LF-Decentralized-Trust-Mentorships_mentorship-program.md](jwagantall_rollup/LF-Decentralized-Trust-Mentorships_mentorship-program.md) |
@@ -338,15 +265,9 @@ Months as rows, event types as columns. One file per repository in [`jwagantall_
 | [`hyperledger-dlt-landscape/hyperledger-dlt-landscape`](https://github.com/hyperledger-dlt-landscape/hyperledger-dlt-landscape) | 1 | [hyperledger-dlt-landscape_hyperledger-dlt-landscape.md](jwagantall_rollup/hyperledger-dlt-landscape_hyperledger-dlt-landscape.md) |
 | [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 1 | [hyperledger-labs_governance.md](jwagantall_rollup/hyperledger-labs_governance.md) |
 | [`hyperledger-labs/splice-wallet-kernel`](https://github.com/hyperledger-labs/splice-wallet-kernel) | 1 | [hyperledger-labs_splice-wallet-kernel.md](jwagantall_rollup/hyperledger-labs_splice-wallet-kernel.md) |
-| [`hyperledger/ci-management`](https://github.com/hyperledger/ci-management) | 1 | [hyperledger_ci-management.md](jwagantall_rollup/hyperledger_ci-management.md) |
-| [`hyperledger/fabric-baseimage`](https://github.com/hyperledger/fabric-baseimage) | 1 | [hyperledger_fabric-baseimage.md](jwagantall_rollup/hyperledger_fabric-baseimage.md) |
-| [`hyperledger/fabric-sdk-java`](https://github.com/hyperledger/fabric-sdk-java) | 1 | [hyperledger_fabric-sdk-java.md](jwagantall_rollup/hyperledger_fabric-sdk-java.md) |
 | [`hyperledger/governance`](https://github.com/hyperledger/governance) | 1 | [hyperledger_governance.md](jwagantall_rollup/hyperledger_governance.md) |
-| [`hyperledger/hyperledger-iroha-testcontainers`](https://github.com/hyperledger/hyperledger-iroha-testcontainers) | 1 | [hyperledger_hyperledger-iroha-testcontainers.md](jwagantall_rollup/hyperledger_hyperledger-iroha-testcontainers.md) |
+| [`hyperledger/indy-docs`](https://github.com/hyperledger/indy-docs) | 1 | [hyperledger_indy-docs.md](jwagantall_rollup/hyperledger_indy-docs.md) |
 | [`hyperledger/indy-node`](https://github.com/hyperledger/indy-node) | 1 | [hyperledger_indy-node.md](jwagantall_rollup/hyperledger_indy-node.md) |
-| [`hyperledger/libiroha`](https://github.com/hyperledger/libiroha) | 1 | [hyperledger_libiroha.md](jwagantall_rollup/hyperledger_libiroha.md) |
-| [`hyperledger/perf-and-scale-wg`](https://github.com/hyperledger/perf-and-scale-wg) | 1 | [hyperledger_perf-and-scale-wg.md](jwagantall_rollup/hyperledger_perf-and-scale-wg.md) |
-| [`hyperledger/sawtooth-next-directory`](https://github.com/hyperledger/sawtooth-next-directory) | 1 | [hyperledger_sawtooth-next-directory.md](jwagantall_rollup/hyperledger_sawtooth-next-directory.md) |
 | [`openwallet-foundation-labs/tuvali`](https://github.com/openwallet-foundation-labs/tuvali) | 1 | [openwallet-foundation-labs_tuvali.md](jwagantall_rollup/openwallet-foundation-labs_tuvali.md) |
 | [`openwallet-foundation/askar-wrapper-javascript`](https://github.com/openwallet-foundation/askar-wrapper-javascript) | 1 | [openwallet-foundation_askar-wrapper-javascript.md](jwagantall_rollup/openwallet-foundation_askar-wrapper-javascript.md) |
 | [`openwallet-foundation/bifold-wallet`](https://github.com/openwallet-foundation/bifold-wallet) | 1 | [openwallet-foundation_bifold-wallet.md](jwagantall_rollup/openwallet-foundation_bifold-wallet.md) |

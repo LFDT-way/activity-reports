@@ -1,6 +1,8 @@
 # GitHub activity report — `naydenovn`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **326** events spanning **2025-01-29 → 2025-08-07**, across **1** organizations and **2** repositories.
 
@@ -10,7 +12,7 @@ Member of **2** team(s):
 
 | Team | Role in team |
 | --- | --- |
-| `hiero-sdk-java-committers` | member |
+| `hiero-sdk-java-committers` | maintainer |
 | `sdk-collaboration-hub-committers` | maintainer |
 
 Repository access granted through those teams (2 repos):

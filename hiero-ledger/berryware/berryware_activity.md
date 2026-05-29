@@ -1,6 +1,8 @@
 # GitHub activity report — `berryware`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **132** events spanning **2026-02-02 → 2026-05-28**, across **1** organizations and **2** repositories.
 
@@ -10,14 +12,14 @@ Member of **2** team(s):
 
 | Team | Role in team |
 | --- | --- |
-| `hiero-block-node-internal-contributors` | member |
+| `hiero-block-node-committers` | member |
 | `roadmap-viewers` | member |
 
 Repository access granted through those teams (2 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `hiero-block-node` | triage | `hiero-block-node-internal-contributors` (triage) |
+| `hiero-block-node` | write | `hiero-block-node-committers` (write) |
 | `roadmap` | read | `roadmap-viewers` (read) |
 
 

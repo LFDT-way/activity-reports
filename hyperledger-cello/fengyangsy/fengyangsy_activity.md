@@ -1,8 +1,10 @@
 # GitHub activity report — `fengyangsy`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **184** events spanning **2019-11-11 → 2024-06-07**, across **1** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **9** events spanning **2024-01-20 → 2024-06-07**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -25,53 +27,43 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 184 |
-| Pull requests opened | 43 |
-| Pull request reviews | 28 |
-| Issues opened | 42 |
-| Pushes | 14 |
-| Commits pushed | 35 |
-| Comments | 19 |
-| Releases | 3 |
+| Total events | 9 |
+| Pull requests opened | 1 |
+| Pull request reviews | 3 |
+| Issues opened | 2 |
+| Pushes | 0 |
+| Commits pushed | 0 |
+| Comments | 3 |
+| Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2019 | 2 |
-| 2021 | 28 |
-| 2022 | 70 |
-| 2023 | 75 |
 | 2024 | 9 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 58 |
-| IssuesEvent | 50 |
-| PullRequestReviewEvent | 28 |
-| PushEvent | 14 |
-| PullRequestReviewCommentEvent | 10 |
-| IssueCommentEvent | 9 |
-| CreateEvent | 5 |
-| DeleteEvent | 3 |
-| ReleaseEvent | 3 |
-| ForkEvent | 2 |
-| WatchEvent | 2 |
+| PullRequestReviewEvent | 3 |
+| IssueCommentEvent | 2 |
+| IssuesEvent | 2 |
+| PullRequestEvent | 1 |
+| PullRequestReviewCommentEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 184 | 43 | 28 | 14 |
+| [`hyperledger`](https://github.com/hyperledger) | 9 | 1 | 3 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 179 | 41 | 27 | 14 |
-| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 5 | 2 | 1 | 0 |
+| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 8 | 0 | 3 | 0 |
+| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 1 | 1 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -79,8 +71,8 @@ Months as rows, event types as columns. One file per repository in [`fengyangsy_
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 179 | [hyperledger_cello.md](fengyangsy_rollup/hyperledger_cello.md) |
-| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 5 | [hyperledger_toc.md](fengyangsy_rollup/hyperledger_toc.md) |
+| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 8 | [hyperledger_cello.md](fengyangsy_rollup/hyperledger_cello.md) |
+| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 1 | [hyperledger_toc.md](fengyangsy_rollup/hyperledger_toc.md) |
 
 ---
 

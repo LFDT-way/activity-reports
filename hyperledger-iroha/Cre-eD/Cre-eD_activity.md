@@ -1,8 +1,10 @@
 # GitHub activity report — `Cre-eD`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **95** events spanning **2019-09-05 → 2026-05-05**, across **2** organizations and **6** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1** events spanning **2026-05-05 → 2026-05-05**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -43,55 +45,37 @@ Repository access granted through those teams (18 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 95 |
-| Pull requests opened | 16 |
-| Pull request reviews | 35 |
+| Total events | 1 |
+| Pull requests opened | 0 |
+| Pull request reviews | 0 |
 | Issues opened | 0 |
-| Pushes | 14 |
-| Commits pushed | 33 |
-| Comments | 10 |
+| Pushes | 1 |
+| Commits pushed | 0 |
+| Comments | 0 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2019 | 7 |
-| 2020 | 37 |
-| 2021 | 19 |
-| 2022 | 24 |
-| 2023 | 7 |
 | 2026 | 1 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 35 |
-| PullRequestEvent | 30 |
-| PushEvent | 14 |
-| PullRequestReviewCommentEvent | 8 |
-| ForkEvent | 4 |
-| IssueCommentEvent | 2 |
-| CreateEvent | 1 |
-| DeleteEvent | 1 |
+| PushEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 94 | 16 | 35 | 13 |
 | [`hyperledger-iroha`](https://github.com/hyperledger-iroha) | 1 | 0 | 0 | 1 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 47 | 7 | 19 | 6 |
-| [`hyperledger/iroha-deploy`](https://github.com/hyperledger/iroha-deploy) | 29 | 6 | 9 | 5 |
-| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 10 | 2 | 2 | 2 |
-| [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 6 | 0 | 5 | 0 |
-| [`hyperledger/iroha-ios`](https://github.com/hyperledger/iroha-ios) | 2 | 1 | 0 | 0 |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 1 | 0 | 0 | 1 |
 
 ## Monthly rollup — one table per repository
@@ -100,11 +84,6 @@ Months as rows, event types as columns. One file per repository in [`Cre-eD_roll
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 47 | [hyperledger_iroha.md](Cre-eD_rollup/hyperledger_iroha.md) |
-| [`hyperledger/iroha-deploy`](https://github.com/hyperledger/iroha-deploy) | 29 | [hyperledger_iroha-deploy.md](Cre-eD_rollup/hyperledger_iroha-deploy.md) |
-| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 10 | [hyperledger_iroha-java.md](Cre-eD_rollup/hyperledger_iroha-java.md) |
-| [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 6 | [hyperledger_iroha-javascript.md](Cre-eD_rollup/hyperledger_iroha-javascript.md) |
-| [`hyperledger/iroha-ios`](https://github.com/hyperledger/iroha-ios) | 2 | [hyperledger_iroha-ios.md](Cre-eD_rollup/hyperledger_iroha-ios.md) |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 1 | [hyperledger-iroha_iroha.md](Cre-eD_rollup/hyperledger-iroha_iroha.md) |
 
 ---

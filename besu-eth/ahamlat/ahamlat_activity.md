@@ -1,8 +1,10 @@
 # GitHub activity report — `ahamlat`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1,147** events spanning **2022-02-05 → 2026-05-22**, across **2** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **779** events spanning **2024-01-02 → 2026-05-22**, across **2** organizations and **5** repositories.
 
 ## Teams & repository access
 
@@ -32,21 +34,19 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 1,147 |
-| Pull requests opened | 80 |
-| Pull request reviews | 336 |
-| Issues opened | 28 |
-| Pushes | 56 |
-| Commits pushed | 67 |
-| Comments | 539 |
+| Total events | 779 |
+| Pull requests opened | 36 |
+| Pull request reviews | 274 |
+| Issues opened | 12 |
+| Pushes | 45 |
+| Commits pushed | 56 |
+| Comments | 349 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 163 |
-| 2023 | 205 |
 | 2024 | 286 |
 | 2025 | 416 |
 | 2026 | 77 |
@@ -55,31 +55,29 @@ Repository access granted through those teams (10 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 336 |
-| IssueCommentEvent | 277 |
-| PullRequestReviewCommentEvent | 262 |
-| PullRequestEvent | 152 |
-| PushEvent | 56 |
-| IssuesEvent | 42 |
-| CreateEvent | 12 |
+| PullRequestReviewEvent | 274 |
+| PullRequestReviewCommentEvent | 222 |
+| IssueCommentEvent | 127 |
+| PullRequestEvent | 76 |
+| PushEvent | 45 |
+| IssuesEvent | 19 |
+| CreateEvent | 11 |
 | DeleteEvent | 5 |
-| WatchEvent | 3 |
-| ForkEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 1,114 | 80 | 331 | 47 |
+| [`hyperledger`](https://github.com/hyperledger) | 746 | 36 | 269 | 36 |
 | [`besu-eth`](https://github.com/besu-eth) | 33 | 0 | 5 | 9 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1,078 | 79 | 314 | 46 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 725 | 36 | 258 | 35 |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 33 | 0 | 5 | 9 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 31 | 1 | 15 | 0 |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 16 | 0 | 9 | 0 |
 | [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 3 | 0 | 1 | 1 |
 | [`hyperledger/besu-stateless`](https://github.com/hyperledger/besu-stateless) | 2 | 0 | 1 | 0 |
 
@@ -89,9 +87,9 @@ Months as rows, event types as columns. One file per repository in [`ahamlat_rol
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1,078 | [hyperledger_besu.md](ahamlat_rollup/hyperledger_besu.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 725 | [hyperledger_besu.md](ahamlat_rollup/hyperledger_besu.md) |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 33 | [besu-eth_besu.md](ahamlat_rollup/besu-eth_besu.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 31 | [hyperledger_besu-docs.md](ahamlat_rollup/hyperledger_besu-docs.md) |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 16 | [hyperledger_besu-docs.md](ahamlat_rollup/hyperledger_besu-docs.md) |
 | [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 3 | [hyperledger_homebrew-besu.md](ahamlat_rollup/hyperledger_homebrew-besu.md) |
 | [`hyperledger/besu-stateless`](https://github.com/hyperledger/besu-stateless) | 2 | [hyperledger_besu-stateless.md](ahamlat_rollup/hyperledger_besu-stateless.md) |
 

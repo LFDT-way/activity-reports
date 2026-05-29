@@ -1,6 +1,8 @@
 # GitHub activity report — `bobert600`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **85** events spanning **2025-10-08 → 2026-04-01**, across **1** organizations and **2** repositories.
 

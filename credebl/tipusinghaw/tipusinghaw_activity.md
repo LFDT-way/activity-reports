@@ -1,8 +1,10 @@
 # GitHub activity report — `tipusinghaw`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **2,360** events spanning **2023-08-02 → 2026-05-27**, across **2** organizations and **10** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1,553** events spanning **2024-02-06 → 2026-05-27**, across **2** organizations and **10** repositories.
 
 ## Teams & repository access
 
@@ -46,20 +48,19 @@ Repository access granted through those teams (22 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 2,360 |
-| Pull requests opened | 195 |
-| Pull request reviews | 491 |
-| Issues opened | 90 |
-| Pushes | 555 |
-| Commits pushed | 1,714 |
-| Comments | 249 |
+| Total events | 1,553 |
+| Pull requests opened | 108 |
+| Pull request reviews | 340 |
+| Issues opened | 83 |
+| Pushes | 360 |
+| Commits pushed | 986 |
+| Comments | 188 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 807 |
 | 2024 | 1,140 |
 | 2025 | 365 |
 | 2026 | 48 |
@@ -68,32 +69,32 @@ Repository access granted through those teams (22 repos):
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 555 |
-| PullRequestReviewEvent | 491 |
-| PullRequestEvent | 462 |
-| DeleteEvent | 250 |
-| CreateEvent | 206 |
-| PullRequestReviewCommentEvent | 200 |
-| IssuesEvent | 140 |
-| IssueCommentEvent | 49 |
-| WatchEvent | 7 |
+| PushEvent | 360 |
+| PullRequestReviewEvent | 340 |
+| PullRequestEvent | 236 |
+| CreateEvent | 149 |
+| DeleteEvent | 143 |
+| PullRequestReviewCommentEvent | 140 |
+| IssuesEvent | 133 |
+| IssueCommentEvent | 48 |
+| WatchEvent | 4 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`credebl`](https://github.com/credebl) | 2,353 | 195 | 491 | 555 |
+| [`credebl`](https://github.com/credebl) | 1,546 | 108 | 340 | 360 |
 | [`openwallet-foundation`](https://github.com/openwallet-foundation) | 7 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`credebl/platform`](https://github.com/credebl/platform) | 1,354 | 110 | 257 | 342 |
-| [`credebl/studio`](https://github.com/credebl/studio) | 579 | 45 | 171 | 95 |
+| [`credebl/platform`](https://github.com/credebl/platform) | 984 | 57 | 205 | 236 |
+| [`credebl/studio`](https://github.com/credebl/studio) | 218 | 11 | 93 | 20 |
 | [`credebl/credo-controller`](https://github.com/credebl/credo-controller) | 210 | 28 | 26 | 62 |
-| [`credebl/afj-controller`](https://github.com/credebl/afj-controller) | 123 | 5 | 29 | 24 |
-| [`credebl/webauthn-server`](https://github.com/credebl/webauthn-server) | 51 | 7 | 1 | 15 |
+| [`credebl/afj-controller`](https://github.com/credebl/afj-controller) | 50 | 5 | 8 | 11 |
+| [`credebl/webauthn-server`](https://github.com/credebl/webauthn-server) | 48 | 7 | 1 | 14 |
 | [`credebl/agent-controller`](https://github.com/credebl/agent-controller) | 22 | 0 | 1 | 11 |
 | [`credebl/mediator-agent`](https://github.com/credebl/mediator-agent) | 8 | 0 | 0 | 6 |
 | [`credebl/docs`](https://github.com/credebl/docs) | 6 | 0 | 6 | 0 |
@@ -106,11 +107,11 @@ Months as rows, event types as columns. One file per repository in [`tipusinghaw
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`credebl/platform`](https://github.com/credebl/platform) | 1,354 | [credebl_platform.md](tipusinghaw_rollup/credebl_platform.md) |
-| [`credebl/studio`](https://github.com/credebl/studio) | 579 | [credebl_studio.md](tipusinghaw_rollup/credebl_studio.md) |
+| [`credebl/platform`](https://github.com/credebl/platform) | 984 | [credebl_platform.md](tipusinghaw_rollup/credebl_platform.md) |
+| [`credebl/studio`](https://github.com/credebl/studio) | 218 | [credebl_studio.md](tipusinghaw_rollup/credebl_studio.md) |
 | [`credebl/credo-controller`](https://github.com/credebl/credo-controller) | 210 | [credebl_credo-controller.md](tipusinghaw_rollup/credebl_credo-controller.md) |
-| [`credebl/afj-controller`](https://github.com/credebl/afj-controller) | 123 | [credebl_afj-controller.md](tipusinghaw_rollup/credebl_afj-controller.md) |
-| [`credebl/webauthn-server`](https://github.com/credebl/webauthn-server) | 51 | [credebl_webauthn-server.md](tipusinghaw_rollup/credebl_webauthn-server.md) |
+| [`credebl/afj-controller`](https://github.com/credebl/afj-controller) | 50 | [credebl_afj-controller.md](tipusinghaw_rollup/credebl_afj-controller.md) |
+| [`credebl/webauthn-server`](https://github.com/credebl/webauthn-server) | 48 | [credebl_webauthn-server.md](tipusinghaw_rollup/credebl_webauthn-server.md) |
 | [`credebl/agent-controller`](https://github.com/credebl/agent-controller) | 22 | [credebl_agent-controller.md](tipusinghaw_rollup/credebl_agent-controller.md) |
 | [`credebl/mediator-agent`](https://github.com/credebl/mediator-agent) | 8 | [credebl_mediator-agent.md](tipusinghaw_rollup/credebl_mediator-agent.md) |
 | [`credebl/docs`](https://github.com/credebl/docs) | 6 | [credebl_docs.md](tipusinghaw_rollup/credebl_docs.md) |

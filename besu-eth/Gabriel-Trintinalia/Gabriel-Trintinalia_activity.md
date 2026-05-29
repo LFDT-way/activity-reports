@@ -1,8 +1,10 @@
 # GitHub activity report — `Gabriel-Trintinalia`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1,872** events spanning **2022-03-14 → 2026-04-23**, across **3** organizations and **6** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1,232** events spanning **2024-01-03 → 2026-04-23**, across **3** organizations and **6** repositories.
 
 ## Teams & repository access
 
@@ -32,21 +34,19 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 1,872 |
-| Pull requests opened | 269 |
-| Pull request reviews | 481 |
-| Issues opened | 52 |
-| Pushes | 233 |
-| Commits pushed | 234 |
-| Comments | 491 |
-| Releases | 1 |
+| Total events | 1,232 |
+| Pull requests opened | 171 |
+| Pull request reviews | 292 |
+| Issues opened | 39 |
+| Pushes | 165 |
+| Commits pushed | 166 |
+| Comments | 315 |
+| Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 188 |
-| 2023 | 452 |
 | 2024 | 464 |
 | 2025 | 725 |
 | 2026 | 43 |
@@ -55,22 +55,19 @@ Repository access granted through those teams (10 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 518 |
-| PullRequestReviewEvent | 481 |
-| PullRequestReviewCommentEvent | 335 |
-| PushEvent | 233 |
-| IssueCommentEvent | 156 |
-| IssuesEvent | 136 |
+| PullRequestEvent | 346 |
+| PullRequestReviewEvent | 292 |
+| PullRequestReviewCommentEvent | 221 |
+| PushEvent | 165 |
+| IssuesEvent | 107 |
+| IssueCommentEvent | 94 |
 | CreateEvent | 7 |
-| ForkEvent | 3 |
-| WatchEvent | 2 |
-| ReleaseEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 1,869 | 269 | 480 | 233 |
+| [`hyperledger`](https://github.com/hyperledger) | 1,229 | 171 | 291 | 165 |
 | [`LF-Decentralized-Trust`](https://github.com/LF-Decentralized-Trust) | 2 | 0 | 1 | 0 |
 | [`besu-eth`](https://github.com/besu-eth) | 1 | 0 | 0 | 0 |
 
@@ -78,11 +75,11 @@ Repository access granted through those teams (10 repos):
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1,807 | 263 | 445 | 230 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 44 | 5 | 25 | 0 |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 14 | 1 | 6 | 3 |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 4 | 0 | 4 | 0 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1,192 | 170 | 269 | 162 |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 24 | 1 | 15 | 0 |
+| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 11 | 0 | 5 | 3 |
 | [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) | 2 | 0 | 1 | 0 |
+| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 2 | 0 | 2 | 0 |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -91,11 +88,11 @@ Months as rows, event types as columns. One file per repository in [`Gabriel-Tri
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1,807 | [hyperledger_besu.md](Gabriel-Trintinalia_rollup/hyperledger_besu.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 44 | [hyperledger_besu-docs.md](Gabriel-Trintinalia_rollup/hyperledger_besu-docs.md) |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 14 | [hyperledger_homebrew-besu.md](Gabriel-Trintinalia_rollup/hyperledger_homebrew-besu.md) |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 4 | [hyperledger_besu-native.md](Gabriel-Trintinalia_rollup/hyperledger_besu-native.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1,192 | [hyperledger_besu.md](Gabriel-Trintinalia_rollup/hyperledger_besu.md) |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 24 | [hyperledger_besu-docs.md](Gabriel-Trintinalia_rollup/hyperledger_besu-docs.md) |
+| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 11 | [hyperledger_homebrew-besu.md](Gabriel-Trintinalia_rollup/hyperledger_homebrew-besu.md) |
 | [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) | 2 | [LF-Decentralized-Trust_governance.md](Gabriel-Trintinalia_rollup/LF-Decentralized-Trust_governance.md) |
+| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 2 | [hyperledger_besu-native.md](Gabriel-Trintinalia_rollup/hyperledger_besu-native.md) |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 1 | [besu-eth_besu.md](Gabriel-Trintinalia_rollup/besu-eth_besu.md) |
 
 ---

@@ -1,8 +1,10 @@
 # GitHub activity report — `feventura`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **73** events spanning **2023-12-12 → 2025-09-26**, across **1** organizations and **1** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **71** events spanning **2024-02-28 → 2025-09-26**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -40,20 +42,19 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 73 |
-| Pull requests opened | 3 |
+| Total events | 71 |
+| Pull requests opened | 2 |
 | Pull request reviews | 25 |
 | Issues opened | 0 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 45 |
+| Comments | 44 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 2 |
 | 2024 | 68 |
 | 2025 | 3 |
 
@@ -63,20 +64,20 @@ Repository access granted through those teams (17 repos):
 | --- | --: |
 | PullRequestReviewCommentEvent | 25 |
 | PullRequestReviewEvent | 25 |
-| IssueCommentEvent | 20 |
-| PullRequestEvent | 3 |
+| IssueCommentEvent | 19 |
+| PullRequestEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 73 | 3 | 25 | 0 |
+| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 71 | 2 | 25 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 73 | 3 | 25 | 0 |
+| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 71 | 2 | 25 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -84,7 +85,7 @@ Months as rows, event types as columns. One file per repository in [`feventura_r
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 73 | [open-quantum-safe_oqs-provider.md](feventura_rollup/open-quantum-safe_oqs-provider.md) |
+| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 71 | [open-quantum-safe_oqs-provider.md](feventura_rollup/open-quantum-safe_oqs-provider.md) |
 
 ---
 

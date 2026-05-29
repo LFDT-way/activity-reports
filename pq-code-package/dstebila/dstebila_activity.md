@@ -1,0 +1,144 @@
+# GitHub activity report — `dstebila`
+
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **2,309** events spanning **2024-01-02 → 2026-05-26**, across **3** organizations and **29** repositories.
+
+## Teams & repository access
+
+Member of **2** team(s):
+
+| Team | Role in team |
+| --- | --- |
+| `pqcp-slhdsa-c-admin` | member |
+| `pqcp-slhdsa-c-contributors` | maintainer |
+
+Repository access granted through those teams (1 repos):
+
+| Repository | Access | Granted by |
+| --- | --- | --- |
+| `slhdsa-c` | admin | `pqcp-slhdsa-c-admin` (admin), `pqcp-slhdsa-c-contributors` (write) |
+
+
+## Overview
+
+| Metric | Value |
+| --- | --: |
+| Total events | 2,309 |
+| Pull requests opened | 135 |
+| Pull request reviews | 407 |
+| Issues opened | 44 |
+| Pushes | 390 |
+| Commits pushed | 444 |
+| Comments | 631 |
+| Releases | 5 |
+
+## Activity by year
+
+| Year | Events |
+| --- | --: |
+| 2024 | 1,077 |
+| 2025 | 1,042 |
+| 2026 | 190 |
+
+## Event types
+
+| Type | Count |
+| --- | --: |
+| IssueCommentEvent | 493 |
+| PullRequestReviewEvent | 407 |
+| PushEvent | 390 |
+| PullRequestEvent | 371 |
+| DeleteEvent | 214 |
+| CreateEvent | 151 |
+| PullRequestReviewCommentEvent | 137 |
+| IssuesEvent | 125 |
+| GollumEvent | 12 |
+| ReleaseEvent | 5 |
+| ForkEvent | 2 |
+| CommitCommentEvent | 1 |
+| MemberEvent | 1 |
+
+## Organizations
+
+| Organization | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 2,246 | 133 | 389 | 385 |
+| [`pq-code-package`](https://github.com/pq-code-package) | 60 | 2 | 18 | 5 |
+| [`PQCA`](https://github.com/PQCA) | 3 | 0 | 0 | 0 |
+
+## Repositories
+
+| Repository | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 947 | 19 | 233 | 126 |
+| [`open-quantum-safe/tsc`](https://github.com/open-quantum-safe/tsc) | 721 | 97 | 57 | 152 |
+| [`open-quantum-safe/www`](https://github.com/open-quantum-safe/www) | 224 | 8 | 12 | 79 |
+| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 110 | 0 | 37 | 5 |
+| [`open-quantum-safe/openssh`](https://github.com/open-quantum-safe/openssh) | 62 | 3 | 14 | 5 |
+| [`open-quantum-safe/oqs-demos`](https://github.com/open-quantum-safe/oqs-demos) | 52 | 1 | 15 | 3 |
+| [`pq-code-package/tsc`](https://github.com/pq-code-package/tsc) | 38 | 2 | 11 | 2 |
+| [`open-quantum-safe/liboqs-python`](https://github.com/open-quantum-safe/liboqs-python) | 32 | 2 | 2 | 3 |
+| [`open-quantum-safe/liboqs-rust`](https://github.com/open-quantum-safe/liboqs-rust) | 19 | 0 | 7 | 1 |
+| [`open-quantum-safe/boringssl`](https://github.com/open-quantum-safe/boringssl) | 18 | 0 | 3 | 0 |
+| [`open-quantum-safe/liboqs-dotnet`](https://github.com/open-quantum-safe/liboqs-dotnet) | 13 | 1 | 0 | 2 |
+| [`open-quantum-safe/liboqs-java`](https://github.com/open-quantum-safe/liboqs-java) | 12 | 0 | 6 | 0 |
+| [`pq-code-package/.github`](https://github.com/pq-code-package/.github) | 10 | 0 | 1 | 3 |
+| [`open-quantum-safe/ci-containers`](https://github.com/open-quantum-safe/ci-containers) | 9 | 0 | 3 | 3 |
+| [`open-quantum-safe/openssl`](https://github.com/open-quantum-safe/openssl) | 8 | 1 | 0 | 1 |
+| [`open-quantum-safe/.github`](https://github.com/open-quantum-safe/.github) | 7 | 0 | 0 | 5 |
+| [`open-quantum-safe/liboqs-go`](https://github.com/open-quantum-safe/liboqs-go) | 7 | 0 | 0 | 0 |
+| [`open-quantum-safe/profiling`](https://github.com/open-quantum-safe/profiling) | 3 | 0 | 0 | 0 |
+| [`pq-code-package/slhdsa-c`](https://github.com/pq-code-package/slhdsa-c) | 3 | 0 | 1 | 0 |
+| [`PQCA/TAC`](https://github.com/PQCA/TAC) | 2 | 0 | 0 | 0 |
+| [`open-quantum-safe/libssh`](https://github.com/open-quantum-safe/libssh) | 2 | 1 | 0 | 0 |
+| [`pq-code-package/mlkem-c-embedded`](https://github.com/pq-code-package/mlkem-c-embedded) | 2 | 0 | 2 | 0 |
+| [`pq-code-package/pq-code-package-hackathon`](https://github.com/pq-code-package/pq-code-package-hackathon) | 2 | 0 | 0 | 0 |
+| [`PQCA/governance`](https://github.com/PQCA/governance) | 1 | 0 | 0 | 0 |
+| [`pq-code-package/documentation`](https://github.com/pq-code-package/documentation) | 1 | 0 | 1 | 0 |
+| [`pq-code-package/mlkem-c-aarch64`](https://github.com/pq-code-package/mlkem-c-aarch64) | 1 | 0 | 0 | 0 |
+| [`pq-code-package/mlkem-libjade`](https://github.com/pq-code-package/mlkem-libjade) | 1 | 0 | 1 | 0 |
+| [`pq-code-package/mlkem-native`](https://github.com/pq-code-package/mlkem-native) | 1 | 0 | 0 | 0 |
+| [`pq-code-package/mlkem-rust-libcrux`](https://github.com/pq-code-package/mlkem-rust-libcrux) | 1 | 0 | 1 | 0 |
+
+## Monthly rollup — one table per repository
+
+Months as rows, event types as columns. One file per repository in [`dstebila_rollup/`](dstebila_rollup/):
+
+| Repository | Events | Rollup |
+| --- | --: | --- |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 947 | [open-quantum-safe_liboqs.md](dstebila_rollup/open-quantum-safe_liboqs.md) |
+| [`open-quantum-safe/tsc`](https://github.com/open-quantum-safe/tsc) | 721 | [open-quantum-safe_tsc.md](dstebila_rollup/open-quantum-safe_tsc.md) |
+| [`open-quantum-safe/www`](https://github.com/open-quantum-safe/www) | 224 | [open-quantum-safe_www.md](dstebila_rollup/open-quantum-safe_www.md) |
+| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 110 | [open-quantum-safe_oqs-provider.md](dstebila_rollup/open-quantum-safe_oqs-provider.md) |
+| [`open-quantum-safe/openssh`](https://github.com/open-quantum-safe/openssh) | 62 | [open-quantum-safe_openssh.md](dstebila_rollup/open-quantum-safe_openssh.md) |
+| [`open-quantum-safe/oqs-demos`](https://github.com/open-quantum-safe/oqs-demos) | 52 | [open-quantum-safe_oqs-demos.md](dstebila_rollup/open-quantum-safe_oqs-demos.md) |
+| [`pq-code-package/tsc`](https://github.com/pq-code-package/tsc) | 38 | [pq-code-package_tsc.md](dstebila_rollup/pq-code-package_tsc.md) |
+| [`open-quantum-safe/liboqs-python`](https://github.com/open-quantum-safe/liboqs-python) | 32 | [open-quantum-safe_liboqs-python.md](dstebila_rollup/open-quantum-safe_liboqs-python.md) |
+| [`open-quantum-safe/liboqs-rust`](https://github.com/open-quantum-safe/liboqs-rust) | 19 | [open-quantum-safe_liboqs-rust.md](dstebila_rollup/open-quantum-safe_liboqs-rust.md) |
+| [`open-quantum-safe/boringssl`](https://github.com/open-quantum-safe/boringssl) | 18 | [open-quantum-safe_boringssl.md](dstebila_rollup/open-quantum-safe_boringssl.md) |
+| [`open-quantum-safe/liboqs-dotnet`](https://github.com/open-quantum-safe/liboqs-dotnet) | 13 | [open-quantum-safe_liboqs-dotnet.md](dstebila_rollup/open-quantum-safe_liboqs-dotnet.md) |
+| [`open-quantum-safe/liboqs-java`](https://github.com/open-quantum-safe/liboqs-java) | 12 | [open-quantum-safe_liboqs-java.md](dstebila_rollup/open-quantum-safe_liboqs-java.md) |
+| [`pq-code-package/.github`](https://github.com/pq-code-package/.github) | 10 | [pq-code-package_.github.md](dstebila_rollup/pq-code-package_.github.md) |
+| [`open-quantum-safe/ci-containers`](https://github.com/open-quantum-safe/ci-containers) | 9 | [open-quantum-safe_ci-containers.md](dstebila_rollup/open-quantum-safe_ci-containers.md) |
+| [`open-quantum-safe/openssl`](https://github.com/open-quantum-safe/openssl) | 8 | [open-quantum-safe_openssl.md](dstebila_rollup/open-quantum-safe_openssl.md) |
+| [`open-quantum-safe/.github`](https://github.com/open-quantum-safe/.github) | 7 | [open-quantum-safe_.github.md](dstebila_rollup/open-quantum-safe_.github.md) |
+| [`open-quantum-safe/liboqs-go`](https://github.com/open-quantum-safe/liboqs-go) | 7 | [open-quantum-safe_liboqs-go.md](dstebila_rollup/open-quantum-safe_liboqs-go.md) |
+| [`open-quantum-safe/profiling`](https://github.com/open-quantum-safe/profiling) | 3 | [open-quantum-safe_profiling.md](dstebila_rollup/open-quantum-safe_profiling.md) |
+| [`pq-code-package/slhdsa-c`](https://github.com/pq-code-package/slhdsa-c) | 3 | [pq-code-package_slhdsa-c.md](dstebila_rollup/pq-code-package_slhdsa-c.md) |
+| [`PQCA/TAC`](https://github.com/PQCA/TAC) | 2 | [PQCA_TAC.md](dstebila_rollup/PQCA_TAC.md) |
+| [`open-quantum-safe/libssh`](https://github.com/open-quantum-safe/libssh) | 2 | [open-quantum-safe_libssh.md](dstebila_rollup/open-quantum-safe_libssh.md) |
+| [`pq-code-package/mlkem-c-embedded`](https://github.com/pq-code-package/mlkem-c-embedded) | 2 | [pq-code-package_mlkem-c-embedded.md](dstebila_rollup/pq-code-package_mlkem-c-embedded.md) |
+| [`pq-code-package/pq-code-package-hackathon`](https://github.com/pq-code-package/pq-code-package-hackathon) | 2 | [pq-code-package_pq-code-package-hackathon.md](dstebila_rollup/pq-code-package_pq-code-package-hackathon.md) |
+| [`PQCA/governance`](https://github.com/PQCA/governance) | 1 | [PQCA_governance.md](dstebila_rollup/PQCA_governance.md) |
+| [`pq-code-package/documentation`](https://github.com/pq-code-package/documentation) | 1 | [pq-code-package_documentation.md](dstebila_rollup/pq-code-package_documentation.md) |
+| [`pq-code-package/mlkem-c-aarch64`](https://github.com/pq-code-package/mlkem-c-aarch64) | 1 | [pq-code-package_mlkem-c-aarch64.md](dstebila_rollup/pq-code-package_mlkem-c-aarch64.md) |
+| [`pq-code-package/mlkem-libjade`](https://github.com/pq-code-package/mlkem-libjade) | 1 | [pq-code-package_mlkem-libjade.md](dstebila_rollup/pq-code-package_mlkem-libjade.md) |
+| [`pq-code-package/mlkem-native`](https://github.com/pq-code-package/mlkem-native) | 1 | [pq-code-package_mlkem-native.md](dstebila_rollup/pq-code-package_mlkem-native.md) |
+| [`pq-code-package/mlkem-rust-libcrux`](https://github.com/pq-code-package/mlkem-rust-libcrux) | 1 | [pq-code-package_mlkem-rust-libcrux.md](dstebila_rollup/pq-code-package_mlkem-rust-libcrux.md) |
+
+---
+
+<sub>Generated by `gh-report` from `gh-activity` archive data.</sub>

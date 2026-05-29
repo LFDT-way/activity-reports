@@ -1,11 +1,11 @@
 # [`hiero-ledger/hiero-improvement-proposals`](https://github.com/hiero-ledger/hiero-improvement-proposals) — monthly activity
 
-| Month | PullRequestReviewEvent | IssueCommentEvent | PullRequestReviewCommentEvent | PullRequestEvent | PushEvent | CreateEvent | ForkEvent | DeleteEvent | Total |
+| Month | PullRequestReviewEvent | IssueCommentEvent | PullRequestReviewCommentEvent | PullRequestEvent | PushEvent | CreateEvent | DeleteEvent | ForkEvent | Total |
 | --- | --: | --: | --: | --: | --: | --: | --: | --: | --: |
 | 2025-05 |  |  |  | 1 |  | 1 |  |  | 2 |
-| 2025-06 |  |  |  | 1 |  |  | 1 |  | 2 |
+| 2025-06 |  |  |  | 1 |  |  |  | 1 | 2 |
 | 2025-08 | 3 |  | 3 |  |  |  |  |  | 6 |
-| 2025-09 | 22 | 3 | 19 | 3 | 5 |  |  | 1 | 53 |
+| 2025-09 | 22 | 3 | 19 | 3 | 5 |  | 1 |  | 53 |
 | 2025-10 | 9 | 1 |  | 1 | 1 | 2 |  |  | 14 |
 | 2025-11 | 2 |  |  | 1 |  |  |  |  | 3 |
 | 2025-12 |  |  |  |  |  | 1 |  |  | 1 |

@@ -1,8 +1,10 @@
 # GitHub activity report — `DCNick3`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1,426** events spanning **2023-07-03 → 2024-12-05**, across **2** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **803** events spanning **2024-01-09 → 2024-12-05**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -34,52 +36,50 @@ Repository access granted through those teams (8 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 1,426 |
-| Pull requests opened | 53 |
-| Pull request reviews | 621 |
-| Issues opened | 39 |
-| Pushes | 29 |
-| Commits pushed | 89 |
-| Comments | 598 |
+| Total events | 803 |
+| Pull requests opened | 26 |
+| Pull request reviews | 357 |
+| Issues opened | 24 |
+| Pushes | 11 |
+| Commits pushed | 30 |
+| Comments | 344 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 623 |
 | 2024 | 803 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 621 |
-| PullRequestReviewCommentEvent | 459 |
-| IssueCommentEvent | 139 |
-| PullRequestEvent | 83 |
-| IssuesEvent | 76 |
-| PushEvent | 29 |
-| CreateEvent | 9 |
-| DeleteEvent | 8 |
-| ForkEvent | 2 |
+| PullRequestReviewEvent | 357 |
+| PullRequestReviewCommentEvent | 259 |
+| IssueCommentEvent | 85 |
+| IssuesEvent | 50 |
+| PullRequestEvent | 36 |
+| PushEvent | 11 |
+| CreateEvent | 2 |
+| DeleteEvent | 2 |
+| ForkEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 1,385 | 50 | 606 | 29 |
+| [`hyperledger`](https://github.com/hyperledger) | 762 | 23 | 342 | 11 |
 | [`hyperledger-iroha`](https://github.com/hyperledger-iroha) | 41 | 3 | 15 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 1,376 | 49 | 605 | 28 |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 755 | 22 | 342 | 10 |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 41 | 3 | 15 | 0 |
 | [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 5 | 1 | 0 | 1 |
 | [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 2 | 0 | 0 | 0 |
-| [`hyperledger/iroha-rfcs`](https://github.com/hyperledger/iroha-rfcs) | 2 | 0 | 1 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -87,11 +87,10 @@ Months as rows, event types as columns. One file per repository in [`DCNick3_rol
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 1,376 | [hyperledger_iroha.md](DCNick3_rollup/hyperledger_iroha.md) |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 755 | [hyperledger_iroha.md](DCNick3_rollup/hyperledger_iroha.md) |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 41 | [hyperledger-iroha_iroha.md](DCNick3_rollup/hyperledger-iroha_iroha.md) |
 | [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 5 | [hyperledger_iroha-2-docs.md](DCNick3_rollup/hyperledger_iroha-2-docs.md) |
 | [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 2 | [hyperledger_iroha-javascript.md](DCNick3_rollup/hyperledger_iroha-javascript.md) |
-| [`hyperledger/iroha-rfcs`](https://github.com/hyperledger/iroha-rfcs) | 2 | [hyperledger_iroha-rfcs.md](DCNick3_rollup/hyperledger_iroha-rfcs.md) |
 
 ---
 

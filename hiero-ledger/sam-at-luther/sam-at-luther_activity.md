@@ -1,8 +1,10 @@
 # GitHub activity report — `sam-at-luther`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **13** events spanning **2018-08-01 → 2025-02-24**, across **2** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **3** events spanning **2024-11-01 → 2025-02-24**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -23,8 +25,8 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 13 |
-| Pull requests opened | 1 |
+| Total events | 3 |
+| Pull requests opened | 0 |
 | Pull request reviews | 0 |
 | Issues opened | 1 |
 | Pushes | 0 |
@@ -36,10 +38,6 @@ Repository access granted through those teams (1 repos):
 
 | Year | Events |
 | --- | --: |
-| 2018 | 2 |
-| 2020 | 5 |
-| 2022 | 1 |
-| 2023 | 2 |
 | 2024 | 2 |
 | 2025 | 1 |
 
@@ -47,31 +45,21 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| WatchEvent | 8 |
-| ForkEvent | 2 |
+| ForkEvent | 1 |
 | IssueCommentEvent | 1 |
 | IssuesEvent | 1 |
-| PullRequestEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 8 | 0 | 0 | 0 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 5 | 1 | 0 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 3 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 4 | 0 | 0 | 0 |
-| [`hyperledger-labs/pluggable-hcs`](https://github.com/hyperledger-labs/pluggable-hcs) | 3 | 1 | 0 | 0 |
-| [`hyperledger-labs/fabric-operator`](https://github.com/hyperledger-labs/fabric-operator) | 1 | 0 | 0 | 0 |
-| [`hyperledger-labs/fabric-token-sdk`](https://github.com/hyperledger-labs/fabric-token-sdk) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-chaintool`](https://github.com/hyperledger/fabric-chaintool) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-private-chaincode`](https://github.com/hyperledger/fabric-private-chaincode) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-protos-go`](https://github.com/hyperledger/fabric-protos-go) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-sdk-go`](https://github.com/hyperledger/fabric-sdk-go) | 1 | 0 | 0 | 0 |
+| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 3 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -79,14 +67,7 @@ Months as rows, event types as columns. One file per repository in [`sam-at-luth
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 4 | [hyperledger_fabric.md](sam-at-luther_rollup/hyperledger_fabric.md) |
-| [`hyperledger-labs/pluggable-hcs`](https://github.com/hyperledger-labs/pluggable-hcs) | 3 | [hyperledger-labs_pluggable-hcs.md](sam-at-luther_rollup/hyperledger-labs_pluggable-hcs.md) |
-| [`hyperledger-labs/fabric-operator`](https://github.com/hyperledger-labs/fabric-operator) | 1 | [hyperledger-labs_fabric-operator.md](sam-at-luther_rollup/hyperledger-labs_fabric-operator.md) |
-| [`hyperledger-labs/fabric-token-sdk`](https://github.com/hyperledger-labs/fabric-token-sdk) | 1 | [hyperledger-labs_fabric-token-sdk.md](sam-at-luther_rollup/hyperledger-labs_fabric-token-sdk.md) |
-| [`hyperledger/fabric-chaintool`](https://github.com/hyperledger/fabric-chaintool) | 1 | [hyperledger_fabric-chaintool.md](sam-at-luther_rollup/hyperledger_fabric-chaintool.md) |
-| [`hyperledger/fabric-private-chaincode`](https://github.com/hyperledger/fabric-private-chaincode) | 1 | [hyperledger_fabric-private-chaincode.md](sam-at-luther_rollup/hyperledger_fabric-private-chaincode.md) |
-| [`hyperledger/fabric-protos-go`](https://github.com/hyperledger/fabric-protos-go) | 1 | [hyperledger_fabric-protos-go.md](sam-at-luther_rollup/hyperledger_fabric-protos-go.md) |
-| [`hyperledger/fabric-sdk-go`](https://github.com/hyperledger/fabric-sdk-go) | 1 | [hyperledger_fabric-sdk-go.md](sam-at-luther_rollup/hyperledger_fabric-sdk-go.md) |
+| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 3 | [hyperledger_fabric.md](sam-at-luther_rollup/hyperledger_fabric.md) |
 
 ---
 

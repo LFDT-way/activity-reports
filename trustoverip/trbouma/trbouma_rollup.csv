@@ -1,9 +1,4 @@
-repo,month,ForkEvent,IssueCommentEvent,IssuesEvent,WatchEvent,total
-hyperledger/aries-rfcs,2019-11,0,3,1,0,4
-trustoverip/tswg-trust-registry-protocol,2024-08,0,0,1,0,1
-trustoverip/tswg-trust-registry-protocol,2026-01,0,0,1,0,1
-trustoverip/tswg-trust-registry-tf,2023-01,1,0,0,1,2
-hyperledger/aries-cloudagent-python,2020-03,1,0,0,0,1
-hyperledger/indy-agent,2019-05,0,0,0,1,1
-open-quantum-safe/liboqs-python,2026-01,1,0,0,0,1
-trustoverip/TechArch,2022-10,1,0,0,0,1
+repo,month,IssuesEvent,ForkEvent,total
+trustoverip/tswg-trust-registry-protocol,2024-08,1,0,1
+trustoverip/tswg-trust-registry-protocol,2026-01,1,0,1
+open-quantum-safe/liboqs-python,2026-01,0,1,1

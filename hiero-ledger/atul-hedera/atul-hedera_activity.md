@@ -1,6 +1,8 @@
 # GitHub activity report — `atul-hedera`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 **No activity found** for `atul-hedera` in the date range searched.
 
@@ -10,13 +12,28 @@ Member of **1** team(s):
 
 | Team | Role in team |
 | --- | --- |
-| `roadmap-committers` | member |
+| `hiero-triage` | member |
 
-Repository access granted through those teams (1 repos):
+Repository access granted through those teams (16 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `roadmap` | write | `roadmap-committers` (write) |
+| `roadmap` | write | `hiero-triage` (write) |
+| `hiero-block-node` | triage | `hiero-triage` (triage) |
+| `hiero-consensus-node` | triage | `hiero-triage` (triage) |
+| `hiero-contracts` | triage | `hiero-triage` (triage) |
+| `hiero-docs` | triage | `hiero-triage` (triage) |
+| `hiero-json-rpc-relay` | triage | `hiero-triage` (triage) |
+| `hiero-local-node` | triage | `hiero-triage` (triage) |
+| `hiero-mirror-node` | triage | `hiero-triage` (triage) |
+| `hiero-mirror-node-explorer` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-cpp` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-go` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-java` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-js` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-rust` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-swift` | triage | `hiero-triage` (triage) |
+| `solo` | triage | `hiero-triage` (triage) |
 
 
 ---

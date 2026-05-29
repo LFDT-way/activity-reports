@@ -1,8 +1,10 @@
 # GitHub activity report — `jascks`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **3** events spanning **2023-03-09 → 2025-03-17**, across **2** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **2** events spanning **2024-11-21 → 2025-03-17**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -23,7 +25,7 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 3 |
+| Total events | 2 |
 | Pull requests opened | 0 |
 | Pull request reviews | 0 |
 | Issues opened | 0 |
@@ -36,7 +38,6 @@ Repository access granted through those teams (1 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 1 |
 | 2024 | 1 |
 | 2025 | 1 |
 
@@ -44,14 +45,13 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| WatchEvent | 3 |
+| WatchEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hiero-ledger`](https://github.com/hiero-ledger) | 2 | 0 | 0 | 0 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
@@ -59,7 +59,6 @@ Repository access granted through those teams (1 repos):
 | --- | --: | --: | --: | --: |
 | [`hiero-ledger/hiero`](https://github.com/hiero-ledger/hiero) | 1 | 0 | 0 | 0 |
 | [`hiero-ledger/hiero-docs`](https://github.com/hiero-ledger/hiero-docs) | 1 | 0 | 0 | 0 |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -69,7 +68,6 @@ Months as rows, event types as columns. One file per repository in [`jascks_roll
 | --- | --: | --- |
 | [`hiero-ledger/hiero`](https://github.com/hiero-ledger/hiero) | 1 | [hiero-ledger_hiero.md](jascks_rollup/hiero-ledger_hiero.md) |
 | [`hiero-ledger/hiero-docs`](https://github.com/hiero-ledger/hiero-docs) | 1 | [hiero-ledger_hiero-docs.md](jascks_rollup/hiero-ledger_hiero-docs.md) |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | [hyperledger_besu.md](jascks_rollup/hyperledger_besu.md) |
 
 ---
 

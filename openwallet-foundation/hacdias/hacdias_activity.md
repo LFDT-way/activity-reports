@@ -1,6 +1,8 @@
 # GitHub activity report — `hacdias`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **327** events spanning **2025-07-04 → 2026-05-22**, across **2** organizations and **6** repositories.
 
@@ -12,11 +14,12 @@ Member of **1** team(s):
 | --- | --- |
 | `credo-maintainers` | member |
 
-Repository access granted through those teams (6 repos):
+Repository access granted through those teams (7 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `credo-ts` | maintain | `credo-maintainers` (maintain) |
+| `credo-ts-didcomm-ext` | maintain | `credo-maintainers` (maintain) |
 | `credo-ts-docs` | maintain | `credo-maintainers` (maintain) |
 | `credo-ts-ext` | maintain | `credo-maintainers` (maintain) |
 | `didcomm-mediator-credo` | maintain | `credo-maintainers` (maintain) |

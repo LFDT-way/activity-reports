@@ -1,6 +1,6 @@
 # [`openwallet-foundation/credo-ts-docs`](https://github.com/openwallet-foundation/credo-ts-docs) — monthly activity
 
-| Month | PullRequestEvent | ForkEvent | Total |
+| Month | ForkEvent | PullRequestEvent | Total |
 | --- | --: | --: | --: |
 | 2024-05 | 1 | 1 | 2 |
 | **Total** | **1** | **1** | **2** |

@@ -1,0 +1,11 @@
+repo,month,PushEvent,PullRequestReviewEvent,PullRequestReviewCommentEvent,IssueCommentEvent,PullRequestEvent,CreateEvent,IssuesEvent,WatchEvent,total
+pq-code-package/mldsa-native,2025-11,7,2,1,2,1,1,2,1,17
+pq-code-package/mldsa-native,2025-12,20,4,8,1,2,2,0,0,37
+pq-code-package/mldsa-native,2026-01,14,4,1,0,0,0,0,0,19
+pq-code-package/mlkem-native,2025-10,0,0,0,1,1,0,0,0,2
+pq-code-package/mlkem-native,2025-11,0,0,0,2,0,0,3,0,5
+pq-code-package/mlkem-native,2025-12,9,2,2,0,2,1,0,0,16
+pq-code-package/mlkem-native,2026-01,9,3,2,2,2,1,0,0,19
+pq-code-package/mlkem-native,2026-03,5,0,0,1,1,2,0,0,9
+pq-code-package/mlkem-native,2026-04,0,2,1,1,1,0,0,0,5
+pq-code-package/mlkem-native,2026-05,2,0,0,0,0,0,0,0,2

@@ -1,8 +1,10 @@
 # GitHub activity report — `tykeal`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1** events spanning **2018-02-07 → 2018-02-07**, across **1** organizations and **1** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `tykeal` in the date range searched.
 
 ## Teams & repository access
 
@@ -19,51 +21,6 @@ Repository access granted through those teams (2 repos):
 | `wiki` | maintain | `lf-staff` (maintain) |
 | `wikix` | maintain | `lf-staff` (maintain) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 1 |
-| Pull requests opened | 0 |
-| Pull request reviews | 0 |
-| Issues opened | 0 |
-| Pushes | 0 |
-| Commits pushed | 0 |
-| Comments | 1 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2018 | 1 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| IssueCommentEvent | 1 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger/composer`](https://github.com/hyperledger/composer) | 1 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`tykeal_rollup/`](tykeal_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`hyperledger/composer`](https://github.com/hyperledger/composer) | 1 | [hyperledger_composer.md](tykeal_rollup/hyperledger_composer.md) |
 
 ---
 

@@ -1,17 +1,20 @@
 # GitHub activity report — `xuganyu96`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **199** events spanning **2023-10-19 → 2026-05-20**, across **2** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **198** events spanning **2025-02-12 → 2026-05-20**, across **2** organizations and **8** repositories.
 
 ## Teams & repository access
 
-Member of **7** team(s):
+Member of **8** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `liboqs-codeowners` | member |
 | `liboqs-committers` | member |
+| `liboqs-maintainers` | member |
 | `liboqs-rust-release-managers` | member |
 | `openssh-release-managers` | member |
 | `oqs-committers` | member |
@@ -22,10 +25,10 @@ Repository access granted through those teams (20 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
+| `liboqs` | admin | `liboqs-maintainers` (admin), `oqs-release-managers` (maintain), `liboqs-codeowners` (write), `liboqs-committers` (write), `security-managers` (read) |
+| `liboqs-cupqc-meta` | admin | `liboqs-maintainers` (admin), `oqs-release-managers` (maintain), `liboqs-committers` (write), `security-managers` (read) |
 | `boringssl` | maintain | `oqs-release-managers` (maintain), `oqs-committers` (write), `security-managers` (read) |
 | `ci-containers` | maintain | `oqs-release-managers` (maintain), `oqs-committers` (write), `security-managers` (read) |
-| `liboqs` | maintain | `oqs-release-managers` (maintain), `liboqs-codeowners` (write), `liboqs-committers` (write), `security-managers` (read) |
-| `liboqs-cupqc-meta` | maintain | `oqs-release-managers` (maintain), `liboqs-committers` (write), `security-managers` (read) |
 | `liboqs-dotnet` | maintain | `oqs-release-managers` (maintain), `oqs-committers` (write), `security-managers` (read) |
 | `liboqs-java` | maintain | `oqs-release-managers` (maintain), `oqs-committers` (write), `security-managers` (read) |
 | `liboqs-rust` | maintain | `liboqs-rust-release-managers` (maintain), `oqs-committers` (write), `security-managers` (read) |
@@ -48,7 +51,7 @@ Repository access granted through those teams (20 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 199 |
+| Total events | 198 |
 | Pull requests opened | 6 |
 | Pull request reviews | 14 |
 | Issues opened | 3 |
@@ -61,7 +64,6 @@ Repository access granted through those teams (20 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 1 |
 | 2025 | 107 |
 | 2026 | 91 |
 
@@ -77,8 +79,8 @@ Repository access granted through those teams (20 repos):
 | PullRequestEvent | 11 |
 | DeleteEvent | 10 |
 | IssuesEvent | 5 |
-| WatchEvent | 3 |
 | ForkEvent | 2 |
+| WatchEvent | 2 |
 | GollumEvent | 1 |
 | ReleaseEvent | 1 |
 
@@ -86,14 +88,14 @@ Repository access granted through those teams (20 repos):
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 198 | 6 | 14 | 91 |
+| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 197 | 6 | 14 | 91 |
 | [`pq-code-package`](https://github.com/pq-code-package) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 177 | 4 | 13 | 85 |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 176 | 4 | 13 | 85 |
 | [`open-quantum-safe/tsc`](https://github.com/open-quantum-safe/tsc) | 7 | 2 | 0 | 0 |
 | [`open-quantum-safe/ci-containers`](https://github.com/open-quantum-safe/ci-containers) | 6 | 0 | 0 | 3 |
 | [`open-quantum-safe/www`](https://github.com/open-quantum-safe/www) | 5 | 0 | 0 | 3 |
@@ -108,7 +110,7 @@ Months as rows, event types as columns. One file per repository in [`xuganyu96_r
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 177 | [open-quantum-safe_liboqs.md](xuganyu96_rollup/open-quantum-safe_liboqs.md) |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 176 | [open-quantum-safe_liboqs.md](xuganyu96_rollup/open-quantum-safe_liboqs.md) |
 | [`open-quantum-safe/tsc`](https://github.com/open-quantum-safe/tsc) | 7 | [open-quantum-safe_tsc.md](xuganyu96_rollup/open-quantum-safe_tsc.md) |
 | [`open-quantum-safe/ci-containers`](https://github.com/open-quantum-safe/ci-containers) | 6 | [open-quantum-safe_ci-containers.md](xuganyu96_rollup/open-quantum-safe_ci-containers.md) |
 | [`open-quantum-safe/www`](https://github.com/open-quantum-safe/www) | 5 | [open-quantum-safe_www.md](xuganyu96_rollup/open-quantum-safe_www.md) |

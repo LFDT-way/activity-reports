@@ -1,8 +1,10 @@
 # GitHub activity report — `drgorb`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **3** events spanning **2016-06-02 → 2019-05-24**, across **2** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `drgorb` in the date range searched.
 
 ## Teams & repository access
 
@@ -20,59 +22,6 @@ Repository access granted through those teams (2 repos):
 | `hiero-did-sdk-js` | maintain | `hiero-did-sdk-js-maintainers` (maintain) |
 | `governance` | write | `governance-write` (write) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 3 |
-| Pull requests opened | 0 |
-| Pull request reviews | 0 |
-| Issues opened | 0 |
-| Pushes | 0 |
-| Commits pushed | 0 |
-| Comments | 1 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2016 | 1 |
-| 2017 | 1 |
-| 2019 | 1 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| WatchEvent | 2 |
-| IssueCommentEvent | 1 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 2 | 0 | 0 | 0 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 1 | 0 | 0 | 0 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger-labs/solang`](https://github.com/hyperledger-labs/solang) | 1 | 0 | 0 | 0 |
-| [`hyperledger/hyperledger`](https://github.com/hyperledger/hyperledger) | 1 | 0 | 0 | 0 |
-| [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 1 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`drgorb_rollup/`](drgorb_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`hyperledger-labs/solang`](https://github.com/hyperledger-labs/solang) | 1 | [hyperledger-labs_solang.md](drgorb_rollup/hyperledger-labs_solang.md) |
-| [`hyperledger/hyperledger`](https://github.com/hyperledger/hyperledger) | 1 | [hyperledger_hyperledger.md](drgorb_rollup/hyperledger_hyperledger.md) |
-| [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 1 | [hyperledger_iroha-javascript.md](drgorb_rollup/hyperledger_iroha-javascript.md) |
 
 ---
 

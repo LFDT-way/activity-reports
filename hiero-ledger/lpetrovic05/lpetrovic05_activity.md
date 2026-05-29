@@ -1,25 +1,29 @@
 # GitHub activity report — `lpetrovic05`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **1,536** events spanning **2025-02-14 → 2026-05-28**, across **1** organizations and **4** repositories.
 
 ## Teams & repository access
 
-Member of **3** team(s):
+Member of **4** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `governance-write` | member |
 | `hiero-consensus-node-consensus-codeowners` | member |
 | `hiero-consensus-node-maintainers` | member |
+| `roadmap-viewers` | member |
 
-Repository access granted through those teams (2 repos):
+Repository access granted through those teams (3 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `hiero-consensus-node` | maintain | `hiero-consensus-node-maintainers` (maintain), `hiero-consensus-node-consensus-codeowners` (write) |
 | `governance` | write | `governance-write` (write) |
+| `roadmap` | read | `roadmap-viewers` (read) |
 
 
 ## Overview

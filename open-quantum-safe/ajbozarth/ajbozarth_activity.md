@@ -1,8 +1,10 @@
 # GitHub activity report — `ajbozarth`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **140** events spanning **2023-02-08 → 2025-02-14**, across **3** organizations and **7** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **131** events spanning **2024-03-12 → 2025-02-14**, across **3** organizations and **6** repositories.
 
 ## Teams & repository access
 
@@ -39,20 +41,19 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 140 |
-| Pull requests opened | 9 |
+| Total events | 131 |
+| Pull requests opened | 8 |
 | Pull request reviews | 16 |
-| Issues opened | 6 |
+| Issues opened | 5 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 101 |
+| Comments | 96 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 9 |
 | 2024 | 126 |
 | 2025 | 5 |
 
@@ -60,18 +61,18 @@ Repository access granted through those teams (17 repos):
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 93 |
+| IssueCommentEvent | 88 |
 | PullRequestReviewEvent | 16 |
-| PullRequestEvent | 11 |
+| PullRequestEvent | 10 |
 | PullRequestReviewCommentEvent | 8 |
-| IssuesEvent | 7 |
-| ForkEvent | 5 |
+| IssuesEvent | 6 |
+| ForkEvent | 3 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 137 | 9 | 16 | 0 |
+| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 128 | 8 | 16 | 0 |
 | [`pq-code-package`](https://github.com/pq-code-package) | 2 | 0 | 0 | 0 |
 | [`PQCA`](https://github.com/PQCA) | 1 | 0 | 0 | 0 |
 
@@ -80,12 +81,11 @@ Repository access granted through those teams (17 repos):
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`open-quantum-safe/oqs-demos`](https://github.com/open-quantum-safe/oqs-demos) | 115 | 7 | 16 | 0 |
-| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 11 | 1 | 0 | 0 |
 | [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 8 | 0 | 0 | 0 |
+| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 3 | 0 | 0 | 0 |
 | [`open-quantum-safe/tsc`](https://github.com/open-quantum-safe/tsc) | 2 | 1 | 0 | 0 |
 | [`pq-code-package/pq-code-package-hackathon`](https://github.com/pq-code-package/pq-code-package-hackathon) | 2 | 0 | 0 | 0 |
 | [`PQCA/TAC`](https://github.com/PQCA/TAC) | 1 | 0 | 0 | 0 |
-| [`open-quantum-safe/openssl`](https://github.com/open-quantum-safe/openssl) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -94,12 +94,11 @@ Months as rows, event types as columns. One file per repository in [`ajbozarth_r
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`open-quantum-safe/oqs-demos`](https://github.com/open-quantum-safe/oqs-demos) | 115 | [open-quantum-safe_oqs-demos.md](ajbozarth_rollup/open-quantum-safe_oqs-demos.md) |
-| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 11 | [open-quantum-safe_oqs-provider.md](ajbozarth_rollup/open-quantum-safe_oqs-provider.md) |
 | [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 8 | [open-quantum-safe_liboqs.md](ajbozarth_rollup/open-quantum-safe_liboqs.md) |
+| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 3 | [open-quantum-safe_oqs-provider.md](ajbozarth_rollup/open-quantum-safe_oqs-provider.md) |
 | [`open-quantum-safe/tsc`](https://github.com/open-quantum-safe/tsc) | 2 | [open-quantum-safe_tsc.md](ajbozarth_rollup/open-quantum-safe_tsc.md) |
 | [`pq-code-package/pq-code-package-hackathon`](https://github.com/pq-code-package/pq-code-package-hackathon) | 2 | [pq-code-package_pq-code-package-hackathon.md](ajbozarth_rollup/pq-code-package_pq-code-package-hackathon.md) |
 | [`PQCA/TAC`](https://github.com/PQCA/TAC) | 1 | [PQCA_TAC.md](ajbozarth_rollup/PQCA_TAC.md) |
-| [`open-quantum-safe/openssl`](https://github.com/open-quantum-safe/openssl) | 1 | [open-quantum-safe_openssl.md](ajbozarth_rollup/open-quantum-safe_openssl.md) |
 
 ---
 

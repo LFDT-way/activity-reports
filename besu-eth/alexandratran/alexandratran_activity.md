@@ -1,8 +1,10 @@
 # GitHub activity report — `alexandratran`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **2,439** events spanning **2021-03-11 → 2026-05-27**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **810** events spanning **2024-01-04 → 2026-05-27**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -29,22 +31,19 @@ Repository access granted through those teams (7 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 2,439 |
-| Pull requests opened | 193 |
-| Pull request reviews | 571 |
-| Issues opened | 140 |
-| Pushes | 361 |
-| Commits pushed | 398 |
-| Comments | 537 |
-| Releases | 1 |
+| Total events | 810 |
+| Pull requests opened | 48 |
+| Pull request reviews | 211 |
+| Issues opened | 46 |
+| Pushes | 126 |
+| Commits pushed | 133 |
+| Comments | 184 |
+| Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 581 |
-| 2022 | 511 |
-| 2023 | 537 |
 | 2024 | 565 |
 | 2025 | 185 |
 | 2026 | 60 |
@@ -53,32 +52,30 @@ Repository access granted through those teams (7 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 571 |
-| PullRequestEvent | 509 |
-| PullRequestReviewCommentEvent | 447 |
-| IssuesEvent | 401 |
-| PushEvent | 361 |
-| IssueCommentEvent | 90 |
-| DeleteEvent | 56 |
-| ForkEvent | 2 |
-| CreateEvent | 1 |
-| ReleaseEvent | 1 |
+| PullRequestReviewEvent | 211 |
+| PullRequestReviewCommentEvent | 163 |
+| PullRequestEvent | 144 |
+| PushEvent | 126 |
+| IssuesEvent | 109 |
+| DeleteEvent | 35 |
+| IssueCommentEvent | 21 |
+| ForkEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 2,379 | 189 | 567 | 338 |
+| [`hyperledger`](https://github.com/hyperledger) | 750 | 44 | 207 | 103 |
 | [`besu-eth`](https://github.com/besu-eth) | 60 | 4 | 4 | 23 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 2,371 | 187 | 566 | 338 |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 745 | 42 | 207 | 103 |
 | [`besu-eth/besu-docs`](https://github.com/besu-eth/besu-docs) | 60 | 4 | 4 | 23 |
-| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 6 | 2 | 0 | 0 |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 2 | 0 | 1 | 0 |
+| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 4 | 2 | 0 | 0 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -86,10 +83,10 @@ Months as rows, event types as columns. One file per repository in [`alexandratr
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 2,371 | [hyperledger_besu-docs.md](alexandratran_rollup/hyperledger_besu-docs.md) |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 745 | [hyperledger_besu-docs.md](alexandratran_rollup/hyperledger_besu-docs.md) |
 | [`besu-eth/besu-docs`](https://github.com/besu-eth/besu-docs) | 60 | [besu-eth_besu-docs.md](alexandratran_rollup/besu-eth_besu-docs.md) |
-| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 6 | [hyperledger_governance.md](alexandratran_rollup/hyperledger_governance.md) |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 2 | [hyperledger_besu.md](alexandratran_rollup/hyperledger_besu.md) |
+| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 4 | [hyperledger_governance.md](alexandratran_rollup/hyperledger_governance.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | [hyperledger_besu.md](alexandratran_rollup/hyperledger_besu.md) |
 
 ---
 

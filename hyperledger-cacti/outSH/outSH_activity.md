@@ -1,8 +1,10 @@
 # GitHub activity report — `outSH`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1,720** events spanning **2021-10-04 → 2025-12-17**, across **4** organizations and **14** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **790** events spanning **2024-01-04 → 2025-12-17**, across **4** organizations and **8** repositories.
 
 ## Teams & repository access
 
@@ -26,22 +28,19 @@ Repository access granted through those teams (3 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 1,720 |
-| Pull requests opened | 117 |
-| Pull request reviews | 662 |
-| Issues opened | 77 |
-| Pushes | 36 |
-| Commits pushed | 41 |
-| Comments | 640 |
+| Total events | 790 |
+| Pull requests opened | 28 |
+| Pull request reviews | 440 |
+| Issues opened | 13 |
+| Pushes | 30 |
+| Commits pushed | 35 |
+| Comments | 213 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 71 |
-| 2022 | 393 |
-| 2023 | 466 |
 | 2024 | 630 |
 | 2025 | 160 |
 
@@ -49,21 +48,21 @@ Repository access granted through those teams (3 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 662 |
-| IssueCommentEvent | 362 |
-| PullRequestReviewCommentEvent | 278 |
-| IssuesEvent | 207 |
-| PullRequestEvent | 157 |
-| PushEvent | 36 |
-| WatchEvent | 7 |
-| DeleteEvent | 6 |
-| ForkEvent | 5 |
+| PullRequestReviewEvent | 440 |
+| PullRequestReviewCommentEvent | 113 |
+| IssueCommentEvent | 100 |
+| PullRequestEvent | 58 |
+| IssuesEvent | 42 |
+| PushEvent | 30 |
+| DeleteEvent | 3 |
+| ForkEvent | 2 |
+| WatchEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 1,476 | 111 | 509 | 30 |
+| [`hyperledger`](https://github.com/hyperledger) | 546 | 22 | 287 | 24 |
 | [`hyperledger-cacti`](https://github.com/hyperledger-cacti) | 242 | 6 | 153 | 6 |
 | [`hyperledger-labs`](https://github.com/hyperledger-labs) | 1 | 0 | 0 | 0 |
 | [`open-quantum-safe`](https://github.com/open-quantum-safe) | 1 | 0 | 0 | 0 |
@@ -72,18 +71,12 @@ Repository access granted through those teams (3 repos):
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/cacti`](https://github.com/hyperledger/cacti) | 986 | 54 | 391 | 30 |
-| [`hyperledger/cactus`](https://github.com/hyperledger/cactus) | 463 | 55 | 118 | 0 |
+| [`hyperledger/cacti`](https://github.com/hyperledger/cacti) | 543 | 22 | 287 | 24 |
 | [`hyperledger-cacti/cacti`](https://github.com/hyperledger-cacti/cacti) | 241 | 6 | 153 | 6 |
-| [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 9 | 1 | 0 | 0 |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 7 | 0 | 0 | 0 |
-| [`hyperledger/aries-framework-javascript`](https://github.com/hyperledger/aries-framework-javascript) | 5 | 0 | 0 | 0 |
-| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 2 | 1 | 0 | 0 |
 | [`hyperledger-cacti/governance`](https://github.com/hyperledger-cacti/governance) | 1 | 0 | 0 | 0 |
 | [`hyperledger-labs/microfab`](https://github.com/hyperledger-labs/microfab) | 1 | 0 | 0 | 0 |
-| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 1 | 0 | 0 | 0 |
-| [`hyperledger/firefly`](https://github.com/hyperledger/firefly) | 1 | 0 | 0 | 0 |
 | [`hyperledger/governance`](https://github.com/hyperledger/governance) | 1 | 0 | 0 | 0 |
+| [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 1 | 0 | 0 | 0 |
 | [`hyperledger/toc`](https://github.com/hyperledger/toc) | 1 | 0 | 0 | 0 |
 | [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 1 | 0 | 0 | 0 |
 
@@ -93,18 +86,12 @@ Months as rows, event types as columns. One file per repository in [`outSH_rollu
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/cacti`](https://github.com/hyperledger/cacti) | 986 | [hyperledger_cacti.md](outSH_rollup/hyperledger_cacti.md) |
-| [`hyperledger/cactus`](https://github.com/hyperledger/cactus) | 463 | [hyperledger_cactus.md](outSH_rollup/hyperledger_cactus.md) |
+| [`hyperledger/cacti`](https://github.com/hyperledger/cacti) | 543 | [hyperledger_cacti.md](outSH_rollup/hyperledger_cacti.md) |
 | [`hyperledger-cacti/cacti`](https://github.com/hyperledger-cacti/cacti) | 241 | [hyperledger-cacti_cacti.md](outSH_rollup/hyperledger-cacti_cacti.md) |
-| [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 9 | [hyperledger_iroha-javascript.md](outSH_rollup/hyperledger_iroha-javascript.md) |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 7 | [hyperledger_iroha.md](outSH_rollup/hyperledger_iroha.md) |
-| [`hyperledger/aries-framework-javascript`](https://github.com/hyperledger/aries-framework-javascript) | 5 | [hyperledger_aries-framework-javascript.md](outSH_rollup/hyperledger_aries-framework-javascript.md) |
-| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 2 | [hyperledger_iroha-2-docs.md](outSH_rollup/hyperledger_iroha-2-docs.md) |
 | [`hyperledger-cacti/governance`](https://github.com/hyperledger-cacti/governance) | 1 | [hyperledger-cacti_governance.md](outSH_rollup/hyperledger-cacti_governance.md) |
 | [`hyperledger-labs/microfab`](https://github.com/hyperledger-labs/microfab) | 1 | [hyperledger-labs_microfab.md](outSH_rollup/hyperledger-labs_microfab.md) |
-| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 1 | [hyperledger_cello.md](outSH_rollup/hyperledger_cello.md) |
-| [`hyperledger/firefly`](https://github.com/hyperledger/firefly) | 1 | [hyperledger_firefly.md](outSH_rollup/hyperledger_firefly.md) |
 | [`hyperledger/governance`](https://github.com/hyperledger/governance) | 1 | [hyperledger_governance.md](outSH_rollup/hyperledger_governance.md) |
+| [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 1 | [hyperledger_iroha-javascript.md](outSH_rollup/hyperledger_iroha-javascript.md) |
 | [`hyperledger/toc`](https://github.com/hyperledger/toc) | 1 | [hyperledger_toc.md](outSH_rollup/hyperledger_toc.md) |
 | [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 1 | [open-quantum-safe_liboqs.md](outSH_rollup/open-quantum-safe_liboqs.md) |
 

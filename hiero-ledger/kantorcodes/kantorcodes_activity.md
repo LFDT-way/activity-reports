@@ -1,6 +1,8 @@
 # GitHub activity report — `kantorcodes`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **122** events spanning **2025-03-17 → 2026-05-07**, across **1** organizations and **9** repositories.
 
@@ -18,7 +20,7 @@ Member of **7** team(s):
 | `hiero-improvement-proposals-committers` | member |
 | `tsc` | member |
 
-Repository access granted through those teams (39 repos):
+Repository access granted through those teams (40 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
@@ -31,6 +33,7 @@ Repository access granted through those teams (39 repos):
 | `hiero-cli` | maintain | `tsc` (maintain) |
 | `hiero-consensus-node` | maintain | `tsc` (maintain) |
 | `hiero-contracts` | maintain | `tsc` (maintain) |
+| `hiero-cryptography` | maintain | `tsc` (maintain) |
 | `hiero-did-sdk-js` | maintain | `tsc` (maintain) |
 | `hiero-did-sdk-python` | maintain | `tsc` (maintain) |
 | `hiero-docs` | maintain | `tsc` (maintain) |

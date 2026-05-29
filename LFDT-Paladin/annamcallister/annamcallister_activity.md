@@ -1,8 +1,10 @@
 # GitHub activity report — `annamcallister`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **697** events spanning **2023-06-19 → 2026-05-28**, across **3** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **693** events spanning **2024-12-11 → 2026-05-28**, across **3** organizations and **6** repositories.
 
 ## Teams & repository access
 
@@ -24,8 +26,8 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 697 |
-| Pull requests opened | 46 |
+| Total events | 693 |
+| Pull requests opened | 43 |
 | Pull request reviews | 89 |
 | Issues opened | 16 |
 | Pushes | 248 |
@@ -37,7 +39,6 @@ Repository access granted through those teams (2 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 4 |
 | 2024 | 1 |
 | 2025 | 477 |
 | 2026 | 215 |
@@ -49,12 +50,11 @@ Repository access granted through those teams (2 repos):
 | PushEvent | 248 |
 | PullRequestReviewEvent | 89 |
 | PullRequestReviewCommentEvent | 83 |
-| PullRequestEvent | 73 |
+| PullRequestEvent | 70 |
 | CreateEvent | 67 |
 | DeleteEvent | 66 |
 | IssueCommentEvent | 36 |
 | IssuesEvent | 33 |
-| ForkEvent | 1 |
 | WatchEvent | 1 |
 
 ## Organizations
@@ -63,7 +63,7 @@ Repository access granted through those teams (2 repos):
 | --- | --: | --: | --: | --: |
 | [`LF-Decentralized-Trust-labs`](https://github.com/LF-Decentralized-Trust-labs) | 371 | 29 | 68 | 91 |
 | [`LFDT-Paladin`](https://github.com/LFDT-Paladin) | 321 | 14 | 21 | 157 |
-| [`hyperledger`](https://github.com/hyperledger) | 5 | 3 | 0 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
@@ -71,8 +71,6 @@ Repository access granted through those teams (2 repos):
 | --- | --: | --: | --: | --: |
 | [`LF-Decentralized-Trust-labs/paladin`](https://github.com/LF-Decentralized-Trust-labs/paladin) | 371 | 29 | 68 | 91 |
 | [`LFDT-Paladin/paladin`](https://github.com/LFDT-Paladin/paladin) | 318 | 13 | 20 | 156 |
-| [`hyperledger/firefly-common`](https://github.com/hyperledger/firefly-common) | 2 | 2 | 0 | 0 |
-| [`hyperledger/firefly-tokens-erc1155`](https://github.com/hyperledger/firefly-tokens-erc1155) | 2 | 1 | 0 | 0 |
 | [`LFDT-Paladin/.github`](https://github.com/LFDT-Paladin/.github) | 1 | 0 | 0 | 1 |
 | [`LFDT-Paladin/governance`](https://github.com/LFDT-Paladin/governance) | 1 | 0 | 1 | 0 |
 | [`LFDT-Paladin/zeto`](https://github.com/LFDT-Paladin/zeto) | 1 | 1 | 0 | 0 |
@@ -86,8 +84,6 @@ Months as rows, event types as columns. One file per repository in [`annamcallis
 | --- | --: | --- |
 | [`LF-Decentralized-Trust-labs/paladin`](https://github.com/LF-Decentralized-Trust-labs/paladin) | 371 | [LF-Decentralized-Trust-labs_paladin.md](annamcallister_rollup/LF-Decentralized-Trust-labs_paladin.md) |
 | [`LFDT-Paladin/paladin`](https://github.com/LFDT-Paladin/paladin) | 318 | [LFDT-Paladin_paladin.md](annamcallister_rollup/LFDT-Paladin_paladin.md) |
-| [`hyperledger/firefly-common`](https://github.com/hyperledger/firefly-common) | 2 | [hyperledger_firefly-common.md](annamcallister_rollup/hyperledger_firefly-common.md) |
-| [`hyperledger/firefly-tokens-erc1155`](https://github.com/hyperledger/firefly-tokens-erc1155) | 2 | [hyperledger_firefly-tokens-erc1155.md](annamcallister_rollup/hyperledger_firefly-tokens-erc1155.md) |
 | [`LFDT-Paladin/.github`](https://github.com/LFDT-Paladin/.github) | 1 | [LFDT-Paladin_.github.md](annamcallister_rollup/LFDT-Paladin_.github.md) |
 | [`LFDT-Paladin/governance`](https://github.com/LFDT-Paladin/governance) | 1 | [LFDT-Paladin_governance.md](annamcallister_rollup/LFDT-Paladin_governance.md) |
 | [`LFDT-Paladin/zeto`](https://github.com/LFDT-Paladin/zeto) | 1 | [LFDT-Paladin_zeto.md](annamcallister_rollup/LFDT-Paladin_zeto.md) |

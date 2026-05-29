@@ -1,6 +1,6 @@
 # [`hyperledger/toc`](https://github.com/hyperledger/toc) — monthly activity
 
-| Month | PullRequestEvent | ForkEvent | Total |
+| Month | ForkEvent | PullRequestEvent | Total |
 | --- | --: | --: | --: |
 | 2024-09 | 1 | 1 | 2 |
 | **Total** | **1** | **1** | **2** |

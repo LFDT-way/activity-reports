@@ -1,6 +1,8 @@
 # GitHub activity report — `GHkrishna`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **2,058** events spanning **2024-02-01 → 2026-04-29**, across **7** organizations and **24** repositories.
 

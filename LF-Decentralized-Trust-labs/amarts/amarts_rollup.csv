@@ -1,10 +1,6 @@
-repo,month,IssueCommentEvent,WatchEvent,ForkEvent,PullRequestEvent,PullRequestReviewEvent,PullRequestReviewCommentEvent,PushEvent,total
-LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io,2025-07,3,1,0,1,0,0,0,5
-LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io,2025-08,0,0,0,0,1,1,0,2
-LF-Decentralized-Trust-labs/decentralized-directory-protocol,2025-11,0,0,0,0,1,0,1,2
+repo,month,IssueCommentEvent,PullRequestReviewEvent,ForkEvent,PullRequestEvent,PullRequestReviewCommentEvent,PushEvent,WatchEvent,total
+LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io,2025-07,3,0,0,1,0,0,1,5
+LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io,2025-08,0,1,0,0,1,0,0,2
+LF-Decentralized-Trust-labs/decentralized-directory-protocol,2025-11,0,1,0,0,0,1,0,2
 LF-Decentralized-Trust-labs/decentralized-directory-protocol,2026-03,2,0,0,0,0,0,0,2
-hyperledger/aries-cloudagent-python,2019-10,0,1,1,1,0,0,0,3
-hyperledger/aries-cloudagent-python,2020-06,1,0,0,0,0,0,0,1
 hyperledger-labs/hyperledger-labs.github.io,2024-09,0,0,1,0,0,0,0,1
-hyperledger/indy-sdk,2019-10,0,1,0,0,0,0,0,1
-hyperledger/ursa,2019-11,0,1,0,0,0,0,0,1

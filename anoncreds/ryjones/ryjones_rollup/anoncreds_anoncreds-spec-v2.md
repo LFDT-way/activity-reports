@@ -1,6 +1,6 @@
 # [`anoncreds/anoncreds-spec-v2`](https://github.com/anoncreds/anoncreds-spec-v2) — monthly activity
 
-| Month | PullRequestEvent | IssueCommentEvent | DeleteEvent | ForkEvent | Total |
+| Month | PullRequestEvent | DeleteEvent | IssueCommentEvent | ForkEvent | Total |
 | --- | --: | --: | --: | --: | --: |
 | 2025-12 | 2 | 1 | 1 | 1 | 5 |
 | **Total** | **2** | **1** | **1** | **1** | **5** |

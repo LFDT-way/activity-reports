@@ -1,23 +1,26 @@
 # GitHub activity report — `Ndacyayisenga-droid`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **196** events spanning **2024-10-09 → 2026-05-28**, across **3** organizations and **11** repositories.
 
 ## Teams & repository access
 
-Member of **2** team(s):
+Member of **3** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `hiero-enterprise-java-committers` | maintainer |
+| `hiero-enterprise-java-triage` | maintainer |
 | `hiero-solo-action-committers` | member |
 
 Repository access granted through those teams (2 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `hiero-enterprise-java` | write | `hiero-enterprise-java-committers` (write) |
+| `hiero-enterprise-java` | write | `hiero-enterprise-java-committers` (write), `hiero-enterprise-java-triage` (triage) |
 | `hiero-solo-action` | write | `hiero-solo-action-committers` (write) |
 
 

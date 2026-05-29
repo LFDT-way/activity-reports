@@ -1,8 +1,10 @@
 # GitHub activity report — `mkannwischer`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **8,125** events spanning **2020-12-15 → 2026-05-27**, across **3** organizations and **10** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **8,122** events spanning **2024-03-12 → 2026-05-27**, across **3** organizations and **10** repositories.
 
 ## Teams & repository access
 
@@ -33,22 +35,19 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 8,125 |
+| Total events | 8,122 |
 | Pull requests opened | 378 |
 | Pull request reviews | 1,510 |
 | Issues opened | 336 |
 | Pushes | 2,252 |
 | Commits pushed | 5,007 |
-| Comments | 1,717 |
+| Comments | 1,715 |
 | Releases | 3 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2020 | 1 |
-| 2021 | 1 |
-| 2023 | 1 |
 | 2024 | 1,754 |
 | 2025 | 5,077 |
 | 2026 | 1,291 |
@@ -62,19 +61,19 @@ Repository access granted through those teams (10 repos):
 | PullRequestReviewCommentEvent | 1,037 |
 | PullRequestEvent | 891 |
 | IssuesEvent | 763 |
-| IssueCommentEvent | 680 |
+| IssueCommentEvent | 678 |
 | DeleteEvent | 568 |
 | CreateEvent | 412 |
 | ForkEvent | 6 |
 | ReleaseEvent | 3 |
-| WatchEvent | 3 |
+| WatchEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`pq-code-package`](https://github.com/pq-code-package) | 8,061 | 371 | 1,502 | 2,252 |
-| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 58 | 6 | 7 | 0 |
+| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 55 | 6 | 7 | 0 |
 | [`PQCA`](https://github.com/PQCA) | 6 | 1 | 1 | 0 |
 
 ## Repositories
@@ -87,7 +86,7 @@ Repository access granted through those teams (10 repos):
 | [`pq-code-package/mlkem-c-embedded`](https://github.com/pq-code-package/mlkem-c-embedded) | 223 | 13 | 54 | 24 |
 | [`pq-code-package/tsc`](https://github.com/pq-code-package/tsc) | 213 | 19 | 23 | 27 |
 | [`pq-code-package/slhdsa-c`](https://github.com/pq-code-package/slhdsa-c) | 102 | 3 | 19 | 29 |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 51 | 5 | 7 | 0 |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 48 | 5 | 7 | 0 |
 | [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 7 | 1 | 0 | 0 |
 | [`PQCA/TAC`](https://github.com/PQCA/TAC) | 4 | 1 | 1 | 0 |
 | [`PQCA/governance`](https://github.com/PQCA/governance) | 2 | 0 | 0 | 0 |
@@ -104,7 +103,7 @@ Months as rows, event types as columns. One file per repository in [`mkannwische
 | [`pq-code-package/mlkem-c-embedded`](https://github.com/pq-code-package/mlkem-c-embedded) | 223 | [pq-code-package_mlkem-c-embedded.md](mkannwischer_rollup/pq-code-package_mlkem-c-embedded.md) |
 | [`pq-code-package/tsc`](https://github.com/pq-code-package/tsc) | 213 | [pq-code-package_tsc.md](mkannwischer_rollup/pq-code-package_tsc.md) |
 | [`pq-code-package/slhdsa-c`](https://github.com/pq-code-package/slhdsa-c) | 102 | [pq-code-package_slhdsa-c.md](mkannwischer_rollup/pq-code-package_slhdsa-c.md) |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 51 | [open-quantum-safe_liboqs.md](mkannwischer_rollup/open-quantum-safe_liboqs.md) |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 48 | [open-quantum-safe_liboqs.md](mkannwischer_rollup/open-quantum-safe_liboqs.md) |
 | [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 7 | [open-quantum-safe_oqs-provider.md](mkannwischer_rollup/open-quantum-safe_oqs-provider.md) |
 | [`PQCA/TAC`](https://github.com/PQCA/TAC) | 4 | [PQCA_TAC.md](mkannwischer_rollup/PQCA_TAC.md) |
 | [`PQCA/governance`](https://github.com/PQCA/governance) | 2 | [PQCA_governance.md](mkannwischer_rollup/PQCA_governance.md) |

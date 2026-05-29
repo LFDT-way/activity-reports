@@ -1,0 +1,127 @@
+# GitHub activity report — `mkannwischer`
+
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **8,122** events spanning **2024-03-12 → 2026-05-27**, across **3** organizations and **10** repositories.
+
+## Teams & repository access
+
+Member of **14** team(s):
+
+| Team | Role in team |
+| --- | --- |
+| `pqcp-docs` | maintainer |
+| `pqcp-docs-admin` | maintainer |
+| `pqcp-docs-maintainers` | maintainer |
+| `pqcp-embedded` | maintainer |
+| `pqcp-embedded-admin` | maintainer |
+| `pqcp-embedded-maintainers` | maintainer |
+| `pqcp-mldsa-native-admin` | maintainer |
+| `pqcp-mldsa-native-contributors` | maintainer |
+| `pqcp-mlkem-native-admin` | maintainer |
+| `pqcp-mlkem-native-contributors` | maintainer |
+| `pqcp-slhdsa-c-admin` | maintainer |
+| `pqcp-slhdsa-c-contributors` | maintainer |
+| `pqcp-tsc` | maintainer |
+| `pqcp-tsc-admin` | maintainer |
+
+Repository access granted through those teams (12 repos):
+
+| Repository | Access | Granted by |
+| --- | --- | --- |
+| `.github` | admin | `pqcp-docs-admin` (admin), `pqcp-docs-maintainers` (maintain), `pqcp-docs` (read), `pqcp-tsc` (read) |
+| `documentation` | admin | `pqcp-docs-admin` (admin), `pqcp-docs-maintainers` (maintain), `pqcp-docs` (read), `pqcp-tsc` (read) |
+| `mldsa-native` | admin | `pqcp-mldsa-native-admin` (admin), `pqcp-mldsa-native-contributors` (write), `pqcp-tsc` (read) |
+| `mlkem-c-embedded` | admin | `pqcp-embedded-admin` (admin), `pqcp-embedded-maintainers` (maintain), `pqcp-embedded` (read), `pqcp-tsc` (read) |
+| `mlkem-native` | admin | `pqcp-mlkem-native-admin` (admin), `pqcp-mlkem-native-contributors` (write), `pqcp-tsc` (read) |
+| `pq-code-package-hackathon` | admin | `pqcp-docs-admin` (admin), `pqcp-docs-maintainers` (maintain), `pqcp-docs` (read), `pqcp-tsc` (read) |
+| `slhdsa-c` | admin | `pqcp-slhdsa-c-admin` (admin), `pqcp-slhdsa-c-contributors` (write), `pqcp-tsc` (read) |
+| `template-code` | admin | `pqcp-docs-admin` (admin), `pqcp-docs-maintainers` (maintain), `pqcp-docs` (read), `pqcp-tsc` (read) |
+| `tsc` | admin | `pqcp-tsc-admin` (admin), `pqcp-tsc` (maintain) |
+| `mlkem-c-generic` | read | `pqcp-tsc` (read) |
+| `mlkem-libjade` | read | `pqcp-tsc` (read) |
+| `rust-libcrux` | read | `pqcp-tsc` (read) |
+
+
+## Overview
+
+| Metric | Value |
+| --- | --: |
+| Total events | 8,122 |
+| Pull requests opened | 378 |
+| Pull request reviews | 1,510 |
+| Issues opened | 336 |
+| Pushes | 2,252 |
+| Commits pushed | 5,007 |
+| Comments | 1,715 |
+| Releases | 3 |
+
+## Activity by year
+
+| Year | Events |
+| --- | --: |
+| 2024 | 1,754 |
+| 2025 | 5,077 |
+| 2026 | 1,291 |
+
+## Event types
+
+| Type | Count |
+| --- | --: |
+| PushEvent | 2,252 |
+| PullRequestReviewEvent | 1,510 |
+| PullRequestReviewCommentEvent | 1,037 |
+| PullRequestEvent | 891 |
+| IssuesEvent | 763 |
+| IssueCommentEvent | 678 |
+| DeleteEvent | 568 |
+| CreateEvent | 412 |
+| ForkEvent | 6 |
+| ReleaseEvent | 3 |
+| WatchEvent | 2 |
+
+## Organizations
+
+| Organization | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`pq-code-package`](https://github.com/pq-code-package) | 8,061 | 371 | 1,502 | 2,252 |
+| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 55 | 6 | 7 | 0 |
+| [`PQCA`](https://github.com/PQCA) | 6 | 1 | 1 | 0 |
+
+## Repositories
+
+| Repository | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`pq-code-package/mlkem-native`](https://github.com/pq-code-package/mlkem-native) | 3,423 | 170 | 700 | 983 |
+| [`pq-code-package/mldsa-native`](https://github.com/pq-code-package/mldsa-native) | 3,384 | 132 | 514 | 1,068 |
+| [`pq-code-package/mlkem-c-aarch64`](https://github.com/pq-code-package/mlkem-c-aarch64) | 716 | 34 | 192 | 121 |
+| [`pq-code-package/mlkem-c-embedded`](https://github.com/pq-code-package/mlkem-c-embedded) | 223 | 13 | 54 | 24 |
+| [`pq-code-package/tsc`](https://github.com/pq-code-package/tsc) | 213 | 19 | 23 | 27 |
+| [`pq-code-package/slhdsa-c`](https://github.com/pq-code-package/slhdsa-c) | 102 | 3 | 19 | 29 |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 48 | 5 | 7 | 0 |
+| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 7 | 1 | 0 | 0 |
+| [`PQCA/TAC`](https://github.com/PQCA/TAC) | 4 | 1 | 1 | 0 |
+| [`PQCA/governance`](https://github.com/PQCA/governance) | 2 | 0 | 0 | 0 |
+
+## Monthly rollup — one table per repository
+
+Months as rows, event types as columns. One file per repository in [`mkannwischer_rollup/`](mkannwischer_rollup/):
+
+| Repository | Events | Rollup |
+| --- | --: | --- |
+| [`pq-code-package/mlkem-native`](https://github.com/pq-code-package/mlkem-native) | 3,423 | [pq-code-package_mlkem-native.md](mkannwischer_rollup/pq-code-package_mlkem-native.md) |
+| [`pq-code-package/mldsa-native`](https://github.com/pq-code-package/mldsa-native) | 3,384 | [pq-code-package_mldsa-native.md](mkannwischer_rollup/pq-code-package_mldsa-native.md) |
+| [`pq-code-package/mlkem-c-aarch64`](https://github.com/pq-code-package/mlkem-c-aarch64) | 716 | [pq-code-package_mlkem-c-aarch64.md](mkannwischer_rollup/pq-code-package_mlkem-c-aarch64.md) |
+| [`pq-code-package/mlkem-c-embedded`](https://github.com/pq-code-package/mlkem-c-embedded) | 223 | [pq-code-package_mlkem-c-embedded.md](mkannwischer_rollup/pq-code-package_mlkem-c-embedded.md) |
+| [`pq-code-package/tsc`](https://github.com/pq-code-package/tsc) | 213 | [pq-code-package_tsc.md](mkannwischer_rollup/pq-code-package_tsc.md) |
+| [`pq-code-package/slhdsa-c`](https://github.com/pq-code-package/slhdsa-c) | 102 | [pq-code-package_slhdsa-c.md](mkannwischer_rollup/pq-code-package_slhdsa-c.md) |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 48 | [open-quantum-safe_liboqs.md](mkannwischer_rollup/open-quantum-safe_liboqs.md) |
+| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 7 | [open-quantum-safe_oqs-provider.md](mkannwischer_rollup/open-quantum-safe_oqs-provider.md) |
+| [`PQCA/TAC`](https://github.com/PQCA/TAC) | 4 | [PQCA_TAC.md](mkannwischer_rollup/PQCA_TAC.md) |
+| [`PQCA/governance`](https://github.com/PQCA/governance) | 2 | [PQCA_governance.md](mkannwischer_rollup/PQCA_governance.md) |
+
+---
+
+<sub>Generated by `gh-report` from `gh-activity` archive data.</sub>

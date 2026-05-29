@@ -1,6 +1,8 @@
 # GitHub activity report — `nicarq`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **191** events spanning **2025-12-23 → 2026-05-23**, across **2** organizations and **3** repositories.
 
@@ -12,10 +14,11 @@ Member of **1** team(s):
 | --- | --- |
 | `nightstream-maintainers` | maintainer |
 
-Repository access granted through those teams (3 repos):
+Repository access granted through those teams (4 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
+| `MVE-Planning` | maintain | `nightstream-maintainers` (maintain) |
 | `Nightstream` | maintain | `nightstream-maintainers` (maintain) |
 | `Starstream` | maintain | `nightstream-maintainers` (maintain) |
 | `governance` | maintain | `nightstream-maintainers` (maintain) |

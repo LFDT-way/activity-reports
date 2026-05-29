@@ -1,8 +1,10 @@
 # GitHub activity report — `yshyn-iohk`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **3,527** events spanning **2023-09-13 → 2026-05-28**, across **5** organizations and **32** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **3,350** events spanning **2024-01-02 → 2026-05-28**, across **5** organizations and **32** repositories.
 
 ## Teams & repository access
 
@@ -40,20 +42,19 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 3,527 |
-| Pull requests opened | 181 |
-| Pull request reviews | 653 |
+| Total events | 3,350 |
+| Pull requests opened | 176 |
+| Pull request reviews | 578 |
 | Issues opened | 79 |
-| Pushes | 1,182 |
-| Commits pushed | 2,434 |
-| Comments | 471 |
+| Pushes | 1,150 |
+| Commits pushed | 2,313 |
+| Comments | 422 |
 | Releases | 8 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 177 |
 | 2024 | 2,089 |
 | 2025 | 962 |
 | 2026 | 299 |
@@ -62,17 +63,17 @@ Repository access granted through those teams (17 repos):
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 1,182 |
-| PullRequestReviewEvent | 653 |
-| PullRequestEvent | 501 |
-| DeleteEvent | 330 |
-| PullRequestReviewCommentEvent | 249 |
-| CreateEvent | 232 |
-| IssueCommentEvent | 221 |
+| PushEvent | 1,150 |
+| PullRequestReviewEvent | 578 |
+| PullRequestEvent | 491 |
+| DeleteEvent | 325 |
+| CreateEvent | 227 |
+| IssueCommentEvent | 215 |
+| PullRequestReviewCommentEvent | 206 |
 | IssuesEvent | 141 |
 | ReleaseEvent | 8 |
 | ForkEvent | 5 |
-| WatchEvent | 4 |
+| WatchEvent | 3 |
 | CommitCommentEvent | 1 |
 
 ## Organizations
@@ -81,7 +82,7 @@ Repository access granted through those teams (17 repos):
 | --- | --: | --: | --: | --: |
 | [`hyperledger`](https://github.com/hyperledger) | 2,015 | 117 | 365 | 674 |
 | [`hyperledger-identus`](https://github.com/hyperledger-identus) | 1,089 | 46 | 111 | 441 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 401 | 13 | 172 | 67 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 224 | 8 | 97 | 35 |
 | [`LF-Decentralized-Trust`](https://github.com/LF-Decentralized-Trust) | 20 | 5 | 5 | 0 |
 | [`LF-Decentralized-Trust-Mentorships`](https://github.com/LF-Decentralized-Trust-Mentorships) | 2 | 0 | 0 | 0 |
 
@@ -91,8 +92,8 @@ Repository access granted through those teams (17 repos):
 | --- | --: | --: | --: | --: |
 | [`hyperledger/identus-cloud-agent`](https://github.com/hyperledger/identus-cloud-agent) | 1,388 | 68 | 281 | 458 |
 | [`hyperledger-identus/cloud-agent`](https://github.com/hyperledger-identus/cloud-agent) | 496 | 20 | 40 | 230 |
-| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 399 | 12 | 172 | 67 |
 | [`hyperledger/identus-docs`](https://github.com/hyperledger/identus-docs) | 303 | 24 | 25 | 119 |
+| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 222 | 7 | 97 | 35 |
 | [`hyperledger-identus/docs`](https://github.com/hyperledger-identus/docs) | 154 | 9 | 12 | 51 |
 | [`hyperledger/identus-apollo`](https://github.com/hyperledger/identus-apollo) | 89 | 3 | 5 | 47 |
 | [`hyperledger/identus-mediator`](https://github.com/hyperledger/identus-mediator) | 82 | 7 | 3 | 37 |
@@ -130,8 +131,8 @@ Months as rows, event types as columns. One file per repository in [`yshyn-iohk_
 | --- | --: | --- |
 | [`hyperledger/identus-cloud-agent`](https://github.com/hyperledger/identus-cloud-agent) | 1,388 | [hyperledger_identus-cloud-agent.md](yshyn-iohk_rollup/hyperledger_identus-cloud-agent.md) |
 | [`hyperledger-identus/cloud-agent`](https://github.com/hyperledger-identus/cloud-agent) | 496 | [hyperledger-identus_cloud-agent.md](yshyn-iohk_rollup/hyperledger-identus_cloud-agent.md) |
-| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 399 | [hyperledger-labs_open-enterprise-agent.md](yshyn-iohk_rollup/hyperledger-labs_open-enterprise-agent.md) |
 | [`hyperledger/identus-docs`](https://github.com/hyperledger/identus-docs) | 303 | [hyperledger_identus-docs.md](yshyn-iohk_rollup/hyperledger_identus-docs.md) |
+| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 222 | [hyperledger-labs_open-enterprise-agent.md](yshyn-iohk_rollup/hyperledger-labs_open-enterprise-agent.md) |
 | [`hyperledger-identus/docs`](https://github.com/hyperledger-identus/docs) | 154 | [hyperledger-identus_docs.md](yshyn-iohk_rollup/hyperledger-identus_docs.md) |
 | [`hyperledger/identus-apollo`](https://github.com/hyperledger/identus-apollo) | 89 | [hyperledger_identus-apollo.md](yshyn-iohk_rollup/hyperledger_identus-apollo.md) |
 | [`hyperledger/identus-mediator`](https://github.com/hyperledger/identus-mediator) | 82 | [hyperledger_identus-mediator.md](yshyn-iohk_rollup/hyperledger_identus-mediator.md) |

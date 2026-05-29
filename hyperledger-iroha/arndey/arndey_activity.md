@@ -1,8 +1,10 @@
 # GitHub activity report — `arndey`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **648** events spanning **2021-09-08 → 2024-11-18**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **81** events spanning **2024-01-23 → 2024-11-18**, across **2** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -26,54 +28,48 @@ Repository access granted through those teams (4 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 648 |
-| Pull requests opened | 75 |
-| Pull request reviews | 156 |
-| Issues opened | 47 |
-| Pushes | 111 |
-| Commits pushed | 175 |
-| Comments | 107 |
+| Total events | 81 |
+| Pull requests opened | 4 |
+| Pull request reviews | 15 |
+| Issues opened | 3 |
+| Pushes | 36 |
+| Commits pushed | 87 |
+| Comments | 12 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 64 |
-| 2022 | 235 |
-| 2023 | 268 |
 | 2024 | 81 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 156 |
-| PullRequestEvent | 155 |
-| PushEvent | 111 |
-| IssuesEvent | 99 |
-| PullRequestReviewCommentEvent | 91 |
-| IssueCommentEvent | 16 |
-| CreateEvent | 11 |
-| DeleteEvent | 5 |
-| WatchEvent | 3 |
-| ForkEvent | 1 |
+| PushEvent | 36 |
+| PullRequestReviewEvent | 15 |
+| PullRequestEvent | 10 |
+| IssueCommentEvent | 6 |
+| PullRequestReviewCommentEvent | 6 |
+| CreateEvent | 4 |
+| IssuesEvent | 3 |
+| DeleteEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 640 | 74 | 154 | 109 |
+| [`hyperledger`](https://github.com/hyperledger) | 73 | 3 | 13 | 34 |
 | [`hyperledger-iroha`](https://github.com/hyperledger-iroha) | 8 | 1 | 2 | 2 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 608 | 73 | 153 | 107 |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 25 | 0 | 0 | 0 |
+| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 67 | 3 | 13 | 34 |
 | [`hyperledger-iroha/iroha-java`](https://github.com/hyperledger-iroha/iroha-java) | 8 | 1 | 2 | 2 |
-| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 7 | 1 | 1 | 2 |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 6 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -81,10 +77,9 @@ Months as rows, event types as columns. One file per repository in [`arndey_roll
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 608 | [hyperledger_iroha-java.md](arndey_rollup/hyperledger_iroha-java.md) |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 25 | [hyperledger_iroha.md](arndey_rollup/hyperledger_iroha.md) |
+| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 67 | [hyperledger_iroha-java.md](arndey_rollup/hyperledger_iroha-java.md) |
 | [`hyperledger-iroha/iroha-java`](https://github.com/hyperledger-iroha/iroha-java) | 8 | [hyperledger-iroha_iroha-java.md](arndey_rollup/hyperledger-iroha_iroha-java.md) |
-| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 7 | [hyperledger_iroha-2-docs.md](arndey_rollup/hyperledger_iroha-2-docs.md) |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 6 | [hyperledger_iroha.md](arndey_rollup/hyperledger_iroha.md) |
 
 ---
 

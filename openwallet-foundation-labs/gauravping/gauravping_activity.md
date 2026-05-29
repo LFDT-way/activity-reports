@@ -1,8 +1,10 @@
 # GitHub activity report — `gauravping`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **10** events spanning **2023-12-12 → 2025-08-14**, across **2** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **9** events spanning **2024-01-16 → 2025-08-14**, across **2** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -23,7 +25,7 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 10 |
+| Total events | 9 |
 | Pull requests opened | 1 |
 | Pull request reviews | 1 |
 | Issues opened | 0 |
@@ -36,7 +38,6 @@ Repository access granted through those teams (1 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 1 |
 | 2024 | 8 |
 | 2025 | 1 |
 
@@ -45,7 +46,6 @@ Repository access granted through those teams (1 repos):
 | Type | Count |
 | --- | --: |
 | IssueCommentEvent | 5 |
-| ForkEvent | 1 |
 | PullRequestEvent | 1 |
 | PullRequestReviewCommentEvent | 1 |
 | PullRequestReviewEvent | 1 |
@@ -55,14 +55,14 @@ Repository access granted through those teams (1 repos):
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation`](https://github.com/openwallet-foundation) | 9 | 1 | 1 | 0 |
+| [`openwallet-foundation`](https://github.com/openwallet-foundation) | 8 | 1 | 1 | 0 |
 | [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 7 | 1 | 1 | 0 |
+| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 6 | 1 | 1 | 0 |
 | [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 2 | 0 | 0 | 0 |
 | [`openwallet-foundation-labs/multiformat-vc-ios`](https://github.com/openwallet-foundation-labs/multiformat-vc-ios) | 1 | 0 | 0 | 0 |
 
@@ -72,7 +72,7 @@ Months as rows, event types as columns. One file per repository in [`gauravping_
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 7 | [openwallet-foundation_project-proposals.md](gauravping_rollup/openwallet-foundation_project-proposals.md) |
+| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 6 | [openwallet-foundation_project-proposals.md](gauravping_rollup/openwallet-foundation_project-proposals.md) |
 | [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 2 | [openwallet-foundation_tac.md](gauravping_rollup/openwallet-foundation_tac.md) |
 | [`openwallet-foundation-labs/multiformat-vc-ios`](https://github.com/openwallet-foundation-labs/multiformat-vc-ios) | 1 | [openwallet-foundation-labs_multiformat-vc-ios.md](gauravping_rollup/openwallet-foundation-labs_multiformat-vc-ios.md) |
 

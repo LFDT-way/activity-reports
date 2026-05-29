@@ -1,8 +1,10 @@
 # GitHub activity report — `diega`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **341** events spanning **2020-10-14 → 2026-04-14**, across **3** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **26** events spanning **2024-02-05 → 2026-04-14**, across **2** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -32,23 +34,19 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 341 |
-| Pull requests opened | 47 |
-| Pull request reviews | 110 |
-| Issues opened | 4 |
-| Pushes | 10 |
-| Commits pushed | 10 |
-| Comments | 150 |
+| Total events | 26 |
+| Pull requests opened | 6 |
+| Pull request reviews | 8 |
+| Issues opened | 0 |
+| Pushes | 0 |
+| Commits pushed | 0 |
+| Comments | 12 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2020 | 3 |
-| 2021 | 20 |
-| 2022 | 198 |
-| 2023 | 94 |
 | 2024 | 13 |
 | 2025 | 11 |
 | 2026 | 2 |
@@ -57,29 +55,23 @@ Repository access granted through those teams (10 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 110 |
-| IssueCommentEvent | 83 |
-| PullRequestReviewCommentEvent | 67 |
-| PullRequestEvent | 61 |
-| PushEvent | 10 |
-| IssuesEvent | 8 |
-| ForkEvent | 2 |
+| IssueCommentEvent | 10 |
+| PullRequestReviewEvent | 8 |
+| PullRequestEvent | 6 |
+| PullRequestReviewCommentEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 336 | 44 | 110 | 10 |
-| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 3 | 1 | 0 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 24 | 4 | 8 | 0 |
 | [`besu-eth`](https://github.com/besu-eth) | 2 | 2 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 332 | 43 | 110 | 10 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 4 | 1 | 0 | 0 |
-| [`open-quantum-safe/liboqs-dotnet`](https://github.com/open-quantum-safe/liboqs-dotnet) | 3 | 1 | 0 | 0 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 24 | 4 | 8 | 0 |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 2 | 2 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -88,9 +80,7 @@ Months as rows, event types as columns. One file per repository in [`diega_rollu
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 332 | [hyperledger_besu.md](diega_rollup/hyperledger_besu.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 4 | [hyperledger_besu-docs.md](diega_rollup/hyperledger_besu-docs.md) |
-| [`open-quantum-safe/liboqs-dotnet`](https://github.com/open-quantum-safe/liboqs-dotnet) | 3 | [open-quantum-safe_liboqs-dotnet.md](diega_rollup/open-quantum-safe_liboqs-dotnet.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 24 | [hyperledger_besu.md](diega_rollup/hyperledger_besu.md) |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 2 | [besu-eth_besu.md](diega_rollup/besu-eth_besu.md) |
 
 ---

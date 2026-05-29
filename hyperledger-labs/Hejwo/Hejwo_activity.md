@@ -1,8 +1,10 @@
 # GitHub activity report — `Hejwo`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **208** events spanning **2021-10-01 → 2024-05-07**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **10** events spanning **2024-05-07 → 2024-05-07**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -24,55 +26,43 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 208 |
-| Pull requests opened | 13 |
-| Pull request reviews | 43 |
-| Issues opened | 1 |
-| Pushes | 32 |
-| Commits pushed | 147 |
-| Comments | 38 |
-| Releases | 2 |
+| Total events | 10 |
+| Pull requests opened | 0 |
+| Pull request reviews | 2 |
+| Issues opened | 0 |
+| Pushes | 1 |
+| Commits pushed | 4 |
+| Comments | 4 |
+| Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 43 |
-| 2022 | 127 |
-| 2023 | 28 |
 | 2024 | 10 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 47 |
-| PullRequestReviewEvent | 43 |
-| IssueCommentEvent | 32 |
-| PushEvent | 32 |
-| DeleteEvent | 21 |
-| CreateEvent | 13 |
-| IssuesEvent | 7 |
-| PullRequestReviewCommentEvent | 6 |
-| ForkEvent | 3 |
-| ReleaseEvent | 2 |
-| WatchEvent | 2 |
+| IssueCommentEvent | 2 |
+| PullRequestEvent | 2 |
+| PullRequestReviewCommentEvent | 2 |
+| PullRequestReviewEvent | 2 |
+| DeleteEvent | 1 |
+| PushEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 207 | 13 | 43 | 32 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 10 | 0 | 2 | 1 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/fablo`](https://github.com/hyperledger-labs/fablo) | 200 | 12 | 43 | 32 |
-| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 6 | 1 | 0 | 0 |
-| [`hyperledger-labs/solang`](https://github.com/hyperledger-labs/solang) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-protos`](https://github.com/hyperledger/fabric-protos) | 1 | 0 | 0 | 0 |
+| [`hyperledger-labs/fablo`](https://github.com/hyperledger-labs/fablo) | 10 | 0 | 2 | 1 |
 
 ## Monthly rollup — one table per repository
 
@@ -80,10 +70,7 @@ Months as rows, event types as columns. One file per repository in [`Hejwo_rollu
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/fablo`](https://github.com/hyperledger-labs/fablo) | 200 | [hyperledger-labs_fablo.md](Hejwo_rollup/hyperledger-labs_fablo.md) |
-| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 6 | [hyperledger-labs_hyperledger-labs.github.io.md](Hejwo_rollup/hyperledger-labs_hyperledger-labs.github.io.md) |
-| [`hyperledger-labs/solang`](https://github.com/hyperledger-labs/solang) | 1 | [hyperledger-labs_solang.md](Hejwo_rollup/hyperledger-labs_solang.md) |
-| [`hyperledger/fabric-protos`](https://github.com/hyperledger/fabric-protos) | 1 | [hyperledger_fabric-protos.md](Hejwo_rollup/hyperledger_fabric-protos.md) |
+| [`hyperledger-labs/fablo`](https://github.com/hyperledger-labs/fablo) | 10 | [hyperledger-labs_fablo.md](Hejwo_rollup/hyperledger-labs_fablo.md) |
 
 ---
 

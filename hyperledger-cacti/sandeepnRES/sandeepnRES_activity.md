@@ -1,8 +1,10 @@
 # GitHub activity report — `sandeepnRES`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1,121** events spanning **2023-02-22 → 2026-05-27**, across **3** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **667** events spanning **2024-01-02 → 2026-05-27**, across **3** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -26,20 +28,19 @@ Repository access granted through those teams (3 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 1,121 |
-| Pull requests opened | 60 |
-| Pull request reviews | 337 |
-| Issues opened | 11 |
-| Pushes | 234 |
-| Commits pushed | 525 |
-| Comments | 253 |
+| Total events | 667 |
+| Pull requests opened | 22 |
+| Pull request reviews | 209 |
+| Issues opened | 1 |
+| Pushes | 138 |
+| Commits pushed | 311 |
+| Comments | 159 |
 | Releases | 1 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 454 |
 | 2024 | 537 |
 | 2025 | 86 |
 | 2026 | 44 |
@@ -48,32 +49,31 @@ Repository access granted through those teams (3 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 337 |
-| PushEvent | 234 |
-| PullRequestEvent | 210 |
-| PullRequestReviewCommentEvent | 133 |
-| IssueCommentEvent | 120 |
-| DeleteEvent | 45 |
-| IssuesEvent | 30 |
-| CreateEvent | 11 |
+| PullRequestReviewEvent | 209 |
+| PushEvent | 138 |
+| PullRequestEvent | 114 |
+| PullRequestReviewCommentEvent | 95 |
+| IssueCommentEvent | 64 |
+| DeleteEvent | 34 |
+| CreateEvent | 6 |
+| IssuesEvent | 6 |
 | ReleaseEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 704 | 36 | 251 | 140 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 230 | 18 | 36 | 43 |
+| [`hyperledger`](https://github.com/hyperledger) | 347 | 10 | 137 | 62 |
 | [`hyperledger-cacti`](https://github.com/hyperledger-cacti) | 187 | 6 | 50 | 51 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 133 | 6 | 22 | 25 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/cacti`](https://github.com/hyperledger/cacti) | 699 | 36 | 251 | 140 |
-| [`hyperledger-labs/weaver-dlt-interoperability`](https://github.com/hyperledger-labs/weaver-dlt-interoperability) | 230 | 18 | 36 | 43 |
+| [`hyperledger/cacti`](https://github.com/hyperledger/cacti) | 345 | 10 | 137 | 62 |
 | [`hyperledger-cacti/cacti`](https://github.com/hyperledger-cacti/cacti) | 187 | 6 | 50 | 51 |
-| [`hyperledger/fabric-sdk-node`](https://github.com/hyperledger/fabric-sdk-node) | 3 | 0 | 0 | 0 |
+| [`hyperledger-labs/weaver-dlt-interoperability`](https://github.com/hyperledger-labs/weaver-dlt-interoperability) | 133 | 6 | 22 | 25 |
 | [`hyperledger/fabric-protos`](https://github.com/hyperledger/fabric-protos) | 2 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -82,10 +82,9 @@ Months as rows, event types as columns. One file per repository in [`sandeepnRES
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/cacti`](https://github.com/hyperledger/cacti) | 699 | [hyperledger_cacti.md](sandeepnRES_rollup/hyperledger_cacti.md) |
-| [`hyperledger-labs/weaver-dlt-interoperability`](https://github.com/hyperledger-labs/weaver-dlt-interoperability) | 230 | [hyperledger-labs_weaver-dlt-interoperability.md](sandeepnRES_rollup/hyperledger-labs_weaver-dlt-interoperability.md) |
+| [`hyperledger/cacti`](https://github.com/hyperledger/cacti) | 345 | [hyperledger_cacti.md](sandeepnRES_rollup/hyperledger_cacti.md) |
 | [`hyperledger-cacti/cacti`](https://github.com/hyperledger-cacti/cacti) | 187 | [hyperledger-cacti_cacti.md](sandeepnRES_rollup/hyperledger-cacti_cacti.md) |
-| [`hyperledger/fabric-sdk-node`](https://github.com/hyperledger/fabric-sdk-node) | 3 | [hyperledger_fabric-sdk-node.md](sandeepnRES_rollup/hyperledger_fabric-sdk-node.md) |
+| [`hyperledger-labs/weaver-dlt-interoperability`](https://github.com/hyperledger-labs/weaver-dlt-interoperability) | 133 | [hyperledger-labs_weaver-dlt-interoperability.md](sandeepnRES_rollup/hyperledger-labs_weaver-dlt-interoperability.md) |
 | [`hyperledger/fabric-protos`](https://github.com/hyperledger/fabric-protos) | 2 | [hyperledger_fabric-protos.md](sandeepnRES_rollup/hyperledger_fabric-protos.md) |
 
 ---

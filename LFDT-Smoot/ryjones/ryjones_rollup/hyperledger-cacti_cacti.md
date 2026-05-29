@@ -1,6 +1,6 @@
 # [`hyperledger-cacti/cacti`](https://github.com/hyperledger-cacti/cacti) — monthly activity
 
-| Month | PullRequestEvent | PushEvent | CreateEvent | IssueCommentEvent | DeleteEvent | Total |
+| Month | PullRequestEvent | PushEvent | DeleteEvent | CreateEvent | IssueCommentEvent | Total |
 | --- | --: | --: | --: | --: | --: | --: |
 | 2024-10 | 1 | 1 | 1 | 1 | 1 | 5 |
 | 2025-01 | 2 | 1 | 1 | 1 | 1 | 6 |

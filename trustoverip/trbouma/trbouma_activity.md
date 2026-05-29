@@ -1,8 +1,10 @@
 # GitHub activity report — `trbouma`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **12** events spanning **2019-05-13 → 2026-01-09**, across **3** organizations and **7** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **3** events spanning **2024-08-02 → 2026-01-09**, across **2** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -23,23 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 12 |
+| Total events | 3 |
 | Pull requests opened | 0 |
 | Pull request reviews | 0 |
-| Issues opened | 3 |
+| Issues opened | 2 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 3 |
+| Comments | 0 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2019 | 5 |
-| 2020 | 1 |
-| 2022 | 1 |
-| 2023 | 2 |
 | 2024 | 1 |
 | 2026 | 2 |
 
@@ -47,30 +45,22 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| ForkEvent | 4 |
-| IssueCommentEvent | 3 |
-| IssuesEvent | 3 |
-| WatchEvent | 2 |
+| IssuesEvent | 2 |
+| ForkEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 6 | 0 | 0 | 0 |
-| [`trustoverip`](https://github.com/trustoverip) | 5 | 0 | 0 | 0 |
+| [`trustoverip`](https://github.com/trustoverip) | 2 | 0 | 0 | 0 |
 | [`open-quantum-safe`](https://github.com/open-quantum-safe) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 4 | 0 | 0 | 0 |
 | [`trustoverip/tswg-trust-registry-protocol`](https://github.com/trustoverip/tswg-trust-registry-protocol) | 2 | 0 | 0 | 0 |
-| [`trustoverip/tswg-trust-registry-tf`](https://github.com/trustoverip/tswg-trust-registry-tf) | 2 | 0 | 0 | 0 |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 1 | 0 | 0 | 0 |
-| [`hyperledger/indy-agent`](https://github.com/hyperledger/indy-agent) | 1 | 0 | 0 | 0 |
 | [`open-quantum-safe/liboqs-python`](https://github.com/open-quantum-safe/liboqs-python) | 1 | 0 | 0 | 0 |
-| [`trustoverip/TechArch`](https://github.com/trustoverip/TechArch) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -78,13 +68,8 @@ Months as rows, event types as columns. One file per repository in [`trbouma_rol
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 4 | [hyperledger_aries-rfcs.md](trbouma_rollup/hyperledger_aries-rfcs.md) |
 | [`trustoverip/tswg-trust-registry-protocol`](https://github.com/trustoverip/tswg-trust-registry-protocol) | 2 | [trustoverip_tswg-trust-registry-protocol.md](trbouma_rollup/trustoverip_tswg-trust-registry-protocol.md) |
-| [`trustoverip/tswg-trust-registry-tf`](https://github.com/trustoverip/tswg-trust-registry-tf) | 2 | [trustoverip_tswg-trust-registry-tf.md](trbouma_rollup/trustoverip_tswg-trust-registry-tf.md) |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 1 | [hyperledger_aries-cloudagent-python.md](trbouma_rollup/hyperledger_aries-cloudagent-python.md) |
-| [`hyperledger/indy-agent`](https://github.com/hyperledger/indy-agent) | 1 | [hyperledger_indy-agent.md](trbouma_rollup/hyperledger_indy-agent.md) |
 | [`open-quantum-safe/liboqs-python`](https://github.com/open-quantum-safe/liboqs-python) | 1 | [open-quantum-safe_liboqs-python.md](trbouma_rollup/open-quantum-safe_liboqs-python.md) |
-| [`trustoverip/TechArch`](https://github.com/trustoverip/TechArch) | 1 | [trustoverip_TechArch.md](trbouma_rollup/trustoverip_TechArch.md) |
 
 ---
 

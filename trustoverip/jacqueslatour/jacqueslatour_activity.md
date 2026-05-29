@@ -1,8 +1,10 @@
 # GitHub activity report — `jacqueslatour`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **6** events spanning **2022-09-02 → 2024-07-09**, across **1** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1** events spanning **2024-07-09 → 2024-07-09**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -23,45 +25,38 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 6 |
-| Pull requests opened | 2 |
+| Total events | 1 |
+| Pull requests opened | 1 |
 | Pull request reviews | 0 |
 | Issues opened | 0 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 2 |
+| Comments | 0 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 1 |
-| 2023 | 4 |
 | 2024 | 1 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 2 |
-| PullRequestEvent | 2 |
-| CreateEvent | 1 |
-| WatchEvent | 1 |
+| PullRequestEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`trustoverip`](https://github.com/trustoverip) | 6 | 2 | 0 | 0 |
+| [`trustoverip`](https://github.com/trustoverip) | 1 | 1 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`trustoverip/tswg-trust-registry-tf`](https://github.com/trustoverip/tswg-trust-registry-tf) | 4 | 1 | 0 | 0 |
 | [`trustoverip/tswg-trust-registry-protocol`](https://github.com/trustoverip/tswg-trust-registry-protocol) | 1 | 1 | 0 | 0 |
-| [`trustoverip/tswg-trust-registry-service-profile`](https://github.com/trustoverip/tswg-trust-registry-service-profile) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -69,9 +64,7 @@ Months as rows, event types as columns. One file per repository in [`jacqueslato
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`trustoverip/tswg-trust-registry-tf`](https://github.com/trustoverip/tswg-trust-registry-tf) | 4 | [trustoverip_tswg-trust-registry-tf.md](jacqueslatour_rollup/trustoverip_tswg-trust-registry-tf.md) |
 | [`trustoverip/tswg-trust-registry-protocol`](https://github.com/trustoverip/tswg-trust-registry-protocol) | 1 | [trustoverip_tswg-trust-registry-protocol.md](jacqueslatour_rollup/trustoverip_tswg-trust-registry-protocol.md) |
-| [`trustoverip/tswg-trust-registry-service-profile`](https://github.com/trustoverip/tswg-trust-registry-service-profile) | 1 | [trustoverip_tswg-trust-registry-service-profile.md](jacqueslatour_rollup/trustoverip_tswg-trust-registry-service-profile.md) |
 
 ---
 

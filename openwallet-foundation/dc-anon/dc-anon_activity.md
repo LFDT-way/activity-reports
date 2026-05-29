@@ -1,8 +1,10 @@
 # GitHub activity report — `dc-anon`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **3** events spanning **2023-03-13 → 2025-07-11**, across **2** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **2** events spanning **2024-02-12 → 2025-07-11**, across **2** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -23,7 +25,7 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 3 |
+| Total events | 2 |
 | Pull requests opened | 0 |
 | Pull request reviews | 1 |
 | Issues opened | 1 |
@@ -36,7 +38,6 @@ Repository access granted through those teams (1 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 1 |
 | 2024 | 1 |
 | 2025 | 1 |
 
@@ -44,7 +45,6 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| ForkEvent | 1 |
 | IssuesEvent | 1 |
 | PullRequestReviewEvent | 1 |
 
@@ -52,7 +52,7 @@ Repository access granted through those teams (1 repos):
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 2 | 0 | 0 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 | [`openwallet-foundation`](https://github.com/openwallet-foundation) | 1 | 0 | 1 | 0 |
 
 ## Repositories
@@ -60,7 +60,6 @@ Repository access granted through those teams (1 repos):
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 1 | 0 | 0 | 0 |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 1 | 0 | 0 | 0 |
 | [`openwallet-foundation/vcx`](https://github.com/openwallet-foundation/vcx) | 1 | 0 | 1 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -70,7 +69,6 @@ Months as rows, event types as columns. One file per repository in [`dc-anon_rol
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 1 | [hyperledger_aries-cloudagent-python.md](dc-anon_rollup/hyperledger_aries-cloudagent-python.md) |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 1 | [hyperledger_indy-sdk.md](dc-anon_rollup/hyperledger_indy-sdk.md) |
 | [`openwallet-foundation/vcx`](https://github.com/openwallet-foundation/vcx) | 1 | [openwallet-foundation_vcx.md](dc-anon_rollup/openwallet-foundation_vcx.md) |
 
 ---

@@ -1,8 +1,10 @@
 # GitHub activity report — `lucassaldanha`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1,206** events spanning **2019-09-16 → 2026-02-09**, across **1** organizations and **6** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **77** events spanning **2024-03-21 → 2026-02-09**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -32,24 +34,19 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 1,206 |
-| Pull requests opened | 109 |
-| Pull request reviews | 236 |
-| Issues opened | 35 |
-| Pushes | 142 |
-| Commits pushed | 142 |
-| Comments | 465 |
-| Releases | 5 |
+| Total events | 77 |
+| Pull requests opened | 10 |
+| Pull request reviews | 20 |
+| Issues opened | 4 |
+| Pushes | 8 |
+| Commits pushed | 8 |
+| Comments | 26 |
+| Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2019 | 109 |
-| 2020 | 486 |
-| 2021 | 399 |
-| 2022 | 132 |
-| 2023 | 3 |
 | 2024 | 73 |
 | 2025 | 3 |
 | 2026 | 1 |
@@ -58,35 +55,24 @@ Repository access granted through those teams (10 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewCommentEvent | 379 |
-| PullRequestEvent | 265 |
-| PullRequestReviewEvent | 236 |
-| PushEvent | 142 |
-| IssueCommentEvent | 86 |
-| IssuesEvent | 76 |
-| CreateEvent | 8 |
-| ForkEvent | 5 |
-| ReleaseEvent | 5 |
-| DeleteEvent | 2 |
-| MemberEvent | 1 |
-| WatchEvent | 1 |
+| PullRequestReviewEvent | 20 |
+| PullRequestEvent | 18 |
+| PullRequestReviewCommentEvent | 18 |
+| IssueCommentEvent | 8 |
+| PushEvent | 8 |
+| IssuesEvent | 5 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 1,206 | 109 | 236 | 142 |
+| [`hyperledger`](https://github.com/hyperledger) | 77 | 10 | 20 | 8 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1,108 | 97 | 219 | 128 |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 43 | 7 | 4 | 11 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 39 | 3 | 10 | 1 |
-| [`hyperledger/caliper`](https://github.com/hyperledger/caliper) | 8 | 1 | 2 | 0 |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 7 | 1 | 1 | 2 |
-| [`hyperledger/cactus`](https://github.com/hyperledger/cactus) | 1 | 0 | 0 | 0 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 77 | 10 | 20 | 8 |
 
 ## Monthly rollup — one table per repository
 
@@ -94,12 +80,7 @@ Months as rows, event types as columns. One file per repository in [`lucassaldan
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1,108 | [hyperledger_besu.md](lucassaldanha_rollup/hyperledger_besu.md) |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 43 | [hyperledger_besu-native.md](lucassaldanha_rollup/hyperledger_besu-native.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 39 | [hyperledger_besu-docs.md](lucassaldanha_rollup/hyperledger_besu-docs.md) |
-| [`hyperledger/caliper`](https://github.com/hyperledger/caliper) | 8 | [hyperledger_caliper.md](lucassaldanha_rollup/hyperledger_caliper.md) |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 7 | [hyperledger_homebrew-besu.md](lucassaldanha_rollup/hyperledger_homebrew-besu.md) |
-| [`hyperledger/cactus`](https://github.com/hyperledger/cactus) | 1 | [hyperledger_cactus.md](lucassaldanha_rollup/hyperledger_cactus.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 77 | [hyperledger_besu.md](lucassaldanha_rollup/hyperledger_besu.md) |
 
 ---
 

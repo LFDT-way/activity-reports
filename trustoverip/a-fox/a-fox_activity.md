@@ -1,8 +1,10 @@
 # GitHub activity report — `a-fox`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **77** events spanning **2017-11-12 → 2024-12-19**, across **2** organizations and **9** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **8** events spanning **2024-03-07 → 2024-12-19**, across **1** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -24,58 +26,44 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 77 |
-| Pull requests opened | 4 |
-| Pull request reviews | 10 |
-| Issues opened | 2 |
-| Pushes | 9 |
-| Commits pushed | 32 |
-| Comments | 32 |
+| Total events | 8 |
+| Pull requests opened | 1 |
+| Pull request reviews | 0 |
+| Issues opened | 0 |
+| Pushes | 1 |
+| Commits pushed | 3 |
+| Comments | 2 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2017 | 2 |
-| 2022 | 44 |
-| 2023 | 23 |
 | 2024 | 8 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 24 |
-| PullRequestEvent | 13 |
-| PullRequestReviewEvent | 10 |
-| PushEvent | 9 |
-| PullRequestReviewCommentEvent | 8 |
-| ForkEvent | 5 |
-| IssuesEvent | 4 |
-| WatchEvent | 3 |
-| CreateEvent | 1 |
+| ForkEvent | 2 |
+| IssueCommentEvent | 2 |
+| PullRequestEvent | 2 |
+| IssuesEvent | 1 |
+| PushEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`trustoverip`](https://github.com/trustoverip) | 74 | 4 | 10 | 9 |
-| [`hyperledger`](https://github.com/hyperledger) | 3 | 0 | 0 | 0 |
+| [`trustoverip`](https://github.com/trustoverip) | 8 | 1 | 0 | 1 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`trustoverip/TechArch`](https://github.com/trustoverip/TechArch) | 45 | 3 | 9 | 2 |
-| [`trustoverip/tswg-trust-registry-service-profile`](https://github.com/trustoverip/tswg-trust-registry-service-profile) | 15 | 0 | 0 | 6 |
 | [`trustoverip/tswg-trust-registry-protocol`](https://github.com/trustoverip/tswg-trust-registry-protocol) | 6 | 1 | 0 | 1 |
-| [`trustoverip/tswg-trust-registry-tf`](https://github.com/trustoverip/tswg-trust-registry-tf) | 6 | 0 | 1 | 0 |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 1 | 0 | 0 | 0 |
-| [`hyperledger/indy-plenum`](https://github.com/hyperledger/indy-plenum) | 1 | 0 | 0 | 0 |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 1 | 0 | 0 | 0 |
 | [`trustoverip/EasyCLA`](https://github.com/trustoverip/EasyCLA) | 1 | 0 | 0 | 0 |
-| [`trustoverip/trust-spanning-protocol`](https://github.com/trustoverip/trust-spanning-protocol) | 1 | 0 | 0 | 0 |
+| [`trustoverip/tswg-trust-registry-tf`](https://github.com/trustoverip/tswg-trust-registry-tf) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -83,15 +71,9 @@ Months as rows, event types as columns. One file per repository in [`a-fox_rollu
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`trustoverip/TechArch`](https://github.com/trustoverip/TechArch) | 45 | [trustoverip_TechArch.md](a-fox_rollup/trustoverip_TechArch.md) |
-| [`trustoverip/tswg-trust-registry-service-profile`](https://github.com/trustoverip/tswg-trust-registry-service-profile) | 15 | [trustoverip_tswg-trust-registry-service-profile.md](a-fox_rollup/trustoverip_tswg-trust-registry-service-profile.md) |
 | [`trustoverip/tswg-trust-registry-protocol`](https://github.com/trustoverip/tswg-trust-registry-protocol) | 6 | [trustoverip_tswg-trust-registry-protocol.md](a-fox_rollup/trustoverip_tswg-trust-registry-protocol.md) |
-| [`trustoverip/tswg-trust-registry-tf`](https://github.com/trustoverip/tswg-trust-registry-tf) | 6 | [trustoverip_tswg-trust-registry-tf.md](a-fox_rollup/trustoverip_tswg-trust-registry-tf.md) |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 1 | [hyperledger_aries-cloudagent-python.md](a-fox_rollup/hyperledger_aries-cloudagent-python.md) |
-| [`hyperledger/indy-plenum`](https://github.com/hyperledger/indy-plenum) | 1 | [hyperledger_indy-plenum.md](a-fox_rollup/hyperledger_indy-plenum.md) |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 1 | [hyperledger_indy-sdk.md](a-fox_rollup/hyperledger_indy-sdk.md) |
 | [`trustoverip/EasyCLA`](https://github.com/trustoverip/EasyCLA) | 1 | [trustoverip_EasyCLA.md](a-fox_rollup/trustoverip_EasyCLA.md) |
-| [`trustoverip/trust-spanning-protocol`](https://github.com/trustoverip/trust-spanning-protocol) | 1 | [trustoverip_trust-spanning-protocol.md](a-fox_rollup/trustoverip_trust-spanning-protocol.md) |
+| [`trustoverip/tswg-trust-registry-tf`](https://github.com/trustoverip/tswg-trust-registry-tf) | 1 | [trustoverip_tswg-trust-registry-tf.md](a-fox_rollup/trustoverip_tswg-trust-registry-tf.md) |
 
 ---
 

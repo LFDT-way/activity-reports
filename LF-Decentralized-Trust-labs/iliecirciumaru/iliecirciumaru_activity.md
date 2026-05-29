@@ -1,8 +1,10 @@
 # GitHub activity report — `iliecirciumaru`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **34** events spanning **2020-01-09 → 2026-04-27**, across **3** organizations and **9** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **33** events spanning **2024-08-22 → 2026-04-27**, across **3** organizations and **8** repositories.
 
 ## Teams & repository access
 
@@ -23,7 +25,7 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 34 |
+| Total events | 33 |
 | Pull requests opened | 4 |
 | Pull request reviews | 3 |
 | Issues opened | 0 |
@@ -36,7 +38,6 @@ Repository access granted through those teams (1 repos):
 
 | Year | Events |
 | --- | --: |
-| 2020 | 1 |
 | 2024 | 14 |
 | 2025 | 10 |
 | 2026 | 9 |
@@ -48,8 +49,8 @@ Repository access granted through those teams (1 repos):
 | IssueCommentEvent | 8 |
 | PullRequestEvent | 5 |
 | PushEvent | 5 |
-| WatchEvent | 4 |
 | PullRequestReviewEvent | 3 |
+| WatchEvent | 3 |
 | CreateEvent | 2 |
 | DeleteEvent | 2 |
 | ForkEvent | 2 |
@@ -62,7 +63,7 @@ Repository access granted through those teams (1 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger`](https://github.com/hyperledger) | 18 | 3 | 1 | 3 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 15 | 1 | 2 | 2 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 14 | 1 | 2 | 2 |
 | [`LF-Decentralized-Trust-labs`](https://github.com/LF-Decentralized-Trust-labs) | 1 | 0 | 0 | 0 |
 
 ## Repositories
@@ -76,7 +77,6 @@ Repository access granted through those teams (1 repos):
 | [`hyperledger/governance`](https://github.com/hyperledger/governance) | 3 | 2 | 0 | 0 |
 | [`hyperledger/fabric-x-samples`](https://github.com/hyperledger/fabric-x-samples) | 2 | 0 | 0 | 1 |
 | [`LF-Decentralized-Trust-labs/fabric-x-ansible-collection`](https://github.com/LF-Decentralized-Trust-labs/fabric-x-ansible-collection) | 1 | 0 | 0 | 0 |
-| [`hyperledger-labs/fabric-private-chaincode`](https://github.com/hyperledger-labs/fabric-private-chaincode) | 1 | 0 | 0 | 0 |
 | [`hyperledger/fabric-x-committer`](https://github.com/hyperledger/fabric-x-committer) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -92,7 +92,6 @@ Months as rows, event types as columns. One file per repository in [`iliecircium
 | [`hyperledger/governance`](https://github.com/hyperledger/governance) | 3 | [hyperledger_governance.md](iliecirciumaru_rollup/hyperledger_governance.md) |
 | [`hyperledger/fabric-x-samples`](https://github.com/hyperledger/fabric-x-samples) | 2 | [hyperledger_fabric-x-samples.md](iliecirciumaru_rollup/hyperledger_fabric-x-samples.md) |
 | [`LF-Decentralized-Trust-labs/fabric-x-ansible-collection`](https://github.com/LF-Decentralized-Trust-labs/fabric-x-ansible-collection) | 1 | [LF-Decentralized-Trust-labs_fabric-x-ansible-collection.md](iliecirciumaru_rollup/LF-Decentralized-Trust-labs_fabric-x-ansible-collection.md) |
-| [`hyperledger-labs/fabric-private-chaincode`](https://github.com/hyperledger-labs/fabric-private-chaincode) | 1 | [hyperledger-labs_fabric-private-chaincode.md](iliecirciumaru_rollup/hyperledger-labs_fabric-private-chaincode.md) |
 | [`hyperledger/fabric-x-committer`](https://github.com/hyperledger/fabric-x-committer) | 1 | [hyperledger_fabric-x-committer.md](iliecirciumaru_rollup/hyperledger_fabric-x-committer.md) |
 
 ---

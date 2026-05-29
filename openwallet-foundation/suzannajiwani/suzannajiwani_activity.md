@@ -1,8 +1,10 @@
 # GitHub activity report — `suzannajiwani`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **194** events spanning **2023-11-30 → 2025-02-04**, across **1** organizations and **1** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **185** events spanning **2024-01-17 → 2025-02-04**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -28,20 +30,19 @@ Repository access granted through those teams (6 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 194 |
+| Total events | 185 |
 | Pull requests opened | 27 |
-| Pull request reviews | 67 |
+| Pull request reviews | 62 |
 | Issues opened | 5 |
 | Pushes | 20 |
 | Commits pushed | 54 |
-| Comments | 60 |
+| Comments | 57 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 9 |
 | 2024 | 149 |
 | 2025 | 36 |
 
@@ -49,25 +50,25 @@ Repository access granted through those teams (6 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 67 |
-| PullRequestReviewCommentEvent | 54 |
+| PullRequestReviewEvent | 62 |
+| PullRequestReviewCommentEvent | 53 |
 | PullRequestEvent | 37 |
 | PushEvent | 20 |
-| IssuesEvent | 10 |
-| IssueCommentEvent | 5 |
+| IssuesEvent | 9 |
+| IssueCommentEvent | 3 |
 | CommitCommentEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 194 | 27 | 67 | 20 |
+| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 185 | 27 | 62 | 20 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs/identity-credential`](https://github.com/openwallet-foundation-labs/identity-credential) | 194 | 27 | 67 | 20 |
+| [`openwallet-foundation-labs/identity-credential`](https://github.com/openwallet-foundation-labs/identity-credential) | 185 | 27 | 62 | 20 |
 
 ## Monthly rollup — one table per repository
 
@@ -75,7 +76,7 @@ Months as rows, event types as columns. One file per repository in [`suzannajiwa
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`openwallet-foundation-labs/identity-credential`](https://github.com/openwallet-foundation-labs/identity-credential) | 194 | [openwallet-foundation-labs_identity-credential.md](suzannajiwani_rollup/openwallet-foundation-labs_identity-credential.md) |
+| [`openwallet-foundation-labs/identity-credential`](https://github.com/openwallet-foundation-labs/identity-credential) | 185 | [openwallet-foundation-labs_identity-credential.md](suzannajiwani_rollup/openwallet-foundation-labs_identity-credential.md) |
 
 ---
 

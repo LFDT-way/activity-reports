@@ -1,8 +1,10 @@
 # GitHub activity report — `neiljthomson`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **90** events spanning **2022-06-21 → 2023-03-15**, across **1** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `neiljthomson` in the date range searched.
 
 ## Teams & repository access
 
@@ -14,59 +16,6 @@ Member of **1** team(s):
 
 _Those teams grant no repository access._
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 90 |
-| Pull requests opened | 0 |
-| Pull request reviews | 0 |
-| Issues opened | 1 |
-| Pushes | 0 |
-| Commits pushed | 0 |
-| Comments | 10 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2022 | 88 |
-| 2023 | 2 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| GollumEvent | 78 |
-| IssueCommentEvent | 10 |
-| ForkEvent | 1 |
-| IssuesEvent | 1 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`trustoverip`](https://github.com/trustoverip) | 90 | 0 | 0 | 0 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`trustoverip/tswg`](https://github.com/trustoverip/tswg) | 78 | 0 | 0 | 0 |
-| [`trustoverip/TechArch`](https://github.com/trustoverip/TechArch) | 11 | 0 | 0 | 0 |
-| [`trustoverip/tswg-trust-registry-tf`](https://github.com/trustoverip/tswg-trust-registry-tf) | 1 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`neiljthomson_rollup/`](neiljthomson_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`trustoverip/tswg`](https://github.com/trustoverip/tswg) | 78 | [trustoverip_tswg.md](neiljthomson_rollup/trustoverip_tswg.md) |
-| [`trustoverip/TechArch`](https://github.com/trustoverip/TechArch) | 11 | [trustoverip_TechArch.md](neiljthomson_rollup/trustoverip_TechArch.md) |
-| [`trustoverip/tswg-trust-registry-tf`](https://github.com/trustoverip/tswg-trust-registry-tf) | 1 | [trustoverip_tswg-trust-registry-tf.md](neiljthomson_rollup/trustoverip_tswg-trust-registry-tf.md) |
 
 ---
 

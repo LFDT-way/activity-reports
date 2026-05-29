@@ -1,8 +1,10 @@
 # GitHub activity report — `Diegoescalonaro`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **8** events spanning **2020-07-02 → 2023-02-18**, across **2** organizations and **6** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `Diegoescalonaro` in the date range searched.
 
 ## Teams & repository access
 
@@ -20,66 +22,6 @@ Repository access granted through those teams (2 repos):
 | `hiero-did-sdk-js` | maintain | `hiero-did-sdk-js-maintainers` (maintain) |
 | `governance` | write | `governance-write` (write) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 8 |
-| Pull requests opened | 0 |
-| Pull request reviews | 0 |
-| Issues opened | 0 |
-| Pushes | 0 |
-| Commits pushed | 0 |
-| Comments | 0 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2020 | 2 |
-| 2021 | 3 |
-| 2022 | 1 |
-| 2023 | 2 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| WatchEvent | 5 |
-| ForkEvent | 3 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 6 | 0 | 0 | 0 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 2 | 0 | 0 | 0 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger-labs/TrustID`](https://github.com/hyperledger-labs/TrustID) | 2 | 0 | 0 | 0 |
-| [`hyperledger/fabric-chaincode-node`](https://github.com/hyperledger/fabric-chaincode-node) | 2 | 0 | 0 | 0 |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-sdk-node`](https://github.com/hyperledger/fabric-sdk-node) | 1 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`Diegoescalonaro_rollup/`](Diegoescalonaro_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`hyperledger-labs/TrustID`](https://github.com/hyperledger-labs/TrustID) | 2 | [hyperledger-labs_TrustID.md](Diegoescalonaro_rollup/hyperledger-labs_TrustID.md) |
-| [`hyperledger/fabric-chaincode-node`](https://github.com/hyperledger/fabric-chaincode-node) | 2 | [hyperledger_fabric-chaincode-node.md](Diegoescalonaro_rollup/hyperledger_fabric-chaincode-node.md) |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | [hyperledger_besu.md](Diegoescalonaro_rollup/hyperledger_besu.md) |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | [hyperledger_fabric.md](Diegoescalonaro_rollup/hyperledger_fabric.md) |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | [hyperledger_fabric-samples.md](Diegoescalonaro_rollup/hyperledger_fabric-samples.md) |
-| [`hyperledger/fabric-sdk-node`](https://github.com/hyperledger/fabric-sdk-node) | 1 | [hyperledger_fabric-sdk-node.md](Diegoescalonaro_rollup/hyperledger_fabric-sdk-node.md) |
 
 ---
 

@@ -1,8 +1,10 @@
 # GitHub activity report — `RamilMus`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **40** events spanning **2022-01-03 → 2025-03-03**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **38** events spanning **2024-03-20 → 2025-03-03**, across **2** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -40,7 +42,7 @@ Repository access granted through those teams (18 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 40 |
+| Total events | 38 |
 | Pull requests opened | 5 |
 | Pull request reviews | 13 |
 | Issues opened | 0 |
@@ -53,7 +55,6 @@ Repository access granted through those teams (18 repos):
 
 | Year | Events |
 | --- | --: |
-| 2022 | 2 |
 | 2024 | 31 |
 | 2025 | 7 |
 
@@ -62,8 +63,8 @@ Repository access granted through those teams (18 repos):
 | Type | Count |
 | --- | --: |
 | PullRequestReviewEvent | 13 |
-| ForkEvent | 9 |
 | PullRequestReviewCommentEvent | 8 |
+| ForkEvent | 7 |
 | PullRequestEvent | 7 |
 | IssueCommentEvent | 3 |
 
@@ -71,17 +72,16 @@ Repository access granted through those teams (18 repos):
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 33 | 5 | 8 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 31 | 5 | 8 | 0 |
 | [`hyperledger-iroha`](https://github.com/hyperledger-iroha) | 7 | 0 | 5 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 25 | 2 | 8 | 0 |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 24 | 2 | 8 | 0 |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 7 | 0 | 5 | 0 |
 | [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 7 | 3 | 0 | 0 |
-| [`hyperledger/iroha-ios`](https://github.com/hyperledger/iroha-ios) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -89,10 +89,9 @@ Months as rows, event types as columns. One file per repository in [`RamilMus_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 25 | [hyperledger_iroha.md](RamilMus_rollup/hyperledger_iroha.md) |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 24 | [hyperledger_iroha.md](RamilMus_rollup/hyperledger_iroha.md) |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 7 | [hyperledger-iroha_iroha.md](RamilMus_rollup/hyperledger-iroha_iroha.md) |
 | [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 7 | [hyperledger_iroha-java.md](RamilMus_rollup/hyperledger_iroha-java.md) |
-| [`hyperledger/iroha-ios`](https://github.com/hyperledger/iroha-ios) | 1 | [hyperledger_iroha-ios.md](RamilMus_rollup/hyperledger_iroha-ios.md) |
 
 ---
 

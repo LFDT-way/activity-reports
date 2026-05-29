@@ -1,8 +1,10 @@
 # GitHub activity report — `iyanmv`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **68** events spanning **2023-01-03 → 2025-09-10**, across **1** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **52** events spanning **2024-04-18 → 2025-09-10**, across **1** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -40,20 +42,19 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 68 |
-| Pull requests opened | 6 |
+| Total events | 52 |
+| Pull requests opened | 5 |
 | Pull request reviews | 4 |
-| Issues opened | 6 |
+| Issues opened | 3 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 46 |
+| Comments | 37 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 16 |
 | 2024 | 46 |
 | 2025 | 6 |
 
@@ -61,27 +62,26 @@ Repository access granted through those teams (17 repos):
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 42 |
-| IssuesEvent | 7 |
-| PullRequestEvent | 7 |
+| IssueCommentEvent | 33 |
+| PullRequestEvent | 6 |
 | PullRequestReviewCommentEvent | 4 |
 | PullRequestReviewEvent | 4 |
-| ForkEvent | 3 |
-| WatchEvent | 1 |
+| IssuesEvent | 3 |
+| ForkEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 68 | 6 | 4 | 0 |
+| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 52 | 5 | 4 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 42 | 2 | 4 | 0 |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 22 | 3 | 0 | 0 |
-| [`open-quantum-safe/liboqs-python`](https://github.com/open-quantum-safe/liboqs-python) | 4 | 1 | 0 | 0 |
+| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 39 | 2 | 4 | 0 |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 10 | 2 | 0 | 0 |
+| [`open-quantum-safe/liboqs-python`](https://github.com/open-quantum-safe/liboqs-python) | 3 | 1 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -89,9 +89,9 @@ Months as rows, event types as columns. One file per repository in [`iyanmv_roll
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 42 | [open-quantum-safe_oqs-provider.md](iyanmv_rollup/open-quantum-safe_oqs-provider.md) |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 22 | [open-quantum-safe_liboqs.md](iyanmv_rollup/open-quantum-safe_liboqs.md) |
-| [`open-quantum-safe/liboqs-python`](https://github.com/open-quantum-safe/liboqs-python) | 4 | [open-quantum-safe_liboqs-python.md](iyanmv_rollup/open-quantum-safe_liboqs-python.md) |
+| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 39 | [open-quantum-safe_oqs-provider.md](iyanmv_rollup/open-quantum-safe_oqs-provider.md) |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 10 | [open-quantum-safe_liboqs.md](iyanmv_rollup/open-quantum-safe_liboqs.md) |
+| [`open-quantum-safe/liboqs-python`](https://github.com/open-quantum-safe/liboqs-python) | 3 | [open-quantum-safe_liboqs-python.md](iyanmv_rollup/open-quantum-safe_liboqs-python.md) |
 
 ---
 

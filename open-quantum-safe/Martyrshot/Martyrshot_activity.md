@@ -1,28 +1,28 @@
 # GitHub activity report — `Martyrshot`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **342** events spanning **2021-06-29 → 2025-08-20**, across **1** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **148** events spanning **2024-01-16 → 2025-08-20**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
-Member of **3** team(s):
+Member of **1** team(s):
 
 | Team | Role in team |
 | --- | --- |
-| `liboqs-codeowners` | member |
-| `liboqs-committers` | member |
 | `oqs-contributors` | member |
 
 Repository access granted through those teams (17 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `liboqs` | write | `liboqs-codeowners` (write), `liboqs-committers` (write), `oqs-contributors` (triage) |
-| `liboqs-cupqc-meta` | write | `liboqs-committers` (write), `oqs-contributors` (triage) |
 | `boringssl` | triage | `oqs-contributors` (triage) |
 | `ci-containers` | triage | `oqs-contributors` (triage) |
+| `liboqs` | triage | `oqs-contributors` (triage) |
 | `liboqs-cpp` | triage | `oqs-contributors` (triage) |
+| `liboqs-cupqc-meta` | triage | `oqs-contributors` (triage) |
 | `liboqs-dotnet` | triage | `oqs-contributors` (triage) |
 | `liboqs-go` | triage | `oqs-contributors` (triage) |
 | `liboqs-java` | triage | `oqs-contributors` (triage) |
@@ -41,22 +41,19 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 342 |
-| Pull requests opened | 17 |
-| Pull request reviews | 87 |
-| Issues opened | 5 |
-| Pushes | 30 |
-| Commits pushed | 54 |
-| Comments | 183 |
+| Total events | 148 |
+| Pull requests opened | 4 |
+| Pull request reviews | 49 |
+| Issues opened | 2 |
+| Pushes | 10 |
+| Commits pushed | 24 |
+| Comments | 76 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 98 |
-| 2022 | 72 |
-| 2023 | 24 |
 | 2024 | 137 |
 | 2025 | 11 |
 
@@ -64,31 +61,27 @@ Repository access granted through those teams (17 repos):
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 111 |
-| PullRequestReviewEvent | 87 |
-| PullRequestReviewCommentEvent | 72 |
-| PushEvent | 30 |
-| PullRequestEvent | 18 |
-| CreateEvent | 12 |
-| IssuesEvent | 6 |
-| DeleteEvent | 3 |
-| ForkEvent | 3 |
+| PullRequestReviewEvent | 49 |
+| PullRequestReviewCommentEvent | 41 |
+| IssueCommentEvent | 35 |
+| PushEvent | 10 |
+| PullRequestEvent | 5 |
+| CreateEvent | 4 |
+| DeleteEvent | 2 |
+| IssuesEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 342 | 17 | 87 | 30 |
+| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 148 | 4 | 49 | 10 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 318 | 16 | 83 | 30 |
-| [`open-quantum-safe/profiling`](https://github.com/open-quantum-safe/profiling) | 16 | 1 | 2 | 0 |
-| [`open-quantum-safe/openssl`](https://github.com/open-quantum-safe/openssl) | 3 | 0 | 0 | 0 |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 145 | 4 | 47 | 10 |
 | [`open-quantum-safe/tsc`](https://github.com/open-quantum-safe/tsc) | 3 | 0 | 2 | 0 |
-| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 2 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -96,11 +89,8 @@ Months as rows, event types as columns. One file per repository in [`Martyrshot_
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 318 | [open-quantum-safe_liboqs.md](Martyrshot_rollup/open-quantum-safe_liboqs.md) |
-| [`open-quantum-safe/profiling`](https://github.com/open-quantum-safe/profiling) | 16 | [open-quantum-safe_profiling.md](Martyrshot_rollup/open-quantum-safe_profiling.md) |
-| [`open-quantum-safe/openssl`](https://github.com/open-quantum-safe/openssl) | 3 | [open-quantum-safe_openssl.md](Martyrshot_rollup/open-quantum-safe_openssl.md) |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 145 | [open-quantum-safe_liboqs.md](Martyrshot_rollup/open-quantum-safe_liboqs.md) |
 | [`open-quantum-safe/tsc`](https://github.com/open-quantum-safe/tsc) | 3 | [open-quantum-safe_tsc.md](Martyrshot_rollup/open-quantum-safe_tsc.md) |
-| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 2 | [open-quantum-safe_oqs-provider.md](Martyrshot_rollup/open-quantum-safe_oqs-provider.md) |
 
 ---
 

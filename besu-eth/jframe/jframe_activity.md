@@ -1,8 +1,10 @@
 # GitHub activity report — `jframe`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **3,436** events spanning **2019-09-27 → 2026-05-26**, across **3** organizations and **10** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1,328** events spanning **2024-01-02 → 2026-05-26**, across **3** organizations and **10** repositories.
 
 ## Teams & repository access
 
@@ -35,24 +37,19 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 3,436 |
-| Pull requests opened | 177 |
-| Pull request reviews | 1,144 |
-| Issues opened | 185 |
-| Pushes | 189 |
-| Commits pushed | 181 |
-| Comments | 1,284 |
-| Releases | 7 |
+| Total events | 1,328 |
+| Pull requests opened | 68 |
+| Pull request reviews | 437 |
+| Issues opened | 63 |
+| Pushes | 77 |
+| Commits pushed | 62 |
+| Comments | 478 |
+| Releases | 1 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2019 | 107 |
-| 2020 | 176 |
-| 2021 | 829 |
-| 2022 | 294 |
-| 2023 | 702 |
 | 2024 | 813 |
 | 2025 | 351 |
 | 2026 | 164 |
@@ -61,24 +58,22 @@ Repository access granted through those teams (10 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 1,144 |
-| PullRequestReviewCommentEvent | 1,074 |
-| IssuesEvent | 392 |
-| PullRequestEvent | 381 |
-| IssueCommentEvent | 208 |
-| PushEvent | 189 |
-| CreateEvent | 23 |
-| DeleteEvent | 12 |
-| ReleaseEvent | 7 |
-| ForkEvent | 3 |
-| CommitCommentEvent | 2 |
-| WatchEvent | 1 |
+| PullRequestReviewEvent | 437 |
+| PullRequestReviewCommentEvent | 370 |
+| IssuesEvent | 162 |
+| PullRequestEvent | 153 |
+| IssueCommentEvent | 108 |
+| PushEvent | 77 |
+| CreateEvent | 13 |
+| DeleteEvent | 6 |
+| ForkEvent | 1 |
+| ReleaseEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 3,365 | 176 | 1,130 | 180 |
+| [`hyperledger`](https://github.com/hyperledger) | 1,257 | 67 | 423 | 68 |
 | [`besu-eth`](https://github.com/besu-eth) | 67 | 0 | 13 | 9 |
 | [`LF-Decentralized-Trust`](https://github.com/LF-Decentralized-Trust) | 4 | 1 | 1 | 0 |
 
@@ -86,14 +81,14 @@ Repository access granted through those teams (10 repos):
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 3,269 | 171 | 1,088 | 174 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1,218 | 64 | 407 | 63 |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 56 | 0 | 10 | 7 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 52 | 1 | 24 | 1 |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 27 | 4 | 7 | 4 |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 12 | 0 | 9 | 1 |
+| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 17 | 2 | 4 | 3 |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 12 | 1 | 5 | 1 |
 | [`besu-eth/besu-hsm-plugin`](https://github.com/besu-eth/besu-hsm-plugin) | 8 | 0 | 2 | 0 |
-| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 5 | 0 | 2 | 0 |
+| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 7 | 0 | 5 | 1 |
 | [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) | 4 | 1 | 1 | 0 |
+| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 3 | 0 | 2 | 0 |
 | [`besu-eth/homebrew-besu`](https://github.com/besu-eth/homebrew-besu) | 2 | 0 | 0 | 2 |
 | [`besu-eth/besu-native`](https://github.com/besu-eth/besu-native) | 1 | 0 | 1 | 0 |
 
@@ -103,14 +98,14 @@ Months as rows, event types as columns. One file per repository in [`jframe_roll
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 3,269 | [hyperledger_besu.md](jframe_rollup/hyperledger_besu.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1,218 | [hyperledger_besu.md](jframe_rollup/hyperledger_besu.md) |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 56 | [besu-eth_besu.md](jframe_rollup/besu-eth_besu.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 52 | [hyperledger_besu-docs.md](jframe_rollup/hyperledger_besu-docs.md) |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 27 | [hyperledger_homebrew-besu.md](jframe_rollup/hyperledger_homebrew-besu.md) |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 12 | [hyperledger_besu-native.md](jframe_rollup/hyperledger_besu-native.md) |
+| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 17 | [hyperledger_homebrew-besu.md](jframe_rollup/hyperledger_homebrew-besu.md) |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 12 | [hyperledger_besu-docs.md](jframe_rollup/hyperledger_besu-docs.md) |
 | [`besu-eth/besu-hsm-plugin`](https://github.com/besu-eth/besu-hsm-plugin) | 8 | [besu-eth_besu-hsm-plugin.md](jframe_rollup/besu-eth_besu-hsm-plugin.md) |
-| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 5 | [hyperledger_governance.md](jframe_rollup/hyperledger_governance.md) |
+| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 7 | [hyperledger_besu-native.md](jframe_rollup/hyperledger_besu-native.md) |
 | [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) | 4 | [LF-Decentralized-Trust_governance.md](jframe_rollup/LF-Decentralized-Trust_governance.md) |
+| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 3 | [hyperledger_governance.md](jframe_rollup/hyperledger_governance.md) |
 | [`besu-eth/homebrew-besu`](https://github.com/besu-eth/homebrew-besu) | 2 | [besu-eth_homebrew-besu.md](jframe_rollup/besu-eth_homebrew-besu.md) |
 | [`besu-eth/besu-native`](https://github.com/besu-eth/besu-native) | 1 | [besu-eth_besu-native.md](jframe_rollup/besu-eth_besu-native.md) |
 

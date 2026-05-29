@@ -1,8 +1,10 @@
 # GitHub activity report — `donaldthibeau`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **3** events spanning **2020-02-10 → 2020-07-16**, across **1** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `donaldthibeau` in the date range searched.
 
 ## Teams & repository access
 
@@ -18,55 +20,6 @@ Repository access granted through those teams (1 repos):
 | --- | --- | --- |
 | `hiero-improvement-proposals` | write | `hiero-improvement-proposals-committers` (write) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 3 |
-| Pull requests opened | 1 |
-| Pull request reviews | 0 |
-| Issues opened | 1 |
-| Pushes | 0 |
-| Commits pushed | 0 |
-| Comments | 0 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2020 | 3 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| ForkEvent | 1 |
-| IssuesEvent | 1 |
-| PullRequestEvent | 1 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 3 | 1 | 0 | 0 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 2 | 1 | 0 | 0 |
-| [`hyperledger-labs/pluggable-hcs`](https://github.com/hyperledger-labs/pluggable-hcs) | 1 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`donaldthibeau_rollup/`](donaldthibeau_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 2 | [hyperledger-labs_hyperledger-labs.github.io.md](donaldthibeau_rollup/hyperledger-labs_hyperledger-labs.github.io.md) |
-| [`hyperledger-labs/pluggable-hcs`](https://github.com/hyperledger-labs/pluggable-hcs) | 1 | [hyperledger-labs_pluggable-hcs.md](donaldthibeau_rollup/hyperledger-labs_pluggable-hcs.md) |
 
 ---
 

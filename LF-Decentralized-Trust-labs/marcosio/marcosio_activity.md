@@ -1,8 +1,10 @@
 # GitHub activity report — `marcosio`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **9** events spanning **2021-06-25 → 2026-05-12**, across **2** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **5** events spanning **2025-03-12 → 2026-05-12**, across **2** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -23,20 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 9 |
+| Total events | 5 |
 | Pull requests opened | 2 |
 | Pull request reviews | 1 |
 | Issues opened | 0 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 5 |
+| Comments | 2 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 4 |
 | 2025 | 3 |
 | 2026 | 2 |
 
@@ -44,23 +45,22 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 5 |
+| IssueCommentEvent | 2 |
 | PullRequestEvent | 2 |
 | PullRequestReviewEvent | 1 |
-| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 7 | 1 | 0 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 3 | 1 | 0 | 0 |
 | [`besu-eth`](https://github.com/besu-eth) | 2 | 1 | 1 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 7 | 1 | 0 | 0 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 3 | 1 | 0 | 0 |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 2 | 1 | 1 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -69,7 +69,7 @@ Months as rows, event types as columns. One file per repository in [`marcosio_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 7 | [hyperledger_besu.md](marcosio_rollup/hyperledger_besu.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 3 | [hyperledger_besu.md](marcosio_rollup/hyperledger_besu.md) |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 2 | [besu-eth_besu.md](marcosio_rollup/besu-eth_besu.md) |
 
 ---

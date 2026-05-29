@@ -1,8 +1,10 @@
 # GitHub activity report — `pfi79`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1,592** events spanning **2020-09-16 → 2026-05-27**, across **2** organizations and **14** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1,285** events spanning **2024-01-04 → 2026-05-27**, across **2** organizations and **14** repositories.
 
 ## Teams & repository access
 
@@ -23,23 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 1,592 |
-| Pull requests opened | 205 |
-| Pull request reviews | 391 |
-| Issues opened | 7 |
+| Total events | 1,285 |
+| Pull requests opened | 164 |
+| Pull request reviews | 294 |
+| Issues opened | 5 |
 | Pushes | 173 |
 | Commits pushed | 152 |
-| Comments | 582 |
+| Comments | 427 |
 | Releases | 1 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2020 | 2 |
-| 2021 | 15 |
-| 2022 | 34 |
-| 2023 | 256 |
 | 2024 | 530 |
 | 2025 | 673 |
 | 2026 | 82 |
@@ -48,15 +46,15 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 391 |
-| PullRequestEvent | 353 |
-| IssueCommentEvent | 318 |
-| PullRequestReviewCommentEvent | 264 |
+| PullRequestEvent | 305 |
+| PullRequestReviewEvent | 294 |
+| IssueCommentEvent | 265 |
 | PushEvent | 173 |
+| PullRequestReviewCommentEvent | 162 |
 | DeleteEvent | 37 |
 | CreateEvent | 29 |
-| IssuesEvent | 17 |
-| ForkEvent | 8 |
+| IssuesEvent | 13 |
+| ForkEvent | 5 |
 | GollumEvent | 1 |
 | ReleaseEvent | 1 |
 
@@ -64,23 +62,23 @@ Repository access granted through those teams (1 repos):
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 1,325 | 183 | 351 | 99 |
+| [`hyperledger`](https://github.com/hyperledger) | 1,018 | 142 | 254 | 99 |
 | [`hyperledger-labs`](https://github.com/hyperledger-labs) | 267 | 22 | 40 | 74 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 943 | 155 | 255 | 52 |
+| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 655 | 122 | 158 | 52 |
 | [`hyperledger-labs/SmartBFT`](https://github.com/hyperledger-labs/SmartBFT) | 251 | 21 | 36 | 74 |
 | [`hyperledger/fabric-chaincode-go`](https://github.com/hyperledger/fabric-chaincode-go) | 194 | 7 | 66 | 27 |
 | [`hyperledger/fabric-protos`](https://github.com/hyperledger/fabric-protos) | 62 | 7 | 15 | 10 |
-| [`hyperledger/fabric-rfcs`](https://github.com/hyperledger/fabric-rfcs) | 50 | 1 | 3 | 1 |
+| [`hyperledger/fabric-rfcs`](https://github.com/hyperledger/fabric-rfcs) | 48 | 0 | 3 | 1 |
 | [`hyperledger/fabric-lib-go`](https://github.com/hyperledger/fabric-lib-go) | 24 | 4 | 5 | 5 |
-| [`hyperledger/fabric-sdk-go`](https://github.com/hyperledger/fabric-sdk-go) | 22 | 7 | 0 | 0 |
 | [`hyperledger/fabric-config`](https://github.com/hyperledger/fabric-config) | 17 | 2 | 3 | 4 |
 | [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 12 | 1 | 4 | 0 |
 | [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 8 | 0 | 4 | 0 |
+| [`hyperledger/fabric-sdk-go`](https://github.com/hyperledger/fabric-sdk-go) | 5 | 0 | 0 | 0 |
 | [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 4 | 0 | 0 | 0 |
 | [`hyperledger/fabric-protos-go`](https://github.com/hyperledger/fabric-protos-go) | 2 | 0 | 0 | 0 |
 | [`hyperledger/fabric-protos-go-apiv2`](https://github.com/hyperledger/fabric-protos-go-apiv2) | 2 | 0 | 0 | 0 |
@@ -92,16 +90,16 @@ Months as rows, event types as columns. One file per repository in [`pfi79_rollu
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 943 | [hyperledger_fabric.md](pfi79_rollup/hyperledger_fabric.md) |
+| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 655 | [hyperledger_fabric.md](pfi79_rollup/hyperledger_fabric.md) |
 | [`hyperledger-labs/SmartBFT`](https://github.com/hyperledger-labs/SmartBFT) | 251 | [hyperledger-labs_SmartBFT.md](pfi79_rollup/hyperledger-labs_SmartBFT.md) |
 | [`hyperledger/fabric-chaincode-go`](https://github.com/hyperledger/fabric-chaincode-go) | 194 | [hyperledger_fabric-chaincode-go.md](pfi79_rollup/hyperledger_fabric-chaincode-go.md) |
 | [`hyperledger/fabric-protos`](https://github.com/hyperledger/fabric-protos) | 62 | [hyperledger_fabric-protos.md](pfi79_rollup/hyperledger_fabric-protos.md) |
-| [`hyperledger/fabric-rfcs`](https://github.com/hyperledger/fabric-rfcs) | 50 | [hyperledger_fabric-rfcs.md](pfi79_rollup/hyperledger_fabric-rfcs.md) |
+| [`hyperledger/fabric-rfcs`](https://github.com/hyperledger/fabric-rfcs) | 48 | [hyperledger_fabric-rfcs.md](pfi79_rollup/hyperledger_fabric-rfcs.md) |
 | [`hyperledger/fabric-lib-go`](https://github.com/hyperledger/fabric-lib-go) | 24 | [hyperledger_fabric-lib-go.md](pfi79_rollup/hyperledger_fabric-lib-go.md) |
-| [`hyperledger/fabric-sdk-go`](https://github.com/hyperledger/fabric-sdk-go) | 22 | [hyperledger_fabric-sdk-go.md](pfi79_rollup/hyperledger_fabric-sdk-go.md) |
 | [`hyperledger/fabric-config`](https://github.com/hyperledger/fabric-config) | 17 | [hyperledger_fabric-config.md](pfi79_rollup/hyperledger_fabric-config.md) |
 | [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 12 | [hyperledger-labs_hyperledger-labs.github.io.md](pfi79_rollup/hyperledger-labs_hyperledger-labs.github.io.md) |
 | [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 8 | [hyperledger_fabric-samples.md](pfi79_rollup/hyperledger_fabric-samples.md) |
+| [`hyperledger/fabric-sdk-go`](https://github.com/hyperledger/fabric-sdk-go) | 5 | [hyperledger_fabric-sdk-go.md](pfi79_rollup/hyperledger_fabric-sdk-go.md) |
 | [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 4 | [hyperledger-labs_governance.md](pfi79_rollup/hyperledger-labs_governance.md) |
 | [`hyperledger/fabric-protos-go`](https://github.com/hyperledger/fabric-protos-go) | 2 | [hyperledger_fabric-protos-go.md](pfi79_rollup/hyperledger_fabric-protos-go.md) |
 | [`hyperledger/fabric-protos-go-apiv2`](https://github.com/hyperledger/fabric-protos-go-apiv2) | 2 | [hyperledger_fabric-protos-go-apiv2.md](pfi79_rollup/hyperledger_fabric-protos-go-apiv2.md) |

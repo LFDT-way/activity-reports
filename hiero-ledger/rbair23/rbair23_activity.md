@@ -1,12 +1,14 @@
 # GitHub activity report — `rbair23`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **173** events spanning **2024-09-16 → 2026-04-03**, across **3** organizations and **19** repositories.
 
 ## Teams & repository access
 
-Member of **7** team(s):
+Member of **8** team(s):
 
 | Team | Role in team |
 | --- | --- |
@@ -15,10 +17,11 @@ Member of **7** team(s):
 | `hiero-consensus-node-maintainers` | member |
 | `hiero-consensus-node-release-managers` | member |
 | `hiero-improvement-proposals-committers` | member |
+| `hiero-triage` | maintainer |
 | `roadmap-maintainers` | member |
 | `tsc` | member |
 
-Repository access granted through those teams (39 repos):
+Repository access granted through those teams (40 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
@@ -26,38 +29,39 @@ Repository access granted through those teams (39 repos):
 | `governance` | maintain | `tsc` (maintain), `governance-write` (write) |
 | `heka-identity-platform` | maintain | `tsc` (maintain) |
 | `hiero` | maintain | `tsc` (maintain) |
-| `hiero-block-node` | maintain | `tsc` (maintain), `hiero-block-node-committers` (write) |
+| `hiero-block-node` | maintain | `tsc` (maintain), `hiero-block-node-committers` (write), `hiero-triage` (triage) |
 | `hiero-cli` | maintain | `tsc` (maintain) |
-| `hiero-consensus-node` | maintain | `hiero-consensus-node-maintainers` (maintain), `tsc` (maintain), `hiero-consensus-node-release-managers` (write) |
+| `hiero-consensus-node` | maintain | `hiero-consensus-node-maintainers` (maintain), `tsc` (maintain), `hiero-consensus-node-release-managers` (write), `hiero-triage` (triage) |
 | `hiero-consensus-specifications` | maintain | `tsc` (maintain) |
-| `hiero-contracts` | maintain | `tsc` (maintain) |
+| `hiero-contracts` | maintain | `tsc` (maintain), `hiero-triage` (triage) |
+| `hiero-cryptography` | maintain | `tsc` (maintain) |
 | `hiero-did-sdk-js` | maintain | `tsc` (maintain) |
 | `hiero-did-sdk-python` | maintain | `tsc` (maintain) |
-| `hiero-docs` | maintain | `tsc` (maintain) |
+| `hiero-docs` | maintain | `tsc` (maintain), `hiero-triage` (triage) |
 | `hiero-enterprise-java` | maintain | `tsc` (maintain) |
 | `hiero-ethereum-execution-spec-tests` | maintain | `tsc` (maintain) |
 | `hiero-gradle-conventions` | maintain | `tsc` (maintain) |
 | `hiero-hederium` | maintain | `tsc` (maintain) |
 | `hiero-improvement-proposals` | maintain | `tsc` (maintain), `hiero-improvement-proposals-committers` (write) |
-| `hiero-json-rpc-relay` | maintain | `tsc` (maintain) |
-| `hiero-local-node` | maintain | `tsc` (maintain) |
-| `hiero-mirror-node` | maintain | `tsc` (maintain) |
-| `hiero-mirror-node-explorer` | maintain | `tsc` (maintain) |
-| `hiero-sdk-cpp` | maintain | `tsc` (maintain) |
-| `hiero-sdk-go` | maintain | `tsc` (maintain) |
-| `hiero-sdk-java` | maintain | `tsc` (maintain) |
-| `hiero-sdk-js` | maintain | `tsc` (maintain) |
+| `hiero-json-rpc-relay` | maintain | `tsc` (maintain), `hiero-triage` (triage) |
+| `hiero-local-node` | maintain | `tsc` (maintain), `hiero-triage` (triage) |
+| `hiero-mirror-node` | maintain | `tsc` (maintain), `hiero-triage` (triage) |
+| `hiero-mirror-node-explorer` | maintain | `tsc` (maintain), `hiero-triage` (triage) |
+| `hiero-sdk-cpp` | maintain | `tsc` (maintain), `hiero-triage` (triage) |
+| `hiero-sdk-go` | maintain | `tsc` (maintain), `hiero-triage` (triage) |
+| `hiero-sdk-java` | maintain | `tsc` (maintain), `hiero-triage` (triage) |
+| `hiero-sdk-js` | maintain | `tsc` (maintain), `hiero-triage` (triage) |
 | `hiero-sdk-python` | maintain | `tsc` (maintain) |
-| `hiero-sdk-rust` | maintain | `tsc` (maintain) |
-| `hiero-sdk-swift` | maintain | `tsc` (maintain) |
+| `hiero-sdk-rust` | maintain | `tsc` (maintain), `hiero-triage` (triage) |
+| `hiero-sdk-swift` | maintain | `tsc` (maintain), `hiero-triage` (triage) |
 | `hiero-sdk-tck` | maintain | `tsc` (maintain) |
 | `hiero-solo-action` | maintain | `tsc` (maintain) |
 | `hiero-website` | maintain | `tsc` (maintain) |
 | `homebrew-tools` | maintain | `tsc` (maintain) |
 | `identity-collaboration-hub` | maintain | `tsc` (maintain) |
-| `roadmap` | maintain | `roadmap-maintainers` (maintain), `tsc` (maintain) |
+| `roadmap` | maintain | `roadmap-maintainers` (maintain), `tsc` (maintain), `hiero-triage` (write) |
 | `sdk-collaboration-hub` | maintain | `tsc` (maintain) |
-| `solo` | maintain | `tsc` (maintain) |
+| `solo` | maintain | `tsc` (maintain), `hiero-triage` (triage) |
 | `solo-docs` | maintain | `tsc` (maintain) |
 | `tsc` | maintain | `tsc` (maintain) |
 | `tsc-eligibility-check` | maintain | `tsc` (maintain) |

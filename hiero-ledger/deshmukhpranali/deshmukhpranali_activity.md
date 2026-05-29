@@ -1,16 +1,19 @@
 # GitHub activity report — `deshmukhpranali`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **169** events spanning **2025-02-10 → 2026-05-27**, across **1** organizations and **6** repositories.
 
 ## Teams & repository access
 
-Member of **7** team(s):
+Member of **8** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `governance-write` | member |
+| `hiero-block-node-internal-contributors` | maintainer |
 | `hiero-docs-committers` | member |
 | `hiero-docs-maintainers` | member |
 | `solo-committers` | member |
@@ -18,7 +21,7 @@ Member of **7** team(s):
 | `solo-docs-maintainers` | maintainer |
 | `solo-internal-contributors` | member |
 
-Repository access granted through those teams (4 repos):
+Repository access granted through those teams (5 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
@@ -26,6 +29,7 @@ Repository access granted through those teams (4 repos):
 | `solo-docs` | maintain | `solo-docs-maintainers` (maintain), `solo-docs-committers` (write) |
 | `governance` | write | `governance-write` (write) |
 | `solo` | write | `solo-committers` (write), `solo-internal-contributors` (triage) |
+| `hiero-block-node` | triage | `hiero-block-node-internal-contributors` (triage) |
 
 
 ## Overview

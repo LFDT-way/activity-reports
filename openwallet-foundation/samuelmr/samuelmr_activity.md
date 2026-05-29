@@ -1,8 +1,10 @@
 # GitHub activity report — `samuelmr`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **111** events spanning **2023-10-06 → 2025-10-29**, across **1** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **106** events spanning **2024-01-15 → 2025-10-29**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -23,20 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 111 |
-| Pull requests opened | 12 |
+| Total events | 106 |
+| Pull requests opened | 10 |
 | Pull request reviews | 16 |
-| Issues opened | 6 |
+| Issues opened | 5 |
 | Pushes | 19 |
 | Commits pushed | 19 |
-| Comments | 30 |
+| Comments | 29 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 5 |
 | 2024 | 105 |
 | 2025 | 1 |
 
@@ -44,25 +45,24 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 34 |
-| IssueCommentEvent | 28 |
+| PullRequestEvent | 32 |
+| IssueCommentEvent | 27 |
 | PushEvent | 19 |
 | PullRequestReviewEvent | 16 |
-| IssuesEvent | 11 |
+| IssuesEvent | 10 |
 | PullRequestReviewCommentEvent | 2 |
-| ForkEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation`](https://github.com/openwallet-foundation) | 111 | 12 | 16 | 19 |
+| [`openwallet-foundation`](https://github.com/openwallet-foundation) | 106 | 10 | 16 | 19 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation/digital-wallet-and-agent-overviews-sig`](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig) | 110 | 12 | 16 | 19 |
+| [`openwallet-foundation/digital-wallet-and-agent-overviews-sig`](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig) | 105 | 10 | 16 | 19 |
 | [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -71,7 +71,7 @@ Months as rows, event types as columns. One file per repository in [`samuelmr_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`openwallet-foundation/digital-wallet-and-agent-overviews-sig`](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig) | 110 | [openwallet-foundation_digital-wallet-and-agent-overviews-sig.md](samuelmr_rollup/openwallet-foundation_digital-wallet-and-agent-overviews-sig.md) |
+| [`openwallet-foundation/digital-wallet-and-agent-overviews-sig`](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig) | 105 | [openwallet-foundation_digital-wallet-and-agent-overviews-sig.md](samuelmr_rollup/openwallet-foundation_digital-wallet-and-agent-overviews-sig.md) |
 | [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 1 | [openwallet-foundation_tac.md](samuelmr_rollup/openwallet-foundation_tac.md) |
 
 ---

@@ -1,8 +1,10 @@
 # GitHub activity report — `Ferparishuertas`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **610** events spanning **2020-03-16 → 2026-05-28**, across **2** organizations and **9** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **597** events spanning **2025-01-17 → 2026-05-28**, across **2** organizations and **8** repositories.
 
 ## Teams & repository access
 
@@ -24,39 +26,49 @@ Member of **15** team(s):
 | `hiero-json-rpc-relay-committers` | maintainer |
 | `hiero-json-rpc-relay-internal-contributors` | maintainer |
 | `hiero-json-rpc-relay-maintainers` | maintainer |
-| `roadmap-committers` | member |
+| `hiero-triage` | member |
 
-Repository access granted through those teams (6 repos):
+Repository access granted through those teams (18 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `hiero-consensus-node` | maintain | `hiero-consensus-node-maintainers` (maintain), `hiero-consensus-node-committers` (write), `hiero-consensus-node-release-managers` (write), `hiero-consensus-node-smart-contract-codeowners` (write) |
-| `hiero-contracts` | maintain | `hiero-contracts-maintainers` (maintain), `hiero-contracts-committers` (write), `hiero-contracts-internal-contributors` (triage) |
+| `hiero-consensus-node` | maintain | `hiero-consensus-node-maintainers` (maintain), `hiero-consensus-node-committers` (write), `hiero-consensus-node-release-managers` (write), `hiero-consensus-node-smart-contract-codeowners` (write), `hiero-triage` (triage) |
+| `hiero-contracts` | maintain | `hiero-contracts-maintainers` (maintain), `hiero-contracts-committers` (write), `hiero-contracts-internal-contributors` (triage), `hiero-triage` (triage) |
 | `hiero-ethereum-execution-spec-tests` | maintain | `hiero-ethereum-execution-spec-tests-maintainers` (maintain), `hiero-ethereum-execution-spec-tests-committers` (write), `hiero-ethereum-execution-spec-tests-internal-contributors` (triage) |
-| `hiero-json-rpc-relay` | maintain | `hiero-json-rpc-relay-maintainers` (maintain), `hiero-json-rpc-relay-committers` (write), `hiero-json-rpc-relay-internal-contributors` (triage) |
+| `hiero-json-rpc-relay` | maintain | `hiero-json-rpc-relay-maintainers` (maintain), `hiero-json-rpc-relay-committers` (write), `hiero-json-rpc-relay-internal-contributors` (triage), `hiero-triage` (triage) |
 | `governance` | write | `governance-write` (write) |
-| `roadmap` | write | `roadmap-committers` (write) |
+| `roadmap` | write | `hiero-triage` (write) |
+| `hiero-block-node` | triage | `hiero-triage` (triage) |
+| `hiero-docs` | triage | `hiero-triage` (triage) |
+| `hiero-local-node` | triage | `hiero-triage` (triage) |
+| `hiero-mirror-node` | triage | `hiero-triage` (triage) |
+| `hiero-mirror-node-explorer` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-cpp` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-go` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-java` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-js` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-rust` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-swift` | triage | `hiero-triage` (triage) |
+| `solo` | triage | `hiero-triage` (triage) |
 
 
 ## Overview
 
 | Metric | Value |
 | --- | --: |
-| Total events | 610 |
+| Total events | 597 |
 | Pull requests opened | 9 |
 | Pull request reviews | 98 |
-| Issues opened | 52 |
+| Issues opened | 50 |
 | Pushes | 9 |
 | Commits pushed | 1 |
-| Comments | 215 |
+| Comments | 206 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2020 | 5 |
-| 2021 | 8 |
 | 2025 | 478 |
 | 2026 | 119 |
 
@@ -64,23 +76,22 @@ Repository access granted through those teams (6 repos):
 
 | Type | Count |
 | --- | --: |
-| IssuesEvent | 262 |
-| IssueCommentEvent | 170 |
+| IssuesEvent | 260 |
+| IssueCommentEvent | 161 |
 | PullRequestReviewEvent | 98 |
 | PullRequestReviewCommentEvent | 45 |
 | PullRequestEvent | 10 |
 | PushEvent | 9 |
 | CreateEvent | 6 |
 | DeleteEvent | 5 |
-| ForkEvent | 4 |
-| WatchEvent | 1 |
+| ForkEvent | 3 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hiero-ledger`](https://github.com/hiero-ledger) | 595 | 9 | 98 | 9 |
-| [`hyperledger`](https://github.com/hyperledger) | 15 | 0 | 0 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 2 | 0 | 0 | 0 |
 
 ## Repositories
 
@@ -91,7 +102,6 @@ Repository access granted through those teams (6 repos):
 | [`hiero-ledger/governance`](https://github.com/hiero-ledger/governance) | 22 | 4 | 5 | 5 |
 | [`hiero-ledger/hiero-improvement-proposals`](https://github.com/hiero-ledger/hiero-improvement-proposals) | 16 | 2 | 6 | 0 |
 | [`hiero-ledger/hiero-contracts`](https://github.com/hiero-ledger/hiero-contracts) | 14 | 3 | 1 | 1 |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 13 | 0 | 0 | 0 |
 | [`hiero-ledger/hiero-mirror-node`](https://github.com/hiero-ledger/hiero-mirror-node) | 6 | 0 | 0 | 0 |
 | [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 1 | 0 | 0 | 0 |
 | [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 1 | 0 | 0 | 0 |
@@ -107,7 +117,6 @@ Months as rows, event types as columns. One file per repository in [`Ferparishue
 | [`hiero-ledger/governance`](https://github.com/hiero-ledger/governance) | 22 | [hiero-ledger_governance.md](Ferparishuertas_rollup/hiero-ledger_governance.md) |
 | [`hiero-ledger/hiero-improvement-proposals`](https://github.com/hiero-ledger/hiero-improvement-proposals) | 16 | [hiero-ledger_hiero-improvement-proposals.md](Ferparishuertas_rollup/hiero-ledger_hiero-improvement-proposals.md) |
 | [`hiero-ledger/hiero-contracts`](https://github.com/hiero-ledger/hiero-contracts) | 14 | [hiero-ledger_hiero-contracts.md](Ferparishuertas_rollup/hiero-ledger_hiero-contracts.md) |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 13 | [hyperledger_besu.md](Ferparishuertas_rollup/hyperledger_besu.md) |
 | [`hiero-ledger/hiero-mirror-node`](https://github.com/hiero-ledger/hiero-mirror-node) | 6 | [hiero-ledger_hiero-mirror-node.md](Ferparishuertas_rollup/hiero-ledger_hiero-mirror-node.md) |
 | [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 1 | [hyperledger_besu-docs.md](Ferparishuertas_rollup/hyperledger_besu-docs.md) |
 | [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 1 | [hyperledger_besu-native.md](Ferparishuertas_rollup/hyperledger_besu-native.md) |

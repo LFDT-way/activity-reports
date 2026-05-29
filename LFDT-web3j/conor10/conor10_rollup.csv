@@ -1,9 +1,5 @@
-repo,month,PullRequestReviewEvent,PullRequestReviewCommentEvent,WatchEvent,PullRequestEvent,ForkEvent,IssuesEvent,PushEvent,total
-hyperledger/hyperledger-hip,2023-12,0,0,0,1,0,0,0,1
-hyperledger/hyperledger-hip,2024-01,8,7,0,0,0,0,0,15
-hyperledger/toc,2024-09,0,0,0,1,1,0,0,2
-hyperledger-web3j/web3j,2025-02,0,0,0,0,0,0,1,1
-hyperledger/besu,2019-11,0,0,1,0,0,0,0,1
-hyperledger/governance,2023-10,0,0,0,0,0,1,0,1
-hyperledger/hyperledger,2016-02,0,0,1,0,0,0,0,1
-hyperledger/web3j,2024-04,0,0,1,0,0,0,0,1
+repo,month,PullRequestReviewEvent,PullRequestReviewCommentEvent,ForkEvent,PullRequestEvent,PushEvent,WatchEvent,total
+hyperledger/hyperledger-hip,2024-01,8,7,0,0,0,0,15
+hyperledger/toc,2024-09,0,0,1,1,0,0,2
+hyperledger-web3j/web3j,2025-02,0,0,0,0,1,0,1
+hyperledger/web3j,2024-04,0,0,0,0,0,1,1

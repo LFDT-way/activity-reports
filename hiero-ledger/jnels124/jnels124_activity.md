@@ -1,24 +1,28 @@
 # GitHub activity report — `jnels124`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **1,632** events spanning **2025-02-18 → 2026-05-28**, across **1** organizations and **4** repositories.
 
 ## Teams & repository access
 
-Member of **2** team(s):
+Member of **3** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `hiero-improvement-proposals-committers` | member |
 | `hiero-mirror-node-committers` | member |
+| `roadmap-viewers` | member |
 
-Repository access granted through those teams (2 repos):
+Repository access granted through those teams (3 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `hiero-improvement-proposals` | write | `hiero-improvement-proposals-committers` (write) |
 | `hiero-mirror-node` | write | `hiero-mirror-node-committers` (write) |
+| `roadmap` | read | `roadmap-viewers` (read) |
 
 
 ## Overview

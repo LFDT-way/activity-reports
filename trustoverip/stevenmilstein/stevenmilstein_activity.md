@@ -1,8 +1,10 @@
 # GitHub activity report — `stevenmilstein`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **6** events spanning **2020-06-29 → 2020-12-10**, across **1** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `stevenmilstein` in the date range searched.
 
 ## Teams & repository access
 
@@ -14,58 +16,6 @@ Member of **1** team(s):
 
 _Those teams grant no repository access._
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 6 |
-| Pull requests opened | 0 |
-| Pull request reviews | 0 |
-| Issues opened | 2 |
-| Pushes | 1 |
-| Commits pushed | 1 |
-| Comments | 2 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2020 | 6 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| IssuesEvent | 3 |
-| CommitCommentEvent | 1 |
-| IssueCommentEvent | 1 |
-| PushEvent | 1 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`trustoverip`](https://github.com/trustoverip) | 6 | 0 | 0 | 1 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`trustoverip/utility-foundry-wg`](https://github.com/trustoverip/utility-foundry-wg) | 4 | 0 | 0 | 0 |
-| [`trustoverip/concepts-and-terminology-wg`](https://github.com/trustoverip/concepts-and-terminology-wg) | 1 | 0 | 0 | 0 |
-| [`trustoverip/deliverables`](https://github.com/trustoverip/deliverables) | 1 | 0 | 0 | 1 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`stevenmilstein_rollup/`](stevenmilstein_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`trustoverip/utility-foundry-wg`](https://github.com/trustoverip/utility-foundry-wg) | 4 | [trustoverip_utility-foundry-wg.md](stevenmilstein_rollup/trustoverip_utility-foundry-wg.md) |
-| [`trustoverip/concepts-and-terminology-wg`](https://github.com/trustoverip/concepts-and-terminology-wg) | 1 | [trustoverip_concepts-and-terminology-wg.md](stevenmilstein_rollup/trustoverip_concepts-and-terminology-wg.md) |
-| [`trustoverip/deliverables`](https://github.com/trustoverip/deliverables) | 1 | [trustoverip_deliverables.md](stevenmilstein_rollup/trustoverip_deliverables.md) |
 
 ---
 

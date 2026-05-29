@@ -1,8 +1,10 @@
 # GitHub activity report — `umegbewe`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **81** events spanning **2022-05-27 → 2026-03-03**, across **3** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **53** events spanning **2024-01-25 → 2026-03-03**, across **3** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -23,21 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 81 |
-| Pull requests opened | 8 |
-| Pull request reviews | 18 |
-| Issues opened | 2 |
+| Total events | 53 |
+| Pull requests opened | 3 |
+| Pull request reviews | 12 |
+| Issues opened | 1 |
 | Pushes | 11 |
 | Commits pushed | 7 |
-| Comments | 18 |
+| Comments | 9 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 25 |
-| 2023 | 3 |
 | 2024 | 2 |
 | 2025 | 43 |
 | 2026 | 8 |
@@ -46,36 +46,31 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 18 |
-| PullRequestEvent | 15 |
+| PullRequestReviewEvent | 12 |
 | PushEvent | 11 |
-| IssueCommentEvent | 10 |
-| PullRequestReviewCommentEvent | 8 |
-| WatchEvent | 8 |
-| IssuesEvent | 6 |
+| PullRequestEvent | 9 |
+| IssueCommentEvent | 7 |
+| IssuesEvent | 5 |
+| WatchEvent | 3 |
 | CreateEvent | 2 |
 | DeleteEvent | 2 |
-| ForkEvent | 1 |
+| PullRequestReviewCommentEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 75 | 8 | 18 | 11 |
-| [`hyperledger`](https://github.com/hyperledger) | 5 | 0 | 0 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 50 | 3 | 12 | 11 |
+| [`hyperledger`](https://github.com/hyperledger) | 2 | 0 | 0 | 0 |
 | [`Hyperledger-TWGC`](https://github.com/Hyperledger-TWGC) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/fablo`](https://github.com/hyperledger-labs/fablo) | 72 | 8 | 18 | 11 |
-| [`hyperledger-labs/hlf-operator`](https://github.com/hyperledger-labs/hlf-operator) | 3 | 0 | 0 | 0 |
+| [`hyperledger-labs/fablo`](https://github.com/hyperledger-labs/fablo) | 50 | 3 | 12 | 11 |
 | [`Hyperledger-TWGC/tape`](https://github.com/Hyperledger-TWGC/tape) | 1 | 0 | 0 | 0 |
-| [`hyperledger/bevel-operator-fabric`](https://github.com/hyperledger/bevel-operator-fabric) | 1 | 0 | 0 | 0 |
-| [`hyperledger/caliper-benchmarks`](https://github.com/hyperledger/caliper-benchmarks) | 1 | 0 | 0 | 0 |
 | [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-contract-api-go`](https://github.com/hyperledger/fabric-contract-api-go) | 1 | 0 | 0 | 0 |
 | [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -84,13 +79,9 @@ Months as rows, event types as columns. One file per repository in [`umegbewe_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/fablo`](https://github.com/hyperledger-labs/fablo) | 72 | [hyperledger-labs_fablo.md](umegbewe_rollup/hyperledger-labs_fablo.md) |
-| [`hyperledger-labs/hlf-operator`](https://github.com/hyperledger-labs/hlf-operator) | 3 | [hyperledger-labs_hlf-operator.md](umegbewe_rollup/hyperledger-labs_hlf-operator.md) |
+| [`hyperledger-labs/fablo`](https://github.com/hyperledger-labs/fablo) | 50 | [hyperledger-labs_fablo.md](umegbewe_rollup/hyperledger-labs_fablo.md) |
 | [`Hyperledger-TWGC/tape`](https://github.com/Hyperledger-TWGC/tape) | 1 | [Hyperledger-TWGC_tape.md](umegbewe_rollup/Hyperledger-TWGC_tape.md) |
-| [`hyperledger/bevel-operator-fabric`](https://github.com/hyperledger/bevel-operator-fabric) | 1 | [hyperledger_bevel-operator-fabric.md](umegbewe_rollup/hyperledger_bevel-operator-fabric.md) |
-| [`hyperledger/caliper-benchmarks`](https://github.com/hyperledger/caliper-benchmarks) | 1 | [hyperledger_caliper-benchmarks.md](umegbewe_rollup/hyperledger_caliper-benchmarks.md) |
 | [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | [hyperledger_fabric.md](umegbewe_rollup/hyperledger_fabric.md) |
-| [`hyperledger/fabric-contract-api-go`](https://github.com/hyperledger/fabric-contract-api-go) | 1 | [hyperledger_fabric-contract-api-go.md](umegbewe_rollup/hyperledger_fabric-contract-api-go.md) |
 | [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | [hyperledger_fabric-samples.md](umegbewe_rollup/hyperledger_fabric-samples.md) |
 
 ---

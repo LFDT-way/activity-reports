@@ -1,8 +1,10 @@
 # GitHub activity report — `surendrasinghs`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1** events spanning **2023-11-21 → 2023-11-21**, across **1** organizations and **1** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `surendrasinghs` in the date range searched.
 
 ## Teams & repository access
 
@@ -18,51 +20,6 @@ Repository access granted through those teams (1 repos):
 | --- | --- | --- |
 | `decentralized-directory-protocol` | maintain | `decentralized-directory-protocol-maintainers` (maintain) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 1 |
-| Pull requests opened | 0 |
-| Pull request reviews | 0 |
-| Issues opened | 0 |
-| Pushes | 0 |
-| Commits pushed | 0 |
-| Comments | 0 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2023 | 1 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| WatchEvent | 1 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`openwallet-foundation`](https://github.com/openwallet-foundation) | 1 | 0 | 0 | 0 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`openwallet-foundation/credential-format-comparison-sig`](https://github.com/openwallet-foundation/credential-format-comparison-sig) | 1 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`surendrasinghs_rollup/`](surendrasinghs_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`openwallet-foundation/credential-format-comparison-sig`](https://github.com/openwallet-foundation/credential-format-comparison-sig) | 1 | [openwallet-foundation_credential-format-comparison-sig.md](surendrasinghs_rollup/openwallet-foundation_credential-format-comparison-sig.md) |
 
 ---
 

@@ -1,8 +1,10 @@
 # GitHub activity report — `anwalker293`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **128** events spanning **2022-10-20 → 2025-06-25**, across **2** organizations and **7** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **51** events spanning **2024-01-02 → 2025-06-25**, across **2** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -24,21 +26,19 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 128 |
-| Pull requests opened | 26 |
-| Pull request reviews | 16 |
-| Issues opened | 2 |
+| Total events | 51 |
+| Pull requests opened | 4 |
+| Pull request reviews | 12 |
+| Issues opened | 1 |
 | Pushes | 4 |
 | Commits pushed | 14 |
-| Comments | 46 |
+| Comments | 20 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 2 |
-| 2023 | 75 |
 | 2024 | 46 |
 | 2025 | 5 |
 
@@ -46,34 +46,28 @@ Repository access granted through those teams (2 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 45 |
-| IssueCommentEvent | 42 |
-| PullRequestReviewEvent | 16 |
-| ForkEvent | 11 |
-| IssuesEvent | 4 |
-| PullRequestReviewCommentEvent | 4 |
+| IssueCommentEvent | 18 |
+| PullRequestReviewEvent | 12 |
+| PullRequestEvent | 10 |
 | PushEvent | 4 |
+| IssuesEvent | 3 |
+| PullRequestReviewCommentEvent | 2 |
 | CreateEvent | 1 |
-| WatchEvent | 1 |
+| ForkEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 109 | 26 | 10 | 2 |
+| [`hyperledger`](https://github.com/hyperledger) | 32 | 4 | 6 | 2 |
 | [`openwallet-foundation`](https://github.com/openwallet-foundation) | 19 | 0 | 6 | 2 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/aries-akrida`](https://github.com/hyperledger/aries-akrida) | 72 | 16 | 8 | 2 |
+| [`hyperledger/aries-akrida`](https://github.com/hyperledger/aries-akrida) | 32 | 4 | 6 | 2 |
 | [`openwallet-foundation/owl-akrida`](https://github.com/openwallet-foundation/owl-akrida) | 19 | 0 | 6 | 2 |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 12 | 4 | 0 | 0 |
-| [`hyperledger/aries-acapy-plugin-toolbox`](https://github.com/hyperledger/aries-acapy-plugin-toolbox) | 10 | 3 | 2 | 0 |
-| [`hyperledger/aries-toolbox`](https://github.com/hyperledger/aries-toolbox) | 8 | 2 | 0 | 0 |
-| [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 5 | 1 | 0 | 0 |
-| [`hyperledger/aries-mediator-service`](https://github.com/hyperledger/aries-mediator-service) | 2 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -81,13 +75,8 @@ Months as rows, event types as columns. One file per repository in [`anwalker293
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/aries-akrida`](https://github.com/hyperledger/aries-akrida) | 72 | [hyperledger_aries-akrida.md](anwalker293_rollup/hyperledger_aries-akrida.md) |
+| [`hyperledger/aries-akrida`](https://github.com/hyperledger/aries-akrida) | 32 | [hyperledger_aries-akrida.md](anwalker293_rollup/hyperledger_aries-akrida.md) |
 | [`openwallet-foundation/owl-akrida`](https://github.com/openwallet-foundation/owl-akrida) | 19 | [openwallet-foundation_owl-akrida.md](anwalker293_rollup/openwallet-foundation_owl-akrida.md) |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 12 | [hyperledger_aries-cloudagent-python.md](anwalker293_rollup/hyperledger_aries-cloudagent-python.md) |
-| [`hyperledger/aries-acapy-plugin-toolbox`](https://github.com/hyperledger/aries-acapy-plugin-toolbox) | 10 | [hyperledger_aries-acapy-plugin-toolbox.md](anwalker293_rollup/hyperledger_aries-acapy-plugin-toolbox.md) |
-| [`hyperledger/aries-toolbox`](https://github.com/hyperledger/aries-toolbox) | 8 | [hyperledger_aries-toolbox.md](anwalker293_rollup/hyperledger_aries-toolbox.md) |
-| [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 5 | [hyperledger_aries-rfcs.md](anwalker293_rollup/hyperledger_aries-rfcs.md) |
-| [`hyperledger/aries-mediator-service`](https://github.com/hyperledger/aries-mediator-service) | 2 | [hyperledger_aries-mediator-service.md](anwalker293_rollup/hyperledger_aries-mediator-service.md) |
 
 ---
 

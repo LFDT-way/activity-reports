@@ -1,25 +1,33 @@
 # GitHub activity report — `geoffturk`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **53** events spanning **2025-10-31 → 2026-05-28**, across **2** organizations and **8** repositories.
 
 ## Teams & repository access
 
-Member of **1** team(s):
+Member of **2** team(s):
 
 | Team | Role in team |
 | --- | --- |
+| `openvtc-admins` | maintainer |
 | `openvtc-maintainers` | maintainer |
 
-Repository access granted through those teams (4 repos):
+Repository access granted through those teams (9 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `dtg-credentials` | maintain | `openvtc-maintainers` (maintain) |
-| `governance` | maintain | `openvtc-maintainers` (maintain) |
-| `openvtc` | maintain | `openvtc-maintainers` (maintain) |
-| `verifiable-trust-infrastructure` | maintain | `openvtc-maintainers` (maintain) |
+| `dtg-credentials` | admin | `openvtc-admins` (admin), `openvtc-maintainers` (maintain) |
+| `openvtc` | admin | `openvtc-admins` (admin), `openvtc-maintainers` (maintain) |
+| `rp-sdk-js` | admin | `openvtc-admins` (admin), `openvtc-maintainers` (maintain) |
+| `verifiable-trust-infrastructure` | admin | `openvtc-admins` (admin), `openvtc-maintainers` (maintain) |
+| `vta-browser-plugin` | admin | `openvtc-admins` (admin), `openvtc-maintainers` (maintain) |
+| `vti-didcomm-js` | admin | `openvtc-admins` (admin), `openvtc-maintainers` (maintain) |
+| `vti-setup` | admin | `openvtc-admins` (admin), `openvtc-maintainers` (maintain) |
+| `wiki` | admin | `openvtc-admins` (admin), `openvtc-maintainers` (maintain) |
+| `governance` | maintain | `openvtc-admins` (maintain) |
 
 
 ## Overview

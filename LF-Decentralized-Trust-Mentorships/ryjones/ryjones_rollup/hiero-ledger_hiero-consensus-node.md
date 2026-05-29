@@ -1,6 +1,6 @@
 # [`hiero-ledger/hiero-consensus-node`](https://github.com/hiero-ledger/hiero-consensus-node) — monthly activity
 
-| Month | PullRequestEvent | PushEvent | CreateEvent | IssueCommentEvent | DeleteEvent | Total |
+| Month | PullRequestEvent | PushEvent | DeleteEvent | CreateEvent | IssueCommentEvent | Total |
 | --- | --: | --: | --: | --: | --: | --: |
 | 2025-07 | 1 | 1 | 1 | 1 | 1 | 5 |
 | **Total** | **1** | **1** | **1** | **1** | **1** | **5** |

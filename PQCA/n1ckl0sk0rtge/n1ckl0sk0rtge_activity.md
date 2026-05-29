@@ -1,6 +1,8 @@
 # GitHub activity report — `n1ckl0sk0rtge`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **343** events spanning **2024-09-26 → 2026-03-07**, across **2** organizations and **11** repositories.
 

@@ -1,6 +1,8 @@
 # GitHub activity report — `auer-martin`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **296** events spanning **2024-02-14 → 2025-04-16**, across **3** organizations and **9** repositories.
 

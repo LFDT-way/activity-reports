@@ -1,8 +1,10 @@
 # GitHub activity report — `tweeddalex`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **38** events spanning **2022-11-03 → 2026-04-01**, across **3** organizations and **6** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **33** events spanning **2024-09-04 → 2026-04-01**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -23,21 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 38 |
-| Pull requests opened | 3 |
+| Total events | 33 |
+| Pull requests opened | 0 |
 | Pull request reviews | 5 |
 | Issues opened | 0 |
 | Pushes | 10 |
 | Commits pushed | 0 |
-| Comments | 14 |
+| Comments | 13 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 3 |
-| 2023 | 2 |
 | 2024 | 3 |
 | 2025 | 14 |
 | 2026 | 16 |
@@ -46,13 +46,12 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 10 |
 | PushEvent | 10 |
+| IssueCommentEvent | 9 |
 | PullRequestReviewEvent | 5 |
 | CreateEvent | 4 |
-| PullRequestEvent | 4 |
 | PullRequestReviewCommentEvent | 4 |
-| ForkEvent | 1 |
+| PullRequestEvent | 1 |
 
 ## Organizations
 
@@ -60,7 +59,6 @@ Repository access granted through those teams (1 repos):
 | --- | --: | --: | --: | --: |
 | [`trustoverip`](https://github.com/trustoverip) | 17 | 0 | 0 | 10 |
 | [`openwallet-foundation`](https://github.com/openwallet-foundation) | 16 | 0 | 5 | 0 |
-| [`hyperledger`](https://github.com/hyperledger) | 5 | 3 | 0 | 0 |
 
 ## Repositories
 
@@ -68,10 +66,8 @@ Repository access granted through those teams (1 repos):
 | --- | --: | --: | --: | --: |
 | [`trustoverip/high-assurance-verifiable-identifiers`](https://github.com/trustoverip/high-assurance-verifiable-identifiers) | 15 | 0 | 0 | 10 |
 | [`openwallet-foundation/credo-ts`](https://github.com/openwallet-foundation/credo-ts) | 14 | 0 | 4 | 0 |
-| [`hyperledger/anoncreds-methods-registry`](https://github.com/hyperledger/anoncreds-methods-registry) | 4 | 2 | 0 | 0 |
 | [`openwallet-foundation/credo-ts-docs`](https://github.com/openwallet-foundation/credo-ts-docs) | 2 | 0 | 1 | 0 |
 | [`trustoverip/tswg-trust-registry-protocol`](https://github.com/trustoverip/tswg-trust-registry-protocol) | 2 | 0 | 0 | 0 |
-| [`hyperledger/anoncreds-spec`](https://github.com/hyperledger/anoncreds-spec) | 1 | 1 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -81,10 +77,8 @@ Months as rows, event types as columns. One file per repository in [`tweeddalex_
 | --- | --: | --- |
 | [`trustoverip/high-assurance-verifiable-identifiers`](https://github.com/trustoverip/high-assurance-verifiable-identifiers) | 15 | [trustoverip_high-assurance-verifiable-identifiers.md](tweeddalex_rollup/trustoverip_high-assurance-verifiable-identifiers.md) |
 | [`openwallet-foundation/credo-ts`](https://github.com/openwallet-foundation/credo-ts) | 14 | [openwallet-foundation_credo-ts.md](tweeddalex_rollup/openwallet-foundation_credo-ts.md) |
-| [`hyperledger/anoncreds-methods-registry`](https://github.com/hyperledger/anoncreds-methods-registry) | 4 | [hyperledger_anoncreds-methods-registry.md](tweeddalex_rollup/hyperledger_anoncreds-methods-registry.md) |
 | [`openwallet-foundation/credo-ts-docs`](https://github.com/openwallet-foundation/credo-ts-docs) | 2 | [openwallet-foundation_credo-ts-docs.md](tweeddalex_rollup/openwallet-foundation_credo-ts-docs.md) |
 | [`trustoverip/tswg-trust-registry-protocol`](https://github.com/trustoverip/tswg-trust-registry-protocol) | 2 | [trustoverip_tswg-trust-registry-protocol.md](tweeddalex_rollup/trustoverip_tswg-trust-registry-protocol.md) |
-| [`hyperledger/anoncreds-spec`](https://github.com/hyperledger/anoncreds-spec) | 1 | [hyperledger_anoncreds-spec.md](tweeddalex_rollup/hyperledger_anoncreds-spec.md) |
 
 ---
 

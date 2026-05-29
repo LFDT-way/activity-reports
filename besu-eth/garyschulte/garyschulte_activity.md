@@ -1,8 +1,10 @@
 # GitHub activity report — `garyschulte`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **4,835** events spanning **2021-03-11 → 2026-04-28**, across **2** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1,512** events spanning **2024-01-03 → 2026-04-28**, across **2** organizations and **8** repositories.
 
 ## Teams & repository access
 
@@ -34,22 +36,19 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 4,835 |
-| Pull requests opened | 483 |
-| Pull request reviews | 1,398 |
-| Issues opened | 123 |
-| Pushes | 564 |
-| Commits pushed | 716 |
-| Comments | 1,234 |
-| Releases | 72 |
+| Total events | 1,512 |
+| Pull requests opened | 147 |
+| Pull request reviews | 467 |
+| Issues opened | 15 |
+| Pushes | 159 |
+| Commits pushed | 156 |
+| Comments | 439 |
+| Releases | 26 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 963 |
-| 2022 | 1,435 |
-| 2023 | 925 |
 | 2024 | 1,030 |
 | 2025 | 471 |
 | 2026 | 11 |
@@ -58,34 +57,34 @@ Repository access granted through those teams (10 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 1,398 |
-| PullRequestEvent | 1,037 |
-| PullRequestReviewCommentEvent | 853 |
-| PushEvent | 564 |
-| IssueCommentEvent | 379 |
-| IssuesEvent | 295 |
-| CreateEvent | 151 |
-| DeleteEvent | 80 |
-| ReleaseEvent | 72 |
-| ForkEvent | 4 |
-| CommitCommentEvent | 2 |
+| PullRequestReviewEvent | 467 |
+| PullRequestEvent | 317 |
+| PullRequestReviewCommentEvent | 304 |
+| PushEvent | 159 |
+| IssueCommentEvent | 134 |
+| CreateEvent | 45 |
+| IssuesEvent | 42 |
+| ReleaseEvent | 26 |
+| DeleteEvent | 16 |
+| CommitCommentEvent | 1 |
+| ForkEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 4,829 | 483 | 1,396 | 562 |
+| [`hyperledger`](https://github.com/hyperledger) | 1,506 | 147 | 465 | 157 |
 | [`besu-eth`](https://github.com/besu-eth) | 6 | 0 | 2 | 2 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 4,052 | 382 | 1,229 | 437 |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 500 | 77 | 93 | 90 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 114 | 3 | 36 | 4 |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 111 | 21 | 7 | 31 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 972 | 73 | 346 | 69 |
+| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 445 | 70 | 79 | 82 |
 | [`hyperledger/besu-verkle-trie`](https://github.com/hyperledger/besu-verkle-trie) | 47 | 0 | 28 | 0 |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 26 | 2 | 9 | 3 |
+| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 11 | 2 | 0 | 3 |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 5 | 0 | 2 | 1 |
 | [`hyperledger/besu-stateless`](https://github.com/hyperledger/besu-stateless) | 5 | 0 | 3 | 0 |
 | [`besu-eth/besu-native`](https://github.com/besu-eth/besu-native) | 1 | 0 | 0 | 1 |
@@ -96,11 +95,11 @@ Months as rows, event types as columns. One file per repository in [`garyschulte
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 4,052 | [hyperledger_besu.md](garyschulte_rollup/hyperledger_besu.md) |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 500 | [hyperledger_besu-native.md](garyschulte_rollup/hyperledger_besu-native.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 114 | [hyperledger_besu-docs.md](garyschulte_rollup/hyperledger_besu-docs.md) |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 111 | [hyperledger_homebrew-besu.md](garyschulte_rollup/hyperledger_homebrew-besu.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 972 | [hyperledger_besu.md](garyschulte_rollup/hyperledger_besu.md) |
+| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 445 | [hyperledger_besu-native.md](garyschulte_rollup/hyperledger_besu-native.md) |
 | [`hyperledger/besu-verkle-trie`](https://github.com/hyperledger/besu-verkle-trie) | 47 | [hyperledger_besu-verkle-trie.md](garyschulte_rollup/hyperledger_besu-verkle-trie.md) |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 26 | [hyperledger_besu-docs.md](garyschulte_rollup/hyperledger_besu-docs.md) |
+| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 11 | [hyperledger_homebrew-besu.md](garyschulte_rollup/hyperledger_homebrew-besu.md) |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 5 | [besu-eth_besu.md](garyschulte_rollup/besu-eth_besu.md) |
 | [`hyperledger/besu-stateless`](https://github.com/hyperledger/besu-stateless) | 5 | [hyperledger_besu-stateless.md](garyschulte_rollup/hyperledger_besu-stateless.md) |
 | [`besu-eth/besu-native`](https://github.com/besu-eth/besu-native) | 1 | [besu-eth_besu-native.md](garyschulte_rollup/besu-eth_besu-native.md) |

@@ -1,9 +1,9 @@
 # [`hyperledger/besu-stateless`](https://github.com/hyperledger/besu-stateless) — monthly activity
 
-| Month | PullRequestReviewEvent | PullRequestReviewCommentEvent | PullRequestEvent | IssueCommentEvent | PushEvent | Total |
+| Month | PullRequestReviewEvent | PullRequestReviewCommentEvent | PullRequestEvent | PushEvent | IssueCommentEvent | Total |
 | --- | --: | --: | --: | --: | --: | --: |
-| 2025-03 |  |  | 2 | 1 |  | 3 |
-| 2025-04 |  |  |  |  | 1 | 1 |
+| 2025-03 |  |  | 2 |  | 1 | 3 |
+| 2025-04 |  |  |  | 1 |  | 1 |
 | 2025-05 | 3 | 2 | 1 |  |  | 6 |
 | 2025-07 | 1 | 1 |  |  |  | 2 |
 | 2026-02 | 1 | 2 |  |  |  | 3 |

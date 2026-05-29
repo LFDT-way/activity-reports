@@ -1,8 +1,10 @@
 # GitHub activity report — `dshuffma-ibm`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1,632** events spanning **2016-04-21 → 2025-02-10**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **266** events spanning **2024-01-02 → 2025-02-10**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -23,25 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 1,632 |
-| Pull requests opened | 318 |
-| Pull request reviews | 156 |
-| Issues opened | 10 |
-| Pushes | 412 |
-| Commits pushed | 420 |
-| Comments | 100 |
+| Total events | 266 |
+| Pull requests opened | 36 |
+| Pull request reviews | 48 |
+| Issues opened | 2 |
+| Pushes | 70 |
+| Commits pushed | 70 |
+| Comments | 10 |
 | Releases | 1 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2016 | 20 |
-| 2017 | 1 |
-| 2019 | 1 |
-| 2021 | 156 |
-| 2022 | 521 |
-| 2023 | 667 |
 | 2024 | 260 |
 | 2025 | 6 |
 
@@ -49,33 +45,28 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 741 |
-| PushEvent | 412 |
-| PullRequestReviewEvent | 156 |
-| CreateEvent | 141 |
-| IssueCommentEvent | 73 |
-| DeleteEvent | 41 |
-| IssuesEvent | 33 |
-| PullRequestReviewCommentEvent | 27 |
-| GollumEvent | 4 |
-| ForkEvent | 3 |
+| PullRequestEvent | 106 |
+| PushEvent | 70 |
+| PullRequestReviewEvent | 48 |
+| CreateEvent | 19 |
+| DeleteEvent | 10 |
+| IssueCommentEvent | 6 |
+| PullRequestReviewCommentEvent | 4 |
+| IssuesEvent | 2 |
 | ReleaseEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 1,608 | 318 | 156 | 412 |
-| [`hyperledger`](https://github.com/hyperledger) | 24 | 0 | 0 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 266 | 36 | 48 | 70 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/fabric-operations-console`](https://github.com/hyperledger-labs/fabric-operations-console) | 1,606 | 318 | 156 | 412 |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 23 | 0 | 0 | 0 |
+| [`hyperledger-labs/fabric-operations-console`](https://github.com/hyperledger-labs/fabric-operations-console) | 264 | 36 | 48 | 70 |
 | [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 2 | 0 | 0 | 0 |
-| [`hyperledger/fabric-sdk-node`](https://github.com/hyperledger/fabric-sdk-node) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -83,10 +74,8 @@ Months as rows, event types as columns. One file per repository in [`dshuffma-ib
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/fabric-operations-console`](https://github.com/hyperledger-labs/fabric-operations-console) | 1,606 | [hyperledger-labs_fabric-operations-console.md](dshuffma-ibm_rollup/hyperledger-labs_fabric-operations-console.md) |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 23 | [hyperledger_fabric.md](dshuffma-ibm_rollup/hyperledger_fabric.md) |
+| [`hyperledger-labs/fabric-operations-console`](https://github.com/hyperledger-labs/fabric-operations-console) | 264 | [hyperledger-labs_fabric-operations-console.md](dshuffma-ibm_rollup/hyperledger-labs_fabric-operations-console.md) |
 | [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 2 | [hyperledger-labs_governance.md](dshuffma-ibm_rollup/hyperledger-labs_governance.md) |
-| [`hyperledger/fabric-sdk-node`](https://github.com/hyperledger/fabric-sdk-node) | 1 | [hyperledger_fabric-sdk-node.md](dshuffma-ibm_rollup/hyperledger_fabric-sdk-node.md) |
 
 ---
 

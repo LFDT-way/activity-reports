@@ -1,6 +1,6 @@
 # [`anoncreds/anoncreds`](https://github.com/anoncreds/anoncreds) — monthly activity
 
-| Month | PushEvent | PullRequestReviewEvent | Total |
+| Month | PullRequestReviewEvent | PushEvent | Total |
 | --- | --: | --: | --: |
 | 2025-12 | 1 | 1 | 2 |
 | **Total** | **1** | **1** | **2** |

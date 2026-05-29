@@ -1,8 +1,4 @@
-repo,month,PullRequestReviewEvent,WatchEvent,IssueCommentEvent,total
-openwallet-foundation-labs/sd-jwt-js,2023-11,4,0,0,4
-openwallet-foundation-labs/sd-jwt-js,2023-12,7,0,0,7
-openwallet-foundation-labs/sd-jwt-js,2024-01,2,0,0,2
-openwallet-foundation-labs/sd-jwt-js,2024-02,14,0,1,15
-openwallet-foundation-labs/sd-jwt-js,2024-03,5,0,0,5
-open-quantum-safe/liboqs,2019-11,0,1,0,1
-openwallet-foundation/project-proposals,2023-10,0,1,0,1
+repo,month,PullRequestReviewEvent,IssueCommentEvent,total
+openwallet-foundation-labs/sd-jwt-js,2024-01,2,0,2
+openwallet-foundation-labs/sd-jwt-js,2024-02,14,1,15
+openwallet-foundation-labs/sd-jwt-js,2024-03,5,0,5

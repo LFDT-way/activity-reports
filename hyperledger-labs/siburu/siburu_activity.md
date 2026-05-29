@@ -1,8 +1,10 @@
 # GitHub activity report — `siburu`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **871** events spanning **2020-05-27 → 2026-03-12**, across **2** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **305** events spanning **2024-01-17 → 2026-03-12**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -27,23 +29,19 @@ Repository access granted through those teams (5 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 871 |
-| Pull requests opened | 57 |
-| Pull request reviews | 283 |
-| Issues opened | 22 |
-| Pushes | 74 |
-| Commits pushed | 405 |
-| Comments | 267 |
-| Releases | 27 |
+| Total events | 305 |
+| Pull requests opened | 9 |
+| Pull request reviews | 105 |
+| Issues opened | 0 |
+| Pushes | 25 |
+| Commits pushed | 145 |
+| Comments | 99 |
+| Releases | 20 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2020 | 17 |
-| 2021 | 114 |
-| 2022 | 65 |
-| 2023 | 370 |
 | 2024 | 178 |
 | 2025 | 123 |
 | 2026 | 4 |
@@ -52,37 +50,27 @@ Repository access granted through those teams (5 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 283 |
-| PullRequestReviewCommentEvent | 233 |
-| PullRequestEvent | 130 |
-| PushEvent | 74 |
-| CreateEvent | 41 |
-| IssueCommentEvent | 34 |
-| IssuesEvent | 31 |
-| ReleaseEvent | 27 |
-| DeleteEvent | 9 |
-| ForkEvent | 5 |
-| WatchEvent | 4 |
+| PullRequestReviewEvent | 105 |
+| PullRequestReviewCommentEvent | 91 |
+| PullRequestEvent | 35 |
+| PushEvent | 25 |
+| CreateEvent | 20 |
+| ReleaseEvent | 20 |
+| IssueCommentEvent | 8 |
+| DeleteEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 853 | 56 | 280 | 74 |
-| [`hyperledger`](https://github.com/hyperledger) | 18 | 1 | 3 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 305 | 9 | 105 | 25 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/yui-relayer`](https://github.com/hyperledger-labs/yui-relayer) | 690 | 28 | 245 | 57 |
-| [`hyperledger-labs/yui-corda-ibc`](https://github.com/hyperledger-labs/yui-corda-ibc) | 90 | 18 | 6 | 14 |
-| [`hyperledger-labs/yui-ibc-solidity`](https://github.com/hyperledger-labs/yui-ibc-solidity) | 36 | 10 | 11 | 0 |
-| [`hyperledger-labs/yui-docs`](https://github.com/hyperledger-labs/yui-docs) | 33 | 0 | 17 | 2 |
-| [`hyperledger/fabric-docs-i18n`](https://github.com/hyperledger/fabric-docs-i18n) | 16 | 1 | 3 | 0 |
-| [`hyperledger-labs/yui-fabric-ibc`](https://github.com/hyperledger-labs/yui-fabric-ibc) | 4 | 0 | 1 | 1 |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | 0 | 0 | 0 |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 1 | 0 | 0 | 0 |
+| [`hyperledger-labs/yui-relayer`](https://github.com/hyperledger-labs/yui-relayer) | 296 | 8 | 101 | 25 |
+| [`hyperledger-labs/yui-ibc-solidity`](https://github.com/hyperledger-labs/yui-ibc-solidity) | 9 | 1 | 4 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -90,14 +78,8 @@ Months as rows, event types as columns. One file per repository in [`siburu_roll
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/yui-relayer`](https://github.com/hyperledger-labs/yui-relayer) | 690 | [hyperledger-labs_yui-relayer.md](siburu_rollup/hyperledger-labs_yui-relayer.md) |
-| [`hyperledger-labs/yui-corda-ibc`](https://github.com/hyperledger-labs/yui-corda-ibc) | 90 | [hyperledger-labs_yui-corda-ibc.md](siburu_rollup/hyperledger-labs_yui-corda-ibc.md) |
-| [`hyperledger-labs/yui-ibc-solidity`](https://github.com/hyperledger-labs/yui-ibc-solidity) | 36 | [hyperledger-labs_yui-ibc-solidity.md](siburu_rollup/hyperledger-labs_yui-ibc-solidity.md) |
-| [`hyperledger-labs/yui-docs`](https://github.com/hyperledger-labs/yui-docs) | 33 | [hyperledger-labs_yui-docs.md](siburu_rollup/hyperledger-labs_yui-docs.md) |
-| [`hyperledger/fabric-docs-i18n`](https://github.com/hyperledger/fabric-docs-i18n) | 16 | [hyperledger_fabric-docs-i18n.md](siburu_rollup/hyperledger_fabric-docs-i18n.md) |
-| [`hyperledger-labs/yui-fabric-ibc`](https://github.com/hyperledger-labs/yui-fabric-ibc) | 4 | [hyperledger-labs_yui-fabric-ibc.md](siburu_rollup/hyperledger-labs_yui-fabric-ibc.md) |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | [hyperledger_besu.md](siburu_rollup/hyperledger_besu.md) |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 1 | [hyperledger_iroha.md](siburu_rollup/hyperledger_iroha.md) |
+| [`hyperledger-labs/yui-relayer`](https://github.com/hyperledger-labs/yui-relayer) | 296 | [hyperledger-labs_yui-relayer.md](siburu_rollup/hyperledger-labs_yui-relayer.md) |
+| [`hyperledger-labs/yui-ibc-solidity`](https://github.com/hyperledger-labs/yui-ibc-solidity) | 9 | [hyperledger-labs_yui-ibc-solidity.md](siburu_rollup/hyperledger-labs_yui-ibc-solidity.md) |
 
 ---
 

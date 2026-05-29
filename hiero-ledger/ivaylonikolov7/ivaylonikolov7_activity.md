@@ -1,12 +1,14 @@
 # GitHub activity report — `ivaylonikolov7`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **1,893** events spanning **2025-01-15 → 2026-05-28**, across **1** organizations and **8** repositories.
 
 ## Teams & repository access
 
-Member of **6** team(s):
+Member of **7** team(s):
 
 | Team | Role in team |
 | --- | --- |
@@ -15,17 +17,24 @@ Member of **6** team(s):
 | `hiero-sdk-js-maintainers` | member |
 | `hiero-sdk-rust-committers` | member |
 | `hiero-sdk-tck-committers` | member |
+| `hiero-sdk-triage` | member |
 | `sdk-collaboration-hub-committers` | maintainer |
 
-Repository access granted through those teams (5 repos):
+Repository access granted through those teams (11 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `hiero-sdk-js` | maintain | `hiero-sdk-js-maintainers` (maintain), `hiero-sdk-js-committers` (write) |
+| `hiero-sdk-js` | maintain | `hiero-sdk-js-maintainers` (maintain), `hiero-sdk-js-committers` (write), `hiero-sdk-triage` (triage) |
 | `governance` | write | `governance-write` (write) |
-| `hiero-sdk-rust` | write | `hiero-sdk-rust-committers` (write) |
-| `hiero-sdk-tck` | write | `hiero-sdk-tck-committers` (write) |
-| `sdk-collaboration-hub` | write | `sdk-collaboration-hub-committers` (write) |
+| `hiero-sdk-rust` | write | `hiero-sdk-rust-committers` (write), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-tck` | write | `hiero-sdk-tck-committers` (write), `hiero-sdk-triage` (triage) |
+| `sdk-collaboration-hub` | write | `sdk-collaboration-hub-committers` (write), `hiero-sdk-triage` (triage) |
+| `hiero-enterprise-java` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-cpp` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-go` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-java` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-python` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-swift` | triage | `hiero-sdk-triage` (triage) |
 
 
 ## Overview

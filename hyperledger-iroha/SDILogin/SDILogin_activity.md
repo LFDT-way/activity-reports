@@ -1,8 +1,10 @@
 # GitHub activity report — `SDILogin`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **29** events spanning **2022-05-30 → 2026-05-28**, across **2** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **28** events spanning **2026-03-17 → 2026-05-28**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -39,7 +41,7 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 29 |
+| Total events | 28 |
 | Pull requests opened | 3 |
 | Pull request reviews | 0 |
 | Issues opened | 0 |
@@ -52,7 +54,6 @@ Repository access granted through those teams (17 repos):
 
 | Year | Events |
 | --- | --: |
-| 2022 | 1 |
 | 2026 | 28 |
 
 ## Event types
@@ -62,21 +63,18 @@ Repository access granted through those teams (17 repos):
 | CreateEvent | 12 |
 | PushEvent | 11 |
 | PullRequestEvent | 5 |
-| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-iroha`](https://github.com/hyperledger-iroha) | 28 | 3 | 0 | 11 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 28 | 3 | 0 | 11 |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -85,7 +83,6 @@ Months as rows, event types as columns. One file per repository in [`SDILogin_ro
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 28 | [hyperledger-iroha_iroha.md](SDILogin_rollup/hyperledger-iroha_iroha.md) |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 1 | [hyperledger_iroha.md](SDILogin_rollup/hyperledger_iroha.md) |
 
 ---
 

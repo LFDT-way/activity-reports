@@ -1,12 +1,14 @@
 # GitHub activity report — `nathanklick`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **465** events spanning **2024-10-10 → 2026-05-04**, across **2** organizations and **16** repositories.
 
 ## Teams & repository access
 
-Member of **20** team(s):
+Member of **19** team(s):
 
 | Team | Role in team |
 | --- | --- |
@@ -18,63 +20,63 @@ Member of **20** team(s):
 | `hiero-gradle-conventions-maintainers` | member |
 | `hiero-local-node-committers` | member |
 | `hiero-performance-engineers` | maintainer |
+| `hiero-triage` | maintainer |
 | `homebrew-tools-committers` | maintainer |
 | `homebrew-tools-maintainers` | maintainer |
-| `prod-security` | maintainer |
-| `roadmap-committers` | member |
-| `sec-ops` | maintainer |
 | `security-maintainers` | maintainer |
 | `solo-admins` | maintainer |
 | `solo-committers` | maintainer |
+| `solo-docs-admins` | maintainer |
 | `solo-docs-committers` | maintainer |
 | `solo-docs-maintainers` | maintainer |
 | `solo-internal-contributors` | maintainer |
 | `solo-maintainers` | maintainer |
 
-Repository access granted through those teams (40 repos):
+Repository access granted through those teams (41 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `solo` | admin | `solo-admins` (admin), `github-maintainers` (maintain), `solo-maintainers` (maintain), `solo-committers` (write), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage), `solo-internal-contributors` (triage) |
-| `.github` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `awesome-contributions` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `governance` | maintain | `github-maintainers` (maintain), `governance-write` (write), `prod-security` (write), `sec-ops` (write), `security-maintainers` (write) |
-| `heka-identity-platform` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-block-node` | maintain | `github-maintainers` (maintain), `hiero-gradle-conventions-maintainers` (write), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-cli` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-consensus-node` | maintain | `github-maintainers` (maintain), `hiero-consensus-node-maintainers` (maintain), `hiero-consensus-node-release-engineers` (write), `hiero-consensus-node-release-managers` (write), `hiero-gradle-conventions-maintainers` (write), `hiero-performance-engineers` (write), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-consensus-specifications` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-contracts` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-did-sdk-js` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-did-sdk-python` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-docs` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-enterprise-java` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-ethereum-execution-spec-tests` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-gradle-conventions` | maintain | `github-maintainers` (maintain), `hiero-gradle-conventions-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-hederium` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-improvement-proposals` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-json-rpc-relay` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-local-node` | maintain | `github-maintainers` (maintain), `hiero-local-node-committers` (write), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-mirror-node` | maintain | `github-maintainers` (maintain), `hiero-gradle-conventions-maintainers` (write), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-mirror-node-explorer` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-sdk-cpp` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-sdk-go` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-sdk-java` | maintain | `github-maintainers` (maintain), `hiero-gradle-conventions-maintainers` (write), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-sdk-js` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-sdk-python` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-sdk-rust` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-sdk-swift` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-sdk-tck` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-solo-action` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `hiero-website` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `homebrew-tools` | maintain | `github-maintainers` (maintain), `homebrew-tools-maintainers` (maintain), `homebrew-tools-committers` (write), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `identity-collaboration-hub` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `roadmap` | maintain | `github-maintainers` (maintain), `roadmap-committers` (write), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `sdk-collaboration-hub` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `solo-docs` | maintain | `github-maintainers` (maintain), `solo-docs-maintainers` (maintain), `solo-docs-committers` (write), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `tsc` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
-| `tsc-eligibility-check` | maintain | `github-maintainers` (maintain), `prod-security` (triage), `sec-ops` (triage), `security-maintainers` (triage) |
+| `solo` | admin | `solo-admins` (admin), `github-maintainers` (maintain), `solo-maintainers` (maintain), `solo-committers` (write), `hiero-triage` (triage), `security-maintainers` (triage), `solo-internal-contributors` (triage) |
+| `solo-docs` | admin | `solo-docs-admins` (admin), `github-maintainers` (maintain), `solo-docs-maintainers` (maintain), `solo-docs-committers` (write), `security-maintainers` (triage) |
+| `.github` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `awesome-contributions` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `governance` | maintain | `github-maintainers` (maintain), `governance-write` (write), `security-maintainers` (write) |
+| `heka-identity-platform` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `hiero` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `hiero-block-node` | maintain | `github-maintainers` (maintain), `hiero-gradle-conventions-maintainers` (write), `hiero-triage` (triage), `security-maintainers` (triage) |
+| `hiero-cli` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `hiero-consensus-node` | maintain | `github-maintainers` (maintain), `hiero-consensus-node-maintainers` (maintain), `hiero-consensus-node-release-engineers` (write), `hiero-consensus-node-release-managers` (write), `hiero-gradle-conventions-maintainers` (write), `hiero-performance-engineers` (write), `hiero-triage` (triage), `security-maintainers` (triage) |
+| `hiero-consensus-specifications` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `hiero-contracts` | maintain | `github-maintainers` (maintain), `hiero-triage` (triage), `security-maintainers` (triage) |
+| `hiero-cryptography` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `hiero-did-sdk-js` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `hiero-did-sdk-python` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `hiero-docs` | maintain | `github-maintainers` (maintain), `hiero-triage` (triage), `security-maintainers` (triage) |
+| `hiero-enterprise-java` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `hiero-ethereum-execution-spec-tests` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `hiero-gradle-conventions` | maintain | `github-maintainers` (maintain), `hiero-gradle-conventions-maintainers` (maintain), `security-maintainers` (triage) |
+| `hiero-hederium` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `hiero-improvement-proposals` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `hiero-json-rpc-relay` | maintain | `github-maintainers` (maintain), `hiero-triage` (triage), `security-maintainers` (triage) |
+| `hiero-local-node` | maintain | `github-maintainers` (maintain), `hiero-local-node-committers` (write), `hiero-triage` (triage), `security-maintainers` (triage) |
+| `hiero-mirror-node` | maintain | `github-maintainers` (maintain), `hiero-gradle-conventions-maintainers` (write), `hiero-triage` (triage), `security-maintainers` (triage) |
+| `hiero-mirror-node-explorer` | maintain | `github-maintainers` (maintain), `hiero-triage` (triage), `security-maintainers` (triage) |
+| `hiero-sdk-cpp` | maintain | `github-maintainers` (maintain), `hiero-triage` (triage), `security-maintainers` (triage) |
+| `hiero-sdk-go` | maintain | `github-maintainers` (maintain), `hiero-triage` (triage), `security-maintainers` (triage) |
+| `hiero-sdk-java` | maintain | `github-maintainers` (maintain), `hiero-gradle-conventions-maintainers` (write), `hiero-triage` (triage), `security-maintainers` (triage) |
+| `hiero-sdk-js` | maintain | `github-maintainers` (maintain), `hiero-triage` (triage), `security-maintainers` (triage) |
+| `hiero-sdk-python` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `hiero-sdk-rust` | maintain | `github-maintainers` (maintain), `hiero-triage` (triage), `security-maintainers` (triage) |
+| `hiero-sdk-swift` | maintain | `github-maintainers` (maintain), `hiero-triage` (triage), `security-maintainers` (triage) |
+| `hiero-sdk-tck` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `hiero-solo-action` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `hiero-website` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `homebrew-tools` | maintain | `github-maintainers` (maintain), `homebrew-tools-maintainers` (maintain), `homebrew-tools-committers` (write), `security-maintainers` (triage) |
+| `identity-collaboration-hub` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `roadmap` | maintain | `github-maintainers` (maintain), `hiero-triage` (write), `security-maintainers` (triage) |
+| `sdk-collaboration-hub` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `tsc` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
+| `tsc-eligibility-check` | maintain | `github-maintainers` (maintain), `security-maintainers` (triage) |
 
 
 ## Overview

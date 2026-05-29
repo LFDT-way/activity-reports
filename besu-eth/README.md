@@ -1,43 +1,43 @@
 # GitHub activity reports
 
-Per-user activity extracted from the archive for the 33 users listed in `groups.yml` (33 with activity).
+Per-user activity for 2024–2026 extracted from the archive for the 33 users listed in `groups.yml` (32 with activity).
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 | User | Events | First | Last | Orgs | Repos | Teams |
 | --- | --: | --- | --- | --: | --: | --: |
-| [`ryjones`](ryjones/ryjones_activity.md) | 15,158 | 2016-05-02 | 2026-05-28 | 48 | 724 | 1 |
-| [`macfarla`](macfarla/macfarla_activity.md) | 12,114 | 2019-09-15 | 2026-05-28 | 3 | 12 | 4 |
-| [`mirgee`](mirgee/mirgee_activity.md) | 5,255 | 2019-11-24 | 2026-05-21 | 3 | 14 | 1 |
-| [`garyschulte`](garyschulte/garyschulte_activity.md) | 4,835 | 2021-03-11 | 2026-04-28 | 2 | 8 | 3 |
-| [`siladu`](siladu/siladu_activity.md) | 4,582 | 2021-08-29 | 2026-05-28 | 4 | 13 | 2 |
-| [`matkt`](matkt/matkt_activity.md) | 4,011 | 2019-11-05 | 2026-05-15 | 2 | 8 | 2 |
-| [`fab-10`](fab-10/fab-10_activity.md) | 3,883 | 2021-10-15 | 2026-05-28 | 3 | 8 | 2 |
-| [`jframe`](jframe/jframe_activity.md) | 3,436 | 2019-09-27 | 2026-05-26 | 3 | 10 | 4 |
-| [`jflo`](jflo/jflo_activity.md) | 2,588 | 2021-05-29 | 2026-05-13 | 3 | 15 | 3 |
-| [`alexandratran`](alexandratran/alexandratran_activity.md) | 2,439 | 2021-03-11 | 2026-05-27 | 2 | 4 | 1 |
-| [`jwagantall`](jwagantall/jwagantall_activity.md) | 2,336 | 2017-04-19 | 2026-05-27 | 12 | 131 | 1 |
-| [`pinges`](pinges/pinges_activity.md) | 2,154 | 2019-09-16 | 2026-05-14 | 2 | 7 | 1 |
-| [`Gabriel-Trintinalia`](Gabriel-Trintinalia/Gabriel-Trintinalia_activity.md) | 1,872 | 2022-03-14 | 2026-04-23 | 3 | 6 | 1 |
-| [`matthew1001`](matthew1001/matthew1001_activity.md) | 1,844 | 2022-09-13 | 2026-05-21 | 6 | 30 | 1 |
-| [`usmansaleem`](usmansaleem/usmansaleem_activity.md) | 1,530 | 2019-09-16 | 2026-05-20 | 2 | 14 | 1 |
-| [`bgravenorst`](bgravenorst/bgravenorst_activity.md) | 1,298 | 2019-09-15 | 2026-05-21 | 2 | 4 | 1 |
-| [`lucassaldanha`](lucassaldanha/lucassaldanha_activity.md) | 1,206 | 2019-09-16 | 2026-02-09 | 1 | 6 | 1 |
-| [`ahamlat`](ahamlat/ahamlat_activity.md) | 1,147 | 2022-02-05 | 2026-05-22 | 2 | 5 | 1 |
-| [`daniellehrner`](daniellehrner/daniellehrner_activity.md) | 975 | 2021-04-20 | 2026-05-18 | 2 | 5 | 1 |
-| [`gtebrean`](gtebrean/gtebrean_activity.md) | 936 | 2022-03-14 | 2026-04-27 | 5 | 44 | 1 |
-| [`NickSneo`](NickSneo/NickSneo_activity.md) | 902 | 2022-08-25 | 2026-05-09 | 4 | 33 | 1 |
+| [`ryjones`](ryjones/ryjones_activity.md) | 6,668 | 2024-01-04 | 2026-05-28 | 46 | 379 | 1 |
+| [`macfarla`](macfarla/macfarla_activity.md) | 5,442 | 2024-01-02 | 2026-05-28 | 3 | 12 | 4 |
+| [`jwagantall`](jwagantall/jwagantall_activity.md) | 2,214 | 2024-12-17 | 2026-05-27 | 12 | 93 | 1 |
+| [`siladu`](siladu/siladu_activity.md) | 2,118 | 2024-01-12 | 2026-05-28 | 4 | 13 | 2 |
+| [`fab-10`](fab-10/fab-10_activity.md) | 1,856 | 2024-01-03 | 2026-05-28 | 3 | 8 | 2 |
+| [`garyschulte`](garyschulte/garyschulte_activity.md) | 1,512 | 2024-01-03 | 2026-04-28 | 2 | 8 | 3 |
+| [`matkt`](matkt/matkt_activity.md) | 1,502 | 2024-01-03 | 2026-05-15 | 2 | 5 | 2 |
+| [`jframe`](jframe/jframe_activity.md) | 1,328 | 2024-01-02 | 2026-05-26 | 3 | 10 | 4 |
+| [`matthew1001`](matthew1001/matthew1001_activity.md) | 1,260 | 2024-01-02 | 2026-05-21 | 6 | 25 | 1 |
+| [`Gabriel-Trintinalia`](Gabriel-Trintinalia/Gabriel-Trintinalia_activity.md) | 1,232 | 2024-01-03 | 2026-04-23 | 3 | 6 | 1 |
+| [`jflo`](jflo/jflo_activity.md) | 1,000 | 2024-01-03 | 2026-05-13 | 3 | 15 | 3 |
+| [`gtebrean`](gtebrean/gtebrean_activity.md) | 894 | 2024-01-10 | 2026-04-27 | 5 | 44 | 1 |
 | [`Matilda-Clerke`](Matilda-Clerke/Matilda-Clerke_activity.md) | 824 | 2024-07-12 | 2026-05-06 | 2 | 3 | 1 |
-| [`gfukushima`](gfukushima/gfukushima_activity.md) | 778 | 2022-06-20 | 2025-02-24 | 1 | 5 | 1 |
+| [`usmansaleem`](usmansaleem/usmansaleem_activity.md) | 820 | 2024-01-18 | 2026-05-20 | 2 | 14 | 1 |
+| [`alexandratran`](alexandratran/alexandratran_activity.md) | 810 | 2024-01-04 | 2026-05-27 | 2 | 4 | 1 |
+| [`NickSneo`](NickSneo/NickSneo_activity.md) | 801 | 2024-01-08 | 2026-05-09 | 4 | 32 | 1 |
+| [`pinges`](pinges/pinges_activity.md) | 781 | 2024-01-05 | 2026-05-14 | 2 | 7 | 1 |
+| [`ahamlat`](ahamlat/ahamlat_activity.md) | 779 | 2024-01-02 | 2026-05-22 | 2 | 5 | 1 |
 | [`lu-pinto`](lu-pinto/lu-pinto_activity.md) | 748 | 2024-06-12 | 2026-05-26 | 2 | 6 | 1 |
-| [`joshuafernandes`](joshuafernandes/joshuafernandes_activity.md) | 693 | 2019-09-16 | 2026-05-28 | 2 | 7 | 1 |
-| [`antonydenyer`](antonydenyer/antonydenyer_activity.md) | 428 | 2019-09-24 | 2024-10-01 | 1 | 2 | 1 |
-| [`ajsutton`](ajsutton/ajsutton_activity.md) | 411 | 2019-09-16 | 2024-09-13 | 1 | 4 | 1 |
-| [`diega`](diega/diega_activity.md) | 341 | 2020-10-14 | 2026-04-14 | 3 | 4 | 1 |
-| [`hartm`](hartm/hartm_activity.md) | 302 | 2016-03-23 | 2026-05-20 | 7 | 29 | 1 |
-| [`davidwboswell`](davidwboswell/davidwboswell_activity.md) | 139 | 2021-04-01 | 2026-04-23 | 4 | 8 | 1 |
-| [`SeanBohan`](SeanBohan/SeanBohan_activity.md) | 67 | 2017-09-29 | 2026-05-11 | 5 | 20 | 1 |
-| [`kkaur01`](kkaur01/kkaur01_activity.md) | 13 | 2021-08-10 | 2026-03-05 | 2 | 3 | 1 |
-| [`thelinuxfoundation`](thelinuxfoundation/thelinuxfoundation_activity.md) | 2 | 2016-02-03 | 2016-02-03 | 1 | 1 | 1 |
+| [`mirgee`](mirgee/mirgee_activity.md) | 738 | 2024-01-04 | 2026-05-21 | 3 | 6 | 1 |
+| [`daniellehrner`](daniellehrner/daniellehrner_activity.md) | 478 | 2024-01-11 | 2026-05-18 | 2 | 4 | 1 |
+| [`bgravenorst`](bgravenorst/bgravenorst_activity.md) | 287 | 2024-01-08 | 2026-05-21 | 2 | 4 | 1 |
+| [`joshuafernandes`](joshuafernandes/joshuafernandes_activity.md) | 205 | 2024-01-03 | 2026-05-28 | 2 | 6 | 1 |
+| [`gfukushima`](gfukushima/gfukushima_activity.md) | 181 | 2024-01-03 | 2025-02-24 | 1 | 5 | 1 |
+| [`davidwboswell`](davidwboswell/davidwboswell_activity.md) | 134 | 2024-01-17 | 2026-04-23 | 4 | 6 | 1 |
+| [`lucassaldanha`](lucassaldanha/lucassaldanha_activity.md) | 77 | 2024-03-21 | 2026-02-09 | 1 | 1 | 1 |
+| [`hartm`](hartm/hartm_activity.md) | 62 | 2024-01-22 | 2026-05-20 | 6 | 11 | 1 |
+| [`SeanBohan`](SeanBohan/SeanBohan_activity.md) | 56 | 2024-07-09 | 2026-05-11 | 4 | 18 | 1 |
+| [`diega`](diega/diega_activity.md) | 26 | 2024-02-05 | 2026-04-14 | 2 | 2 | 1 |
+| [`kkaur01`](kkaur01/kkaur01_activity.md) | 11 | 2024-07-01 | 2026-03-05 | 2 | 2 | 1 |
+| [`antonydenyer`](antonydenyer/antonydenyer_activity.md) | 8 | 2024-07-15 | 2024-10-01 | 1 | 1 | 1 |
+| [`ajsutton`](ajsutton/ajsutton_activity.md) | 2 | 2024-09-13 | 2024-09-13 | 1 | 1 | 1 |
+| [`thelinuxfoundation`](thelinuxfoundation/thelinuxfoundation_activity.md) | 0 | — | — | 0 | 0 | 1 |
 
 <sub>Generated by `team-reports`.</sub>

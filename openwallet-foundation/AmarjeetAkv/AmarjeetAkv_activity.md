@@ -1,8 +1,10 @@
 # GitHub activity report — `AmarjeetAkv`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **21** events spanning **2022-06-23 → 2024-11-26**, across **2** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **16** events spanning **2024-10-21 → 2024-11-26**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -28,46 +30,42 @@ Repository access granted through those teams (4 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 21 |
+| Total events | 16 |
 | Pull requests opened | 2 |
-| Pull request reviews | 9 |
+| Pull request reviews | 6 |
 | Issues opened | 0 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 8 |
+| Comments | 7 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 1 |
-| 2023 | 4 |
 | 2024 | 16 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 9 |
 | PullRequestReviewCommentEvent | 6 |
-| ForkEvent | 2 |
-| IssueCommentEvent | 2 |
+| PullRequestReviewEvent | 6 |
 | PullRequestEvent | 2 |
+| ForkEvent | 1 |
+| IssueCommentEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`openwallet-foundation`](https://github.com/openwallet-foundation) | 16 | 2 | 6 | 0 |
-| [`hyperledger`](https://github.com/hyperledger) | 5 | 0 | 3 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`openwallet-foundation/owl-akrida`](https://github.com/openwallet-foundation/owl-akrida) | 16 | 2 | 6 | 0 |
-| [`hyperledger/aries-mobile-test-harness`](https://github.com/hyperledger/aries-mobile-test-harness) | 5 | 0 | 3 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -76,7 +74,6 @@ Months as rows, event types as columns. One file per repository in [`AmarjeetAkv
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`openwallet-foundation/owl-akrida`](https://github.com/openwallet-foundation/owl-akrida) | 16 | [openwallet-foundation_owl-akrida.md](AmarjeetAkv_rollup/openwallet-foundation_owl-akrida.md) |
-| [`hyperledger/aries-mobile-test-harness`](https://github.com/hyperledger/aries-mobile-test-harness) | 5 | [hyperledger_aries-mobile-test-harness.md](AmarjeetAkv_rollup/hyperledger_aries-mobile-test-harness.md) |
 
 ---
 

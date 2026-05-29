@@ -1,8 +1,10 @@
 # GitHub activity report — `mathieuglaude`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **14** events spanning **2020-10-01 → 2024-03-27**, across **2** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **4** events spanning **2024-03-25 → 2024-03-27**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -25,8 +27,8 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 14 |
-| Pull requests opened | 5 |
+| Total events | 4 |
+| Pull requests opened | 0 |
 | Pull request reviews | 0 |
 | Issues opened | 1 |
 | Pushes | 0 |
@@ -38,37 +40,26 @@ Repository access granted through those teams (2 repos):
 
 | Year | Events |
 | --- | --: |
-| 2020 | 4 |
-| 2021 | 2 |
-| 2023 | 4 |
 | 2024 | 4 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 5 |
-| ForkEvent | 3 |
 | IssueCommentEvent | 3 |
-| CreateEvent | 2 |
 | IssuesEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`trustoverip`](https://github.com/trustoverip) | 12 | 4 | 0 | 0 |
-| [`hyperledger`](https://github.com/hyperledger) | 2 | 1 | 0 | 0 |
+| [`trustoverip`](https://github.com/trustoverip) | 4 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`trustoverip/tswg-trust-registry-protocol`](https://github.com/trustoverip/tswg-trust-registry-protocol) | 4 | 0 | 0 | 0 |
-| [`trustoverip/utility-foundry-wg`](https://github.com/trustoverip/utility-foundry-wg) | 4 | 3 | 0 | 0 |
-| [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 2 | 1 | 0 | 0 |
-| [`trustoverip/credential-exchange-protocols`](https://github.com/trustoverip/credential-exchange-protocols) | 2 | 0 | 0 | 0 |
-| [`trustoverip/deliverables`](https://github.com/trustoverip/deliverables) | 2 | 1 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -77,10 +68,6 @@ Months as rows, event types as columns. One file per repository in [`mathieuglau
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`trustoverip/tswg-trust-registry-protocol`](https://github.com/trustoverip/tswg-trust-registry-protocol) | 4 | [trustoverip_tswg-trust-registry-protocol.md](mathieuglaude_rollup/trustoverip_tswg-trust-registry-protocol.md) |
-| [`trustoverip/utility-foundry-wg`](https://github.com/trustoverip/utility-foundry-wg) | 4 | [trustoverip_utility-foundry-wg.md](mathieuglaude_rollup/trustoverip_utility-foundry-wg.md) |
-| [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 2 | [hyperledger_aries-rfcs.md](mathieuglaude_rollup/hyperledger_aries-rfcs.md) |
-| [`trustoverip/credential-exchange-protocols`](https://github.com/trustoverip/credential-exchange-protocols) | 2 | [trustoverip_credential-exchange-protocols.md](mathieuglaude_rollup/trustoverip_credential-exchange-protocols.md) |
-| [`trustoverip/deliverables`](https://github.com/trustoverip/deliverables) | 2 | [trustoverip_deliverables.md](mathieuglaude_rollup/trustoverip_deliverables.md) |
 
 ---
 

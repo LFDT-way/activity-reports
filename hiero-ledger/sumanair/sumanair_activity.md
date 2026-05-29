@@ -1,8 +1,10 @@
 # GitHub activity report — `sumanair`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **17** events spanning **2016-05-03 → 2025-04-07**, across **4** organizations and **9** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **2** events spanning **2025-04-07 → 2025-04-07**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -23,57 +25,39 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 17 |
-| Pull requests opened | 2 |
+| Total events | 2 |
+| Pull requests opened | 1 |
 | Pull request reviews | 0 |
 | Issues opened | 0 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 1 |
+| Comments | 0 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2016 | 6 |
-| 2017 | 3 |
-| 2018 | 3 |
-| 2019 | 1 |
-| 2021 | 1 |
-| 2022 | 1 |
 | 2025 | 2 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| ForkEvent | 13 |
-| PullRequestEvent | 3 |
-| IssueCommentEvent | 1 |
+| ForkEvent | 1 |
+| PullRequestEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 12 | 0 | 0 | 0 |
 | [`hiero-ledger`](https://github.com/hiero-ledger) | 2 | 1 | 0 | 0 |
-| [`hyperledger-archives`](https://github.com/hyperledger-archives) | 2 | 1 | 0 | 0 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 4 | 0 | 0 | 0 |
-| [`hyperledger/composer`](https://github.com/hyperledger/composer) | 3 | 0 | 0 | 0 |
 | [`hiero-ledger/governance`](https://github.com/hiero-ledger/governance) | 2 | 1 | 0 | 0 |
-| [`hyperledger-archives/fabric`](https://github.com/hyperledger-archives/fabric) | 2 | 1 | 0 | 0 |
-| [`hyperledger/composer-sample-applications`](https://github.com/hyperledger/composer-sample-applications) | 2 | 0 | 0 | 0 |
-| [`hyperledger-labs/blockchain-automation-framework`](https://github.com/hyperledger-labs/blockchain-automation-framework) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-sdk-node`](https://github.com/hyperledger/fabric-sdk-node) | 1 | 0 | 0 | 0 |
-| [`hyperledger/firefly-cli`](https://github.com/hyperledger/firefly-cli) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -81,15 +65,7 @@ Months as rows, event types as columns. One file per repository in [`sumanair_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 4 | [hyperledger_fabric.md](sumanair_rollup/hyperledger_fabric.md) |
-| [`hyperledger/composer`](https://github.com/hyperledger/composer) | 3 | [hyperledger_composer.md](sumanair_rollup/hyperledger_composer.md) |
 | [`hiero-ledger/governance`](https://github.com/hiero-ledger/governance) | 2 | [hiero-ledger_governance.md](sumanair_rollup/hiero-ledger_governance.md) |
-| [`hyperledger-archives/fabric`](https://github.com/hyperledger-archives/fabric) | 2 | [hyperledger-archives_fabric.md](sumanair_rollup/hyperledger-archives_fabric.md) |
-| [`hyperledger/composer-sample-applications`](https://github.com/hyperledger/composer-sample-applications) | 2 | [hyperledger_composer-sample-applications.md](sumanair_rollup/hyperledger_composer-sample-applications.md) |
-| [`hyperledger-labs/blockchain-automation-framework`](https://github.com/hyperledger-labs/blockchain-automation-framework) | 1 | [hyperledger-labs_blockchain-automation-framework.md](sumanair_rollup/hyperledger-labs_blockchain-automation-framework.md) |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | [hyperledger_fabric-samples.md](sumanair_rollup/hyperledger_fabric-samples.md) |
-| [`hyperledger/fabric-sdk-node`](https://github.com/hyperledger/fabric-sdk-node) | 1 | [hyperledger_fabric-sdk-node.md](sumanair_rollup/hyperledger_fabric-sdk-node.md) |
-| [`hyperledger/firefly-cli`](https://github.com/hyperledger/firefly-cli) | 1 | [hyperledger_firefly-cli.md](sumanair_rollup/hyperledger_firefly-cli.md) |
 
 ---
 

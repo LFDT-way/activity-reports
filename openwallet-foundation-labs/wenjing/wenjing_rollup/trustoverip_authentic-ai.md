@@ -1,6 +1,6 @@
 # [`trustoverip/authentic-ai`](https://github.com/trustoverip/authentic-ai) — monthly activity
 
-| Month | PushEvent | IssuesEvent | PullRequestEvent | CreateEvent | Total |
+| Month | IssuesEvent | PushEvent | PullRequestEvent | CreateEvent | Total |
 | --- | --: | --: | --: | --: | --: |
 | 2024-04 | 2 | 2 | 1 | 3 | 8 |
 | **Total** | **2** | **2** | **1** | **3** | **8** |

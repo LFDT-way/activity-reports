@@ -1,8 +1,10 @@
 # GitHub activity report — `modemn`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **120** events spanning **2022-07-22 → 2025-01-08**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **27** events spanning **2024-02-26 → 2025-01-08**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -23,21 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 120 |
-| Pull requests opened | 29 |
-| Pull request reviews | 16 |
+| Total events | 27 |
+| Pull requests opened | 4 |
+| Pull request reviews | 3 |
 | Issues opened | 1 |
-| Pushes | 22 |
-| Commits pushed | 42 |
-| Comments | 10 |
-| Releases | 1 |
+| Pushes | 6 |
+| Commits pushed | 7 |
+| Comments | 0 |
+| Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 9 |
-| 2023 | 84 |
 | 2024 | 25 |
 | 2025 | 2 |
 
@@ -45,32 +45,25 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 53 |
-| PushEvent | 22 |
-| PullRequestReviewEvent | 16 |
-| CreateEvent | 8 |
-| PullRequestReviewCommentEvent | 8 |
-| DeleteEvent | 4 |
-| ForkEvent | 4 |
-| IssueCommentEvent | 2 |
-| IssuesEvent | 2 |
-| ReleaseEvent | 1 |
+| PullRequestEvent | 9 |
+| CreateEvent | 6 |
+| PushEvent | 6 |
+| PullRequestReviewEvent | 3 |
+| DeleteEvent | 2 |
+| IssuesEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 119 | 29 | 16 | 22 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 27 | 4 | 3 | 6 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/fabric-ansible-collection`](https://github.com/hyperledger-labs/fabric-ansible-collection) | 106 | 19 | 16 | 22 |
-| [`hyperledger-labs/fabric-operations-console`](https://github.com/hyperledger-labs/fabric-operations-console) | 12 | 10 | 0 | 0 |
+| [`hyperledger-labs/fabric-ansible-collection`](https://github.com/hyperledger-labs/fabric-ansible-collection) | 26 | 4 | 3 | 6 |
 | [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -78,10 +71,8 @@ Months as rows, event types as columns. One file per repository in [`modemn_roll
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/fabric-ansible-collection`](https://github.com/hyperledger-labs/fabric-ansible-collection) | 106 | [hyperledger-labs_fabric-ansible-collection.md](modemn_rollup/hyperledger-labs_fabric-ansible-collection.md) |
-| [`hyperledger-labs/fabric-operations-console`](https://github.com/hyperledger-labs/fabric-operations-console) | 12 | [hyperledger-labs_fabric-operations-console.md](modemn_rollup/hyperledger-labs_fabric-operations-console.md) |
+| [`hyperledger-labs/fabric-ansible-collection`](https://github.com/hyperledger-labs/fabric-ansible-collection) | 26 | [hyperledger-labs_fabric-ansible-collection.md](modemn_rollup/hyperledger-labs_fabric-ansible-collection.md) |
 | [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 1 | [hyperledger-labs_governance.md](modemn_rollup/hyperledger-labs_governance.md) |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | [hyperledger_fabric-samples.md](modemn_rollup/hyperledger_fabric-samples.md) |
 
 ---
 

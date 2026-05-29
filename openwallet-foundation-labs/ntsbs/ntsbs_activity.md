@@ -1,8 +1,10 @@
 # GitHub activity report — `ntsbs`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **211** events spanning **2018-09-17 → 2025-11-17**, across **4** organizations and **9** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **88** events spanning **2024-01-19 → 2025-11-17**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -23,25 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 211 |
-| Pull requests opened | 22 |
-| Pull request reviews | 61 |
-| Issues opened | 1 |
-| Pushes | 42 |
-| Commits pushed | 67 |
-| Comments | 30 |
+| Total events | 88 |
+| Pull requests opened | 7 |
+| Pull request reviews | 22 |
+| Issues opened | 0 |
+| Pushes | 24 |
+| Commits pushed | 49 |
+| Comments | 7 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2018 | 1 |
-| 2019 | 3 |
-| 2020 | 4 |
-| 2021 | 13 |
-| 2022 | 58 |
-| 2023 | 44 |
 | 2024 | 84 |
 | 2025 | 4 |
 
@@ -49,39 +45,26 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 61 |
-| PullRequestEvent | 51 |
-| PushEvent | 42 |
-| PullRequestReviewCommentEvent | 22 |
+| PushEvent | 24 |
+| PullRequestReviewEvent | 22 |
+| PullRequestEvent | 20 |
 | DeleteEvent | 9 |
-| IssueCommentEvent | 8 |
-| ForkEvent | 6 |
 | CreateEvent | 5 |
-| WatchEvent | 4 |
-| IssuesEvent | 3 |
+| PullRequestReviewCommentEvent | 5 |
+| IssueCommentEvent | 2 |
+| IssuesEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 96 | 11 | 29 | 18 |
-| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 90 | 8 | 22 | 24 |
-| [`openwallet-foundation`](https://github.com/openwallet-foundation) | 22 | 1 | 10 | 0 |
-| [`trustoverip`](https://github.com/trustoverip) | 3 | 2 | 0 | 0 |
+| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 88 | 7 | 22 | 24 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs/wallet-framework-dotnet`](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) | 90 | 8 | 22 | 24 |
-| [`hyperledger/aries-framework-dotnet`](https://github.com/hyperledger/aries-framework-dotnet) | 87 | 11 | 29 | 18 |
-| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 22 | 1 | 10 | 0 |
-| [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 3 | 0 | 0 | 0 |
-| [`trustoverip/TIP0028-saturn-v`](https://github.com/trustoverip/TIP0028-saturn-v) | 3 | 2 | 0 | 0 |
-| [`hyperledger/aries-mobileagent-xamarin`](https://github.com/hyperledger/aries-mobileagent-xamarin) | 2 | 0 | 0 | 0 |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 2 | 0 | 0 | 0 |
-| [`hyperledger/indy-agent`](https://github.com/hyperledger/indy-agent) | 1 | 0 | 0 | 0 |
-| [`hyperledger/indy-node-monitor`](https://github.com/hyperledger/indy-node-monitor) | 1 | 0 | 0 | 0 |
+| [`openwallet-foundation-labs/wallet-framework-dotnet`](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) | 88 | 7 | 22 | 24 |
 
 ## Monthly rollup — one table per repository
 
@@ -89,15 +72,7 @@ Months as rows, event types as columns. One file per repository in [`ntsbs_rollu
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`openwallet-foundation-labs/wallet-framework-dotnet`](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) | 90 | [openwallet-foundation-labs_wallet-framework-dotnet.md](ntsbs_rollup/openwallet-foundation-labs_wallet-framework-dotnet.md) |
-| [`hyperledger/aries-framework-dotnet`](https://github.com/hyperledger/aries-framework-dotnet) | 87 | [hyperledger_aries-framework-dotnet.md](ntsbs_rollup/hyperledger_aries-framework-dotnet.md) |
-| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 22 | [openwallet-foundation_project-proposals.md](ntsbs_rollup/openwallet-foundation_project-proposals.md) |
-| [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 3 | [hyperledger_aries-rfcs.md](ntsbs_rollup/hyperledger_aries-rfcs.md) |
-| [`trustoverip/TIP0028-saturn-v`](https://github.com/trustoverip/TIP0028-saturn-v) | 3 | [trustoverip_TIP0028-saturn-v.md](ntsbs_rollup/trustoverip_TIP0028-saturn-v.md) |
-| [`hyperledger/aries-mobileagent-xamarin`](https://github.com/hyperledger/aries-mobileagent-xamarin) | 2 | [hyperledger_aries-mobileagent-xamarin.md](ntsbs_rollup/hyperledger_aries-mobileagent-xamarin.md) |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 2 | [hyperledger_indy-sdk.md](ntsbs_rollup/hyperledger_indy-sdk.md) |
-| [`hyperledger/indy-agent`](https://github.com/hyperledger/indy-agent) | 1 | [hyperledger_indy-agent.md](ntsbs_rollup/hyperledger_indy-agent.md) |
-| [`hyperledger/indy-node-monitor`](https://github.com/hyperledger/indy-node-monitor) | 1 | [hyperledger_indy-node-monitor.md](ntsbs_rollup/hyperledger_indy-node-monitor.md) |
+| [`openwallet-foundation-labs/wallet-framework-dotnet`](https://github.com/openwallet-foundation-labs/wallet-framework-dotnet) | 88 | [openwallet-foundation-labs_wallet-framework-dotnet.md](ntsbs_rollup/openwallet-foundation-labs_wallet-framework-dotnet.md) |
 
 ---
 

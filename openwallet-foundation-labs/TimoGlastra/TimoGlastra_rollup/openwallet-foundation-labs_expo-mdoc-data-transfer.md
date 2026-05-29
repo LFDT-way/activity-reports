@@ -1,6 +1,6 @@
 # [`openwallet-foundation-labs/expo-mdoc-data-transfer`](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer) — monthly activity
 
-| Month | IssueCommentEvent | PullRequestEvent | PushEvent | Total |
+| Month | PushEvent | PullRequestEvent | IssueCommentEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2026-02 | 2 | 3 | 2 | 7 |
 | **Total** | **2** | **3** | **2** | **7** |

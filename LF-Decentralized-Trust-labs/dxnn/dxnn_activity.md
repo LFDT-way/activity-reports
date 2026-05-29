@@ -1,8 +1,10 @@
 # GitHub activity report — `dxnn`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **2** events spanning **2016-07-09 → 2016-07-09**, across **1** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `dxnn` in the date range searched.
 
 ## Teams & repository access
 
@@ -18,53 +20,6 @@ Repository access granted through those teams (1 repos):
 | --- | --- | --- |
 | `HOPrS` | maintain | `hoprs-maintainers` (maintain) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 2 |
-| Pull requests opened | 0 |
-| Pull request reviews | 0 |
-| Issues opened | 0 |
-| Pushes | 0 |
-| Commits pushed | 0 |
-| Comments | 0 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2016 | 2 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| WatchEvent | 2 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 2 | 0 | 0 | 0 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | 0 | 0 | 0 |
-| [`hyperledger/hyperledger`](https://github.com/hyperledger/hyperledger) | 1 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`dxnn_rollup/`](dxnn_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | [hyperledger_fabric.md](dxnn_rollup/hyperledger_fabric.md) |
-| [`hyperledger/hyperledger`](https://github.com/hyperledger/hyperledger) | 1 | [hyperledger_hyperledger.md](dxnn_rollup/hyperledger_hyperledger.md) |
 
 ---
 

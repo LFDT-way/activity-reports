@@ -1,8 +1,10 @@
 # GitHub activity report — `KononovAndrey`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **81** events spanning **2020-10-23 → 2025-10-27**, across **3** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **79** events spanning **2025-06-06 → 2025-10-27**, across **2** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -28,7 +30,7 @@ Repository access granted through those teams (3 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 81 |
+| Total events | 79 |
 | Pull requests opened | 3 |
 | Pull request reviews | 24 |
 | Issues opened | 0 |
@@ -41,7 +43,6 @@ Repository access granted through those teams (3 repos):
 
 | Year | Events |
 | --- | --: |
-| 2020 | 2 |
 | 2025 | 79 |
 
 ## Event types
@@ -54,7 +55,6 @@ Repository access granted through those teams (3 repos):
 | PullRequestEvent | 10 |
 | CreateEvent | 5 |
 | DeleteEvent | 2 |
-| ForkEvent | 2 |
 
 ## Organizations
 
@@ -62,7 +62,6 @@ Repository access granted through those teams (3 repos):
 | --- | --: | --: | --: | --: |
 | [`hiero-ledger`](https://github.com/hiero-ledger) | 76 | 2 | 24 | 22 |
 | [`openwallet-foundation`](https://github.com/openwallet-foundation) | 3 | 1 | 0 | 0 |
-| [`hyperledger`](https://github.com/hyperledger) | 2 | 0 | 0 | 0 |
 
 ## Repositories
 
@@ -70,8 +69,6 @@ Repository access granted through those teams (3 repos):
 | --- | --: | --: | --: | --: |
 | [`hiero-ledger/hiero-did-sdk-js`](https://github.com/hiero-ledger/hiero-did-sdk-js) | 76 | 2 | 24 | 22 |
 | [`openwallet-foundation/credo-ts`](https://github.com/openwallet-foundation/credo-ts) | 2 | 1 | 0 | 0 |
-| [`hyperledger/indy-node`](https://github.com/hyperledger/indy-node) | 1 | 0 | 0 | 0 |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 1 | 0 | 0 | 0 |
 | [`openwallet-foundation/credo-ts-docs`](https://github.com/openwallet-foundation/credo-ts-docs) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -82,8 +79,6 @@ Months as rows, event types as columns. One file per repository in [`KononovAndr
 | --- | --: | --- |
 | [`hiero-ledger/hiero-did-sdk-js`](https://github.com/hiero-ledger/hiero-did-sdk-js) | 76 | [hiero-ledger_hiero-did-sdk-js.md](KononovAndrey_rollup/hiero-ledger_hiero-did-sdk-js.md) |
 | [`openwallet-foundation/credo-ts`](https://github.com/openwallet-foundation/credo-ts) | 2 | [openwallet-foundation_credo-ts.md](KononovAndrey_rollup/openwallet-foundation_credo-ts.md) |
-| [`hyperledger/indy-node`](https://github.com/hyperledger/indy-node) | 1 | [hyperledger_indy-node.md](KononovAndrey_rollup/hyperledger_indy-node.md) |
-| [`hyperledger/indy-sdk`](https://github.com/hyperledger/indy-sdk) | 1 | [hyperledger_indy-sdk.md](KononovAndrey_rollup/hyperledger_indy-sdk.md) |
 | [`openwallet-foundation/credo-ts-docs`](https://github.com/openwallet-foundation/credo-ts-docs) | 1 | [openwallet-foundation_credo-ts-docs.md](KononovAndrey_rollup/openwallet-foundation_credo-ts-docs.md) |
 
 ---

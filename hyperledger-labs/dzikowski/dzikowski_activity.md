@@ -1,8 +1,10 @@
 # GitHub activity report — `dzikowski`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **998** events spanning **2019-06-27 → 2026-05-11**, across **3** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **718** events spanning **2024-01-04 → 2026-05-11**, across **2** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -24,23 +26,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 998 |
-| Pull requests opened | 49 |
-| Pull request reviews | 125 |
-| Issues opened | 45 |
-| Pushes | 174 |
-| Commits pushed | 664 |
-| Comments | 260 |
-| Releases | 8 |
+| Total events | 718 |
+| Pull requests opened | 30 |
+| Pull request reviews | 90 |
+| Issues opened | 24 |
+| Pushes | 142 |
+| Commits pushed | 443 |
+| Comments | 192 |
+| Releases | 6 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2019 | 2 |
-| 2021 | 16 |
-| 2022 | 163 |
-| 2023 | 99 |
 | 2024 | 299 |
 | 2025 | 371 |
 | 2026 | 48 |
@@ -49,38 +47,29 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 182 |
-| IssueCommentEvent | 174 |
-| PushEvent | 174 |
-| IssuesEvent | 137 |
-| PullRequestReviewEvent | 125 |
-| PullRequestReviewCommentEvent | 86 |
-| DeleteEvent | 58 |
-| CreateEvent | 49 |
-| ReleaseEvent | 8 |
-| WatchEvent | 3 |
-| ForkEvent | 2 |
+| PushEvent | 142 |
+| IssueCommentEvent | 131 |
+| PullRequestEvent | 121 |
+| IssuesEvent | 90 |
+| PullRequestReviewEvent | 90 |
+| PullRequestReviewCommentEvent | 61 |
+| DeleteEvent | 43 |
+| CreateEvent | 34 |
+| ReleaseEvent | 6 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 992 | 49 | 125 | 174 |
-| [`hyperledger`](https://github.com/hyperledger) | 4 | 0 | 0 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 716 | 30 | 90 | 142 |
 | [`LF-Decentralized-Trust-Mentorships`](https://github.com/LF-Decentralized-Trust-Mentorships) | 2 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/fablo`](https://github.com/hyperledger-labs/fablo) | 989 | 49 | 125 | 174 |
+| [`hyperledger-labs/fablo`](https://github.com/hyperledger-labs/fablo) | 716 | 30 | 90 | 142 |
 | [`LF-Decentralized-Trust-Mentorships/mentorship-program`](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program) | 2 | 0 | 0 | 0 |
-| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 2 | 0 | 0 | 0 |
-| [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-chaincode-node`](https://github.com/hyperledger/fabric-chaincode-node) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-sdk-node`](https://github.com/hyperledger/fabric-sdk-node) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -88,14 +77,8 @@ Months as rows, event types as columns. One file per repository in [`dzikowski_r
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/fablo`](https://github.com/hyperledger-labs/fablo) | 989 | [hyperledger-labs_fablo.md](dzikowski_rollup/hyperledger-labs_fablo.md) |
+| [`hyperledger-labs/fablo`](https://github.com/hyperledger-labs/fablo) | 716 | [hyperledger-labs_fablo.md](dzikowski_rollup/hyperledger-labs_fablo.md) |
 | [`LF-Decentralized-Trust-Mentorships/mentorship-program`](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program) | 2 | [LF-Decentralized-Trust-Mentorships_mentorship-program.md](dzikowski_rollup/LF-Decentralized-Trust-Mentorships_mentorship-program.md) |
-| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 2 | [hyperledger-labs_hyperledger-labs.github.io.md](dzikowski_rollup/hyperledger-labs_hyperledger-labs.github.io.md) |
-| [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 1 | [hyperledger-labs_governance.md](dzikowski_rollup/hyperledger-labs_governance.md) |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | [hyperledger_fabric.md](dzikowski_rollup/hyperledger_fabric.md) |
-| [`hyperledger/fabric-chaincode-node`](https://github.com/hyperledger/fabric-chaincode-node) | 1 | [hyperledger_fabric-chaincode-node.md](dzikowski_rollup/hyperledger_fabric-chaincode-node.md) |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | [hyperledger_fabric-samples.md](dzikowski_rollup/hyperledger_fabric-samples.md) |
-| [`hyperledger/fabric-sdk-node`](https://github.com/hyperledger/fabric-sdk-node) | 1 | [hyperledger_fabric-sdk-node.md](dzikowski_rollup/hyperledger_fabric-sdk-node.md) |
 
 ---
 

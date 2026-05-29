@@ -1,30 +1,35 @@
 # GitHub activity report — `jeromy-cannon`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **3,578** events spanning **2024-10-31 → 2026-05-28**, across **1** organizations and **11** repositories.
 
 ## Teams & repository access
 
-Member of **9** team(s):
+Member of **11** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `github-maintainers` | member |
 | `governance-write` | member |
 | `homebrew-tools-maintainers` | member |
+| `roadmap-viewers` | member |
 | `solo-admins` | member |
 | `solo-committers` | maintainer |
+| `solo-docs-admins` | member |
 | `solo-docs-committers` | maintainer |
 | `solo-docs-maintainers` | maintainer |
 | `solo-internal-contributors` | maintainer |
 | `solo-maintainers` | member |
 
-Repository access granted through those teams (40 repos):
+Repository access granted through those teams (41 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `solo` | admin | `solo-admins` (admin), `github-maintainers` (maintain), `solo-maintainers` (maintain), `solo-committers` (write), `solo-internal-contributors` (triage) |
+| `solo-docs` | admin | `solo-docs-admins` (admin), `github-maintainers` (maintain), `solo-docs-maintainers` (maintain), `solo-docs-committers` (write) |
 | `.github` | maintain | `github-maintainers` (maintain) |
 | `awesome-contributions` | maintain | `github-maintainers` (maintain) |
 | `governance` | maintain | `github-maintainers` (maintain), `governance-write` (write) |
@@ -35,6 +40,7 @@ Repository access granted through those teams (40 repos):
 | `hiero-consensus-node` | maintain | `github-maintainers` (maintain) |
 | `hiero-consensus-specifications` | maintain | `github-maintainers` (maintain) |
 | `hiero-contracts` | maintain | `github-maintainers` (maintain) |
+| `hiero-cryptography` | maintain | `github-maintainers` (maintain) |
 | `hiero-did-sdk-js` | maintain | `github-maintainers` (maintain) |
 | `hiero-did-sdk-python` | maintain | `github-maintainers` (maintain) |
 | `hiero-docs` | maintain | `github-maintainers` (maintain) |
@@ -59,9 +65,8 @@ Repository access granted through those teams (40 repos):
 | `hiero-website` | maintain | `github-maintainers` (maintain) |
 | `homebrew-tools` | maintain | `github-maintainers` (maintain), `homebrew-tools-maintainers` (maintain) |
 | `identity-collaboration-hub` | maintain | `github-maintainers` (maintain) |
-| `roadmap` | maintain | `github-maintainers` (maintain) |
+| `roadmap` | maintain | `github-maintainers` (maintain), `roadmap-viewers` (read) |
 | `sdk-collaboration-hub` | maintain | `github-maintainers` (maintain) |
-| `solo-docs` | maintain | `github-maintainers` (maintain), `solo-docs-maintainers` (maintain), `solo-docs-committers` (write) |
 | `tsc` | maintain | `github-maintainers` (maintain) |
 | `tsc-eligibility-check` | maintain | `github-maintainers` (maintain) |
 

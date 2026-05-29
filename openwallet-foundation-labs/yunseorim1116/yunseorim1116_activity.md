@@ -1,6 +1,8 @@
 # GitHub activity report — `yunseorim1116`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **17** events spanning **2024-09-25 → 2025-10-01**, across **2** organizations and **4** repositories.
 

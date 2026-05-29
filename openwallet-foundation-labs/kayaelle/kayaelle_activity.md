@@ -1,6 +1,8 @@
 # GitHub activity report — `kayaelle`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **73** events spanning **2024-11-14 → 2025-12-09**, across **1** organizations and **1** repositories.
 

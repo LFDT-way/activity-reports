@@ -1,11 +1,3 @@
-repo,month,WatchEvent,ForkEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,total
-hyperledger/fabric,2018-08,1,0,0,0,0,1
-hyperledger/fabric,2024-11,0,0,1,1,0,2
-hyperledger/fabric,2025-02,0,1,0,0,0,1
-hyperledger-labs/pluggable-hcs,2020-07,1,1,0,0,1,3
-hyperledger-labs/fabric-operator,2022-11,1,0,0,0,0,1
-hyperledger-labs/fabric-token-sdk,2023-01,1,0,0,0,0,1
-hyperledger/fabric-chaintool,2018-09,1,0,0,0,0,1
-hyperledger/fabric-private-chaincode,2023-01,1,0,0,0,0,1
-hyperledger/fabric-protos-go,2020-12,1,0,0,0,0,1
-hyperledger/fabric-sdk-go,2020-01,1,0,0,0,0,1
+repo,month,ForkEvent,IssueCommentEvent,IssuesEvent,total
+hyperledger/fabric,2024-11,0,1,1,2
+hyperledger/fabric,2025-02,1,0,0,1

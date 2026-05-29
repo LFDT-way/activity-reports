@@ -1,18 +1,21 @@
 # GitHub activity report — `hendrikebbers`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **2,284** events spanning **2023-07-24 → 2026-05-28**, across **7** organizations and **42** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **2,283** events spanning **2024-08-12 → 2026-05-28**, across **7** organizations and **41** repositories.
 
 ## Teams & repository access
 
-Member of **13** team(s):
+Member of **14** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `governance-write` | maintainer |
 | `hiero-enterprise-java-maintainers` | maintainer |
 | `hiero-sdk-good-first-issue-support` | maintainer |
+| `hiero-sdk-triage` | maintainer |
 | `hiero-solo-action-committers` | maintainer |
 | `hiero-solo-action-maintainers` | maintainer |
 | `hiero-website-committers` | maintainer |
@@ -24,7 +27,7 @@ Member of **13** team(s):
 | `tsc-eligibility-check-committers` | member |
 | `tsc-eligibility-check-maintainers` | member |
 
-Repository access granted through those teams (39 repos):
+Repository access granted through those teams (40 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
@@ -37,10 +40,11 @@ Repository access granted through those teams (39 repos):
 | `hiero-consensus-node` | maintain | `tsc` (maintain) |
 | `hiero-consensus-specifications` | maintain | `tsc` (maintain) |
 | `hiero-contracts` | maintain | `tsc` (maintain) |
+| `hiero-cryptography` | maintain | `tsc` (maintain) |
 | `hiero-did-sdk-js` | maintain | `tsc` (maintain) |
 | `hiero-did-sdk-python` | maintain | `tsc` (maintain) |
 | `hiero-docs` | maintain | `tsc` (maintain) |
-| `hiero-enterprise-java` | maintain | `hiero-enterprise-java-maintainers` (maintain), `tsc` (maintain) |
+| `hiero-enterprise-java` | maintain | `hiero-enterprise-java-maintainers` (maintain), `tsc` (maintain), `hiero-sdk-triage` (triage) |
 | `hiero-ethereum-execution-spec-tests` | maintain | `tsc` (maintain) |
 | `hiero-gradle-conventions` | maintain | `tsc` (maintain) |
 | `hiero-hederium` | maintain | `tsc` (maintain) |
@@ -49,20 +53,20 @@ Repository access granted through those teams (39 repos):
 | `hiero-local-node` | maintain | `tsc` (maintain) |
 | `hiero-mirror-node` | maintain | `tsc` (maintain) |
 | `hiero-mirror-node-explorer` | maintain | `tsc` (maintain) |
-| `hiero-sdk-cpp` | maintain | `tsc` (maintain), `hiero-sdk-good-first-issue-support` (triage) |
-| `hiero-sdk-go` | maintain | `tsc` (maintain) |
-| `hiero-sdk-java` | maintain | `tsc` (maintain) |
-| `hiero-sdk-js` | maintain | `tsc` (maintain), `hiero-sdk-good-first-issue-support` (triage) |
-| `hiero-sdk-python` | maintain | `tsc` (maintain), `hiero-sdk-good-first-issue-support` (triage) |
-| `hiero-sdk-rust` | maintain | `tsc` (maintain) |
-| `hiero-sdk-swift` | maintain | `tsc` (maintain), `hiero-sdk-good-first-issue-support` (triage) |
-| `hiero-sdk-tck` | maintain | `tsc` (maintain) |
+| `hiero-sdk-cpp` | maintain | `tsc` (maintain), `hiero-sdk-good-first-issue-support` (triage), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-go` | maintain | `tsc` (maintain), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-java` | maintain | `tsc` (maintain), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-js` | maintain | `tsc` (maintain), `hiero-sdk-good-first-issue-support` (triage), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-python` | maintain | `tsc` (maintain), `hiero-sdk-good-first-issue-support` (triage), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-rust` | maintain | `tsc` (maintain), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-swift` | maintain | `tsc` (maintain), `hiero-sdk-good-first-issue-support` (triage), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-tck` | maintain | `tsc` (maintain), `hiero-sdk-triage` (triage) |
 | `hiero-solo-action` | maintain | `hiero-solo-action-maintainers` (maintain), `tsc` (maintain), `hiero-solo-action-committers` (write) |
 | `hiero-website` | maintain | `hiero-website-maintainers` (maintain), `tsc` (maintain), `hiero-website-committers` (write), `hiero-sdk-good-first-issue-support` (triage), `hiero-website-triage` (triage) |
 | `homebrew-tools` | maintain | `tsc` (maintain), `homebrew-tools-committers` (write) |
 | `identity-collaboration-hub` | maintain | `tsc` (maintain) |
 | `roadmap` | maintain | `tsc` (maintain) |
-| `sdk-collaboration-hub` | maintain | `sdk-collaboration-hub-maintainers` (maintain), `tsc` (maintain) |
+| `sdk-collaboration-hub` | maintain | `sdk-collaboration-hub-maintainers` (maintain), `tsc` (maintain), `hiero-sdk-triage` (triage) |
 | `solo` | maintain | `tsc` (maintain) |
 | `solo-docs` | maintain | `tsc` (maintain) |
 | `tsc` | maintain | `tsc` (maintain) |
@@ -73,7 +77,7 @@ Repository access granted through those teams (39 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 2,284 |
+| Total events | 2,283 |
 | Pull requests opened | 200 |
 | Pull request reviews | 293 |
 | Issues opened | 120 |
@@ -86,7 +90,6 @@ Repository access granted through those teams (39 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 1 |
 | 2024 | 604 |
 | 2025 | 1,456 |
 | 2026 | 223 |
@@ -104,7 +107,7 @@ Repository access granted through those teams (39 repos):
 | IssuesEvent | 176 |
 | DeleteEvent | 89 |
 | GollumEvent | 11 |
-| WatchEvent | 8 |
+| WatchEvent | 7 |
 | ForkEvent | 3 |
 | ReleaseEvent | 2 |
 | DiscussionEvent | 1 |
@@ -116,7 +119,7 @@ Repository access granted through those teams (39 repos):
 | [`hiero-ledger`](https://github.com/hiero-ledger) | 1,990 | 170 | 257 | 567 |
 | [`LFDT-Hiero`](https://github.com/LFDT-Hiero) | 205 | 24 | 3 | 43 |
 | [`LF-Decentralized-Trust`](https://github.com/LF-Decentralized-Trust) | 52 | 5 | 17 | 3 |
-| [`hyperledger`](https://github.com/hyperledger) | 33 | 1 | 15 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 32 | 1 | 15 | 0 |
 | [`LF-Decentralized-Trust-labs`](https://github.com/LF-Decentralized-Trust-labs) | 2 | 0 | 1 | 0 |
 | [`LF-Decentralized-Trust-Mentorships`](https://github.com/LF-Decentralized-Trust-Mentorships) | 1 | 0 | 0 | 0 |
 | [`LFDT-Regional-Chapters`](https://github.com/LFDT-Regional-Chapters) | 1 | 0 | 0 | 0 |
@@ -166,7 +169,6 @@ Repository access granted through those teams (39 repos):
 | [`LF-Decentralized-Trust-Mentorships/mentorship-program`](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program) | 1 | 0 | 0 | 0 |
 | [`LFDT-Regional-Chapters/LFDT-European-Chapter`](https://github.com/LFDT-Regional-Chapters/LFDT-European-Chapter) | 1 | 0 | 0 | 0 |
 | [`hiero-ledger/website`](https://github.com/hiero-ledger/website) | 1 | 0 | 0 | 0 |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -215,7 +217,6 @@ Months as rows, event types as columns. One file per repository in [`hendrikebbe
 | [`LF-Decentralized-Trust-Mentorships/mentorship-program`](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program) | 1 | [LF-Decentralized-Trust-Mentorships_mentorship-program.md](hendrikebbers_rollup/LF-Decentralized-Trust-Mentorships_mentorship-program.md) |
 | [`LFDT-Regional-Chapters/LFDT-European-Chapter`](https://github.com/LFDT-Regional-Chapters/LFDT-European-Chapter) | 1 | [LFDT-Regional-Chapters_LFDT-European-Chapter.md](hendrikebbers_rollup/LFDT-Regional-Chapters_LFDT-European-Chapter.md) |
 | [`hiero-ledger/website`](https://github.com/hiero-ledger/website) | 1 | [hiero-ledger_website.md](hendrikebbers_rollup/hiero-ledger_website.md) |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | [hyperledger_besu.md](hendrikebbers_rollup/hyperledger_besu.md) |
 
 ---
 

@@ -1,8 +1,10 @@
 # GitHub activity report — `mgCepeda`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **290** events spanning **2021-05-13 → 2024-07-29**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **63** events spanning **2024-01-08 → 2024-07-29**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -25,51 +27,42 @@ Repository access granted through those teams (3 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 290 |
-| Pull requests opened | 89 |
-| Pull request reviews | 32 |
-| Issues opened | 21 |
+| Total events | 63 |
+| Pull requests opened | 16 |
+| Pull request reviews | 17 |
+| Issues opened | 2 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 133 |
+| Comments | 28 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 31 |
-| 2022 | 65 |
-| 2023 | 131 |
 | 2024 | 63 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 99 |
-| IssueCommentEvent | 98 |
-| PullRequestReviewCommentEvent | 35 |
-| PullRequestReviewEvent | 32 |
-| IssuesEvent | 21 |
-| ForkEvent | 3 |
-| WatchEvent | 2 |
+| PullRequestReviewCommentEvent | 17 |
+| PullRequestReviewEvent | 17 |
+| PullRequestEvent | 16 |
+| IssueCommentEvent | 11 |
+| IssuesEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 260 | 78 | 32 | 0 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 30 | 11 | 0 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 63 | 16 | 17 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 255 | 76 | 32 | 0 |
-| [`hyperledger-labs/blockchain-automation-framework`](https://github.com/hyperledger-labs/blockchain-automation-framework) | 30 | 11 | 0 | 0 |
-| [`hyperledger/bevel-samples`](https://github.com/hyperledger/bevel-samples) | 4 | 2 | 0 | 0 |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | 0 | 0 | 0 |
+| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 63 | 16 | 17 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -77,10 +70,7 @@ Months as rows, event types as columns. One file per repository in [`mgCepeda_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 255 | [hyperledger_bevel.md](mgCepeda_rollup/hyperledger_bevel.md) |
-| [`hyperledger-labs/blockchain-automation-framework`](https://github.com/hyperledger-labs/blockchain-automation-framework) | 30 | [hyperledger-labs_blockchain-automation-framework.md](mgCepeda_rollup/hyperledger-labs_blockchain-automation-framework.md) |
-| [`hyperledger/bevel-samples`](https://github.com/hyperledger/bevel-samples) | 4 | [hyperledger_bevel-samples.md](mgCepeda_rollup/hyperledger_bevel-samples.md) |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | [hyperledger_fabric-samples.md](mgCepeda_rollup/hyperledger_fabric-samples.md) |
+| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 63 | [hyperledger_bevel.md](mgCepeda_rollup/hyperledger_bevel.md) |
 
 ---
 

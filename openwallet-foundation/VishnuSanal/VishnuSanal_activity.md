@@ -1,6 +1,8 @@
 # GitHub activity report — `VishnuSanal`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **302** events spanning **2025-05-14 → 2026-05-15**, across **2** organizations and **6** repositories.
 

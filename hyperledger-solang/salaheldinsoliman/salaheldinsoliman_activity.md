@@ -1,8 +1,10 @@
 # GitHub activity report — `salaheldinsoliman`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **467** events spanning **2022-06-01 → 2026-05-17**, across **5** organizations and **12** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **243** events spanning **2024-01-25 → 2026-05-17**, across **5** organizations and **11** repositories.
 
 ## Teams & repository access
 
@@ -29,21 +31,19 @@ Repository access granted through those teams (6 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 467 |
-| Pull requests opened | 46 |
-| Pull request reviews | 125 |
+| Total events | 243 |
+| Pull requests opened | 30 |
+| Pull request reviews | 31 |
 | Issues opened | 8 |
 | Pushes | 65 |
 | Commits pushed | 196 |
-| Comments | 148 |
+| Comments | 43 |
 | Releases | 1 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 102 |
-| 2023 | 122 |
 | 2024 | 126 |
 | 2025 | 110 |
 | 2026 | 7 |
@@ -52,24 +52,24 @@ Repository access granted through those teams (6 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 125 |
-| PullRequestReviewCommentEvent | 115 |
-| PullRequestEvent | 97 |
+| PullRequestEvent | 76 |
 | PushEvent | 65 |
-| IssueCommentEvent | 33 |
+| PullRequestReviewEvent | 31 |
+| IssueCommentEvent | 24 |
+| PullRequestReviewCommentEvent | 19 |
 | IssuesEvent | 13 |
-| ForkEvent | 7 |
 | CreateEvent | 6 |
-| WatchEvent | 5 |
+| ForkEvent | 6 |
+| WatchEvent | 2 |
 | ReleaseEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 224 | 21 | 84 | 4 |
 | [`hyperledger-solang`](https://github.com/hyperledger-solang) | 124 | 16 | 19 | 27 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 109 | 6 | 21 | 34 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 63 | 3 | 0 | 34 |
+| [`hyperledger`](https://github.com/hyperledger) | 46 | 8 | 11 | 4 |
 | [`LF-Decentralized-Trust`](https://github.com/LF-Decentralized-Trust) | 9 | 3 | 1 | 0 |
 | [`LF-Decentralized-Trust-Mentorships`](https://github.com/LF-Decentralized-Trust-Mentorships) | 1 | 0 | 0 | 0 |
 
@@ -77,10 +77,9 @@ Repository access granted through those teams (6 repos):
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/solang`](https://github.com/hyperledger/solang) | 215 | 18 | 83 | 4 |
 | [`hyperledger-solang/solang`](https://github.com/hyperledger-solang/solang) | 116 | 15 | 19 | 24 |
 | [`hyperledger-labs/solang-playground`](https://github.com/hyperledger-labs/solang-playground) | 58 | 1 | 0 | 34 |
-| [`hyperledger-labs/solang`](https://github.com/hyperledger-labs/solang) | 46 | 3 | 21 | 0 |
+| [`hyperledger/solang`](https://github.com/hyperledger/solang) | 37 | 5 | 10 | 4 |
 | [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) | 9 | 3 | 1 | 0 |
 | [`hyperledger/toc`](https://github.com/hyperledger/toc) | 7 | 3 | 1 | 0 |
 | [`hyperledger-solang/solang-playground`](https://github.com/hyperledger-solang/solang-playground) | 6 | 0 | 0 | 3 |
@@ -96,10 +95,9 @@ Months as rows, event types as columns. One file per repository in [`salaheldins
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/solang`](https://github.com/hyperledger/solang) | 215 | [hyperledger_solang.md](salaheldinsoliman_rollup/hyperledger_solang.md) |
 | [`hyperledger-solang/solang`](https://github.com/hyperledger-solang/solang) | 116 | [hyperledger-solang_solang.md](salaheldinsoliman_rollup/hyperledger-solang_solang.md) |
 | [`hyperledger-labs/solang-playground`](https://github.com/hyperledger-labs/solang-playground) | 58 | [hyperledger-labs_solang-playground.md](salaheldinsoliman_rollup/hyperledger-labs_solang-playground.md) |
-| [`hyperledger-labs/solang`](https://github.com/hyperledger-labs/solang) | 46 | [hyperledger-labs_solang.md](salaheldinsoliman_rollup/hyperledger-labs_solang.md) |
+| [`hyperledger/solang`](https://github.com/hyperledger/solang) | 37 | [hyperledger_solang.md](salaheldinsoliman_rollup/hyperledger_solang.md) |
 | [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) | 9 | [LF-Decentralized-Trust_governance.md](salaheldinsoliman_rollup/LF-Decentralized-Trust_governance.md) |
 | [`hyperledger/toc`](https://github.com/hyperledger/toc) | 7 | [hyperledger_toc.md](salaheldinsoliman_rollup/hyperledger_toc.md) |
 | [`hyperledger-solang/solang-playground`](https://github.com/hyperledger-solang/solang-playground) | 6 | [hyperledger-solang_solang-playground.md](salaheldinsoliman_rollup/hyperledger-solang_solang-playground.md) |

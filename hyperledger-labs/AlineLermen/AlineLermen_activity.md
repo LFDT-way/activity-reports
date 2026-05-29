@@ -1,8 +1,10 @@
 # GitHub activity report — `AlineLermen`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **13** events spanning **2022-01-10 → 2024-01-30**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **2** events spanning **2024-01-30 → 2024-01-30**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -25,12 +27,12 @@ Repository access granted through those teams (3 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 13 |
-| Pull requests opened | 6 |
+| Total events | 2 |
+| Pull requests opened | 1 |
 | Pull request reviews | 0 |
 | Issues opened | 0 |
-| Pushes | 1 |
-| Commits pushed | 1 |
+| Pushes | 0 |
+| Commits pushed | 0 |
 | Comments | 0 |
 | Releases | 0 |
 
@@ -38,34 +40,26 @@ Repository access granted through those teams (3 repos):
 
 | Year | Events |
 | --- | --: |
-| 2022 | 2 |
-| 2023 | 9 |
 | 2024 | 2 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 6 |
-| CreateEvent | 5 |
-| ForkEvent | 1 |
-| PushEvent | 1 |
+| CreateEvent | 1 |
+| PullRequestEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 11 | 5 | 0 | 1 |
-| [`hyperledger`](https://github.com/hyperledger) | 2 | 1 | 0 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 2 | 1 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/cc-tools`](https://github.com/hyperledger-labs/cc-tools) | 5 | 2 | 0 | 1 |
-| [`hyperledger-labs/cc-tools-demo`](https://github.com/hyperledger-labs/cc-tools-demo) | 4 | 2 | 0 | 0 |
-| [`hyperledger-labs/cc-tools-doc`](https://github.com/hyperledger-labs/cc-tools-doc) | 2 | 1 | 0 | 0 |
-| [`hyperledger/fabric-docs-i18n`](https://github.com/hyperledger/fabric-docs-i18n) | 2 | 1 | 0 | 0 |
+| [`hyperledger-labs/cc-tools-demo`](https://github.com/hyperledger-labs/cc-tools-demo) | 2 | 1 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -73,10 +67,7 @@ Months as rows, event types as columns. One file per repository in [`AlineLermen
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/cc-tools`](https://github.com/hyperledger-labs/cc-tools) | 5 | [hyperledger-labs_cc-tools.md](AlineLermen_rollup/hyperledger-labs_cc-tools.md) |
-| [`hyperledger-labs/cc-tools-demo`](https://github.com/hyperledger-labs/cc-tools-demo) | 4 | [hyperledger-labs_cc-tools-demo.md](AlineLermen_rollup/hyperledger-labs_cc-tools-demo.md) |
-| [`hyperledger-labs/cc-tools-doc`](https://github.com/hyperledger-labs/cc-tools-doc) | 2 | [hyperledger-labs_cc-tools-doc.md](AlineLermen_rollup/hyperledger-labs_cc-tools-doc.md) |
-| [`hyperledger/fabric-docs-i18n`](https://github.com/hyperledger/fabric-docs-i18n) | 2 | [hyperledger_fabric-docs-i18n.md](AlineLermen_rollup/hyperledger_fabric-docs-i18n.md) |
+| [`hyperledger-labs/cc-tools-demo`](https://github.com/hyperledger-labs/cc-tools-demo) | 2 | [hyperledger-labs_cc-tools-demo.md](AlineLermen_rollup/hyperledger-labs_cc-tools-demo.md) |
 
 ---
 

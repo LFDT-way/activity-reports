@@ -1,6 +1,8 @@
 # GitHub activity report — `Chinnmay`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **11** events spanning **2026-02-08 → 2026-03-10**, across **1** organizations and **3** repositories.
 

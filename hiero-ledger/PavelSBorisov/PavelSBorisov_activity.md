@@ -1,6 +1,8 @@
 # GitHub activity report — `PavelSBorisov`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **1,487** events spanning **2025-01-20 → 2026-05-28**, across **1** organizations and **25** repositories.
 
@@ -13,7 +15,7 @@ Member of **2** team(s):
 | `github-maintainers` | member |
 | `governance-write` | member |
 
-Repository access granted through those teams (40 repos):
+Repository access granted through those teams (41 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
@@ -27,6 +29,7 @@ Repository access granted through those teams (40 repos):
 | `hiero-consensus-node` | maintain | `github-maintainers` (maintain) |
 | `hiero-consensus-specifications` | maintain | `github-maintainers` (maintain) |
 | `hiero-contracts` | maintain | `github-maintainers` (maintain) |
+| `hiero-cryptography` | maintain | `github-maintainers` (maintain) |
 | `hiero-did-sdk-js` | maintain | `github-maintainers` (maintain) |
 | `hiero-did-sdk-python` | maintain | `github-maintainers` (maintain) |
 | `hiero-docs` | maintain | `github-maintainers` (maintain) |

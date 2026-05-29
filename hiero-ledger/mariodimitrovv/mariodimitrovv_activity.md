@@ -1,24 +1,35 @@
 # GitHub activity report — `mariodimitrovv`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **206** events spanning **2025-07-01 → 2026-05-21**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
-Member of **2** team(s):
+Member of **3** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `hiero-sdk-js-committers` | member |
 | `hiero-sdk-tck-committers` | member |
+| `hiero-sdk-triage` | member |
 
-Repository access granted through those teams (2 repos):
+Repository access granted through those teams (10 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `hiero-sdk-js` | write | `hiero-sdk-js-committers` (write) |
-| `hiero-sdk-tck` | write | `hiero-sdk-tck-committers` (write) |
+| `hiero-sdk-js` | write | `hiero-sdk-js-committers` (write), `hiero-sdk-triage` (triage) |
+| `hiero-sdk-tck` | write | `hiero-sdk-tck-committers` (write), `hiero-sdk-triage` (triage) |
+| `hiero-enterprise-java` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-cpp` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-go` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-java` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-python` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-rust` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-swift` | triage | `hiero-sdk-triage` (triage) |
+| `sdk-collaboration-hub` | triage | `hiero-sdk-triage` (triage) |
 
 
 ## Overview

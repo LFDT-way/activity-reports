@@ -1,8 +1,10 @@
 # GitHub activity report — `daniellehrner`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **975** events spanning **2021-04-20 → 2026-05-18**, across **2** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **478** events spanning **2024-01-11 → 2026-05-18**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -32,22 +34,19 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 975 |
-| Pull requests opened | 119 |
-| Pull request reviews | 250 |
-| Issues opened | 67 |
-| Pushes | 116 |
-| Commits pushed | 177 |
-| Comments | 245 |
+| Total events | 478 |
+| Pull requests opened | 66 |
+| Pull request reviews | 108 |
+| Issues opened | 35 |
+| Pushes | 72 |
+| Commits pushed | 133 |
+| Comments | 103 |
 | Releases | 1 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 19 |
-| 2022 | 338 |
-| 2023 | 140 |
 | 2024 | 197 |
 | 2025 | 199 |
 | 2026 | 82 |
@@ -56,34 +55,31 @@ Repository access granted through those teams (10 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 250 |
-| PullRequestEvent | 212 |
-| PullRequestReviewCommentEvent | 144 |
-| IssuesEvent | 129 |
-| PushEvent | 116 |
-| IssueCommentEvent | 101 |
-| CreateEvent | 14 |
-| DeleteEvent | 4 |
-| ForkEvent | 3 |
+| PullRequestEvent | 114 |
+| PullRequestReviewEvent | 108 |
+| PushEvent | 72 |
+| IssuesEvent | 65 |
+| PullRequestReviewCommentEvent | 63 |
+| IssueCommentEvent | 40 |
+| CreateEvent | 12 |
+| DeleteEvent | 3 |
 | ReleaseEvent | 1 |
-| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 941 | 112 | 248 | 99 |
+| [`hyperledger`](https://github.com/hyperledger) | 444 | 59 | 106 | 55 |
 | [`besu-eth`](https://github.com/besu-eth) | 34 | 7 | 2 | 17 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 898 | 104 | 235 | 93 |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 36 | 7 | 9 | 5 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 419 | 53 | 101 | 51 |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 34 | 7 | 2 | 17 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 6 | 1 | 4 | 0 |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 1 | 0 | 0 | 1 |
+| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 24 | 6 | 4 | 4 |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 1 | 0 | 1 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -91,11 +87,10 @@ Months as rows, event types as columns. One file per repository in [`daniellehrn
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 898 | [hyperledger_besu.md](daniellehrner_rollup/hyperledger_besu.md) |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 36 | [hyperledger_besu-native.md](daniellehrner_rollup/hyperledger_besu-native.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 419 | [hyperledger_besu.md](daniellehrner_rollup/hyperledger_besu.md) |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 34 | [besu-eth_besu.md](daniellehrner_rollup/besu-eth_besu.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 6 | [hyperledger_besu-docs.md](daniellehrner_rollup/hyperledger_besu-docs.md) |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 1 | [hyperledger_homebrew-besu.md](daniellehrner_rollup/hyperledger_homebrew-besu.md) |
+| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 24 | [hyperledger_besu-native.md](daniellehrner_rollup/hyperledger_besu-native.md) |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 1 | [hyperledger_besu-docs.md](daniellehrner_rollup/hyperledger_besu-docs.md) |
 
 ---
 

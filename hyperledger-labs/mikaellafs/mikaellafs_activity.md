@@ -1,8 +1,10 @@
 # GitHub activity report — `mikaellafs`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **10** events spanning **2023-10-19 → 2024-05-16**, across **1** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **4** events spanning **2024-01-10 → 2024-05-16**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -25,45 +27,42 @@ Repository access granted through those teams (3 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 10 |
-| Pull requests opened | 2 |
-| Pull request reviews | 1 |
+| Total events | 4 |
+| Pull requests opened | 1 |
+| Pull request reviews | 0 |
 | Issues opened | 0 |
-| Pushes | 3 |
-| Commits pushed | 7 |
-| Comments | 1 |
+| Pushes | 1 |
+| Commits pushed | 5 |
+| Comments | 0 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 6 |
 | 2024 | 4 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 3 |
-| CreateEvent | 2 |
-| PullRequestEvent | 2 |
+| CreateEvent | 1 |
 | ForkEvent | 1 |
-| IssueCommentEvent | 1 |
-| PullRequestReviewEvent | 1 |
+| PullRequestEvent | 1 |
+| PushEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 10 | 2 | 1 | 3 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 4 | 1 | 0 | 1 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/cc-tools`](https://github.com/hyperledger-labs/cc-tools) | 8 | 2 | 0 | 2 |
-| [`hyperledger-labs/cc-tools-demo`](https://github.com/hyperledger-labs/cc-tools-demo) | 2 | 0 | 1 | 1 |
+| [`hyperledger-labs/cc-tools`](https://github.com/hyperledger-labs/cc-tools) | 3 | 1 | 0 | 0 |
+| [`hyperledger-labs/cc-tools-demo`](https://github.com/hyperledger-labs/cc-tools-demo) | 1 | 0 | 0 | 1 |
 
 ## Monthly rollup — one table per repository
 
@@ -71,8 +70,8 @@ Months as rows, event types as columns. One file per repository in [`mikaellafs_
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/cc-tools`](https://github.com/hyperledger-labs/cc-tools) | 8 | [hyperledger-labs_cc-tools.md](mikaellafs_rollup/hyperledger-labs_cc-tools.md) |
-| [`hyperledger-labs/cc-tools-demo`](https://github.com/hyperledger-labs/cc-tools-demo) | 2 | [hyperledger-labs_cc-tools-demo.md](mikaellafs_rollup/hyperledger-labs_cc-tools-demo.md) |
+| [`hyperledger-labs/cc-tools`](https://github.com/hyperledger-labs/cc-tools) | 3 | [hyperledger-labs_cc-tools.md](mikaellafs_rollup/hyperledger-labs_cc-tools.md) |
+| [`hyperledger-labs/cc-tools-demo`](https://github.com/hyperledger-labs/cc-tools-demo) | 1 | [hyperledger-labs_cc-tools-demo.md](mikaellafs_rollup/hyperledger-labs_cc-tools-demo.md) |
 
 ---
 

@@ -1,8 +1,10 @@
 # GitHub activity report — `alexandrosfilios`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **5,638** events spanning **2022-07-19 → 2026-05-25**, across **2** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **5,288** events spanning **2024-01-08 → 2026-05-25**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -23,21 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 5,638 |
-| Pull requests opened | 320 |
-| Pull request reviews | 735 |
-| Issues opened | 82 |
-| Pushes | 3,096 |
-| Commits pushed | 6,554 |
-| Comments | 578 |
+| Total events | 5,288 |
+| Pull requests opened | 260 |
+| Pull request reviews | 675 |
+| Issues opened | 80 |
+| Pushes | 2,988 |
+| Commits pushed | 6,279 |
+| Comments | 538 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 131 |
-| 2023 | 219 |
 | 2024 | 3,414 |
 | 2025 | 1,873 |
 | 2026 | 1 |
@@ -46,32 +46,28 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 3,096 |
-| PullRequestReviewEvent | 735 |
-| PullRequestEvent | 576 |
-| PullRequestReviewCommentEvent | 548 |
-| CreateEvent | 287 |
-| DeleteEvent | 249 |
-| IssuesEvent | 110 |
-| IssueCommentEvent | 30 |
-| ForkEvent | 3 |
+| PushEvent | 2,988 |
+| PullRequestReviewEvent | 675 |
+| PullRequestReviewCommentEvent | 514 |
+| PullRequestEvent | 483 |
+| CreateEvent | 265 |
+| DeleteEvent | 229 |
+| IssuesEvent | 107 |
+| IssueCommentEvent | 24 |
 | GollumEvent | 3 |
-| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 5,637 | 320 | 735 | 3,096 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 5,288 | 260 | 675 | 2,988 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/fabric-token-sdk`](https://github.com/hyperledger-labs/fabric-token-sdk) | 3,086 | 158 | 486 | 1,633 |
-| [`hyperledger-labs/fabric-smart-client`](https://github.com/hyperledger-labs/fabric-smart-client) | 2,551 | 162 | 249 | 1,463 |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | 0 | 0 | 0 |
+| [`hyperledger-labs/fabric-token-sdk`](https://github.com/hyperledger-labs/fabric-token-sdk) | 2,936 | 129 | 465 | 1,576 |
+| [`hyperledger-labs/fabric-smart-client`](https://github.com/hyperledger-labs/fabric-smart-client) | 2,352 | 131 | 210 | 1,412 |
 
 ## Monthly rollup — one table per repository
 
@@ -79,9 +75,8 @@ Months as rows, event types as columns. One file per repository in [`alexandrosf
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/fabric-token-sdk`](https://github.com/hyperledger-labs/fabric-token-sdk) | 3,086 | [hyperledger-labs_fabric-token-sdk.md](alexandrosfilios_rollup/hyperledger-labs_fabric-token-sdk.md) |
-| [`hyperledger-labs/fabric-smart-client`](https://github.com/hyperledger-labs/fabric-smart-client) | 2,551 | [hyperledger-labs_fabric-smart-client.md](alexandrosfilios_rollup/hyperledger-labs_fabric-smart-client.md) |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | [hyperledger_fabric.md](alexandrosfilios_rollup/hyperledger_fabric.md) |
+| [`hyperledger-labs/fabric-token-sdk`](https://github.com/hyperledger-labs/fabric-token-sdk) | 2,936 | [hyperledger-labs_fabric-token-sdk.md](alexandrosfilios_rollup/hyperledger-labs_fabric-token-sdk.md) |
+| [`hyperledger-labs/fabric-smart-client`](https://github.com/hyperledger-labs/fabric-smart-client) | 2,352 | [hyperledger-labs_fabric-smart-client.md](alexandrosfilios_rollup/hyperledger-labs_fabric-smart-client.md) |
 
 ---
 

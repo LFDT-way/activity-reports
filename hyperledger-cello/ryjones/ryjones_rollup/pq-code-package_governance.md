@@ -1,6 +1,6 @@
 # [`pq-code-package/governance`](https://github.com/pq-code-package/governance) — monthly activity
 
-| Month | PullRequestEvent | CreateEvent | DeleteEvent | Total |
+| Month | PullRequestEvent | DeleteEvent | CreateEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2024-03 | 1 | 2 | 2 | 5 |
 | **Total** | **1** | **2** | **2** | **5** |

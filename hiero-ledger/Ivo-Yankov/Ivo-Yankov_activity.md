@@ -1,12 +1,14 @@
 # GitHub activity report — `Ivo-Yankov`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **541** events spanning **2025-04-22 → 2026-05-28**, across **1** organizations and **3** repositories.
 
 ## Teams & repository access
 
-Member of **7** team(s):
+Member of **10** team(s):
 
 | Team | Role in team |
 | --- | --- |
@@ -15,19 +17,24 @@ Member of **7** team(s):
 | `hiero-improvement-proposals-committers` | member |
 | `hiero-json-rpc-relay-committers` | member |
 | `hiero-local-node-committers` | member |
+| `hiero-local-node-maintainers` | maintainer |
+| `roadmap-viewers` | member |
 | `solo-committers` | member |
+| `solo-docs-maintainers` | maintainer |
 | `solo-internal-contributors` | member |
 
-Repository access granted through those teams (6 repos):
+Repository access granted through those teams (8 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
+| `hiero-local-node` | maintain | `hiero-local-node-maintainers` (maintain), `hiero-local-node-committers` (write) |
+| `solo-docs` | maintain | `solo-docs-maintainers` (maintain) |
 | `hiero-contracts` | write | `hiero-contracts-committers` (write) |
 | `hiero-ethereum-execution-spec-tests` | write | `hiero-ethereum-execution-spec-tests-committers` (write) |
 | `hiero-improvement-proposals` | write | `hiero-improvement-proposals-committers` (write) |
 | `hiero-json-rpc-relay` | write | `hiero-json-rpc-relay-committers` (write) |
-| `hiero-local-node` | write | `hiero-local-node-committers` (write) |
 | `solo` | write | `solo-committers` (write), `solo-internal-contributors` (triage) |
+| `roadmap` | read | `roadmap-viewers` (read) |
 
 
 ## Overview

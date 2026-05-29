@@ -1,9 +1,9 @@
 # [`hyperledger/fabric-x-orderer`](https://github.com/hyperledger/fabric-x-orderer) — monthly activity
 
-| Month | PullRequestReviewEvent | PullRequestEvent | IssuesEvent | ForkEvent | Total |
+| Month | PullRequestReviewEvent | IssuesEvent | PullRequestEvent | ForkEvent | Total |
 | --- | --: | --: | --: | --: | --: |
-| 2026-01 |  | 1 |  | 1 | 2 |
-| 2026-04 |  | 2 | 3 |  | 5 |
+| 2026-01 |  |  | 1 | 1 | 2 |
+| 2026-04 |  | 3 | 2 |  | 5 |
 | 2026-05 | 1 |  |  |  | 1 |
 | **Total** | **1** | **3** | **3** | **1** | **8** |
 

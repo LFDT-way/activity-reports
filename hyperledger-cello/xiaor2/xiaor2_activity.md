@@ -1,8 +1,10 @@
 # GitHub activity report — `xiaor2`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **31** events spanning **2023-08-04 → 2024-06-21**, across **1** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **21** events spanning **2024-01-19 → 2024-06-21**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -23,45 +25,41 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 31 |
-| Pull requests opened | 9 |
+| Total events | 21 |
+| Pull requests opened | 7 |
 | Pull request reviews | 0 |
-| Issues opened | 6 |
+| Issues opened | 3 |
 | Pushes | 5 |
 | Commits pushed | 15 |
-| Comments | 3 |
+| Comments | 1 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 10 |
 | 2024 | 21 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 14 |
-| IssuesEvent | 7 |
+| PullRequestEvent | 12 |
 | PushEvent | 5 |
-| IssueCommentEvent | 3 |
-| ForkEvent | 1 |
-| WatchEvent | 1 |
+| IssuesEvent | 3 |
+| IssueCommentEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 31 | 9 | 0 | 5 |
+| [`hyperledger`](https://github.com/hyperledger) | 21 | 7 | 0 | 5 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 30 | 9 | 0 | 5 |
-| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 1 | 0 | 0 | 0 |
+| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 21 | 7 | 0 | 5 |
 
 ## Monthly rollup — one table per repository
 
@@ -69,8 +67,7 @@ Months as rows, event types as columns. One file per repository in [`xiaor2_roll
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 30 | [hyperledger_cello.md](xiaor2_rollup/hyperledger_cello.md) |
-| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 1 | [hyperledger_governance.md](xiaor2_rollup/hyperledger_governance.md) |
+| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 21 | [hyperledger_cello.md](xiaor2_rollup/hyperledger_cello.md) |
 
 ---
 

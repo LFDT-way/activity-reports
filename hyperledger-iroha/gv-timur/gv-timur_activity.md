@@ -1,8 +1,10 @@
 # GitHub activity report — `gv-timur`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **249** events spanning **2022-01-26 → 2024-11-18**, across **2** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **50** events spanning **2024-01-22 → 2024-11-18**, across **2** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -26,49 +28,45 @@ Repository access granted through those teams (4 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 249 |
-| Pull requests opened | 28 |
-| Pull request reviews | 48 |
-| Issues opened | 4 |
-| Pushes | 93 |
-| Commits pushed | 203 |
-| Comments | 12 |
+| Total events | 50 |
+| Pull requests opened | 5 |
+| Pull request reviews | 11 |
+| Issues opened | 0 |
+| Pushes | 15 |
+| Commits pushed | 33 |
+| Comments | 4 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 102 |
-| 2023 | 97 |
 | 2024 | 50 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 93 |
-| PullRequestEvent | 53 |
-| PullRequestReviewEvent | 48 |
-| CreateEvent | 28 |
-| PullRequestReviewCommentEvent | 12 |
-| DeleteEvent | 8 |
-| IssuesEvent | 7 |
+| PushEvent | 15 |
+| PullRequestReviewEvent | 11 |
+| PullRequestEvent | 9 |
+| CreateEvent | 6 |
+| DeleteEvent | 5 |
+| PullRequestReviewCommentEvent | 4 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 248 | 28 | 47 | 93 |
+| [`hyperledger`](https://github.com/hyperledger) | 49 | 5 | 10 | 15 |
 | [`hyperledger-iroha`](https://github.com/hyperledger-iroha) | 1 | 0 | 1 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 247 | 28 | 47 | 93 |
+| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 49 | 5 | 10 | 15 |
 | [`hyperledger-iroha/iroha-java`](https://github.com/hyperledger-iroha/iroha-java) | 1 | 0 | 1 | 0 |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -76,9 +74,8 @@ Months as rows, event types as columns. One file per repository in [`gv-timur_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 247 | [hyperledger_iroha-java.md](gv-timur_rollup/hyperledger_iroha-java.md) |
+| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 49 | [hyperledger_iroha-java.md](gv-timur_rollup/hyperledger_iroha-java.md) |
 | [`hyperledger-iroha/iroha-java`](https://github.com/hyperledger-iroha/iroha-java) | 1 | [hyperledger-iroha_iroha-java.md](gv-timur_rollup/hyperledger-iroha_iroha-java.md) |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 1 | [hyperledger_iroha.md](gv-timur_rollup/hyperledger_iroha.md) |
 
 ---
 

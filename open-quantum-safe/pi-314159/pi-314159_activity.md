@@ -1,8 +1,10 @@
 # GitHub activity report — `pi-314159`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **418** events spanning **2023-10-13 → 2026-05-26**, across **1** organizations and **6** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **390** events spanning **2024-01-24 → 2026-05-26**, across **1** organizations and **6** repositories.
 
 ## Teams & repository access
 
@@ -40,20 +42,19 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 418 |
-| Pull requests opened | 41 |
+| Total events | 390 |
+| Pull requests opened | 35 |
 | Pull request reviews | 39 |
 | Issues opened | 0 |
-| Pushes | 36 |
-| Commits pushed | 194 |
-| Comments | 155 |
+| Pushes | 34 |
+| Commits pushed | 173 |
+| Comments | 147 |
 | Releases | 2 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 28 |
 | 2024 | 298 |
 | 2025 | 80 |
 | 2026 | 12 |
@@ -62,32 +63,32 @@ Repository access granted through those teams (17 repos):
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 121 |
-| PullRequestEvent | 67 |
-| ForkEvent | 46 |
+| IssueCommentEvent | 113 |
+| PullRequestEvent | 58 |
 | DeleteEvent | 44 |
 | PullRequestReviewEvent | 39 |
-| PushEvent | 36 |
+| ForkEvent | 38 |
 | PullRequestReviewCommentEvent | 34 |
+| PushEvent | 34 |
 | CreateEvent | 16 |
 | IssuesEvent | 10 |
-| GollumEvent | 3 |
+| GollumEvent | 2 |
 | ReleaseEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 418 | 41 | 39 | 36 |
+| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 390 | 35 | 39 | 34 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe/boringssl`](https://github.com/open-quantum-safe/boringssl) | 246 | 23 | 19 | 24 |
-| [`open-quantum-safe/oqs-demos`](https://github.com/open-quantum-safe/oqs-demos) | 120 | 10 | 14 | 12 |
+| [`open-quantum-safe/boringssl`](https://github.com/open-quantum-safe/boringssl) | 230 | 20 | 19 | 22 |
+| [`open-quantum-safe/oqs-demos`](https://github.com/open-quantum-safe/oqs-demos) | 110 | 8 | 14 | 12 |
 | [`open-quantum-safe/ci-containers`](https://github.com/open-quantum-safe/ci-containers) | 22 | 5 | 3 | 0 |
-| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 18 | 2 | 2 | 0 |
+| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 16 | 1 | 2 | 0 |
 | [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 8 | 1 | 0 | 0 |
 | [`open-quantum-safe/tsc`](https://github.com/open-quantum-safe/tsc) | 4 | 0 | 1 | 0 |
 
@@ -97,10 +98,10 @@ Months as rows, event types as columns. One file per repository in [`pi-314159_r
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`open-quantum-safe/boringssl`](https://github.com/open-quantum-safe/boringssl) | 246 | [open-quantum-safe_boringssl.md](pi-314159_rollup/open-quantum-safe_boringssl.md) |
-| [`open-quantum-safe/oqs-demos`](https://github.com/open-quantum-safe/oqs-demos) | 120 | [open-quantum-safe_oqs-demos.md](pi-314159_rollup/open-quantum-safe_oqs-demos.md) |
+| [`open-quantum-safe/boringssl`](https://github.com/open-quantum-safe/boringssl) | 230 | [open-quantum-safe_boringssl.md](pi-314159_rollup/open-quantum-safe_boringssl.md) |
+| [`open-quantum-safe/oqs-demos`](https://github.com/open-quantum-safe/oqs-demos) | 110 | [open-quantum-safe_oqs-demos.md](pi-314159_rollup/open-quantum-safe_oqs-demos.md) |
 | [`open-quantum-safe/ci-containers`](https://github.com/open-quantum-safe/ci-containers) | 22 | [open-quantum-safe_ci-containers.md](pi-314159_rollup/open-quantum-safe_ci-containers.md) |
-| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 18 | [open-quantum-safe_oqs-provider.md](pi-314159_rollup/open-quantum-safe_oqs-provider.md) |
+| [`open-quantum-safe/oqs-provider`](https://github.com/open-quantum-safe/oqs-provider) | 16 | [open-quantum-safe_oqs-provider.md](pi-314159_rollup/open-quantum-safe_oqs-provider.md) |
 | [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 8 | [open-quantum-safe_liboqs.md](pi-314159_rollup/open-quantum-safe_liboqs.md) |
 | [`open-quantum-safe/tsc`](https://github.com/open-quantum-safe/tsc) | 4 | [open-quantum-safe_tsc.md](pi-314159_rollup/open-quantum-safe_tsc.md) |
 

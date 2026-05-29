@@ -1,8 +1,10 @@
 # GitHub activity report — `saikumarbommakanti`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **62** events spanning **2023-05-24 → 2024-07-15**, across **1** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **23** events spanning **2024-01-05 → 2024-07-15**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -26,44 +28,43 @@ Repository access granted through those teams (3 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 62 |
-| Pull requests opened | 17 |
-| Pull request reviews | 11 |
-| Issues opened | 3 |
+| Total events | 23 |
+| Pull requests opened | 10 |
+| Pull request reviews | 3 |
+| Issues opened | 2 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 20 |
+| Comments | 6 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 39 |
 | 2024 | 23 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 19 |
-| PullRequestReviewCommentEvent | 11 |
-| PullRequestReviewEvent | 11 |
-| IssueCommentEvent | 9 |
-| ForkEvent | 8 |
-| IssuesEvent | 4 |
+| PullRequestEvent | 10 |
+| IssueCommentEvent | 3 |
+| IssuesEvent | 3 |
+| PullRequestReviewCommentEvent | 3 |
+| PullRequestReviewEvent | 3 |
+| ForkEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 62 | 17 | 11 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 23 | 10 | 3 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 61 | 17 | 11 | 0 |
+| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 22 | 10 | 3 | 0 |
 | [`hyperledger/bevel-samples`](https://github.com/hyperledger/bevel-samples) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -72,7 +73,7 @@ Months as rows, event types as columns. One file per repository in [`saikumarbom
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 61 | [hyperledger_bevel.md](saikumarbommakanti_rollup/hyperledger_bevel.md) |
+| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 22 | [hyperledger_bevel.md](saikumarbommakanti_rollup/hyperledger_bevel.md) |
 | [`hyperledger/bevel-samples`](https://github.com/hyperledger/bevel-samples) | 1 | [hyperledger_bevel-samples.md](saikumarbommakanti_rollup/hyperledger_bevel-samples.md) |
 
 ---

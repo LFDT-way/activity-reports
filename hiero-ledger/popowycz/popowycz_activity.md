@@ -1,6 +1,8 @@
 # GitHub activity report — `popowycz`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **39** events spanning **2024-11-12 → 2025-07-08**, across **1** organizations and **5** repositories.
 
@@ -12,7 +14,7 @@ Member of **1** team(s):
 | --- | --- |
 | `tsc` | member |
 
-Repository access granted through those teams (39 repos):
+Repository access granted through those teams (40 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
@@ -25,6 +27,7 @@ Repository access granted through those teams (39 repos):
 | `hiero-consensus-node` | maintain | `tsc` (maintain) |
 | `hiero-consensus-specifications` | maintain | `tsc` (maintain) |
 | `hiero-contracts` | maintain | `tsc` (maintain) |
+| `hiero-cryptography` | maintain | `tsc` (maintain) |
 | `hiero-did-sdk-js` | maintain | `tsc` (maintain) |
 | `hiero-did-sdk-python` | maintain | `tsc` (maintain) |
 | `hiero-docs` | maintain | `tsc` (maintain) |

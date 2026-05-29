@@ -1,8 +1,10 @@
 # GitHub activity report — `GarethCOliver`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **16** events spanning **2023-11-30 → 2024-10-02**, across **1** organizations and **1** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **5** events spanning **2024-05-06 → 2024-10-02**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -28,41 +30,39 @@ Repository access granted through those teams (6 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 16 |
+| Total events | 5 |
 | Pull requests opened | 0 |
-| Pull request reviews | 5 |
+| Pull request reviews | 3 |
 | Issues opened | 0 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 11 |
+| Comments | 2 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 11 |
 | 2024 | 5 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| CommitCommentEvent | 7 |
-| PullRequestReviewEvent | 5 |
-| PullRequestReviewCommentEvent | 4 |
+| PullRequestReviewEvent | 3 |
+| PullRequestReviewCommentEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 16 | 0 | 5 | 0 |
+| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 5 | 0 | 3 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs/identity-credential`](https://github.com/openwallet-foundation-labs/identity-credential) | 16 | 0 | 5 | 0 |
+| [`openwallet-foundation-labs/identity-credential`](https://github.com/openwallet-foundation-labs/identity-credential) | 5 | 0 | 3 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -70,7 +70,7 @@ Months as rows, event types as columns. One file per repository in [`GarethCOliv
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`openwallet-foundation-labs/identity-credential`](https://github.com/openwallet-foundation-labs/identity-credential) | 16 | [openwallet-foundation-labs_identity-credential.md](GarethCOliver_rollup/openwallet-foundation-labs_identity-credential.md) |
+| [`openwallet-foundation-labs/identity-credential`](https://github.com/openwallet-foundation-labs/identity-credential) | 5 | [openwallet-foundation-labs_identity-credential.md](GarethCOliver_rollup/openwallet-foundation-labs_identity-credential.md) |
 
 ---
 

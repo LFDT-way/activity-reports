@@ -1,8 +1,10 @@
 # GitHub activity report — `dai1975`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **175** events spanning **2021-06-30 → 2026-03-12**, across **1** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **174** events spanning **2024-04-13 → 2026-03-12**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -24,7 +26,7 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 175 |
+| Total events | 174 |
 | Pull requests opened | 14 |
 | Pull request reviews | 78 |
 | Issues opened | 0 |
@@ -37,7 +39,6 @@ Repository access granted through those teams (2 repos):
 
 | Year | Events |
 | --- | --: |
-| 2021 | 1 |
 | 2024 | 41 |
 | 2025 | 128 |
 | 2026 | 5 |
@@ -50,20 +51,18 @@ Repository access granted through those teams (2 repos):
 | PullRequestReviewCommentEvent | 77 |
 | PullRequestEvent | 18 |
 | IssueCommentEvent | 1 |
-| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 175 | 14 | 78 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 174 | 14 | 78 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-labs/yui-relayer`](https://github.com/hyperledger-labs/yui-relayer) | 174 | 14 | 78 | 0 |
-| [`hyperledger-labs/firefly-ethconnect`](https://github.com/hyperledger-labs/firefly-ethconnect) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -72,7 +71,6 @@ Months as rows, event types as columns. One file per repository in [`dai1975_rol
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`hyperledger-labs/yui-relayer`](https://github.com/hyperledger-labs/yui-relayer) | 174 | [hyperledger-labs_yui-relayer.md](dai1975_rollup/hyperledger-labs_yui-relayer.md) |
-| [`hyperledger-labs/firefly-ethconnect`](https://github.com/hyperledger-labs/firefly-ethconnect) | 1 | [hyperledger-labs_firefly-ethconnect.md](dai1975_rollup/hyperledger-labs_firefly-ethconnect.md) |
 
 ---
 

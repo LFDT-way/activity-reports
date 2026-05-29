@@ -1,3 +1,2 @@
-repo,month,PullRequestEvent,WatchEvent,total
-LFDT-Paladin/paladin,2026-01,1,0,1
-hyperledger/fabric,2023-01,0,1,1
+repo,month,PullRequestEvent,total
+LFDT-Paladin/paladin,2026-01,1,1

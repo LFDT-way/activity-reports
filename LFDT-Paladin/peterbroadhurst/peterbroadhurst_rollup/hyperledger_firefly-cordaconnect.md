@@ -1,6 +1,6 @@
 # [`hyperledger/firefly-cordaconnect`](https://github.com/hyperledger/firefly-cordaconnect) — monthly activity
 
-| Month | PullRequestReviewEvent | PushEvent | Total |
+| Month | PushEvent | PullRequestReviewEvent | Total |
 | --- | --: | --: | --: |
 | 2024-07 | 1 | 1 | 2 |
 | **Total** | **1** | **1** | **2** |

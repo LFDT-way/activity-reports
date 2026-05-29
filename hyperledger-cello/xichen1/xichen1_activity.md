@@ -1,8 +1,10 @@
 # GitHub activity report — `xichen1`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **187** events spanning **2022-04-17 → 2025-04-16**, across **3** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **76** events spanning **2024-01-05 → 2025-04-16**, across **3** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -25,21 +27,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 187 |
-| Pull requests opened | 35 |
-| Pull request reviews | 42 |
-| Issues opened | 10 |
-| Pushes | 20 |
-| Commits pushed | 105 |
-| Comments | 45 |
+| Total events | 76 |
+| Pull requests opened | 4 |
+| Pull request reviews | 24 |
+| Issues opened | 3 |
+| Pushes | 15 |
+| Commits pushed | 89 |
+| Comments | 13 |
 | Releases | 1 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 37 |
-| 2023 | 74 |
 | 2024 | 75 |
 | 2025 | 1 |
 
@@ -47,24 +47,23 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 50 |
-| PullRequestReviewEvent | 42 |
-| IssueCommentEvent | 31 |
-| PushEvent | 20 |
-| IssuesEvent | 15 |
-| PullRequestReviewCommentEvent | 14 |
-| DeleteEvent | 5 |
-| ForkEvent | 5 |
-| CreateEvent | 2 |
+| PullRequestReviewEvent | 24 |
+| PushEvent | 15 |
+| PullRequestEvent | 13 |
+| IssueCommentEvent | 9 |
+| IssuesEvent | 4 |
+| PullRequestReviewCommentEvent | 4 |
+| DeleteEvent | 3 |
+| CreateEvent | 1 |
+| ForkEvent | 1 |
 | GollumEvent | 1 |
 | ReleaseEvent | 1 |
-| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 184 | 34 | 41 | 20 |
+| [`hyperledger`](https://github.com/hyperledger) | 73 | 3 | 23 | 15 |
 | [`LF-Decentralized-Trust`](https://github.com/LF-Decentralized-Trust) | 2 | 1 | 0 | 0 |
 | [`hyperledger-cello`](https://github.com/hyperledger-cello) | 1 | 0 | 1 | 0 |
 
@@ -72,9 +71,9 @@ Repository access granted through those teams (1 repos):
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 179 | 33 | 40 | 20 |
-| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 5 | 1 | 1 | 0 |
+| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 71 | 3 | 22 | 15 |
 | [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) | 2 | 1 | 0 | 0 |
+| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 2 | 0 | 1 | 0 |
 | [`hyperledger-cello/cello`](https://github.com/hyperledger-cello/cello) | 1 | 0 | 1 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -83,9 +82,9 @@ Months as rows, event types as columns. One file per repository in [`xichen1_rol
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 179 | [hyperledger_cello.md](xichen1_rollup/hyperledger_cello.md) |
-| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 5 | [hyperledger_toc.md](xichen1_rollup/hyperledger_toc.md) |
+| [`hyperledger/cello`](https://github.com/hyperledger/cello) | 71 | [hyperledger_cello.md](xichen1_rollup/hyperledger_cello.md) |
 | [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) | 2 | [LF-Decentralized-Trust_governance.md](xichen1_rollup/LF-Decentralized-Trust_governance.md) |
+| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 2 | [hyperledger_toc.md](xichen1_rollup/hyperledger_toc.md) |
 | [`hyperledger-cello/cello`](https://github.com/hyperledger-cello/cello) | 1 | [hyperledger-cello_cello.md](xichen1_rollup/hyperledger-cello_cello.md) |
 
 ---

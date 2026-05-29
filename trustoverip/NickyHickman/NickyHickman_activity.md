@@ -1,8 +1,10 @@
 # GitHub activity report — `NickyHickman`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **150** events spanning **2020-09-29 → 2026-05-08**, across **2** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **13** events spanning **2026-03-25 → 2026-05-08**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -31,54 +33,40 @@ Repository access granted through those teams (7 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 150 |
+| Total events | 13 |
 | Pull requests opened | 0 |
 | Pull request reviews | 0 |
 | Issues opened | 0 |
 | Pushes | 5 |
 | Commits pushed | 0 |
-| Comments | 1 |
+| Comments | 0 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2020 | 1 |
-| 2021 | 61 |
-| 2022 | 75 |
 | 2026 | 13 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| GollumEvent | 135 |
 | PushEvent | 5 |
 | CreateEvent | 4 |
 | DeleteEvent | 4 |
-| IssueCommentEvent | 1 |
-| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`trustoverip`](https://github.com/trustoverip) | 149 | 0 | 0 | 5 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
+| [`trustoverip`](https://github.com/trustoverip) | 13 | 0 | 0 | 5 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`trustoverip/yoma`](https://github.com/trustoverip/yoma) | 85 | 0 | 0 | 0 |
-| [`trustoverip/hxwg`](https://github.com/trustoverip/hxwg) | 24 | 0 | 0 | 0 |
 | [`trustoverip/dtgwg-rahp-tf`](https://github.com/trustoverip/dtgwg-rahp-tf) | 13 | 0 | 0 | 5 |
-| [`trustoverip/yoma-gf-terms`](https://github.com/trustoverip/yoma-gf-terms) | 13 | 0 | 0 | 0 |
-| [`trustoverip/mega`](https://github.com/trustoverip/mega) | 8 | 0 | 0 | 0 |
-| [`trustoverip/toip`](https://github.com/trustoverip/toip) | 5 | 0 | 0 | 0 |
-| [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 1 | 0 | 0 | 0 |
-| [`trustoverip/toip-terms`](https://github.com/trustoverip/toip-terms) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -86,14 +74,7 @@ Months as rows, event types as columns. One file per repository in [`NickyHickma
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`trustoverip/yoma`](https://github.com/trustoverip/yoma) | 85 | [trustoverip_yoma.md](NickyHickman_rollup/trustoverip_yoma.md) |
-| [`trustoverip/hxwg`](https://github.com/trustoverip/hxwg) | 24 | [trustoverip_hxwg.md](NickyHickman_rollup/trustoverip_hxwg.md) |
 | [`trustoverip/dtgwg-rahp-tf`](https://github.com/trustoverip/dtgwg-rahp-tf) | 13 | [trustoverip_dtgwg-rahp-tf.md](NickyHickman_rollup/trustoverip_dtgwg-rahp-tf.md) |
-| [`trustoverip/yoma-gf-terms`](https://github.com/trustoverip/yoma-gf-terms) | 13 | [trustoverip_yoma-gf-terms.md](NickyHickman_rollup/trustoverip_yoma-gf-terms.md) |
-| [`trustoverip/mega`](https://github.com/trustoverip/mega) | 8 | [trustoverip_mega.md](NickyHickman_rollup/trustoverip_mega.md) |
-| [`trustoverip/toip`](https://github.com/trustoverip/toip) | 5 | [trustoverip_toip.md](NickyHickman_rollup/trustoverip_toip.md) |
-| [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 1 | [hyperledger_aries-rfcs.md](NickyHickman_rollup/hyperledger_aries-rfcs.md) |
-| [`trustoverip/toip-terms`](https://github.com/trustoverip/toip-terms) | 1 | [trustoverip_toip-terms.md](NickyHickman_rollup/trustoverip_toip-terms.md) |
 
 ---
 

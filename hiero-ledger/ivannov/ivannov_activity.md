@@ -1,6 +1,8 @@
 # GitHub activity report — `ivannov`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **101** events spanning **2026-01-21 → 2026-05-26**, across **1** organizations and **1** repositories.
 
@@ -10,13 +12,13 @@ Member of **1** team(s):
 
 | Team | Role in team |
 | --- | --- |
-| `hiero-block-node-internal-contributors` | member |
+| `hiero-block-node-committers` | member |
 
 Repository access granted through those teams (1 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `hiero-block-node` | triage | `hiero-block-node-internal-contributors` (triage) |
+| `hiero-block-node` | write | `hiero-block-node-committers` (write) |
 
 
 ## Overview

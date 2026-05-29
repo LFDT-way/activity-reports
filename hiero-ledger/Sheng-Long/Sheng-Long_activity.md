@@ -1,6 +1,8 @@
 # GitHub activity report — `Sheng-Long`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **25** events spanning **2025-02-07 → 2025-04-02**, across **1** organizations and **4** repositories.
 

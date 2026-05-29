@@ -1,8 +1,10 @@
 # GitHub activity report — `ajsutton`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **411** events spanning **2019-09-16 → 2024-09-13**, across **1** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **2** events spanning **2024-09-13 → 2024-09-13**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -29,53 +31,39 @@ Repository access granted through those teams (7 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 411 |
-| Pull requests opened | 24 |
-| Pull request reviews | 92 |
-| Issues opened | 19 |
-| Pushes | 34 |
-| Commits pushed | 34 |
-| Comments | 196 |
+| Total events | 2 |
+| Pull requests opened | 0 |
+| Pull request reviews | 1 |
+| Issues opened | 0 |
+| Pushes | 0 |
+| Commits pushed | 0 |
+| Comments | 1 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2019 | 81 |
-| 2020 | 72 |
-| 2021 | 81 |
-| 2022 | 166 |
-| 2023 | 9 |
 | 2024 | 2 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 102 |
-| PullRequestReviewCommentEvent | 94 |
-| PullRequestReviewEvent | 92 |
-| PullRequestEvent | 60 |
-| PushEvent | 34 |
-| IssuesEvent | 27 |
-| ForkEvent | 1 |
-| WatchEvent | 1 |
+| IssueCommentEvent | 1 |
+| PullRequestReviewEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 411 | 24 | 92 | 34 |
+| [`hyperledger`](https://github.com/hyperledger) | 2 | 0 | 1 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 388 | 24 | 81 | 34 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 15 | 0 | 4 | 0 |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 6 | 0 | 5 | 0 |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 2 | 0 | 2 | 0 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 2 | 0 | 1 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -83,10 +71,7 @@ Months as rows, event types as columns. One file per repository in [`ajsutton_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 388 | [hyperledger_besu.md](ajsutton_rollup/hyperledger_besu.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 15 | [hyperledger_besu-docs.md](ajsutton_rollup/hyperledger_besu-docs.md) |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 6 | [hyperledger_homebrew-besu.md](ajsutton_rollup/hyperledger_homebrew-besu.md) |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 2 | [hyperledger_besu-native.md](ajsutton_rollup/hyperledger_besu-native.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 2 | [hyperledger_besu.md](ajsutton_rollup/hyperledger_besu.md) |
 
 ---
 

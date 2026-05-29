@@ -1,0 +1,7 @@
+repo,month,CreateEvent,IssueCommentEvent,PullRequestEvent,PushEvent,WatchEvent,DeleteEvent,ForkEvent,total
+cbomkit/cbomkit-pipeline,2025-12,3,0,2,1,1,1,0,8
+cbomkit/sonar-cryptography,2026-03,0,1,0,1,0,0,0,2
+cbomkit/sonar-cryptography,2026-04,0,1,0,0,0,0,0,1
+PQCA/sonar-cryptography,2025-05,0,0,0,0,1,0,0,1
+PQCA/sonar-cryptography,2025-07,0,0,0,0,0,0,1,1
+PQCA/cbomkit,2025-06,0,1,0,0,0,0,0,1

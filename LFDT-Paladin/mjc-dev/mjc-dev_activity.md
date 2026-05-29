@@ -1,8 +1,10 @@
 # GitHub activity report — `mjc-dev`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **49** events spanning **2022-09-15 → 2025-07-14**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **15** events spanning **2024-01-14 → 2025-07-14**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -24,21 +26,19 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 49 |
-| Pull requests opened | 12 |
-| Pull request reviews | 15 |
+| Total events | 15 |
+| Pull requests opened | 9 |
+| Pull request reviews | 1 |
 | Issues opened | 1 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 17 |
+| Comments | 2 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 28 |
-| 2023 | 6 |
 | 2024 | 6 |
 | 2025 | 9 |
 
@@ -46,28 +46,28 @@ Repository access granted through those teams (2 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 15 |
-| PullRequestReviewCommentEvent | 15 |
-| PullRequestReviewEvent | 15 |
-| IssueCommentEvent | 2 |
+| PullRequestEvent | 10 |
 | ForkEvent | 1 |
+| IssueCommentEvent | 1 |
 | IssuesEvent | 1 |
+| PullRequestReviewCommentEvent | 1 |
+| PullRequestReviewEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 39 | 6 | 14 | 0 |
 | [`LF-Decentralized-Trust-labs`](https://github.com/LF-Decentralized-Trust-labs) | 10 | 6 | 1 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 5 | 3 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/firefly`](https://github.com/hyperledger/firefly) | 31 | 1 | 14 | 0 |
 | [`LF-Decentralized-Trust-labs/paladin`](https://github.com/LF-Decentralized-Trust-labs/paladin) | 10 | 6 | 1 | 0 |
-| [`hyperledger/firefly-sdk-nodejs`](https://github.com/hyperledger/firefly-sdk-nodejs) | 7 | 4 | 0 | 0 |
+| [`hyperledger/firefly`](https://github.com/hyperledger/firefly) | 3 | 1 | 0 | 0 |
 | [`hyperledger/firefly-perf-cli`](https://github.com/hyperledger/firefly-perf-cli) | 1 | 1 | 0 | 0 |
+| [`hyperledger/firefly-sdk-nodejs`](https://github.com/hyperledger/firefly-sdk-nodejs) | 1 | 1 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -75,10 +75,10 @@ Months as rows, event types as columns. One file per repository in [`mjc-dev_rol
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/firefly`](https://github.com/hyperledger/firefly) | 31 | [hyperledger_firefly.md](mjc-dev_rollup/hyperledger_firefly.md) |
 | [`LF-Decentralized-Trust-labs/paladin`](https://github.com/LF-Decentralized-Trust-labs/paladin) | 10 | [LF-Decentralized-Trust-labs_paladin.md](mjc-dev_rollup/LF-Decentralized-Trust-labs_paladin.md) |
-| [`hyperledger/firefly-sdk-nodejs`](https://github.com/hyperledger/firefly-sdk-nodejs) | 7 | [hyperledger_firefly-sdk-nodejs.md](mjc-dev_rollup/hyperledger_firefly-sdk-nodejs.md) |
+| [`hyperledger/firefly`](https://github.com/hyperledger/firefly) | 3 | [hyperledger_firefly.md](mjc-dev_rollup/hyperledger_firefly.md) |
 | [`hyperledger/firefly-perf-cli`](https://github.com/hyperledger/firefly-perf-cli) | 1 | [hyperledger_firefly-perf-cli.md](mjc-dev_rollup/hyperledger_firefly-perf-cli.md) |
+| [`hyperledger/firefly-sdk-nodejs`](https://github.com/hyperledger/firefly-sdk-nodejs) | 1 | [hyperledger_firefly-sdk-nodejs.md](mjc-dev_rollup/hyperledger_firefly-sdk-nodejs.md) |
 
 ---
 

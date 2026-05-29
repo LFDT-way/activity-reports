@@ -1,8 +1,10 @@
 # GitHub activity report — `fabian-hk`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **73** events spanning **2021-09-21 → 2024-07-10**, across **3** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **12** events spanning **2024-01-23 → 2024-07-10**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -23,52 +25,43 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 73 |
-| Pull requests opened | 3 |
-| Pull request reviews | 17 |
-| Issues opened | 1 |
-| Pushes | 6 |
-| Commits pushed | 33 |
-| Comments | 32 |
+| Total events | 12 |
+| Pull requests opened | 1 |
+| Pull request reviews | 0 |
+| Issues opened | 0 |
+| Pushes | 2 |
+| Commits pushed | 4 |
+| Comments | 3 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 1 |
-| 2023 | 60 |
 | 2024 | 12 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewCommentEvent | 17 |
-| PullRequestReviewEvent | 17 |
-| IssueCommentEvent | 15 |
-| PullRequestEvent | 9 |
-| PushEvent | 6 |
-| IssuesEvent | 5 |
-| CreateEvent | 2 |
-| ForkEvent | 2 |
+| IssueCommentEvent | 3 |
+| PullRequestEvent | 3 |
+| IssuesEvent | 2 |
+| PushEvent | 2 |
+| CreateEvent | 1 |
+| ForkEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 67 | 2 | 17 | 6 |
-| [`openwallet-foundation`](https://github.com/openwallet-foundation) | 5 | 1 | 0 | 0 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
+| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 12 | 1 | 0 | 2 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs/sd-jwt-kotlin`](https://github.com/openwallet-foundation-labs/sd-jwt-kotlin) | 65 | 2 | 17 | 5 |
-| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 5 | 1 | 0 | 0 |
-| [`openwallet-foundation-labs/SD-JWT-Kotlin`](https://github.com/openwallet-foundation-labs/SD-JWT-Kotlin) | 2 | 0 | 0 | 1 |
-| [`hyperledger/indy-vdr`](https://github.com/hyperledger/indy-vdr) | 1 | 0 | 0 | 0 |
+| [`openwallet-foundation-labs/sd-jwt-kotlin`](https://github.com/openwallet-foundation-labs/sd-jwt-kotlin) | 12 | 1 | 0 | 2 |
 
 ## Monthly rollup — one table per repository
 
@@ -76,10 +69,7 @@ Months as rows, event types as columns. One file per repository in [`fabian-hk_r
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`openwallet-foundation-labs/sd-jwt-kotlin`](https://github.com/openwallet-foundation-labs/sd-jwt-kotlin) | 65 | [openwallet-foundation-labs_sd-jwt-kotlin.md](fabian-hk_rollup/openwallet-foundation-labs_sd-jwt-kotlin.md) |
-| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 5 | [openwallet-foundation_project-proposals.md](fabian-hk_rollup/openwallet-foundation_project-proposals.md) |
-| [`openwallet-foundation-labs/SD-JWT-Kotlin`](https://github.com/openwallet-foundation-labs/SD-JWT-Kotlin) | 2 | [openwallet-foundation-labs_SD-JWT-Kotlin.md](fabian-hk_rollup/openwallet-foundation-labs_SD-JWT-Kotlin.md) |
-| [`hyperledger/indy-vdr`](https://github.com/hyperledger/indy-vdr) | 1 | [hyperledger_indy-vdr.md](fabian-hk_rollup/hyperledger_indy-vdr.md) |
+| [`openwallet-foundation-labs/sd-jwt-kotlin`](https://github.com/openwallet-foundation-labs/sd-jwt-kotlin) | 12 | [openwallet-foundation-labs_sd-jwt-kotlin.md](fabian-hk_rollup/openwallet-foundation-labs_sd-jwt-kotlin.md) |
 
 ---
 

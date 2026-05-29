@@ -1,6 +1,6 @@
 # [`hyperledger-labs/hyperledger-community-management-tools`](https://github.com/hyperledger-labs/hyperledger-community-management-tools) — monthly activity
 
-| Month | PullRequestEvent | PullRequestReviewEvent | PullRequestReviewCommentEvent | ForkEvent | Total |
+| Month | PullRequestReviewEvent | PullRequestEvent | PullRequestReviewCommentEvent | ForkEvent | Total |
 | --- | --: | --: | --: | --: | --: |
 | 2024-06 | 1 | 1 | 1 | 1 | 4 |
 | **Total** | **1** | **1** | **1** | **1** | **4** |

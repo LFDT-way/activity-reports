@@ -1,8 +1,10 @@
 # GitHub activity report — `rstellar`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1** events spanning **2018-03-30 → 2018-03-30**, across **1** organizations and **1** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `rstellar` in the date range searched.
 
 ## Teams & repository access
 
@@ -18,51 +20,6 @@ Repository access granted through those teams (1 repos):
 | --- | --- | --- |
 | `ehr-wallet` | maintain | `ehr-wallet-maintainers` (maintain) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 1 |
-| Pull requests opened | 0 |
-| Pull request reviews | 0 |
-| Issues opened | 0 |
-| Pushes | 0 |
-| Commits pushed | 0 |
-| Comments | 0 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2018 | 1 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| WatchEvent | 1 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger/education-cryptomoji`](https://github.com/hyperledger/education-cryptomoji) | 1 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`rstellar_rollup/`](rstellar_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`hyperledger/education-cryptomoji`](https://github.com/hyperledger/education-cryptomoji) | 1 | [hyperledger_education-cryptomoji.md](rstellar_rollup/hyperledger_education-cryptomoji.md) |
 
 ---
 

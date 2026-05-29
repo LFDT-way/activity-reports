@@ -1,8 +1,10 @@
 # GitHub activity report — `TanjinAlam`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **93** events spanning **2022-10-30 → 2024-12-11**, across **2** organizations and **6** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **84** events spanning **2024-03-01 → 2024-12-11**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -23,34 +25,29 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 93 |
-| Pull requests opened | 19 |
+| Total events | 84 |
+| Pull requests opened | 18 |
 | Pull request reviews | 1 |
-| Issues opened | 3 |
-| Pushes | 28 |
-| Commits pushed | 119 |
-| Comments | 2 |
+| Issues opened | 0 |
+| Pushes | 27 |
+| Commits pushed | 107 |
+| Comments | 1 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 3 |
-| 2023 | 6 |
 | 2024 | 84 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 54 |
-| PushEvent | 28 |
-| IssuesEvent | 3 |
+| PullRequestEvent | 52 |
+| PushEvent | 27 |
 | ForkEvent | 2 |
-| WatchEvent | 2 |
 | CreateEvent | 1 |
-| IssueCommentEvent | 1 |
 | PullRequestReviewCommentEvent | 1 |
 | PullRequestReviewEvent | 1 |
 
@@ -58,19 +55,14 @@ Repository access granted through those teams (1 repos):
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 89 | 19 | 1 | 28 |
-| [`hyperledger`](https://github.com/hyperledger) | 4 | 0 | 0 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 84 | 18 | 1 | 27 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/learning-tokens`](https://github.com/hyperledger-labs/learning-tokens) | 84 | 18 | 0 | 28 |
+| [`hyperledger-labs/learning-tokens`](https://github.com/hyperledger-labs/learning-tokens) | 80 | 17 | 0 | 27 |
 | [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 4 | 1 | 1 | 0 |
-| [`hyperledger/sawtooth-core`](https://github.com/hyperledger/sawtooth-core) | 2 | 0 | 0 | 0 |
-| [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 1 | 0 | 0 | 0 |
-| [`hyperledger/bevel-operator-fabric`](https://github.com/hyperledger/bevel-operator-fabric) | 1 | 0 | 0 | 0 |
-| [`hyperledger/grid`](https://github.com/hyperledger/grid) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -78,12 +70,8 @@ Months as rows, event types as columns. One file per repository in [`TanjinAlam_
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/learning-tokens`](https://github.com/hyperledger-labs/learning-tokens) | 84 | [hyperledger-labs_learning-tokens.md](TanjinAlam_rollup/hyperledger-labs_learning-tokens.md) |
+| [`hyperledger-labs/learning-tokens`](https://github.com/hyperledger-labs/learning-tokens) | 80 | [hyperledger-labs_learning-tokens.md](TanjinAlam_rollup/hyperledger-labs_learning-tokens.md) |
 | [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 4 | [hyperledger-labs_hyperledger-labs.github.io.md](TanjinAlam_rollup/hyperledger-labs_hyperledger-labs.github.io.md) |
-| [`hyperledger/sawtooth-core`](https://github.com/hyperledger/sawtooth-core) | 2 | [hyperledger_sawtooth-core.md](TanjinAlam_rollup/hyperledger_sawtooth-core.md) |
-| [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 1 | [hyperledger-labs_governance.md](TanjinAlam_rollup/hyperledger-labs_governance.md) |
-| [`hyperledger/bevel-operator-fabric`](https://github.com/hyperledger/bevel-operator-fabric) | 1 | [hyperledger_bevel-operator-fabric.md](TanjinAlam_rollup/hyperledger_bevel-operator-fabric.md) |
-| [`hyperledger/grid`](https://github.com/hyperledger/grid) | 1 | [hyperledger_grid.md](TanjinAlam_rollup/hyperledger_grid.md) |
 
 ---
 

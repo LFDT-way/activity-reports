@@ -1,22 +1,29 @@
 # GitHub activity report — `rsinha`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **16** events spanning **2024-05-10 → 2026-02-25**, across **5** organizations and **6** repositories.
 
 ## Teams & repository access
 
-Member of **1** team(s):
+Member of **4** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `hiero-consensus-node-foundation-codeowners` | member |
+| `hiero-cryptography-committers` | maintainer |
+| `hiero-cryptography-maintainers` | maintainer |
+| `roadmap-viewers` | member |
 
-Repository access granted through those teams (1 repos):
+Repository access granted through those teams (3 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
+| `hiero-cryptography` | maintain | `hiero-cryptography-maintainers` (maintain), `hiero-cryptography-committers` (write) |
 | `hiero-consensus-node` | write | `hiero-consensus-node-foundation-codeowners` (write) |
+| `roadmap` | read | `roadmap-viewers` (read) |
 
 
 ## Overview

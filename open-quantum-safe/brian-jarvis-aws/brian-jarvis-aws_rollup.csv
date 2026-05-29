@@ -35,6 +35,5 @@ open-quantum-safe/tsc,2025-01,1,0,1,0,0,0,0,0,0,0,2
 open-quantum-safe/tsc,2025-02,1,0,3,0,0,0,0,0,0,0,4
 open-quantum-safe/tsc,2026-02,0,1,0,0,0,0,0,0,0,0,1
 open-quantum-safe/tsc,2026-03,0,0,0,0,1,0,0,0,0,0,1
-open-quantum-safe/liboqs,2023-01,0,1,0,0,0,0,0,0,0,0,1
-open-quantum-safe/liboqs,2025-10,0,1,0,0,0,0,0,0,0,0,1
 PQCA/wiki,2025-06,0,0,0,0,0,0,0,0,0,1,1
+open-quantum-safe/liboqs,2025-10,0,1,0,0,0,0,0,0,0,0,1

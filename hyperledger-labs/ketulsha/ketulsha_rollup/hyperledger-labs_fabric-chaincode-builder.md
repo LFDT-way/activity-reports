@@ -1,6 +1,6 @@
 # [`hyperledger-labs/fabric-chaincode-builder`](https://github.com/hyperledger-labs/fabric-chaincode-builder) — monthly activity
 
-| Month | PullRequestEvent | ForkEvent | PullRequestReviewEvent | Total |
+| Month | PullRequestEvent | PullRequestReviewEvent | ForkEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2025-05 | 1 | 1 | 1 | 3 |
 | **Total** | **1** | **1** | **1** | **3** |

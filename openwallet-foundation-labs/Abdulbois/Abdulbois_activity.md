@@ -1,8 +1,10 @@
 # GitHub activity report — `Abdulbois`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **109** events spanning **2022-07-04 → 2025-03-10**, across **3** organizations and **9** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **24** events spanning **2024-01-03 → 2025-03-10**, across **3** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -23,21 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 109 |
-| Pull requests opened | 22 |
-| Pull request reviews | 10 |
-| Issues opened | 4 |
+| Total events | 24 |
+| Pull requests opened | 5 |
+| Pull request reviews | 3 |
+| Issues opened | 0 |
 | Pushes | 4 |
 | Commits pushed | 4 |
-| Comments | 13 |
+| Comments | 3 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 70 |
-| 2023 | 15 |
 | 2024 | 21 |
 | 2025 | 3 |
 
@@ -45,37 +45,32 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 64 |
-| PullRequestReviewEvent | 10 |
-| PullRequestReviewCommentEvent | 9 |
-| ForkEvent | 7 |
-| IssuesEvent | 6 |
-| IssueCommentEvent | 4 |
+| PullRequestEvent | 9 |
 | PushEvent | 4 |
-| WatchEvent | 4 |
+| PullRequestReviewEvent | 3 |
+| ForkEvent | 2 |
+| PullRequestReviewCommentEvent | 2 |
 | CreateEvent | 1 |
+| IssueCommentEvent | 1 |
+| IssuesEvent | 1 |
+| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 75 | 12 | 6 | 0 |
-| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 32 | 9 | 4 | 4 |
+| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 21 | 4 | 3 | 4 |
 | [`openwallet-foundation`](https://github.com/openwallet-foundation) | 2 | 1 | 0 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/aries-framework-go`](https://github.com/hyperledger/aries-framework-go) | 70 | 11 | 6 | 0 |
-| [`openwallet-foundation-labs/sd-jwt-rust`](https://github.com/openwallet-foundation-labs/sd-jwt-rust) | 29 | 8 | 4 | 4 |
-| [`hyperledger/anoncreds-rs`](https://github.com/hyperledger/anoncreds-rs) | 2 | 1 | 0 | 0 |
+| [`openwallet-foundation-labs/sd-jwt-rust`](https://github.com/openwallet-foundation-labs/sd-jwt-rust) | 19 | 3 | 3 | 4 |
 | [`openwallet-foundation-labs/governance`](https://github.com/openwallet-foundation-labs/governance) | 2 | 1 | 0 | 0 |
 | [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 2 | 1 | 0 | 0 |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 1 | 0 | 0 | 0 |
-| [`hyperledger/aries-framework-javascript`](https://github.com/hyperledger/aries-framework-javascript) | 1 | 0 | 0 | 0 |
 | [`hyperledger/indy-besu`](https://github.com/hyperledger/indy-besu) | 1 | 0 | 0 | 0 |
-| [`openwallet-foundation-labs/sd-jwt-python`](https://github.com/openwallet-foundation-labs/sd-jwt-python) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -83,15 +78,10 @@ Months as rows, event types as columns. One file per repository in [`Abdulbois_r
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/aries-framework-go`](https://github.com/hyperledger/aries-framework-go) | 70 | [hyperledger_aries-framework-go.md](Abdulbois_rollup/hyperledger_aries-framework-go.md) |
-| [`openwallet-foundation-labs/sd-jwt-rust`](https://github.com/openwallet-foundation-labs/sd-jwt-rust) | 29 | [openwallet-foundation-labs_sd-jwt-rust.md](Abdulbois_rollup/openwallet-foundation-labs_sd-jwt-rust.md) |
-| [`hyperledger/anoncreds-rs`](https://github.com/hyperledger/anoncreds-rs) | 2 | [hyperledger_anoncreds-rs.md](Abdulbois_rollup/hyperledger_anoncreds-rs.md) |
+| [`openwallet-foundation-labs/sd-jwt-rust`](https://github.com/openwallet-foundation-labs/sd-jwt-rust) | 19 | [openwallet-foundation-labs_sd-jwt-rust.md](Abdulbois_rollup/openwallet-foundation-labs_sd-jwt-rust.md) |
 | [`openwallet-foundation-labs/governance`](https://github.com/openwallet-foundation-labs/governance) | 2 | [openwallet-foundation-labs_governance.md](Abdulbois_rollup/openwallet-foundation-labs_governance.md) |
 | [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 2 | [openwallet-foundation_tac.md](Abdulbois_rollup/openwallet-foundation_tac.md) |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 1 | [hyperledger_aries-cloudagent-python.md](Abdulbois_rollup/hyperledger_aries-cloudagent-python.md) |
-| [`hyperledger/aries-framework-javascript`](https://github.com/hyperledger/aries-framework-javascript) | 1 | [hyperledger_aries-framework-javascript.md](Abdulbois_rollup/hyperledger_aries-framework-javascript.md) |
 | [`hyperledger/indy-besu`](https://github.com/hyperledger/indy-besu) | 1 | [hyperledger_indy-besu.md](Abdulbois_rollup/hyperledger_indy-besu.md) |
-| [`openwallet-foundation-labs/sd-jwt-python`](https://github.com/openwallet-foundation-labs/sd-jwt-python) | 1 | [openwallet-foundation-labs_sd-jwt-python.md](Abdulbois_rollup/openwallet-foundation-labs_sd-jwt-python.md) |
 
 ---
 

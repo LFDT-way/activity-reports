@@ -1,5 +1,4 @@
-repo,month,CreateEvent,PushEvent,PullRequestEvent,WatchEvent,total
-hyperledger-iroha/iroha,2026-03,8,7,3,0,18
-hyperledger-iroha/iroha,2026-04,3,2,1,0,6
-hyperledger-iroha/iroha,2026-05,1,2,1,0,4
-hyperledger/iroha,2022-05,0,0,0,1,1
+repo,month,CreateEvent,PushEvent,PullRequestEvent,total
+hyperledger-iroha/iroha,2026-03,8,7,3,18
+hyperledger-iroha/iroha,2026-04,3,2,1,6
+hyperledger-iroha/iroha,2026-05,1,2,1,4

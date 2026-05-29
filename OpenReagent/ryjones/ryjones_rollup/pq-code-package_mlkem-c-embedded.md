@@ -1,6 +1,6 @@
 # [`pq-code-package/mlkem-c-embedded`](https://github.com/pq-code-package/mlkem-c-embedded) — monthly activity
 
-| Month | PullRequestEvent | PushEvent | CreateEvent | DeleteEvent | Total |
+| Month | PullRequestEvent | PushEvent | DeleteEvent | CreateEvent | Total |
 | --- | --: | --: | --: | --: | --: |
 | 2024-03 | 4 | 3 | 2 | 2 | 11 |
 | **Total** | **4** | **3** | **2** | **2** | **11** |

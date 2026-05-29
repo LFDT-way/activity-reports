@@ -1,6 +1,8 @@
 # GitHub activity report — `afaling0725`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 **No activity found** for `afaling0725` in the date range searched.
 
@@ -10,52 +12,53 @@ Member of **1** team(s):
 
 | Team | Role in team |
 | --- | --- |
-| `sec-ops` | member |
+| `security-maintainers` | member |
 
-Repository access granted through those teams (40 repos):
+Repository access granted through those teams (41 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `governance` | write | `sec-ops` (write) |
-| `.github` | triage | `sec-ops` (triage) |
-| `awesome-contributions` | triage | `sec-ops` (triage) |
-| `heka-identity-platform` | triage | `sec-ops` (triage) |
-| `hiero` | triage | `sec-ops` (triage) |
-| `hiero-block-node` | triage | `sec-ops` (triage) |
-| `hiero-cli` | triage | `sec-ops` (triage) |
-| `hiero-consensus-node` | triage | `sec-ops` (triage) |
-| `hiero-consensus-specifications` | triage | `sec-ops` (triage) |
-| `hiero-contracts` | triage | `sec-ops` (triage) |
-| `hiero-did-sdk-js` | triage | `sec-ops` (triage) |
-| `hiero-did-sdk-python` | triage | `sec-ops` (triage) |
-| `hiero-docs` | triage | `sec-ops` (triage) |
-| `hiero-enterprise-java` | triage | `sec-ops` (triage) |
-| `hiero-ethereum-execution-spec-tests` | triage | `sec-ops` (triage) |
-| `hiero-gradle-conventions` | triage | `sec-ops` (triage) |
-| `hiero-hederium` | triage | `sec-ops` (triage) |
-| `hiero-improvement-proposals` | triage | `sec-ops` (triage) |
-| `hiero-json-rpc-relay` | triage | `sec-ops` (triage) |
-| `hiero-local-node` | triage | `sec-ops` (triage) |
-| `hiero-mirror-node` | triage | `sec-ops` (triage) |
-| `hiero-mirror-node-explorer` | triage | `sec-ops` (triage) |
-| `hiero-sdk-cpp` | triage | `sec-ops` (triage) |
-| `hiero-sdk-go` | triage | `sec-ops` (triage) |
-| `hiero-sdk-java` | triage | `sec-ops` (triage) |
-| `hiero-sdk-js` | triage | `sec-ops` (triage) |
-| `hiero-sdk-python` | triage | `sec-ops` (triage) |
-| `hiero-sdk-rust` | triage | `sec-ops` (triage) |
-| `hiero-sdk-swift` | triage | `sec-ops` (triage) |
-| `hiero-sdk-tck` | triage | `sec-ops` (triage) |
-| `hiero-solo-action` | triage | `sec-ops` (triage) |
-| `hiero-website` | triage | `sec-ops` (triage) |
-| `homebrew-tools` | triage | `sec-ops` (triage) |
-| `identity-collaboration-hub` | triage | `sec-ops` (triage) |
-| `roadmap` | triage | `sec-ops` (triage) |
-| `sdk-collaboration-hub` | triage | `sec-ops` (triage) |
-| `solo` | triage | `sec-ops` (triage) |
-| `solo-docs` | triage | `sec-ops` (triage) |
-| `tsc` | triage | `sec-ops` (triage) |
-| `tsc-eligibility-check` | triage | `sec-ops` (triage) |
+| `governance` | write | `security-maintainers` (write) |
+| `.github` | triage | `security-maintainers` (triage) |
+| `awesome-contributions` | triage | `security-maintainers` (triage) |
+| `heka-identity-platform` | triage | `security-maintainers` (triage) |
+| `hiero` | triage | `security-maintainers` (triage) |
+| `hiero-block-node` | triage | `security-maintainers` (triage) |
+| `hiero-cli` | triage | `security-maintainers` (triage) |
+| `hiero-consensus-node` | triage | `security-maintainers` (triage) |
+| `hiero-consensus-specifications` | triage | `security-maintainers` (triage) |
+| `hiero-contracts` | triage | `security-maintainers` (triage) |
+| `hiero-cryptography` | triage | `security-maintainers` (triage) |
+| `hiero-did-sdk-js` | triage | `security-maintainers` (triage) |
+| `hiero-did-sdk-python` | triage | `security-maintainers` (triage) |
+| `hiero-docs` | triage | `security-maintainers` (triage) |
+| `hiero-enterprise-java` | triage | `security-maintainers` (triage) |
+| `hiero-ethereum-execution-spec-tests` | triage | `security-maintainers` (triage) |
+| `hiero-gradle-conventions` | triage | `security-maintainers` (triage) |
+| `hiero-hederium` | triage | `security-maintainers` (triage) |
+| `hiero-improvement-proposals` | triage | `security-maintainers` (triage) |
+| `hiero-json-rpc-relay` | triage | `security-maintainers` (triage) |
+| `hiero-local-node` | triage | `security-maintainers` (triage) |
+| `hiero-mirror-node` | triage | `security-maintainers` (triage) |
+| `hiero-mirror-node-explorer` | triage | `security-maintainers` (triage) |
+| `hiero-sdk-cpp` | triage | `security-maintainers` (triage) |
+| `hiero-sdk-go` | triage | `security-maintainers` (triage) |
+| `hiero-sdk-java` | triage | `security-maintainers` (triage) |
+| `hiero-sdk-js` | triage | `security-maintainers` (triage) |
+| `hiero-sdk-python` | triage | `security-maintainers` (triage) |
+| `hiero-sdk-rust` | triage | `security-maintainers` (triage) |
+| `hiero-sdk-swift` | triage | `security-maintainers` (triage) |
+| `hiero-sdk-tck` | triage | `security-maintainers` (triage) |
+| `hiero-solo-action` | triage | `security-maintainers` (triage) |
+| `hiero-website` | triage | `security-maintainers` (triage) |
+| `homebrew-tools` | triage | `security-maintainers` (triage) |
+| `identity-collaboration-hub` | triage | `security-maintainers` (triage) |
+| `roadmap` | triage | `security-maintainers` (triage) |
+| `sdk-collaboration-hub` | triage | `security-maintainers` (triage) |
+| `solo` | triage | `security-maintainers` (triage) |
+| `solo-docs` | triage | `security-maintainers` (triage) |
+| `tsc` | triage | `security-maintainers` (triage) |
+| `tsc-eligibility-check` | triage | `security-maintainers` (triage) |
 
 
 ---

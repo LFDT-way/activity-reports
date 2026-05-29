@@ -1,9 +1,6 @@
-repo,month,IssueCommentEvent,PullRequestEvent,IssuesEvent,PullRequestReviewEvent,PullRequestReviewCommentEvent,PushEvent,WatchEvent,CreateEvent,ForkEvent,GollumEvent,ReleaseEvent,total
-open-quantum-safe/openssh,2023-02,1,0,0,0,0,0,0,0,0,0,0,1
-open-quantum-safe/openssh,2024-06,3,1,0,0,0,0,0,0,1,0,0,5
-open-quantum-safe/openssh,2024-07,10,3,1,1,0,0,0,0,0,0,0,15
-open-quantum-safe/openssh,2024-08,12,11,6,4,5,5,0,1,0,1,1,46
-open-quantum-safe/liboqs,2023-08,0,0,0,0,0,0,1,0,0,0,0,1
-open-quantum-safe/liboqs,2024-08,1,0,0,1,0,0,0,0,0,0,0,2
-open-quantum-safe/openssl,2023-08,0,0,0,0,0,0,1,0,0,0,0,1
-open-quantum-safe/tsc,2024-08,1,0,0,0,0,0,0,0,0,0,0,1
+repo,month,IssueCommentEvent,PullRequestEvent,IssuesEvent,PullRequestReviewEvent,PullRequestReviewCommentEvent,PushEvent,CreateEvent,ForkEvent,GollumEvent,ReleaseEvent,total
+open-quantum-safe/openssh,2024-06,3,1,0,0,0,0,0,1,0,0,5
+open-quantum-safe/openssh,2024-07,10,3,1,1,0,0,0,0,0,0,15
+open-quantum-safe/openssh,2024-08,12,11,6,4,5,5,1,0,1,1,46
+open-quantum-safe/liboqs,2024-08,1,0,0,1,0,0,0,0,0,0,2
+open-quantum-safe/tsc,2024-08,1,0,0,0,0,0,0,0,0,0,1

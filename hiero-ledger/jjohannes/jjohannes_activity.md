@@ -1,6 +1,8 @@
 # GitHub activity report — `jjohannes`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **2,051** events spanning **2024-07-23 → 2026-05-21**, across **4** organizations and **12** repositories.
 

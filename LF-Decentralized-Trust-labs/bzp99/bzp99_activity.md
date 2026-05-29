@@ -1,8 +1,10 @@
 # GitHub activity report — `bzp99`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **31** events spanning **2021-03-07 → 2026-05-25**, across **3** organizations and **7** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **18** events spanning **2024-05-01 → 2026-05-25**, across **2** organizations and **5** repositories.
 
 ## Teams & repository access
 
@@ -24,21 +26,19 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 31 |
-| Pull requests opened | 2 |
+| Total events | 18 |
+| Pull requests opened | 1 |
 | Pull request reviews | 2 |
-| Issues opened | 4 |
+| Issues opened | 1 |
 | Pushes | 4 |
 | Commits pushed | 0 |
-| Comments | 11 |
+| Comments | 5 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 12 |
-| 2022 | 1 |
 | 2024 | 1 |
 | 2025 | 8 |
 | 2026 | 9 |
@@ -47,13 +47,13 @@ Repository access granted through those teams (2 repos):
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 8 |
-| IssuesEvent | 6 |
-| PullRequestEvent | 4 |
 | PushEvent | 4 |
-| ForkEvent | 3 |
+| PullRequestEvent | 3 |
 | PullRequestReviewCommentEvent | 3 |
+| IssueCommentEvent | 2 |
+| IssuesEvent | 2 |
 | PullRequestReviewEvent | 2 |
+| ForkEvent | 1 |
 | WatchEvent | 1 |
 
 ## Organizations
@@ -61,20 +61,17 @@ Repository access granted through those teams (2 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`LF-Decentralized-Trust-labs`](https://github.com/LF-Decentralized-Trust-labs) | 17 | 1 | 2 | 4 |
-| [`hyperledger`](https://github.com/hyperledger) | 13 | 1 | 0 | 0 |
 | [`hyperledger-labs`](https://github.com/hyperledger-labs) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/burrow`](https://github.com/hyperledger/burrow) | 12 | 1 | 0 | 0 |
 | [`LF-Decentralized-Trust-labs/hypernate`](https://github.com/LF-Decentralized-Trust-labs/hypernate) | 10 | 0 | 2 | 1 |
 | [`LF-Decentralized-Trust-labs/hypernate-samples`](https://github.com/LF-Decentralized-Trust-labs/hypernate-samples) | 4 | 0 | 0 | 3 |
 | [`LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io`](https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io) | 2 | 1 | 0 | 0 |
 | [`LF-Decentralized-Trust-labs/fabric-sdk-rust`](https://github.com/LF-Decentralized-Trust-labs/fabric-sdk-rust) | 1 | 0 | 0 | 0 |
 | [`hyperledger-labs/fablo`](https://github.com/hyperledger-labs/fablo) | 1 | 0 | 0 | 0 |
-| [`hyperledger/indy-node`](https://github.com/hyperledger/indy-node) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -82,13 +79,11 @@ Months as rows, event types as columns. One file per repository in [`bzp99_rollu
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/burrow`](https://github.com/hyperledger/burrow) | 12 | [hyperledger_burrow.md](bzp99_rollup/hyperledger_burrow.md) |
 | [`LF-Decentralized-Trust-labs/hypernate`](https://github.com/LF-Decentralized-Trust-labs/hypernate) | 10 | [LF-Decentralized-Trust-labs_hypernate.md](bzp99_rollup/LF-Decentralized-Trust-labs_hypernate.md) |
 | [`LF-Decentralized-Trust-labs/hypernate-samples`](https://github.com/LF-Decentralized-Trust-labs/hypernate-samples) | 4 | [LF-Decentralized-Trust-labs_hypernate-samples.md](bzp99_rollup/LF-Decentralized-Trust-labs_hypernate-samples.md) |
 | [`LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io`](https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io) | 2 | [LF-Decentralized-Trust-labs_LF-Decentralized-Trust-labs.github.io.md](bzp99_rollup/LF-Decentralized-Trust-labs_LF-Decentralized-Trust-labs.github.io.md) |
 | [`LF-Decentralized-Trust-labs/fabric-sdk-rust`](https://github.com/LF-Decentralized-Trust-labs/fabric-sdk-rust) | 1 | [LF-Decentralized-Trust-labs_fabric-sdk-rust.md](bzp99_rollup/LF-Decentralized-Trust-labs_fabric-sdk-rust.md) |
 | [`hyperledger-labs/fablo`](https://github.com/hyperledger-labs/fablo) | 1 | [hyperledger-labs_fablo.md](bzp99_rollup/hyperledger-labs_fablo.md) |
-| [`hyperledger/indy-node`](https://github.com/hyperledger/indy-node) | 1 | [hyperledger_indy-node.md](bzp99_rollup/hyperledger_indy-node.md) |
 
 ---
 

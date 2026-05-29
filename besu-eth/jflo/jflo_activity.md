@@ -1,8 +1,10 @@
 # GitHub activity report — `jflo`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **2,588** events spanning **2021-05-29 → 2026-05-13**, across **3** organizations and **15** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1,000** events spanning **2024-01-03 → 2026-05-13**, across **3** organizations and **15** repositories.
 
 ## Teams & repository access
 
@@ -34,22 +36,19 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 2,588 |
-| Pull requests opened | 221 |
-| Pull request reviews | 866 |
-| Issues opened | 149 |
-| Pushes | 247 |
-| Commits pushed | 572 |
-| Comments | 596 |
-| Releases | 19 |
+| Total events | 1,000 |
+| Pull requests opened | 80 |
+| Pull request reviews | 255 |
+| Issues opened | 78 |
+| Pushes | 89 |
+| Commits pushed | 149 |
+| Comments | 241 |
+| Releases | 8 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 304 |
-| 2022 | 677 |
-| 2023 | 607 |
 | 2024 | 624 |
 | 2025 | 341 |
 | 2026 | 35 |
@@ -58,15 +57,15 @@ Repository access granted through those teams (10 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 866 |
-| PullRequestEvent | 441 |
-| IssuesEvent | 359 |
-| PullRequestReviewCommentEvent | 325 |
-| IssueCommentEvent | 271 |
-| PushEvent | 247 |
-| CreateEvent | 50 |
-| ReleaseEvent | 19 |
-| DeleteEvent | 5 |
+| PullRequestReviewEvent | 255 |
+| IssuesEvent | 223 |
+| PullRequestEvent | 156 |
+| IssueCommentEvent | 145 |
+| PullRequestReviewCommentEvent | 96 |
+| PushEvent | 89 |
+| CreateEvent | 19 |
+| ReleaseEvent | 8 |
+| DeleteEvent | 4 |
 | GollumEvent | 3 |
 | ForkEvent | 2 |
 
@@ -74,7 +73,7 @@ Repository access granted through those teams (10 repos):
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 2,553 | 218 | 858 | 236 |
+| [`hyperledger`](https://github.com/hyperledger) | 965 | 77 | 247 | 78 |
 | [`besu-eth`](https://github.com/besu-eth) | 30 | 1 | 6 | 11 |
 | [`LF-Decentralized-Trust`](https://github.com/LF-Decentralized-Trust) | 5 | 2 | 2 | 0 |
 
@@ -82,11 +81,11 @@ Repository access granted through those teams (10 repos):
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 2,421 | 205 | 793 | 223 |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 44 | 9 | 12 | 9 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 43 | 3 | 20 | 2 |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 36 | 0 | 29 | 2 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 905 | 73 | 212 | 72 |
+| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 28 | 0 | 21 | 2 |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 12 | 0 | 4 | 5 |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 12 | 0 | 9 | 0 |
+| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 11 | 3 | 1 | 4 |
 | [`besu-eth/governance`](https://github.com/besu-eth/governance) | 8 | 1 | 2 | 1 |
 | [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) | 5 | 2 | 2 | 0 |
 | [`besu-eth/besu-native`](https://github.com/besu-eth/besu-native) | 5 | 0 | 0 | 3 |
@@ -104,11 +103,11 @@ Months as rows, event types as columns. One file per repository in [`jflo_rollup
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 2,421 | [hyperledger_besu.md](jflo_rollup/hyperledger_besu.md) |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 44 | [hyperledger_homebrew-besu.md](jflo_rollup/hyperledger_homebrew-besu.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 43 | [hyperledger_besu-docs.md](jflo_rollup/hyperledger_besu-docs.md) |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 36 | [hyperledger_besu-native.md](jflo_rollup/hyperledger_besu-native.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 905 | [hyperledger_besu.md](jflo_rollup/hyperledger_besu.md) |
+| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 28 | [hyperledger_besu-native.md](jflo_rollup/hyperledger_besu-native.md) |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 12 | [besu-eth_besu.md](jflo_rollup/besu-eth_besu.md) |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 12 | [hyperledger_besu-docs.md](jflo_rollup/hyperledger_besu-docs.md) |
+| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 11 | [hyperledger_homebrew-besu.md](jflo_rollup/hyperledger_homebrew-besu.md) |
 | [`besu-eth/governance`](https://github.com/besu-eth/governance) | 8 | [besu-eth_governance.md](jflo_rollup/besu-eth_governance.md) |
 | [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) | 5 | [LF-Decentralized-Trust_governance.md](jflo_rollup/LF-Decentralized-Trust_governance.md) |
 | [`besu-eth/besu-native`](https://github.com/besu-eth/besu-native) | 5 | [besu-eth_besu-native.md](jflo_rollup/besu-eth_besu-native.md) |

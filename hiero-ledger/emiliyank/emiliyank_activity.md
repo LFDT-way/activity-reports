@@ -1,25 +1,25 @@
 # GitHub activity report — `emiliyank`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **122** events spanning **2025-09-16 → 2026-02-06**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
-Member of **3** team(s):
+Member of **2** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `hiero-sdk-java-committers` | member |
 | `hiero-sdk-java-maintainers` | member |
-| `hiero-sdk-python-triage` | member |
 
-Repository access granted through those teams (2 repos):
+Repository access granted through those teams (1 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `hiero-sdk-java` | maintain | `hiero-sdk-java-maintainers` (maintain), `hiero-sdk-java-committers` (write) |
-| `hiero-sdk-python` | triage | `hiero-sdk-python-triage` (triage) |
 
 
 ## Overview

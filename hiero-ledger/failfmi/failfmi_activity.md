@@ -1,8 +1,10 @@
 # GitHub activity report — `failfmi`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1** events spanning **2021-09-28 → 2021-09-28**, across **1** organizations and **1** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `failfmi` in the date range searched.
 
 ## Teams & repository access
 
@@ -18,51 +20,6 @@ Repository access granted through those teams (1 repos):
 | --- | --- | --- |
 | `hiero-improvement-proposals` | write | `hiero-improvement-proposals-committers` (write) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 1 |
-| Pull requests opened | 1 |
-| Pull request reviews | 0 |
-| Issues opened | 0 |
-| Pushes | 0 |
-| Commits pushed | 0 |
-| Comments | 0 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2021 | 1 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| PullRequestEvent | 1 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 1 | 0 | 0 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | 1 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`failfmi_rollup/`](failfmi_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | [hyperledger_besu.md](failfmi_rollup/hyperledger_besu.md) |
 
 ---
 

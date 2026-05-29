@@ -1,6 +1,8 @@
 # GitHub activity report — `YoungHypo`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **120** events spanning **2024-04-15 → 2026-05-22**, across **5** organizations and **7** repositories.
 

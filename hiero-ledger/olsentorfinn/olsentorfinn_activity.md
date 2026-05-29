@@ -1,28 +1,28 @@
 # GitHub activity report — `olsentorfinn`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **64** events spanning **2024-10-30 → 2026-05-04**, across **1** organizations and **5** repositories.
 
 ## Teams & repository access
 
-Member of **5** team(s):
+Member of **4** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `hiero-consensus-node-release-managers` | member |
-| `roadmap-committers` | member |
 | `solo-committers` | member |
 | `solo-docs-committers` | maintainer |
 | `solo-docs-maintainers` | maintainer |
 
-Repository access granted through those teams (4 repos):
+Repository access granted through those teams (3 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `solo-docs` | maintain | `solo-docs-maintainers` (maintain), `solo-docs-committers` (write) |
 | `hiero-consensus-node` | write | `hiero-consensus-node-release-managers` (write) |
-| `roadmap` | write | `roadmap-committers` (write) |
 | `solo` | write | `solo-committers` (write) |
 
 

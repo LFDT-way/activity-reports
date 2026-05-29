@@ -1,6 +1,6 @@
 # [`trustoverip/logo-assets`](https://github.com/trustoverip/logo-assets) — monthly activity
 
-| Month | CreateEvent | DeleteEvent | Total |
+| Month | DeleteEvent | CreateEvent | Total |
 | --- | --: | --: | --: |
 | 2026-03 | 1 | 1 | 2 |
 | **Total** | **1** | **1** | **2** |

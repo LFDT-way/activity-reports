@@ -1,6 +1,8 @@
 # GitHub activity report — `swirlds-automation`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **4,463** events spanning **2025-02-13 → 2026-05-28**, across **1** organizations and **10** repositories.
 
@@ -13,13 +15,14 @@ Member of **2** team(s):
 | `hiero-automation` | maintainer |
 | `hiero-improvement-proposals-committers` | member |
 
-Repository access granted through those teams (14 repos):
+Repository access granted through those teams (15 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `hiero-block-node` | write | `hiero-automation` (write) |
 | `hiero-cli` | write | `hiero-automation` (write) |
 | `hiero-consensus-node` | write | `hiero-automation` (write) |
+| `hiero-contracts` | write | `hiero-automation` (write) |
 | `hiero-ethereum-execution-spec-tests` | write | `hiero-automation` (write) |
 | `hiero-improvement-proposals` | write | `hiero-automation` (write), `hiero-improvement-proposals-committers` (write) |
 | `hiero-json-rpc-relay` | write | `hiero-automation` (write) |

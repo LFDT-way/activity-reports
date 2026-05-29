@@ -1,8 +1,10 @@
 # GitHub activity report — `joshuafernandes`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **693** events spanning **2019-09-16 → 2026-05-28**, across **2** organizations and **7** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **205** events spanning **2024-01-03 → 2026-05-28**, across **2** organizations and **6** repositories.
 
 ## Teams & repository access
 
@@ -29,24 +31,19 @@ Repository access granted through those teams (7 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 693 |
-| Pull requests opened | 90 |
-| Pull request reviews | 62 |
-| Issues opened | 7 |
-| Pushes | 164 |
-| Commits pushed | 210 |
-| Comments | 138 |
-| Releases | 13 |
+| Total events | 205 |
+| Pull requests opened | 18 |
+| Pull request reviews | 21 |
+| Issues opened | 0 |
+| Pushes | 86 |
+| Commits pushed | 125 |
+| Comments | 21 |
+| Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2019 | 124 |
-| 2020 | 186 |
-| 2021 | 41 |
-| 2022 | 61 |
-| 2023 | 76 |
 | 2024 | 121 |
 | 2025 | 77 |
 | 2026 | 7 |
@@ -55,33 +52,29 @@ Repository access granted through those teams (7 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 188 |
-| PushEvent | 164 |
-| PullRequestReviewCommentEvent | 76 |
-| PullRequestReviewEvent | 62 |
-| CreateEvent | 60 |
-| IssueCommentEvent | 60 |
-| DeleteEvent | 29 |
-| ForkEvent | 29 |
-| ReleaseEvent | 13 |
-| IssuesEvent | 10 |
-| CommitCommentEvent | 2 |
+| PushEvent | 86 |
+| PullRequestEvent | 42 |
+| PullRequestReviewEvent | 21 |
+| CreateEvent | 18 |
+| DeleteEvent | 15 |
+| IssueCommentEvent | 15 |
+| PullRequestReviewCommentEvent | 6 |
+| IssuesEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 689 | 90 | 61 | 164 |
+| [`hyperledger`](https://github.com/hyperledger) | 201 | 18 | 20 | 86 |
 | [`besu-eth`](https://github.com/besu-eth) | 4 | 0 | 1 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 347 | 52 | 19 | 84 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 311 | 32 | 41 | 73 |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 27 | 6 | 1 | 7 |
-| [`hyperledger/hyperledger-rocket-chat-hubot`](https://github.com/hyperledger/hyperledger-rocket-chat-hubot) | 3 | 0 | 0 | 0 |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 121 | 14 | 5 | 53 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 76 | 4 | 14 | 32 |
+| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 3 | 0 | 1 | 1 |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 2 | 0 | 0 | 0 |
 | [`besu-eth/besu-hsm-plugin`](https://github.com/besu-eth/besu-hsm-plugin) | 2 | 0 | 1 | 0 |
 | [`hyperledger/toc`](https://github.com/hyperledger/toc) | 1 | 0 | 0 | 0 |
@@ -92,10 +85,9 @@ Months as rows, event types as columns. One file per repository in [`joshuaferna
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 347 | [hyperledger_besu.md](joshuafernandes_rollup/hyperledger_besu.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 311 | [hyperledger_besu-docs.md](joshuafernandes_rollup/hyperledger_besu-docs.md) |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 27 | [hyperledger_homebrew-besu.md](joshuafernandes_rollup/hyperledger_homebrew-besu.md) |
-| [`hyperledger/hyperledger-rocket-chat-hubot`](https://github.com/hyperledger/hyperledger-rocket-chat-hubot) | 3 | [hyperledger_hyperledger-rocket-chat-hubot.md](joshuafernandes_rollup/hyperledger_hyperledger-rocket-chat-hubot.md) |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 121 | [hyperledger_besu-docs.md](joshuafernandes_rollup/hyperledger_besu-docs.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 76 | [hyperledger_besu.md](joshuafernandes_rollup/hyperledger_besu.md) |
+| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 3 | [hyperledger_homebrew-besu.md](joshuafernandes_rollup/hyperledger_homebrew-besu.md) |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 2 | [besu-eth_besu.md](joshuafernandes_rollup/besu-eth_besu.md) |
 | [`besu-eth/besu-hsm-plugin`](https://github.com/besu-eth/besu-hsm-plugin) | 2 | [besu-eth_besu-hsm-plugin.md](joshuafernandes_rollup/besu-eth_besu-hsm-plugin.md) |
 | [`hyperledger/toc`](https://github.com/hyperledger/toc) | 1 | [hyperledger_toc.md](joshuafernandes_rollup/hyperledger_toc.md) |

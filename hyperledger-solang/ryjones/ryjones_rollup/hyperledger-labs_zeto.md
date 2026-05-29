@@ -1,6 +1,6 @@
 # [`hyperledger-labs/zeto`](https://github.com/hyperledger-labs/zeto) — monthly activity
 
-| Month | PullRequestEvent | IssueCommentEvent | DeleteEvent | PullRequestReviewEvent | Total |
+| Month | PullRequestEvent | DeleteEvent | IssueCommentEvent | PullRequestReviewEvent | Total |
 | --- | --: | --: | --: | --: | --: |
 | 2024-12 | 1 | 1 | 1 | 1 | 4 |
 | **Total** | **1** | **1** | **1** | **1** | **4** |

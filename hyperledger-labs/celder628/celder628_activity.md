@@ -1,8 +1,10 @@
 # GitHub activity report — `celder628`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **104** events spanning **2016-06-27 → 2024-09-03**, across **2** organizations and **7** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **87** events spanning **2024-01-16 → 2024-09-03**, across **2** organizations and **5** repositories.
 
 ## Teams & repository access
 
@@ -25,57 +27,51 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 104 |
-| Pull requests opened | 29 |
-| Pull request reviews | 15 |
-| Issues opened | 3 |
+| Total events | 87 |
+| Pull requests opened | 27 |
+| Pull request reviews | 12 |
+| Issues opened | 1 |
 | Pushes | 12 |
 | Commits pushed | 17 |
-| Comments | 15 |
+| Comments | 10 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2016 | 2 |
-| 2017 | 1 |
-| 2022 | 1 |
-| 2023 | 13 |
 | 2024 | 87 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 45 |
-| PullRequestReviewEvent | 15 |
+| PullRequestEvent | 43 |
+| PullRequestReviewEvent | 12 |
 | PushEvent | 12 |
-| ForkEvent | 10 |
-| PullRequestReviewCommentEvent | 9 |
-| IssueCommentEvent | 6 |
-| IssuesEvent | 5 |
+| ForkEvent | 7 |
+| PullRequestReviewCommentEvent | 7 |
+| IssueCommentEvent | 3 |
 | CreateEvent | 1 |
 | DeleteEvent | 1 |
+| IssuesEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 63 | 18 | 6 | 12 |
-| [`hyperledger`](https://github.com/hyperledger) | 41 | 11 | 9 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 62 | 18 | 6 | 12 |
+| [`hyperledger`](https://github.com/hyperledger) | 25 | 9 | 6 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-labs/fabric-ansible-collection`](https://github.com/hyperledger-labs/fabric-ansible-collection) | 43 | 14 | 3 | 11 |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 24 | 5 | 9 | 0 |
 | [`hyperledger-labs/microfab`](https://github.com/hyperledger-labs/microfab) | 19 | 4 | 3 | 1 |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 12 | 4 | 0 | 0 |
-| [`hyperledger/fabric-ca`](https://github.com/hyperledger/fabric-ca) | 4 | 2 | 0 | 0 |
-| [`hyperledger-labs/fabric-operator`](https://github.com/hyperledger-labs/fabric-operator) | 1 | 0 | 0 | 0 |
-| [`hyperledger/composer`](https://github.com/hyperledger/composer) | 1 | 0 | 0 | 0 |
+| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 17 | 4 | 6 | 0 |
+| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 5 | 3 | 0 | 0 |
+| [`hyperledger/fabric-ca`](https://github.com/hyperledger/fabric-ca) | 3 | 2 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -84,12 +80,10 @@ Months as rows, event types as columns. One file per repository in [`celder628_r
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`hyperledger-labs/fabric-ansible-collection`](https://github.com/hyperledger-labs/fabric-ansible-collection) | 43 | [hyperledger-labs_fabric-ansible-collection.md](celder628_rollup/hyperledger-labs_fabric-ansible-collection.md) |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 24 | [hyperledger_fabric-samples.md](celder628_rollup/hyperledger_fabric-samples.md) |
 | [`hyperledger-labs/microfab`](https://github.com/hyperledger-labs/microfab) | 19 | [hyperledger-labs_microfab.md](celder628_rollup/hyperledger-labs_microfab.md) |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 12 | [hyperledger_fabric.md](celder628_rollup/hyperledger_fabric.md) |
-| [`hyperledger/fabric-ca`](https://github.com/hyperledger/fabric-ca) | 4 | [hyperledger_fabric-ca.md](celder628_rollup/hyperledger_fabric-ca.md) |
-| [`hyperledger-labs/fabric-operator`](https://github.com/hyperledger-labs/fabric-operator) | 1 | [hyperledger-labs_fabric-operator.md](celder628_rollup/hyperledger-labs_fabric-operator.md) |
-| [`hyperledger/composer`](https://github.com/hyperledger/composer) | 1 | [hyperledger_composer.md](celder628_rollup/hyperledger_composer.md) |
+| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 17 | [hyperledger_fabric-samples.md](celder628_rollup/hyperledger_fabric-samples.md) |
+| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 5 | [hyperledger_fabric.md](celder628_rollup/hyperledger_fabric.md) |
+| [`hyperledger/fabric-ca`](https://github.com/hyperledger/fabric-ca) | 3 | [hyperledger_fabric-ca.md](celder628_rollup/hyperledger_fabric-ca.md) |
 
 ---
 

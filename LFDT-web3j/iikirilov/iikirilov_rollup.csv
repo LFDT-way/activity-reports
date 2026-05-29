@@ -1,12 +1,1 @@
-repo,month,PullRequestReviewCommentEvent,PullRequestEvent,IssueCommentEvent,ForkEvent,PushEvent,total
-hyperledger/besu,2019-09,7,6,5,1,0,19
-hyperledger/besu,2019-10,6,6,1,0,0,13
-hyperledger/besu,2019-11,15,2,0,0,0,17
-hyperledger/besu,2019-12,0,1,0,0,0,1
-hyperledger/besu,2020-01,14,3,0,0,0,17
-hyperledger/besu,2020-02,13,1,0,0,0,14
-hyperledger/besu,2020-03,48,5,1,0,1,55
-hyperledger/besu-docs,2019-09,3,0,0,0,0,3
-hyperledger/besu-docs,2019-11,2,0,0,0,0,2
-hyperledger/besu-docs,2020-01,4,0,0,0,0,4
-hyperledger/besu-docs,2020-03,4,0,0,0,0,4
+repo,month,total

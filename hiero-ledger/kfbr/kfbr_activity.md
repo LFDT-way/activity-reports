@@ -1,22 +1,26 @@
 # GitHub activity report — `kfbr`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **3** events spanning **2026-02-03 → 2026-03-02**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
-Member of **1** team(s):
+Member of **2** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `hiero-consensus-node-devops-codeowners` | member |
+| `roadmap-committers` | member |
 
-Repository access granted through those teams (1 repos):
+Repository access granted through those teams (2 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `hiero-consensus-node` | write | `hiero-consensus-node-devops-codeowners` (write) |
+| `roadmap` | write | `roadmap-committers` (write) |
 
 
 ## Overview

@@ -1,6 +1,8 @@
 # GitHub activity report — `stoqnkpL`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **28** events spanning **2024-10-08 → 2026-03-06**, across **2** organizations and **4** repositories.
 
@@ -15,7 +17,7 @@ Member of **4** team(s):
 | `hiero-improvement-proposals-committers` | member |
 | `tsc` | member |
 
-Repository access granted through those teams (39 repos):
+Repository access granted through those teams (40 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
@@ -28,6 +30,7 @@ Repository access granted through those teams (39 repos):
 | `hiero-consensus-node` | maintain | `tsc` (maintain), `hiero-consensus-node-committers` (write) |
 | `hiero-consensus-specifications` | maintain | `tsc` (maintain) |
 | `hiero-contracts` | maintain | `tsc` (maintain) |
+| `hiero-cryptography` | maintain | `tsc` (maintain) |
 | `hiero-did-sdk-js` | maintain | `tsc` (maintain) |
 | `hiero-did-sdk-python` | maintain | `tsc` (maintain) |
 | `hiero-docs` | maintain | `tsc` (maintain) |

@@ -1,8 +1,10 @@
 # GitHub activity report — `crockeea`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **15** events spanning **2017-12-18 → 2024-04-16**, across **1** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1** events spanning **2024-04-16 → 2024-04-16**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -39,48 +41,38 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 15 |
+| Total events | 1 |
 | Pull requests opened | 0 |
-| Pull request reviews | 1 |
-| Issues opened | 2 |
+| Pull request reviews | 0 |
+| Issues opened | 0 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 9 |
+| Comments | 0 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2017 | 1 |
-| 2018 | 10 |
-| 2021 | 1 |
-| 2023 | 2 |
 | 2024 | 1 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 9 |
-| ForkEvent | 2 |
-| IssuesEvent | 2 |
-| PullRequestReviewEvent | 1 |
 | WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 15 | 0 | 1 | 0 |
+| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`open-quantum-safe/openssh-portable`](https://github.com/open-quantum-safe/openssh-portable) | 8 | 0 | 0 | 0 |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 6 | 0 | 1 | 0 |
-| [`open-quantum-safe/openssl`](https://github.com/open-quantum-safe/openssl) | 1 | 0 | 0 | 0 |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -88,9 +80,7 @@ Months as rows, event types as columns. One file per repository in [`crockeea_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`open-quantum-safe/openssh-portable`](https://github.com/open-quantum-safe/openssh-portable) | 8 | [open-quantum-safe_openssh-portable.md](crockeea_rollup/open-quantum-safe_openssh-portable.md) |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 6 | [open-quantum-safe_liboqs.md](crockeea_rollup/open-quantum-safe_liboqs.md) |
-| [`open-quantum-safe/openssl`](https://github.com/open-quantum-safe/openssl) | 1 | [open-quantum-safe_openssl.md](crockeea_rollup/open-quantum-safe_openssl.md) |
+| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 1 | [open-quantum-safe_liboqs.md](crockeea_rollup/open-quantum-safe_liboqs.md) |
 
 ---
 

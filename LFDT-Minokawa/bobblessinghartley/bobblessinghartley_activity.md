@@ -1,8 +1,10 @@
 # GitHub activity report — `bobblessinghartley`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **7** events spanning **2021-10-06 → 2026-02-20**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **3** events spanning **2025-09-12 → 2026-02-20**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -25,10 +27,10 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 7 |
+| Total events | 3 |
 | Pull requests opened | 1 |
 | Pull request reviews | 0 |
-| Issues opened | 2 |
+| Issues opened | 0 |
 | Pushes | 0 |
 | Commits pushed | 0 |
 | Comments | 1 |
@@ -38,8 +40,6 @@ Repository access granted through those teams (2 repos):
 
 | Year | Events |
 | --- | --: |
-| 2021 | 1 |
-| 2022 | 3 |
 | 2025 | 2 |
 | 2026 | 1 |
 
@@ -47,8 +47,7 @@ Repository access granted through those teams (2 repos):
 
 | Type | Count |
 | --- | --: |
-| ForkEvent | 3 |
-| IssuesEvent | 2 |
+| ForkEvent | 1 |
 | IssueCommentEvent | 1 |
 | PullRequestEvent | 1 |
 
@@ -56,7 +55,6 @@ Repository access granted through those teams (2 repos):
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 4 | 0 | 0 | 0 |
 | [`LF-Decentralized-Trust-labs`](https://github.com/LF-Decentralized-Trust-labs) | 3 | 1 | 0 | 0 |
 
 ## Repositories
@@ -64,9 +62,6 @@ Repository access granted through those teams (2 repos):
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io`](https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io) | 3 | 1 | 0 | 0 |
-| [`hyperledger/firefly`](https://github.com/hyperledger/firefly) | 2 | 0 | 0 | 0 |
-| [`hyperledger/firefly-fabconnect`](https://github.com/hyperledger/firefly-fabconnect) | 1 | 0 | 0 | 0 |
-| [`hyperledger/firefly-samples`](https://github.com/hyperledger/firefly-samples) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -75,9 +70,6 @@ Months as rows, event types as columns. One file per repository in [`bobblessing
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io`](https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io) | 3 | [LF-Decentralized-Trust-labs_LF-Decentralized-Trust-labs.github.io.md](bobblessinghartley_rollup/LF-Decentralized-Trust-labs_LF-Decentralized-Trust-labs.github.io.md) |
-| [`hyperledger/firefly`](https://github.com/hyperledger/firefly) | 2 | [hyperledger_firefly.md](bobblessinghartley_rollup/hyperledger_firefly.md) |
-| [`hyperledger/firefly-fabconnect`](https://github.com/hyperledger/firefly-fabconnect) | 1 | [hyperledger_firefly-fabconnect.md](bobblessinghartley_rollup/hyperledger_firefly-fabconnect.md) |
-| [`hyperledger/firefly-samples`](https://github.com/hyperledger/firefly-samples) | 1 | [hyperledger_firefly-samples.md](bobblessinghartley_rollup/hyperledger_firefly-samples.md) |
 
 ---
 

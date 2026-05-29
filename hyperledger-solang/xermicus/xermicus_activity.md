@@ -1,8 +1,10 @@
 # GitHub activity report — `xermicus`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **2,665** events spanning **2022-05-14 → 2025-07-21**, across **3** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **117** events spanning **2024-01-08 → 2025-07-21**, across **2** organizations and **6** repositories.
 
 ## Teams & repository access
 
@@ -32,21 +34,19 @@ Repository access granted through those teams (8 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 2,665 |
-| Pull requests opened | 135 |
-| Pull request reviews | 1,066 |
-| Issues opened | 56 |
-| Pushes | 144 |
-| Commits pushed | 178 |
-| Comments | 1,044 |
+| Total events | 117 |
+| Pull requests opened | 14 |
+| Pull request reviews | 20 |
+| Issues opened | 1 |
+| Pushes | 24 |
+| Commits pushed | 50 |
+| Comments | 28 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 571 |
-| 2023 | 1,977 |
 | 2024 | 116 |
 | 2025 | 1 |
 
@@ -54,37 +54,32 @@ Repository access granted through those teams (8 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 1,066 |
-| PullRequestReviewCommentEvent | 773 |
-| PullRequestEvent | 281 |
-| IssueCommentEvent | 271 |
-| PushEvent | 144 |
-| IssuesEvent | 94 |
-| CreateEvent | 20 |
-| DeleteEvent | 13 |
-| ForkEvent | 2 |
-| WatchEvent | 1 |
+| PullRequestEvent | 35 |
+| PushEvent | 24 |
+| PullRequestReviewEvent | 20 |
+| IssueCommentEvent | 19 |
+| PullRequestReviewCommentEvent | 9 |
+| DeleteEvent | 4 |
+| IssuesEvent | 4 |
+| CreateEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 2,567 | 129 | 1,035 | 141 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 95 | 6 | 30 | 3 |
+| [`hyperledger`](https://github.com/hyperledger) | 114 | 14 | 19 | 24 |
 | [`hyperledger-solang`](https://github.com/hyperledger-solang) | 3 | 0 | 1 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/solang`](https://github.com/hyperledger/solang) | 2,432 | 117 | 1,000 | 120 |
-| [`hyperledger-labs/solang`](https://github.com/hyperledger-labs/solang) | 95 | 6 | 30 | 3 |
-| [`hyperledger/solang-llvm`](https://github.com/hyperledger/solang-llvm) | 73 | 10 | 18 | 5 |
-| [`hyperledger/solang-substrate-ci`](https://github.com/hyperledger/solang-substrate-ci) | 29 | 2 | 2 | 14 |
-| [`hyperledger/solang-aqd`](https://github.com/hyperledger/solang-aqd) | 17 | 0 | 4 | 2 |
-| [`hyperledger/homebrew-solang`](https://github.com/hyperledger/homebrew-solang) | 13 | 0 | 11 | 0 |
+| [`hyperledger/solang`](https://github.com/hyperledger/solang) | 92 | 11 | 19 | 16 |
+| [`hyperledger/solang-substrate-ci`](https://github.com/hyperledger/solang-substrate-ci) | 14 | 2 | 0 | 6 |
+| [`hyperledger/solang-llvm`](https://github.com/hyperledger/solang-llvm) | 4 | 1 | 0 | 1 |
 | [`hyperledger-solang/solang`](https://github.com/hyperledger-solang/solang) | 3 | 0 | 1 | 0 |
-| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 3 | 0 | 0 | 0 |
+| [`hyperledger/solang-aqd`](https://github.com/hyperledger/solang-aqd) | 3 | 0 | 0 | 1 |
+| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -92,14 +87,12 @@ Months as rows, event types as columns. One file per repository in [`xermicus_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/solang`](https://github.com/hyperledger/solang) | 2,432 | [hyperledger_solang.md](xermicus_rollup/hyperledger_solang.md) |
-| [`hyperledger-labs/solang`](https://github.com/hyperledger-labs/solang) | 95 | [hyperledger-labs_solang.md](xermicus_rollup/hyperledger-labs_solang.md) |
-| [`hyperledger/solang-llvm`](https://github.com/hyperledger/solang-llvm) | 73 | [hyperledger_solang-llvm.md](xermicus_rollup/hyperledger_solang-llvm.md) |
-| [`hyperledger/solang-substrate-ci`](https://github.com/hyperledger/solang-substrate-ci) | 29 | [hyperledger_solang-substrate-ci.md](xermicus_rollup/hyperledger_solang-substrate-ci.md) |
-| [`hyperledger/solang-aqd`](https://github.com/hyperledger/solang-aqd) | 17 | [hyperledger_solang-aqd.md](xermicus_rollup/hyperledger_solang-aqd.md) |
-| [`hyperledger/homebrew-solang`](https://github.com/hyperledger/homebrew-solang) | 13 | [hyperledger_homebrew-solang.md](xermicus_rollup/hyperledger_homebrew-solang.md) |
+| [`hyperledger/solang`](https://github.com/hyperledger/solang) | 92 | [hyperledger_solang.md](xermicus_rollup/hyperledger_solang.md) |
+| [`hyperledger/solang-substrate-ci`](https://github.com/hyperledger/solang-substrate-ci) | 14 | [hyperledger_solang-substrate-ci.md](xermicus_rollup/hyperledger_solang-substrate-ci.md) |
+| [`hyperledger/solang-llvm`](https://github.com/hyperledger/solang-llvm) | 4 | [hyperledger_solang-llvm.md](xermicus_rollup/hyperledger_solang-llvm.md) |
 | [`hyperledger-solang/solang`](https://github.com/hyperledger-solang/solang) | 3 | [hyperledger-solang_solang.md](xermicus_rollup/hyperledger-solang_solang.md) |
-| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 3 | [hyperledger_governance.md](xermicus_rollup/hyperledger_governance.md) |
+| [`hyperledger/solang-aqd`](https://github.com/hyperledger/solang-aqd) | 3 | [hyperledger_solang-aqd.md](xermicus_rollup/hyperledger_solang-aqd.md) |
+| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 1 | [hyperledger_governance.md](xermicus_rollup/hyperledger_governance.md) |
 
 ---
 

@@ -1,6 +1,6 @@
 # [`open-quantum-safe/libssh`](https://github.com/open-quantum-safe/libssh) — monthly activity
 
-| Month | PullRequestEvent | CreateEvent | DeleteEvent | Total |
+| Month | PullRequestEvent | DeleteEvent | CreateEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2024-03 | 1 | 1 | 1 | 3 |
 | **Total** | **1** | **1** | **1** | **3** |

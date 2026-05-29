@@ -1,8 +1,10 @@
 # GitHub activity report — `jasperpotts`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **510** events spanning **2023-09-13 → 2026-04-01**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **506** events spanning **2025-02-19 → 2026-04-01**, across **2** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -28,20 +30,19 @@ Repository access granted through those teams (3 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 510 |
-| Pull requests opened | 11 |
-| Pull request reviews | 107 |
+| Total events | 506 |
+| Pull requests opened | 10 |
+| Pull request reviews | 106 |
 | Issues opened | 4 |
 | Pushes | 204 |
 | Commits pushed | 207 |
-| Comments | 98 |
+| Comments | 97 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 4 |
 | 2025 | 410 |
 | 2026 | 96 |
 
@@ -50,14 +51,14 @@ Repository access granted through those teams (3 repos):
 | Type | Count |
 | --- | --: |
 | PushEvent | 204 |
-| PullRequestReviewEvent | 107 |
-| PullRequestReviewCommentEvent | 84 |
-| PullRequestEvent | 43 |
+| PullRequestReviewEvent | 106 |
+| PullRequestReviewCommentEvent | 83 |
+| PullRequestEvent | 42 |
 | DeleteEvent | 27 |
 | IssueCommentEvent | 14 |
 | IssuesEvent | 14 |
 | CreateEvent | 13 |
-| ForkEvent | 3 |
+| ForkEvent | 2 |
 | WatchEvent | 1 |
 
 ## Organizations
@@ -65,7 +66,7 @@ Repository access granted through those teams (3 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hiero-ledger`](https://github.com/hiero-ledger) | 505 | 10 | 106 | 204 |
-| [`hyperledger`](https://github.com/hyperledger) | 5 | 1 | 1 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
@@ -73,7 +74,6 @@ Repository access granted through those teams (3 repos):
 | --- | --: | --: | --: | --: |
 | [`hiero-ledger/hiero-block-node`](https://github.com/hiero-ledger/hiero-block-node) | 421 | 9 | 84 | 181 |
 | [`hiero-ledger/hiero-consensus-node`](https://github.com/hiero-ledger/hiero-consensus-node) | 84 | 1 | 22 | 23 |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 4 | 1 | 1 | 0 |
 | [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -84,7 +84,6 @@ Months as rows, event types as columns. One file per repository in [`jasperpotts
 | --- | --: | --- |
 | [`hiero-ledger/hiero-block-node`](https://github.com/hiero-ledger/hiero-block-node) | 421 | [hiero-ledger_hiero-block-node.md](jasperpotts_rollup/hiero-ledger_hiero-block-node.md) |
 | [`hiero-ledger/hiero-consensus-node`](https://github.com/hiero-ledger/hiero-consensus-node) | 84 | [hiero-ledger_hiero-consensus-node.md](jasperpotts_rollup/hiero-ledger_hiero-consensus-node.md) |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 4 | [hyperledger_besu-native.md](jasperpotts_rollup/hyperledger_besu-native.md) |
 | [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | [hyperledger_besu.md](jasperpotts_rollup/hyperledger_besu.md) |
 
 ---

@@ -1,8 +1,10 @@
 # GitHub activity report — `bluele`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **2,130** events spanning **2021-05-27 → 2025-12-04**, across **1** organizations and **7** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **556** events spanning **2024-01-02 → 2025-12-04**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -28,22 +30,19 @@ Repository access granted through those teams (5 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 2,130 |
-| Pull requests opened | 197 |
-| Pull request reviews | 158 |
-| Issues opened | 55 |
-| Pushes | 705 |
-| Commits pushed | 2,037 |
-| Comments | 167 |
+| Total events | 556 |
+| Pull requests opened | 60 |
+| Pull request reviews | 26 |
+| Issues opened | 2 |
+| Pushes | 212 |
+| Commits pushed | 581 |
+| Comments | 21 |
 | Releases | 11 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 395 |
-| 2022 | 548 |
-| 2023 | 631 |
 | 2024 | 545 |
 | 2025 | 11 |
 
@@ -51,35 +50,28 @@ Repository access granted through those teams (5 repos):
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 705 |
-| PullRequestEvent | 446 |
-| CreateEvent | 298 |
-| DeleteEvent | 221 |
-| PullRequestReviewEvent | 158 |
-| IssuesEvent | 119 |
-| IssueCommentEvent | 91 |
-| PullRequestReviewCommentEvent | 76 |
+| PushEvent | 212 |
+| PullRequestEvent | 129 |
+| CreateEvent | 83 |
+| DeleteEvent | 64 |
+| PullRequestReviewEvent | 26 |
+| PullRequestReviewCommentEvent | 15 |
 | ReleaseEvent | 11 |
-| WatchEvent | 3 |
-| ForkEvent | 2 |
+| IssuesEvent | 10 |
+| IssueCommentEvent | 6 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 2,130 | 197 | 158 | 705 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 556 | 60 | 26 | 212 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/yui-ibc-solidity`](https://github.com/hyperledger-labs/yui-ibc-solidity) | 1,482 | 155 | 22 | 539 |
-| [`hyperledger-labs/yui-relayer`](https://github.com/hyperledger-labs/yui-relayer) | 491 | 32 | 95 | 135 |
-| [`hyperledger-labs/yui-fabric-ibc`](https://github.com/hyperledger-labs/yui-fabric-ibc) | 73 | 9 | 3 | 20 |
-| [`hyperledger-labs/yui-corda-ibc`](https://github.com/hyperledger-labs/yui-corda-ibc) | 41 | 0 | 20 | 8 |
-| [`hyperledger-labs/yui-docs`](https://github.com/hyperledger-labs/yui-docs) | 38 | 0 | 18 | 3 |
-| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 3 | 1 | 0 | 0 |
-| [`hyperledger-labs/minifabric`](https://github.com/hyperledger-labs/minifabric) | 2 | 0 | 0 | 0 |
+| [`hyperledger-labs/yui-ibc-solidity`](https://github.com/hyperledger-labs/yui-ibc-solidity) | 493 | 58 | 1 | 207 |
+| [`hyperledger-labs/yui-relayer`](https://github.com/hyperledger-labs/yui-relayer) | 63 | 2 | 25 | 5 |
 
 ## Monthly rollup — one table per repository
 
@@ -87,13 +79,8 @@ Months as rows, event types as columns. One file per repository in [`bluele_roll
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/yui-ibc-solidity`](https://github.com/hyperledger-labs/yui-ibc-solidity) | 1,482 | [hyperledger-labs_yui-ibc-solidity.md](bluele_rollup/hyperledger-labs_yui-ibc-solidity.md) |
-| [`hyperledger-labs/yui-relayer`](https://github.com/hyperledger-labs/yui-relayer) | 491 | [hyperledger-labs_yui-relayer.md](bluele_rollup/hyperledger-labs_yui-relayer.md) |
-| [`hyperledger-labs/yui-fabric-ibc`](https://github.com/hyperledger-labs/yui-fabric-ibc) | 73 | [hyperledger-labs_yui-fabric-ibc.md](bluele_rollup/hyperledger-labs_yui-fabric-ibc.md) |
-| [`hyperledger-labs/yui-corda-ibc`](https://github.com/hyperledger-labs/yui-corda-ibc) | 41 | [hyperledger-labs_yui-corda-ibc.md](bluele_rollup/hyperledger-labs_yui-corda-ibc.md) |
-| [`hyperledger-labs/yui-docs`](https://github.com/hyperledger-labs/yui-docs) | 38 | [hyperledger-labs_yui-docs.md](bluele_rollup/hyperledger-labs_yui-docs.md) |
-| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 3 | [hyperledger-labs_hyperledger-labs.github.io.md](bluele_rollup/hyperledger-labs_hyperledger-labs.github.io.md) |
-| [`hyperledger-labs/minifabric`](https://github.com/hyperledger-labs/minifabric) | 2 | [hyperledger-labs_minifabric.md](bluele_rollup/hyperledger-labs_minifabric.md) |
+| [`hyperledger-labs/yui-ibc-solidity`](https://github.com/hyperledger-labs/yui-ibc-solidity) | 493 | [hyperledger-labs_yui-ibc-solidity.md](bluele_rollup/hyperledger-labs_yui-ibc-solidity.md) |
+| [`hyperledger-labs/yui-relayer`](https://github.com/hyperledger-labs/yui-relayer) | 63 | [hyperledger-labs_yui-relayer.md](bluele_rollup/hyperledger-labs_yui-relayer.md) |
 
 ---
 

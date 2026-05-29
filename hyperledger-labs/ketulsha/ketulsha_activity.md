@@ -1,8 +1,10 @@
 # GitHub activity report — `ketulsha`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **332** events spanning **2022-03-31 → 2026-05-26**, across **2** organizations and **6** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **258** events spanning **2024-01-08 → 2026-05-26**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -23,21 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 332 |
-| Pull requests opened | 83 |
-| Pull request reviews | 23 |
+| Total events | 258 |
+| Pull requests opened | 53 |
+| Pull request reviews | 20 |
 | Issues opened | 0 |
 | Pushes | 46 |
 | Commits pushed | 51 |
-| Comments | 27 |
+| Comments | 19 |
 | Releases | 18 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 33 |
-| 2023 | 41 |
 | 2024 | 106 |
 | 2025 | 136 |
 | 2026 | 16 |
@@ -46,35 +46,32 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 154 |
+| PullRequestEvent | 114 |
 | PushEvent | 46 |
-| ForkEvent | 33 |
-| IssueCommentEvent | 23 |
-| PullRequestReviewEvent | 23 |
 | CreateEvent | 20 |
+| PullRequestReviewEvent | 20 |
+| ForkEvent | 19 |
+| IssueCommentEvent | 18 |
 | ReleaseEvent | 18 |
-| WatchEvent | 9 |
-| PullRequestReviewCommentEvent | 4 |
 | DeleteEvent | 1 |
 | MemberEvent | 1 |
+| PullRequestReviewCommentEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 318 | 74 | 23 | 46 |
-| [`hyperledger`](https://github.com/hyperledger) | 14 | 9 | 0 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 246 | 45 | 20 | 46 |
+| [`hyperledger`](https://github.com/hyperledger) | 12 | 8 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/fabric-operations-console`](https://github.com/hyperledger-labs/fabric-operations-console) | 309 | 71 | 20 | 46 |
+| [`hyperledger-labs/fabric-operations-console`](https://github.com/hyperledger-labs/fabric-operations-console) | 237 | 42 | 17 | 46 |
 | [`hyperledger/fabric-contract-api-go`](https://github.com/hyperledger/fabric-contract-api-go) | 12 | 8 | 0 | 0 |
 | [`hyperledger-labs/fabric-operator`](https://github.com/hyperledger-labs/fabric-operator) | 6 | 2 | 2 | 0 |
 | [`hyperledger-labs/fabric-chaincode-builder`](https://github.com/hyperledger-labs/fabric-chaincode-builder) | 3 | 1 | 1 | 0 |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-test`](https://github.com/hyperledger/fabric-test) | 1 | 1 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -82,12 +79,10 @@ Months as rows, event types as columns. One file per repository in [`ketulsha_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/fabric-operations-console`](https://github.com/hyperledger-labs/fabric-operations-console) | 309 | [hyperledger-labs_fabric-operations-console.md](ketulsha_rollup/hyperledger-labs_fabric-operations-console.md) |
+| [`hyperledger-labs/fabric-operations-console`](https://github.com/hyperledger-labs/fabric-operations-console) | 237 | [hyperledger-labs_fabric-operations-console.md](ketulsha_rollup/hyperledger-labs_fabric-operations-console.md) |
 | [`hyperledger/fabric-contract-api-go`](https://github.com/hyperledger/fabric-contract-api-go) | 12 | [hyperledger_fabric-contract-api-go.md](ketulsha_rollup/hyperledger_fabric-contract-api-go.md) |
 | [`hyperledger-labs/fabric-operator`](https://github.com/hyperledger-labs/fabric-operator) | 6 | [hyperledger-labs_fabric-operator.md](ketulsha_rollup/hyperledger-labs_fabric-operator.md) |
 | [`hyperledger-labs/fabric-chaincode-builder`](https://github.com/hyperledger-labs/fabric-chaincode-builder) | 3 | [hyperledger-labs_fabric-chaincode-builder.md](ketulsha_rollup/hyperledger-labs_fabric-chaincode-builder.md) |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | [hyperledger_fabric.md](ketulsha_rollup/hyperledger_fabric.md) |
-| [`hyperledger/fabric-test`](https://github.com/hyperledger/fabric-test) | 1 | [hyperledger_fabric-test.md](ketulsha_rollup/hyperledger_fabric-test.md) |
 
 ---
 

@@ -1,20 +1,20 @@
 # GitHub activity reports
 
-Per-user activity extracted from the archive for the 12 users listed in `groups.yml` (12 with activity).
+Per-user activity for 2024–2026 extracted from the archive for the 12 users listed in `groups.yml` (12 with activity).
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 | User | Events | First | Last | Orgs | Repos | Teams |
 | --- | --: | --- | --- | --: | --: | --: |
-| [`ryjones`](ryjones/ryjones_activity.md) | 15,158 | 2016-05-02 | 2026-05-28 | 48 | 724 | 1 |
-| [`petermetz`](petermetz/petermetz_activity.md) | 13,728 | 2019-06-26 | 2025-12-13 | 6 | 38 | 1 |
-| [`VRamakrishna`](VRamakrishna/VRamakrishna_activity.md) | 2,816 | 2016-04-05 | 2026-04-23 | 5 | 19 | 2 |
-| [`jwagantall`](jwagantall/jwagantall_activity.md) | 2,336 | 2017-04-19 | 2026-05-27 | 12 | 131 | 1 |
-| [`RafaelAPB`](RafaelAPB/RafaelAPB_activity.md) | 1,985 | 2019-04-16 | 2026-05-28 | 4 | 38 | 3 |
-| [`outSH`](outSH/outSH_activity.md) | 1,720 | 2021-10-04 | 2025-12-17 | 4 | 14 | 2 |
-| [`sandeepnRES`](sandeepnRES/sandeepnRES_activity.md) | 1,121 | 2023-02-22 | 2026-05-27 | 3 | 5 | 2 |
+| [`ryjones`](ryjones/ryjones_activity.md) | 6,668 | 2024-01-04 | 2026-05-28 | 46 | 379 | 1 |
+| [`petermetz`](petermetz/petermetz_activity.md) | 3,436 | 2024-01-03 | 2025-12-13 | 5 | 12 | 1 |
+| [`jwagantall`](jwagantall/jwagantall_activity.md) | 2,214 | 2024-12-17 | 2026-05-27 | 12 | 93 | 1 |
+| [`RafaelAPB`](RafaelAPB/RafaelAPB_activity.md) | 1,395 | 2024-01-16 | 2026-05-28 | 3 | 8 | 3 |
+| [`outSH`](outSH/outSH_activity.md) | 790 | 2024-01-04 | 2025-12-17 | 4 | 8 | 2 |
+| [`sandeepnRES`](sandeepnRES/sandeepnRES_activity.md) | 667 | 2024-01-02 | 2026-05-27 | 3 | 4 | 2 |
+| [`VRamakrishna`](VRamakrishna/VRamakrishna_activity.md) | 531 | 2024-01-05 | 2026-04-23 | 5 | 10 | 2 |
 | [`LordKubaya`](LordKubaya/LordKubaya_activity.md) | 485 | 2024-03-18 | 2026-04-28 | 3 | 3 | 4 |
-| [`AndreAugusto11`](AndreAugusto11/AndreAugusto11_activity.md) | 261 | 2022-02-24 | 2026-05-25 | 4 | 12 | 3 |
+| [`AndreAugusto11`](AndreAugusto11/AndreAugusto11_activity.md) | 172 | 2024-01-18 | 2026-05-25 | 4 | 8 | 3 |
 | [`Tomas-Silva2187`](Tomas-Silva2187/Tomas-Silva2187_activity.md) | 80 | 2025-02-14 | 2026-02-04 | 1 | 2 | 1 |
 | [`edsonCVN`](edsonCVN/edsonCVN_activity.md) | 35 | 2025-02-14 | 2025-10-21 | 1 | 1 | 1 |
 | [`pandaio22`](pandaio22/pandaio22_activity.md) | 33 | 2025-02-10 | 2026-04-30 | 1 | 1 | 1 |

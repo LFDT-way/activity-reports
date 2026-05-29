@@ -1,26 +1,39 @@
 # GitHub activity report — `Dosik13`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **394** events spanning **2025-03-28 → 2026-05-26**, across **1** organizations and **3** repositories.
 
 ## Teams & repository access
 
-Member of **3** team(s):
+Member of **5** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `governance-write` | member |
 | `hiero-hederium-maintainers` | member |
+| `hiero-sdk-go-maintainers` | member |
 | `hiero-sdk-python-committers` | member |
+| `hiero-sdk-triage` | member |
 
-Repository access granted through those teams (3 repos):
+Repository access granted through those teams (12 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `hiero-hederium` | maintain | `hiero-hederium-maintainers` (maintain) |
+| `hiero-sdk-go` | maintain | `hiero-sdk-go-maintainers` (maintain), `hiero-sdk-triage` (triage) |
 | `governance` | write | `governance-write` (write) |
-| `hiero-sdk-python` | write | `hiero-sdk-python-committers` (write) |
+| `hiero-sdk-python` | write | `hiero-sdk-python-committers` (write), `hiero-sdk-triage` (triage) |
+| `hiero-enterprise-java` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-cpp` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-java` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-js` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-rust` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-swift` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-tck` | triage | `hiero-sdk-triage` (triage) |
+| `sdk-collaboration-hub` | triage | `hiero-sdk-triage` (triage) |
 
 
 ## Overview

@@ -1,8 +1,10 @@
 # GitHub activity report — `andremacedopv`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **112** events spanning **2023-09-25 → 2025-08-14**, across **1** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **74** events spanning **2024-01-05 → 2025-08-14**, across **1** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -26,12 +28,12 @@ Repository access granted through those teams (3 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 112 |
-| Pull requests opened | 9 |
-| Pull request reviews | 19 |
+| Total events | 74 |
+| Pull requests opened | 8 |
+| Pull request reviews | 13 |
 | Issues opened | 0 |
-| Pushes | 40 |
-| Commits pushed | 239 |
+| Pushes | 25 |
+| Commits pushed | 93 |
 | Comments | 1 |
 | Releases | 0 |
 
@@ -39,7 +41,6 @@ Repository access granted through those teams (3 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 38 |
 | 2024 | 70 |
 | 2025 | 4 |
 
@@ -47,27 +48,26 @@ Repository access granted through those teams (3 repos):
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 40 |
-| DeleteEvent | 24 |
-| PullRequestReviewEvent | 19 |
-| PullRequestEvent | 16 |
-| CreateEvent | 11 |
+| PushEvent | 25 |
+| DeleteEvent | 18 |
+| PullRequestReviewEvent | 13 |
+| PullRequestEvent | 11 |
+| CreateEvent | 6 |
 | IssueCommentEvent | 1 |
-| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 112 | 9 | 19 | 40 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 74 | 8 | 13 | 25 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/cc-tools-demo`](https://github.com/hyperledger-labs/cc-tools-demo) | 64 | 6 | 9 | 27 |
-| [`hyperledger-labs/cc-tools`](https://github.com/hyperledger-labs/cc-tools) | 46 | 3 | 8 | 13 |
-| [`hyperledger-labs/cc-tools-doc`](https://github.com/hyperledger-labs/cc-tools-doc) | 2 | 0 | 2 | 0 |
+| [`hyperledger-labs/cc-tools-demo`](https://github.com/hyperledger-labs/cc-tools-demo) | 51 | 5 | 8 | 21 |
+| [`hyperledger-labs/cc-tools`](https://github.com/hyperledger-labs/cc-tools) | 22 | 3 | 4 | 4 |
+| [`hyperledger-labs/cc-tools-doc`](https://github.com/hyperledger-labs/cc-tools-doc) | 1 | 0 | 1 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -75,9 +75,9 @@ Months as rows, event types as columns. One file per repository in [`andremacedo
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/cc-tools-demo`](https://github.com/hyperledger-labs/cc-tools-demo) | 64 | [hyperledger-labs_cc-tools-demo.md](andremacedopv_rollup/hyperledger-labs_cc-tools-demo.md) |
-| [`hyperledger-labs/cc-tools`](https://github.com/hyperledger-labs/cc-tools) | 46 | [hyperledger-labs_cc-tools.md](andremacedopv_rollup/hyperledger-labs_cc-tools.md) |
-| [`hyperledger-labs/cc-tools-doc`](https://github.com/hyperledger-labs/cc-tools-doc) | 2 | [hyperledger-labs_cc-tools-doc.md](andremacedopv_rollup/hyperledger-labs_cc-tools-doc.md) |
+| [`hyperledger-labs/cc-tools-demo`](https://github.com/hyperledger-labs/cc-tools-demo) | 51 | [hyperledger-labs_cc-tools-demo.md](andremacedopv_rollup/hyperledger-labs_cc-tools-demo.md) |
+| [`hyperledger-labs/cc-tools`](https://github.com/hyperledger-labs/cc-tools) | 22 | [hyperledger-labs_cc-tools.md](andremacedopv_rollup/hyperledger-labs_cc-tools.md) |
+| [`hyperledger-labs/cc-tools-doc`](https://github.com/hyperledger-labs/cc-tools-doc) | 1 | [hyperledger-labs_cc-tools-doc.md](andremacedopv_rollup/hyperledger-labs_cc-tools-doc.md) |
 
 ---
 

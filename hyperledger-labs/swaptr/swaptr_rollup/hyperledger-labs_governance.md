@@ -1,6 +1,6 @@
 # [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) — monthly activity
 
-| Month | PullRequestEvent | IssueCommentEvent | IssuesEvent | ForkEvent | Total |
+| Month | IssueCommentEvent | PullRequestEvent | IssuesEvent | ForkEvent | Total |
 | --- | --: | --: | --: | --: | --: |
 | 2024-07 | 1 | 1 | 1 | 1 | 4 |
 | **Total** | **1** | **1** | **1** | **1** | **4** |

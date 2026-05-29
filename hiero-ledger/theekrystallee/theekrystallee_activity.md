@@ -1,25 +1,29 @@
 # GitHub activity report — `theekrystallee`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **202** events spanning **2024-11-06 → 2026-02-26**, across **1** organizations and **6** repositories.
 
 ## Teams & repository access
 
-Member of **3** team(s):
+Member of **4** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `governance-write` | member |
 | `hiero-docs-committers` | maintainer |
 | `hiero-docs-maintainers` | maintainer |
+| `roadmap-committers` | member |
 
-Repository access granted through those teams (2 repos):
+Repository access granted through those teams (3 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `hiero-docs` | admin | `hiero-docs-maintainers` (admin), `hiero-docs-committers` (write) |
 | `governance` | write | `governance-write` (write) |
+| `roadmap` | write | `roadmap-committers` (write) |
 
 
 ## Overview

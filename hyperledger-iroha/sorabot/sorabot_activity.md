@@ -1,8 +1,10 @@
 # GitHub activity report — `sorabot`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1,955** events spanning **2017-09-20 → 2024-01-10**, across **1** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1** events spanning **2024-01-10 → 2024-01-10**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -44,51 +46,38 @@ Repository access granted through those teams (19 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 1,955 |
+| Total events | 1 |
 | Pull requests opened | 0 |
 | Pull request reviews | 0 |
-| Issues opened | 3 |
-| Pushes | 13 |
-| Commits pushed | 47 |
-| Comments | 1,895 |
+| Issues opened | 1 |
+| Pushes | 0 |
+| Commits pushed | 0 |
+| Comments | 0 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2017 | 743 |
-| 2018 | 1,127 |
-| 2019 | 51 |
-| 2020 | 24 |
-| 2021 | 4 |
-| 2023 | 5 |
 | 2024 | 1 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 1,541 |
-| PullRequestReviewCommentEvent | 354 |
-| IssuesEvent | 39 |
-| PushEvent | 13 |
-| PullRequestEvent | 7 |
-| DeleteEvent | 1 |
+| IssuesEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 1,955 | 0 | 0 | 13 |
+| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 1,940 | 0 | 0 | 13 |
-| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 12 | 0 | 0 | 0 |
-| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 3 | 0 | 0 | 0 |
+| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -96,9 +85,7 @@ Months as rows, event types as columns. One file per repository in [`sorabot_rol
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 1,940 | [hyperledger_iroha.md](sorabot_rollup/hyperledger_iroha.md) |
-| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 12 | [hyperledger_iroha-java.md](sorabot_rollup/hyperledger_iroha-java.md) |
-| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 3 | [hyperledger_iroha-2-docs.md](sorabot_rollup/hyperledger_iroha-2-docs.md) |
+| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 1 | [hyperledger_iroha-2-docs.md](sorabot_rollup/hyperledger_iroha-2-docs.md) |
 
 ---
 

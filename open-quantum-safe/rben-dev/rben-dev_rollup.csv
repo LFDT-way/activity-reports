@@ -1,0 +1,6 @@
+repo,month,IssueCommentEvent,ForkEvent,IssuesEvent,PullRequestEvent,PullRequestReviewEvent,total
+open-quantum-safe/liboqs,2026-01,1,0,0,0,0,1
+open-quantum-safe/liboqs,2026-02,5,0,0,0,0,5
+open-quantum-safe/liboqs,2026-03,0,1,0,0,0,1
+open-quantum-safe/oqs-provider,2026-04,0,0,1,0,0,1
+open-quantum-safe/oqs-provider,2026-05,0,0,0,1,1,2

@@ -1,8 +1,10 @@
 # GitHub activity report — `nickpoorman`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1** events spanning **2022-07-12 → 2022-07-12**, across **1** organizations and **1** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `nickpoorman` in the date range searched.
 
 ## Teams & repository access
 
@@ -18,51 +20,6 @@ Repository access granted through those teams (1 repos):
 | --- | --- | --- |
 | `hiero-improvement-proposals` | write | `hiero-improvement-proposals-committers` (write) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 1 |
-| Pull requests opened | 0 |
-| Pull request reviews | 0 |
-| Issues opened | 0 |
-| Pushes | 0 |
-| Commits pushed | 0 |
-| Comments | 0 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2022 | 1 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| WatchEvent | 1 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`nickpoorman_rollup/`](nickpoorman_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | [hyperledger_fabric.md](nickpoorman_rollup/hyperledger_fabric.md) |
 
 ---
 

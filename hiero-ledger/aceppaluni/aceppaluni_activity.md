@@ -1,28 +1,50 @@
 # GitHub activity report — `aceppaluni`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **390** events spanning **2024-12-14 → 2026-05-26**, across **5** organizations and **18** repositories.
 
 ## Teams & repository access
 
-Member of **3** team(s):
+Member of **7** team(s):
 
 | Team | Role in team |
 | --- | --- |
+| `hiero-enterprise-java-triage` | member |
 | `hiero-sdk-good-first-issue-support` | member |
 | `hiero-sdk-python-committers` | member |
+| `hiero-sdk-triage` | member |
+| `hiero-triage` | member |
 | `hiero-website-committers` | member |
+| `hiero-website-maintainers` | member |
 
-Repository access granted through those teams (5 repos):
+Repository access granted through those teams (21 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `hiero-sdk-python` | write | `hiero-sdk-python-committers` (write), `hiero-sdk-good-first-issue-support` (triage) |
-| `hiero-website` | write | `hiero-website-committers` (write), `hiero-sdk-good-first-issue-support` (triage) |
-| `hiero-sdk-cpp` | triage | `hiero-sdk-good-first-issue-support` (triage) |
-| `hiero-sdk-js` | triage | `hiero-sdk-good-first-issue-support` (triage) |
-| `hiero-sdk-swift` | triage | `hiero-sdk-good-first-issue-support` (triage) |
+| `hiero-website` | maintain | `hiero-website-maintainers` (maintain), `hiero-website-committers` (write), `hiero-sdk-good-first-issue-support` (triage) |
+| `hiero-sdk-python` | write | `hiero-sdk-python-committers` (write), `hiero-sdk-good-first-issue-support` (triage), `hiero-sdk-triage` (triage) |
+| `roadmap` | write | `hiero-triage` (write) |
+| `hiero-block-node` | triage | `hiero-triage` (triage) |
+| `hiero-consensus-node` | triage | `hiero-triage` (triage) |
+| `hiero-contracts` | triage | `hiero-triage` (triage) |
+| `hiero-docs` | triage | `hiero-triage` (triage) |
+| `hiero-enterprise-java` | triage | `hiero-enterprise-java-triage` (triage), `hiero-sdk-triage` (triage) |
+| `hiero-json-rpc-relay` | triage | `hiero-triage` (triage) |
+| `hiero-local-node` | triage | `hiero-triage` (triage) |
+| `hiero-mirror-node` | triage | `hiero-triage` (triage) |
+| `hiero-mirror-node-explorer` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-cpp` | triage | `hiero-sdk-good-first-issue-support` (triage), `hiero-sdk-triage` (triage), `hiero-triage` (triage) |
+| `hiero-sdk-go` | triage | `hiero-sdk-triage` (triage), `hiero-triage` (triage) |
+| `hiero-sdk-java` | triage | `hiero-sdk-triage` (triage), `hiero-triage` (triage) |
+| `hiero-sdk-js` | triage | `hiero-sdk-good-first-issue-support` (triage), `hiero-sdk-triage` (triage), `hiero-triage` (triage) |
+| `hiero-sdk-rust` | triage | `hiero-sdk-triage` (triage), `hiero-triage` (triage) |
+| `hiero-sdk-swift` | triage | `hiero-sdk-good-first-issue-support` (triage), `hiero-sdk-triage` (triage), `hiero-triage` (triage) |
+| `hiero-sdk-tck` | triage | `hiero-sdk-triage` (triage) |
+| `sdk-collaboration-hub` | triage | `hiero-sdk-triage` (triage) |
+| `solo` | triage | `hiero-triage` (triage) |
 
 
 ## Overview

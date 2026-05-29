@@ -1,6 +1,6 @@
 # [`anoncreds/anoncreds-v2-rs`](https://github.com/anoncreds/anoncreds-v2-rs) — monthly activity
 
-| Month | PullRequestEvent | PushEvent | PullRequestReviewEvent | Total |
+| Month | PullRequestEvent | PullRequestReviewEvent | PushEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2025-12 | 1 | 1 | 1 | 3 |
 | **Total** | **1** | **1** | **1** | **3** |

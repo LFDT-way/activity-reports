@@ -1,6 +1,6 @@
 # [`openwallet-foundation-labs/governance`](https://github.com/openwallet-foundation-labs/governance) — monthly activity
 
-| Month | PullRequestReviewCommentEvent | PullRequestReviewEvent | ForkEvent | Total |
+| Month | PullRequestReviewEvent | PullRequestReviewCommentEvent | ForkEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2024-10 | 1 | 1 | 1 | 3 |
 | **Total** | **1** | **1** | **1** | **3** |

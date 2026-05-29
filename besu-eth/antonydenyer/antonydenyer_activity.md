@@ -1,8 +1,10 @@
 # GitHub activity report — `antonydenyer`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **428** events spanning **2019-09-24 → 2024-10-01**, across **1** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **8** events spanning **2024-07-15 → 2024-10-01**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -29,51 +31,41 @@ Repository access granted through those teams (7 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 428 |
-| Pull requests opened | 41 |
-| Pull request reviews | 156 |
-| Issues opened | 10 |
-| Pushes | 17 |
-| Commits pushed | 17 |
-| Comments | 165 |
+| Total events | 8 |
+| Pull requests opened | 0 |
+| Pull request reviews | 5 |
+| Issues opened | 1 |
+| Pushes | 0 |
+| Commits pushed | 0 |
+| Comments | 1 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2019 | 13 |
-| 2020 | 7 |
-| 2021 | 301 |
-| 2022 | 87 |
-| 2023 | 12 |
 | 2024 | 8 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 156 |
-| PullRequestReviewCommentEvent | 114 |
-| PullRequestEvent | 68 |
-| IssueCommentEvent | 51 |
-| IssuesEvent | 18 |
-| PushEvent | 17 |
-| ForkEvent | 3 |
-| CreateEvent | 1 |
+| PullRequestReviewEvent | 5 |
+| IssueCommentEvent | 1 |
+| IssuesEvent | 1 |
+| PullRequestEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 428 | 41 | 156 | 17 |
+| [`hyperledger`](https://github.com/hyperledger) | 8 | 0 | 5 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 398 | 35 | 148 | 15 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 30 | 6 | 8 | 2 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 8 | 0 | 5 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -81,8 +73,7 @@ Months as rows, event types as columns. One file per repository in [`antonydenye
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 398 | [hyperledger_besu.md](antonydenyer_rollup/hyperledger_besu.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 30 | [hyperledger_besu-docs.md](antonydenyer_rollup/hyperledger_besu-docs.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 8 | [hyperledger_besu.md](antonydenyer_rollup/hyperledger_besu.md) |
 
 ---
 

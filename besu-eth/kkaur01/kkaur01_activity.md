@@ -1,8 +1,10 @@
 # GitHub activity report — `kkaur01`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **13** events spanning **2021-08-10 → 2026-03-05**, across **2** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **11** events spanning **2024-07-01 → 2026-03-05**, across **2** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -29,7 +31,7 @@ Repository access granted through those teams (7 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 13 |
+| Total events | 11 |
 | Pull requests opened | 3 |
 | Pull request reviews | 1 |
 | Issues opened | 1 |
@@ -42,7 +44,6 @@ Repository access granted through those teams (7 repos):
 
 | Year | Events |
 | --- | --: |
-| 2021 | 2 |
 | 2024 | 1 |
 | 2025 | 3 |
 | 2026 | 7 |
@@ -53,7 +54,6 @@ Repository access granted through those teams (7 repos):
 | --- | --: |
 | IssuesEvent | 5 |
 | PullRequestEvent | 3 |
-| WatchEvent | 2 |
 | ForkEvent | 1 |
 | IssueCommentEvent | 1 |
 | PullRequestReviewEvent | 1 |
@@ -62,16 +62,15 @@ Repository access granted through those teams (7 repos):
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 10 | 3 | 0 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 8 | 3 | 0 | 0 |
 | [`LF-Decentralized-Trust`](https://github.com/LF-Decentralized-Trust) | 3 | 0 | 1 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 9 | 3 | 0 | 0 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 8 | 3 | 0 | 0 |
 | [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) | 3 | 0 | 1 | 0 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -79,9 +78,8 @@ Months as rows, event types as columns. One file per repository in [`kkaur01_rol
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 9 | [hyperledger_besu.md](kkaur01_rollup/hyperledger_besu.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 8 | [hyperledger_besu.md](kkaur01_rollup/hyperledger_besu.md) |
 | [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) | 3 | [LF-Decentralized-Trust_governance.md](kkaur01_rollup/LF-Decentralized-Trust_governance.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 1 | [hyperledger_besu-docs.md](kkaur01_rollup/hyperledger_besu-docs.md) |
 
 ---
 

@@ -1,8 +1,10 @@
 # GitHub activity report — `FabioPinheiro`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1,536** events spanning **2023-09-18 → 2026-05-13**, across **5** organizations and **29** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1,490** events spanning **2024-01-18 → 2026-05-13**, across **5** organizations and **28** repositories.
 
 ## Teams & repository access
 
@@ -40,20 +42,19 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 1,536 |
-| Pull requests opened | 91 |
-| Pull request reviews | 228 |
+| Total events | 1,490 |
+| Pull requests opened | 87 |
+| Pull request reviews | 217 |
 | Issues opened | 37 |
-| Pushes | 404 |
-| Commits pushed | 1,023 |
-| Comments | 337 |
+| Pushes | 391 |
+| Commits pushed | 1,009 |
+| Comments | 327 |
 | Releases | 3 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 46 |
 | 2024 | 773 |
 | 2025 | 613 |
 | 2026 | 104 |
@@ -62,13 +63,13 @@ Repository access granted through those teams (17 repos):
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 404 |
-| PullRequestReviewEvent | 228 |
-| PullRequestEvent | 215 |
-| IssueCommentEvent | 212 |
-| DeleteEvent | 160 |
-| PullRequestReviewCommentEvent | 125 |
-| CreateEvent | 103 |
+| PushEvent | 391 |
+| PullRequestReviewEvent | 217 |
+| IssueCommentEvent | 209 |
+| PullRequestEvent | 207 |
+| DeleteEvent | 159 |
+| PullRequestReviewCommentEvent | 118 |
+| CreateEvent | 100 |
 | IssuesEvent | 83 |
 | ReleaseEvent | 3 |
 | GollumEvent | 2 |
@@ -78,9 +79,9 @@ Repository access granted through those teams (17 repos):
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 804 | 59 | 81 | 238 |
+| [`hyperledger`](https://github.com/hyperledger) | 802 | 58 | 81 | 238 |
 | [`hyperledger-identus`](https://github.com/hyperledger-identus) | 619 | 24 | 120 | 139 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 100 | 8 | 22 | 27 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 56 | 5 | 11 | 14 |
 | [`LF-Decentralized-Trust`](https://github.com/LF-Decentralized-Trust) | 11 | 0 | 5 | 0 |
 | [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 2 | 0 | 0 | 0 |
 
@@ -92,9 +93,9 @@ Repository access granted through those teams (17 repos):
 | [`hyperledger-identus/mediator`](https://github.com/hyperledger-identus/mediator) | 291 | 11 | 34 | 92 |
 | [`hyperledger/identus-mediator`](https://github.com/hyperledger/identus-mediator) | 149 | 10 | 10 | 30 |
 | [`hyperledger/identus-docs`](https://github.com/hyperledger/identus-docs) | 145 | 14 | 10 | 31 |
-| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 100 | 8 | 22 | 27 |
 | [`hyperledger-identus/prism-vdr-driver`](https://github.com/hyperledger-identus/prism-vdr-driver) | 83 | 2 | 7 | 26 |
 | [`hyperledger/identus`](https://github.com/hyperledger/identus) | 81 | 5 | 10 | 17 |
+| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 56 | 5 | 11 | 14 |
 | [`hyperledger-identus/docs`](https://github.com/hyperledger-identus/docs) | 49 | 3 | 18 | 3 |
 | [`hyperledger-identus/vdr`](https://github.com/hyperledger-identus/vdr) | 46 | 2 | 14 | 6 |
 | [`hyperledger-identus/cloud-agent`](https://github.com/hyperledger-identus/cloud-agent) | 35 | 2 | 14 | 1 |
@@ -110,7 +111,6 @@ Repository access granted through those teams (17 repos):
 | [`hyperledger-identus/governance`](https://github.com/hyperledger-identus/governance) | 4 | 0 | 1 | 0 |
 | [`hyperledger/governance`](https://github.com/hyperledger/governance) | 4 | 0 | 2 | 0 |
 | [`hyperledger-identus/sdk-swift`](https://github.com/hyperledger-identus/sdk-swift) | 2 | 0 | 2 | 0 |
-| [`hyperledger/anoncreds-rs`](https://github.com/hyperledger/anoncreds-rs) | 2 | 1 | 0 | 0 |
 | [`hyperledger-identus/integration`](https://github.com/hyperledger-identus/integration) | 1 | 0 | 0 | 0 |
 | [`hyperledger-identus/sdk-kmp`](https://github.com/hyperledger-identus/sdk-kmp) | 1 | 0 | 1 | 0 |
 | [`hyperledger/aries-uniffi-wrappers`](https://github.com/hyperledger/aries-uniffi-wrappers) | 1 | 0 | 0 | 0 |
@@ -128,9 +128,9 @@ Months as rows, event types as columns. One file per repository in [`FabioPinhei
 | [`hyperledger-identus/mediator`](https://github.com/hyperledger-identus/mediator) | 291 | [hyperledger-identus_mediator.md](FabioPinheiro_rollup/hyperledger-identus_mediator.md) |
 | [`hyperledger/identus-mediator`](https://github.com/hyperledger/identus-mediator) | 149 | [hyperledger_identus-mediator.md](FabioPinheiro_rollup/hyperledger_identus-mediator.md) |
 | [`hyperledger/identus-docs`](https://github.com/hyperledger/identus-docs) | 145 | [hyperledger_identus-docs.md](FabioPinheiro_rollup/hyperledger_identus-docs.md) |
-| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 100 | [hyperledger-labs_open-enterprise-agent.md](FabioPinheiro_rollup/hyperledger-labs_open-enterprise-agent.md) |
 | [`hyperledger-identus/prism-vdr-driver`](https://github.com/hyperledger-identus/prism-vdr-driver) | 83 | [hyperledger-identus_prism-vdr-driver.md](FabioPinheiro_rollup/hyperledger-identus_prism-vdr-driver.md) |
 | [`hyperledger/identus`](https://github.com/hyperledger/identus) | 81 | [hyperledger_identus.md](FabioPinheiro_rollup/hyperledger_identus.md) |
+| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 56 | [hyperledger-labs_open-enterprise-agent.md](FabioPinheiro_rollup/hyperledger-labs_open-enterprise-agent.md) |
 | [`hyperledger-identus/docs`](https://github.com/hyperledger-identus/docs) | 49 | [hyperledger-identus_docs.md](FabioPinheiro_rollup/hyperledger-identus_docs.md) |
 | [`hyperledger-identus/vdr`](https://github.com/hyperledger-identus/vdr) | 46 | [hyperledger-identus_vdr.md](FabioPinheiro_rollup/hyperledger-identus_vdr.md) |
 | [`hyperledger-identus/cloud-agent`](https://github.com/hyperledger-identus/cloud-agent) | 35 | [hyperledger-identus_cloud-agent.md](FabioPinheiro_rollup/hyperledger-identus_cloud-agent.md) |
@@ -146,7 +146,6 @@ Months as rows, event types as columns. One file per repository in [`FabioPinhei
 | [`hyperledger-identus/governance`](https://github.com/hyperledger-identus/governance) | 4 | [hyperledger-identus_governance.md](FabioPinheiro_rollup/hyperledger-identus_governance.md) |
 | [`hyperledger/governance`](https://github.com/hyperledger/governance) | 4 | [hyperledger_governance.md](FabioPinheiro_rollup/hyperledger_governance.md) |
 | [`hyperledger-identus/sdk-swift`](https://github.com/hyperledger-identus/sdk-swift) | 2 | [hyperledger-identus_sdk-swift.md](FabioPinheiro_rollup/hyperledger-identus_sdk-swift.md) |
-| [`hyperledger/anoncreds-rs`](https://github.com/hyperledger/anoncreds-rs) | 2 | [hyperledger_anoncreds-rs.md](FabioPinheiro_rollup/hyperledger_anoncreds-rs.md) |
 | [`hyperledger-identus/integration`](https://github.com/hyperledger-identus/integration) | 1 | [hyperledger-identus_integration.md](FabioPinheiro_rollup/hyperledger-identus_integration.md) |
 | [`hyperledger-identus/sdk-kmp`](https://github.com/hyperledger-identus/sdk-kmp) | 1 | [hyperledger-identus_sdk-kmp.md](FabioPinheiro_rollup/hyperledger-identus_sdk-kmp.md) |
 | [`hyperledger/aries-uniffi-wrappers`](https://github.com/hyperledger/aries-uniffi-wrappers) | 1 | [hyperledger_aries-uniffi-wrappers.md](FabioPinheiro_rollup/hyperledger_aries-uniffi-wrappers.md) |

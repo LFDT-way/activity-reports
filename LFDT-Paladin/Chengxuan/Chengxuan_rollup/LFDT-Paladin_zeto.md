@@ -1,9 +1,9 @@
 # [`LFDT-Paladin/zeto`](https://github.com/LFDT-Paladin/zeto) — monthly activity
 
-| Month | PullRequestReviewEvent | PullRequestEvent | CreateEvent | DeleteEvent | PushEvent | Total |
+| Month | PullRequestReviewEvent | PullRequestEvent | PushEvent | DeleteEvent | CreateEvent | Total |
 | --- | --: | --: | --: | --: | --: | --: |
-| 2025-11 |  | 1 | 3 | 4 | 2 | 10 |
-| 2025-12 | 1 |  |  |  | 1 | 2 |
+| 2025-11 |  | 1 | 2 | 4 | 3 | 10 |
+| 2025-12 | 1 |  | 1 |  |  | 2 |
 | 2026-01 |  |  |  | 1 |  | 1 |
 | **Total** | **1** | **1** | **3** | **5** | **3** | **13** |
 

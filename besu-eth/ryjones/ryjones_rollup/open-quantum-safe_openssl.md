@@ -1,6 +1,6 @@
 # [`open-quantum-safe/openssl`](https://github.com/open-quantum-safe/openssl) — monthly activity
 
-| Month | CreateEvent | DeleteEvent | Total |
+| Month | DeleteEvent | CreateEvent | Total |
 | --- | --: | --: | --: |
 | 2024-03 | 1 | 1 | 2 |
 | **Total** | **1** | **1** | **2** |

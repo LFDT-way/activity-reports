@@ -1,6 +1,8 @@
 # GitHub activity report — `parvninama`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **53** events spanning **2025-12-29 → 2026-05-11**, across **2** organizations and **3** repositories.
 
@@ -10,13 +12,13 @@ Member of **1** team(s):
 
 | Team | Role in team |
 | --- | --- |
-| `hiero-sdk-python-triage` | member |
+| `hiero-sdk-python-committers` | member |
 
 Repository access granted through those teams (1 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `hiero-sdk-python` | triage | `hiero-sdk-python-triage` (triage) |
+| `hiero-sdk-python` | write | `hiero-sdk-python-committers` (write) |
 
 
 ## Overview

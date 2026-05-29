@@ -1,6 +1,6 @@
 # [`hyperledger/web3j-docs`](https://github.com/hyperledger/web3j-docs) — monthly activity
 
-| Month | PullRequestEvent | CreateEvent | DeleteEvent | Total |
+| Month | PullRequestEvent | DeleteEvent | CreateEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2024-04 | 5 | 3 | 3 | 11 |
 | **Total** | **5** | **3** | **3** | **11** |

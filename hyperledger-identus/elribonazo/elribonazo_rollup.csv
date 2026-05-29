@@ -43,9 +43,6 @@ hyperledger-identus/docs,2025-07,0,1,0,0,0,0,0,0,0,0,1
 hyperledger-identus/docs,2025-08,3,2,0,1,0,0,0,0,0,0,6
 hyperledger-identus/docs,2025-11,7,1,2,1,2,0,0,0,0,0,13
 hyperledger-identus/docs,2026-03,1,1,0,0,1,0,0,0,0,0,3
-hyperledger-labs/open-enterprise-agent,2023-09,3,2,0,0,1,0,0,0,0,0,6
-hyperledger-labs/open-enterprise-agent,2023-10,3,4,0,2,2,0,0,0,0,0,11
-hyperledger-labs/open-enterprise-agent,2024-02,0,0,0,0,0,2,1,0,0,0,3
 hyperledger/identus-edge-agent-sdk-swift,2024-07,0,0,1,0,0,0,0,0,0,0,1
 hyperledger/identus-edge-agent-sdk-swift,2024-08,0,0,2,0,0,1,0,0,0,0,3
 hyperledger/identus-edge-agent-sdk-swift,2024-09,0,0,3,0,0,1,0,1,0,0,5
@@ -69,6 +66,7 @@ hyperledger-identus/mediator,2025-07,1,1,0,0,1,1,0,0,0,0,4
 hyperledger-identus/hyperledger-identus,2025-08,2,1,0,1,0,0,0,0,0,0,4
 hyperledger-identus/identus,2025-02,0,0,1,0,0,0,0,0,0,0,1
 hyperledger-identus/identus,2025-03,0,0,0,0,0,0,2,0,0,0,2
+hyperledger-labs/open-enterprise-agent,2024-02,0,0,0,0,0,2,1,0,0,0,3
 hyperledger-identus/governance,2025-02,0,0,1,0,0,0,0,0,0,0,1
 hyperledger-identus/governance,2025-04,0,0,1,0,0,0,0,0,0,0,1
 hyperledger-identus/sdk-swift,2025-02,0,0,2,0,0,0,0,0,0,0,2

@@ -1,22 +1,26 @@
 # GitHub activity report — `tomzhenghedera`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **90** events spanning **2025-03-27 → 2025-11-11**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
-Member of **1** team(s):
+Member of **2** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `hiero-performance-engineers` | member |
+| `roadmap-viewers` | member |
 
-Repository access granted through those teams (1 repos):
+Repository access granted through those teams (2 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `hiero-consensus-node` | write | `hiero-performance-engineers` (write) |
+| `roadmap` | read | `roadmap-viewers` (read) |
 
 
 ## Overview

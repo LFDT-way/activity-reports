@@ -1,17 +1,20 @@
 # GitHub activity report — `DeepakNemad`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **121** events spanning **2024-02-05 → 2026-05-22**, across **1** organizations and **16** repositories.
 
 ## Teams & repository access
 
-Member of **6** team(s):
+Member of **7** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `admins` | maintainer |
 | `devops-team` | maintainer |
+| `docs-maintainer-team` | maintainer |
 | `platform-admin-team` | maintainer |
 | `qa-team` | maintainer |
 | `security-managers` | maintainer |
@@ -27,7 +30,7 @@ Repository access granted through those teams (22 repos):
 | `agent-controller` | admin | `admins` (admin), `security-managers` (read) |
 | `credebl.github.io` | admin | `admins` (admin), `security-managers` (read) |
 | `credo-controller` | admin | `admins` (admin), `security-managers` (read) |
-| `docs` | admin | `admins` (admin), `security-managers` (read) |
+| `docs` | admin | `admins` (admin), `docs-maintainer-team` (write), `security-managers` (read) |
 | `mediator-agent` | admin | `admins` (admin), `security-managers` (read) |
 | `mobile-sdk` | admin | `admins` (admin), `security-managers` (read) |
 | `mobile-wallet` | admin | `admins` (admin), `security-managers` (read) |

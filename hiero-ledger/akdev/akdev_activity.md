@@ -1,6 +1,8 @@
 # GitHub activity report — `akdev`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **142** events spanning **2025-03-27 → 2026-05-11**, across **1** organizations and **3** repositories.
 
@@ -12,14 +14,28 @@ Member of **3** team(s):
 | --- | --- |
 | `hiero-consensus-node-committers` | member |
 | `hiero-consensus-node-release-managers` | member |
-| `roadmap-committers` | member |
+| `hiero-triage` | member |
 
-Repository access granted through those teams (2 repos):
+Repository access granted through those teams (16 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `hiero-consensus-node` | write | `hiero-consensus-node-committers` (write), `hiero-consensus-node-release-managers` (write) |
-| `roadmap` | write | `roadmap-committers` (write) |
+| `hiero-consensus-node` | write | `hiero-consensus-node-committers` (write), `hiero-consensus-node-release-managers` (write), `hiero-triage` (triage) |
+| `roadmap` | write | `hiero-triage` (write) |
+| `hiero-block-node` | triage | `hiero-triage` (triage) |
+| `hiero-contracts` | triage | `hiero-triage` (triage) |
+| `hiero-docs` | triage | `hiero-triage` (triage) |
+| `hiero-json-rpc-relay` | triage | `hiero-triage` (triage) |
+| `hiero-local-node` | triage | `hiero-triage` (triage) |
+| `hiero-mirror-node` | triage | `hiero-triage` (triage) |
+| `hiero-mirror-node-explorer` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-cpp` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-go` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-java` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-js` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-rust` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-swift` | triage | `hiero-triage` (triage) |
+| `solo` | triage | `hiero-triage` (triage) |
 
 
 ## Overview

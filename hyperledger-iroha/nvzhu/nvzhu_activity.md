@@ -1,8 +1,10 @@
 # GitHub activity report — `nvzhu`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **63** events spanning **2023-04-26 → 2026-05-01**, across **2** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **14** events spanning **2026-01-15 → 2026-05-01**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -39,12 +41,12 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 63 |
+| Total events | 14 |
 | Pull requests opened | 2 |
 | Pull request reviews | 4 |
 | Issues opened | 1 |
-| Pushes | 33 |
-| Commits pushed | 39 |
+| Pushes | 1 |
+| Commits pushed | 0 |
 | Comments | 0 |
 | Releases | 0 |
 
@@ -52,32 +54,29 @@ Repository access granted through those teams (17 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 49 |
 | 2026 | 14 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 33 |
-| CreateEvent | 15 |
-| DeleteEvent | 8 |
+| CreateEvent | 5 |
 | PullRequestReviewEvent | 4 |
 | PullRequestEvent | 2 |
+| DeleteEvent | 1 |
 | IssuesEvent | 1 |
+| PushEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 49 | 0 | 0 | 32 |
 | [`hyperledger-iroha`](https://github.com/hyperledger-iroha) | 14 | 2 | 4 | 1 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/iroha-ios`](https://github.com/hyperledger/iroha-ios) | 49 | 0 | 0 | 32 |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 14 | 2 | 4 | 1 |
 
 ## Monthly rollup — one table per repository
@@ -86,7 +85,6 @@ Months as rows, event types as columns. One file per repository in [`nvzhu_rollu
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/iroha-ios`](https://github.com/hyperledger/iroha-ios) | 49 | [hyperledger_iroha-ios.md](nvzhu_rollup/hyperledger_iroha-ios.md) |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 14 | [hyperledger-iroha_iroha.md](nvzhu_rollup/hyperledger-iroha_iroha.md) |
 
 ---

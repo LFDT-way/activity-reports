@@ -1,8 +1,10 @@
 # GitHub activity report — `danielfett`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **50** events spanning **2023-05-05 → 2024-06-12**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **14** events spanning **2024-03-08 → 2024-06-12**, across **2** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -23,47 +25,45 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 50 |
-| Pull requests opened | 5 |
-| Pull request reviews | 7 |
+| Total events | 14 |
+| Pull requests opened | 2 |
+| Pull request reviews | 2 |
 | Issues opened | 0 |
-| Pushes | 14 |
-| Commits pushed | 16 |
-| Comments | 12 |
+| Pushes | 5 |
+| Commits pushed | 5 |
+| Comments | 3 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 36 |
 | 2024 | 14 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 14 |
-| PullRequestEvent | 12 |
-| PullRequestReviewCommentEvent | 8 |
-| PullRequestReviewEvent | 7 |
-| IssueCommentEvent | 4 |
-| CreateEvent | 3 |
-| ForkEvent | 2 |
+| PushEvent | 5 |
+| PullRequestEvent | 2 |
+| PullRequestReviewCommentEvent | 2 |
+| PullRequestReviewEvent | 2 |
+| CreateEvent | 1 |
+| ForkEvent | 1 |
+| IssueCommentEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 46 | 3 | 7 | 14 |
-| [`openwallet-foundation`](https://github.com/openwallet-foundation) | 4 | 2 | 0 | 0 |
+| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 12 | 1 | 2 | 5 |
+| [`openwallet-foundation`](https://github.com/openwallet-foundation) | 2 | 1 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs/sd-jwt-python`](https://github.com/openwallet-foundation-labs/sd-jwt-python) | 45 | 3 | 7 | 14 |
-| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 2 | 1 | 0 | 0 |
+| [`openwallet-foundation-labs/sd-jwt-python`](https://github.com/openwallet-foundation-labs/sd-jwt-python) | 11 | 1 | 2 | 5 |
 | [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 2 | 1 | 0 | 0 |
 | [`openwallet-foundation-labs/sd-jwt-kotlin`](https://github.com/openwallet-foundation-labs/sd-jwt-kotlin) | 1 | 0 | 0 | 0 |
 
@@ -73,8 +73,7 @@ Months as rows, event types as columns. One file per repository in [`danielfett_
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`openwallet-foundation-labs/sd-jwt-python`](https://github.com/openwallet-foundation-labs/sd-jwt-python) | 45 | [openwallet-foundation-labs_sd-jwt-python.md](danielfett_rollup/openwallet-foundation-labs_sd-jwt-python.md) |
-| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 2 | [openwallet-foundation_project-proposals.md](danielfett_rollup/openwallet-foundation_project-proposals.md) |
+| [`openwallet-foundation-labs/sd-jwt-python`](https://github.com/openwallet-foundation-labs/sd-jwt-python) | 11 | [openwallet-foundation-labs_sd-jwt-python.md](danielfett_rollup/openwallet-foundation-labs_sd-jwt-python.md) |
 | [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 2 | [openwallet-foundation_tac.md](danielfett_rollup/openwallet-foundation_tac.md) |
 | [`openwallet-foundation-labs/sd-jwt-kotlin`](https://github.com/openwallet-foundation-labs/sd-jwt-kotlin) | 1 | [openwallet-foundation-labs_sd-jwt-kotlin.md](danielfett_rollup/openwallet-foundation-labs_sd-jwt-kotlin.md) |
 

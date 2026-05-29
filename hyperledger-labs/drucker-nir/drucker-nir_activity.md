@@ -1,8 +1,10 @@
 # GitHub activity report — `drucker-nir`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **90** events spanning **2018-04-11 → 2026-04-28**, across **3** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **58** events spanning **2025-05-21 → 2026-04-28**, across **2** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -23,23 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 90 |
-| Pull requests opened | 18 |
-| Pull request reviews | 3 |
+| Total events | 58 |
+| Pull requests opened | 2 |
+| Pull request reviews | 2 |
 | Issues opened | 1 |
 | Pushes | 12 |
 | Commits pushed | 25 |
-| Comments | 45 |
+| Comments | 32 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2018 | 14 |
-| 2019 | 5 |
-| 2020 | 11 |
-| 2021 | 2 |
 | 2025 | 57 |
 | 2026 | 1 |
 
@@ -47,14 +45,12 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewCommentEvent | 38 |
-| PullRequestEvent | 20 |
+| PullRequestReviewCommentEvent | 32 |
 | PushEvent | 12 |
-| IssueCommentEvent | 7 |
 | CreateEvent | 4 |
-| PullRequestReviewEvent | 3 |
+| PullRequestEvent | 4 |
 | DeleteEvent | 2 |
-| ForkEvent | 2 |
+| PullRequestReviewEvent | 2 |
 | IssuesEvent | 1 |
 | WatchEvent | 1 |
 
@@ -63,7 +59,6 @@ Repository access granted through those teams (1 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-labs`](https://github.com/hyperledger-labs) | 57 | 2 | 2 | 12 |
-| [`open-quantum-safe`](https://github.com/open-quantum-safe) | 32 | 16 | 1 | 0 |
 | [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 
 ## Repositories
@@ -71,7 +66,6 @@ Repository access granted through those teams (1 repos):
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-labs/fabric-token-sdk`](https://github.com/hyperledger-labs/fabric-token-sdk) | 57 | 2 | 2 | 12 |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 32 | 16 | 1 | 0 |
 | [`hyperledger/fabric-x`](https://github.com/hyperledger/fabric-x) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -81,7 +75,6 @@ Months as rows, event types as columns. One file per repository in [`drucker-nir
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`hyperledger-labs/fabric-token-sdk`](https://github.com/hyperledger-labs/fabric-token-sdk) | 57 | [hyperledger-labs_fabric-token-sdk.md](drucker-nir_rollup/hyperledger-labs_fabric-token-sdk.md) |
-| [`open-quantum-safe/liboqs`](https://github.com/open-quantum-safe/liboqs) | 32 | [open-quantum-safe_liboqs.md](drucker-nir_rollup/open-quantum-safe_liboqs.md) |
 | [`hyperledger/fabric-x`](https://github.com/hyperledger/fabric-x) | 1 | [hyperledger_fabric-x.md](drucker-nir_rollup/hyperledger_fabric-x.md) |
 
 ---

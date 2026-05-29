@@ -1,40 +1,40 @@
 # GitHub activity reports
 
-Per-user activity extracted from the archive for the 30 users listed in `groups.yml` (30 with activity).
+Per-user activity for 2024–2026 extracted from the archive for the 30 users listed in `groups.yml` (29 with activity).
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 | User | Events | First | Last | Orgs | Repos | Teams |
 | --- | --: | --- | --- | --: | --: | --: |
-| [`ryjones`](ryjones/ryjones_activity.md) | 15,158 | 2016-05-02 | 2026-05-28 | 48 | 724 | 2 |
-| [`mversic`](mversic/mversic_activity.md) | 11,146 | 2021-11-05 | 2025-03-18 | 2 | 12 | 5 |
-| [`0x009922`](0x009922/0x009922_activity.md) | 4,277 | 2021-06-04 | 2025-10-31 | 2 | 11 | 3 |
-| [`s8sato`](s8sato/s8sato_activity.md) | 2,996 | 2021-09-15 | 2025-10-16 | 2 | 12 | 4 |
-| [`takemiyamakoto`](takemiyamakoto/takemiyamakoto_activity.md) | 2,279 | 2016-09-26 | 2026-05-28 | 3 | 19 | 1 |
-| [`outoftardis`](outoftardis/outoftardis_activity.md) | 2,154 | 2022-03-31 | 2024-11-05 | 2 | 8 | 2 |
-| [`sorabot`](sorabot/sorabot_activity.md) | 1,955 | 2017-09-20 | 2024-01-10 | 1 | 3 | 4 |
-| [`DCNick3`](DCNick3/DCNick3_activity.md) | 1,426 | 2023-07-03 | 2024-12-05 | 2 | 5 | 5 |
-| [`hyperledger-bot`](hyperledger-bot/hyperledger-bot_activity.md) | 1,113 | 2022-08-06 | 2026-05-24 | 6 | 106 | 1 |
-| [`Mingela`](Mingela/Mingela_activity.md) | 1,036 | 2019-01-15 | 2025-09-12 | 5 | 15 | 8 |
-| [`BAStos525`](BAStos525/BAStos525_activity.md) | 997 | 2021-09-01 | 2025-05-20 | 2 | 13 | 3 |
-| [`baziorek`](baziorek/baziorek_activity.md) | 996 | 2020-04-20 | 2024-08-29 | 1 | 9 | 3 |
-| [`WRRicht3r`](WRRicht3r/WRRicht3r_activity.md) | 681 | 2022-01-11 | 2025-07-17 | 2 | 5 | 2 |
-| [`arndey`](arndey/arndey_activity.md) | 648 | 2021-09-08 | 2024-11-18 | 2 | 4 | 1 |
+| [`ryjones`](ryjones/ryjones_activity.md) | 6,668 | 2024-01-04 | 2026-05-28 | 46 | 379 | 2 |
+| [`mversic`](mversic/mversic_activity.md) | 4,306 | 2024-01-03 | 2025-03-18 | 2 | 9 | 5 |
+| [`0x009922`](0x009922/0x009922_activity.md) | 2,303 | 2024-01-05 | 2025-10-31 | 2 | 10 | 3 |
+| [`s8sato`](s8sato/s8sato_activity.md) | 1,494 | 2024-02-13 | 2025-10-16 | 2 | 7 | 4 |
+| [`hyperledger-bot`](hyperledger-bot/hyperledger-bot_activity.md) | 1,026 | 2024-08-02 | 2026-05-24 | 6 | 21 | 1 |
+| [`DCNick3`](DCNick3/DCNick3_activity.md) | 803 | 2024-01-09 | 2024-12-05 | 2 | 4 | 5 |
+| [`takemiyamakoto`](takemiyamakoto/takemiyamakoto_activity.md) | 644 | 2024-01-25 | 2026-05-28 | 2 | 3 | 1 |
+| [`BAStos525`](BAStos525/BAStos525_activity.md) | 524 | 2024-01-12 | 2025-05-20 | 2 | 11 | 3 |
 | [`dima74`](dima74/dima74_activity.md) | 512 | 2024-04-08 | 2025-06-19 | 2 | 4 | 5 |
-| [`safinsaf`](safinsaf/safinsaf_activity.md) | 479 | 2021-10-17 | 2024-11-04 | 2 | 8 | 3 |
-| [`gv-timur`](gv-timur/gv-timur_activity.md) | 249 | 2022-01-26 | 2024-11-18 | 2 | 3 | 1 |
 | [`aoyako`](aoyako/aoyako_activity.md) | 238 | 2024-10-21 | 2025-12-13 | 3 | 6 | 1 |
-| [`timofeevmd`](timofeevmd/timofeevmd_activity.md) | 222 | 2023-05-08 | 2025-05-02 | 2 | 5 | 4 |
-| [`Cre-eD`](Cre-eD/Cre-eD_activity.md) | 95 | 2019-09-05 | 2026-05-05 | 2 | 6 | 4 |
+| [`Mingela`](Mingela/Mingela_activity.md) | 229 | 2024-01-12 | 2025-09-12 | 4 | 10 | 8 |
+| [`timofeevmd`](timofeevmd/timofeevmd_activity.md) | 96 | 2024-01-10 | 2025-05-02 | 2 | 4 | 4 |
 | [`a-zorina`](a-zorina/a-zorina_activity.md) | 89 | 2024-07-01 | 2025-05-10 | 2 | 4 | 5 |
-| [`dmitrivenger`](dmitrivenger/dmitrivenger_activity.md) | 88 | 2022-02-08 | 2025-02-25 | 2 | 7 | 5 |
+| [`baziorek`](baziorek/baziorek_activity.md) | 88 | 2024-01-03 | 2024-08-29 | 1 | 3 | 3 |
 | [`troferoller`](troferoller/troferoller_activity.md) | 83 | 2024-06-24 | 2024-11-05 | 2 | 3 | 2 |
-| [`nvzhu`](nvzhu/nvzhu_activity.md) | 63 | 2023-04-26 | 2026-05-01 | 2 | 2 | 1 |
-| [`RamilMus`](RamilMus/RamilMus_activity.md) | 40 | 2022-01-03 | 2025-03-03 | 2 | 4 | 1 |
-| [`SDILogin`](SDILogin/SDILogin_activity.md) | 29 | 2022-05-30 | 2026-05-28 | 2 | 2 | 1 |
+| [`arndey`](arndey/arndey_activity.md) | 81 | 2024-01-23 | 2024-11-18 | 2 | 3 | 1 |
+| [`outoftardis`](outoftardis/outoftardis_activity.md) | 78 | 2024-01-15 | 2024-11-05 | 2 | 4 | 2 |
+| [`WRRicht3r`](WRRicht3r/WRRicht3r_activity.md) | 68 | 2024-01-15 | 2025-07-17 | 2 | 4 | 2 |
+| [`gv-timur`](gv-timur/gv-timur_activity.md) | 50 | 2024-01-22 | 2024-11-18 | 2 | 2 | 1 |
+| [`RamilMus`](RamilMus/RamilMus_activity.md) | 38 | 2024-03-20 | 2025-03-03 | 2 | 3 | 1 |
+| [`dmitrivenger`](dmitrivenger/dmitrivenger_activity.md) | 34 | 2024-01-23 | 2025-02-25 | 2 | 6 | 5 |
+| [`SDILogin`](SDILogin/SDILogin_activity.md) | 28 | 2026-03-17 | 2026-05-28 | 1 | 1 | 1 |
 | [`VladislavPopovSR`](VladislavPopovSR/VladislavPopovSR_activity.md) | 27 | 2025-01-24 | 2025-09-11 | 2 | 3 | 2 |
+| [`safinsaf`](safinsaf/safinsaf_activity.md) | 25 | 2024-01-11 | 2024-11-04 | 2 | 3 | 3 |
 | [`alexstroke1`](alexstroke1/alexstroke1_activity.md) | 24 | 2024-07-30 | 2024-08-14 | 1 | 3 | 5 |
-| [`adaagava`](adaagava/adaagava_activity.md) | 13 | 2022-11-16 | 2024-06-21 | 1 | 2 | 3 |
-| [`thelinuxfoundation`](thelinuxfoundation/thelinuxfoundation_activity.md) | 2 | 2016-02-03 | 2016-02-03 | 1 | 1 | 1 |
+| [`nvzhu`](nvzhu/nvzhu_activity.md) | 14 | 2026-01-15 | 2026-05-01 | 1 | 1 | 1 |
+| [`adaagava`](adaagava/adaagava_activity.md) | 1 | 2024-06-21 | 2024-06-21 | 1 | 1 | 3 |
+| [`Cre-eD`](Cre-eD/Cre-eD_activity.md) | 1 | 2026-05-05 | 2026-05-05 | 1 | 1 | 4 |
+| [`sorabot`](sorabot/sorabot_activity.md) | 1 | 2024-01-10 | 2024-01-10 | 1 | 1 | 4 |
+| [`thelinuxfoundation`](thelinuxfoundation/thelinuxfoundation_activity.md) | 0 | — | — | 0 | 0 | 1 |
 
 <sub>Generated by `team-reports`.</sub>

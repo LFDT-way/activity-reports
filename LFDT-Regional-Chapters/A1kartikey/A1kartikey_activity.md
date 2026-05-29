@@ -1,8 +1,10 @@
 # GitHub activity report — `A1kartikey`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **3** events spanning **2018-08-22 → 2020-12-22**, across **2** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `A1kartikey` in the date range searched.
 
 ## Teams & repository access
 
@@ -18,59 +20,6 @@ Repository access granted through those teams (1 repos):
 | --- | --- | --- |
 | `LFDT-India-Chapter` | maintain | `lfdt-india-chapter-editors` (maintain) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 3 |
-| Pull requests opened | 0 |
-| Pull request reviews | 0 |
-| Issues opened | 0 |
-| Pushes | 0 |
-| Commits pushed | 0 |
-| Comments | 1 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2018 | 1 |
-| 2019 | 1 |
-| 2020 | 1 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| ForkEvent | 2 |
-| IssueCommentEvent | 1 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 2 | 0 | 0 | 0 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 1 | 0 | 0 | 0 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger-labs/blockchain-automation-framework`](https://github.com/hyperledger-labs/blockchain-automation-framework) | 1 | 0 | 0 | 0 |
-| [`hyperledger/composer`](https://github.com/hyperledger/composer) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`A1kartikey_rollup/`](A1kartikey_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`hyperledger-labs/blockchain-automation-framework`](https://github.com/hyperledger-labs/blockchain-automation-framework) | 1 | [hyperledger-labs_blockchain-automation-framework.md](A1kartikey_rollup/hyperledger-labs_blockchain-automation-framework.md) |
-| [`hyperledger/composer`](https://github.com/hyperledger/composer) | 1 | [hyperledger_composer.md](A1kartikey_rollup/hyperledger_composer.md) |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | [hyperledger_fabric-samples.md](A1kartikey_rollup/hyperledger_fabric-samples.md) |
 
 ---
 

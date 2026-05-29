@@ -1,6 +1,6 @@
 # [`open-quantum-safe/liboqs-cpp`](https://github.com/open-quantum-safe/liboqs-cpp) — monthly activity
 
-| Month | PullRequestEvent | CreateEvent | DeleteEvent | Total |
+| Month | PullRequestEvent | DeleteEvent | CreateEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2024-03 | 2 | 1 | 1 | 4 |
 | **Total** | **2** | **1** | **1** | **4** |

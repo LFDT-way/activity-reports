@@ -1,8 +1,10 @@
 # GitHub activity report — `ahmed82`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **176** events spanning **2021-04-04 → 2026-05-11**, across **3** organizations and **10** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **106** events spanning **2024-02-21 → 2026-05-11**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -24,22 +26,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 176 |
-| Pull requests opened | 41 |
-| Pull request reviews | 8 |
-| Issues opened | 4 |
-| Pushes | 46 |
-| Commits pushed | 105 |
-| Comments | 15 |
+| Total events | 106 |
+| Pull requests opened | 33 |
+| Pull request reviews | 0 |
+| Issues opened | 3 |
+| Pushes | 34 |
+| Commits pushed | 93 |
+| Comments | 4 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 2 |
-| 2022 | 52 |
-| 2023 | 16 |
 | 2024 | 58 |
 | 2025 | 45 |
 | 2026 | 3 |
@@ -48,39 +47,28 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 86 |
-| PushEvent | 46 |
-| IssueCommentEvent | 12 |
-| PullRequestReviewEvent | 8 |
-| ForkEvent | 7 |
-| IssuesEvent | 6 |
-| WatchEvent | 4 |
-| PullRequestReviewCommentEvent | 3 |
-| CreateEvent | 2 |
-| DeleteEvent | 2 |
+| PullRequestEvent | 61 |
+| PushEvent | 34 |
+| IssueCommentEvent | 4 |
+| IssuesEvent | 4 |
+| WatchEvent | 2 |
+| DeleteEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 165 | 39 | 8 | 46 |
-| [`hyperledger`](https://github.com/hyperledger) | 10 | 2 | 0 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 105 | 33 | 0 | 34 |
 | [`LF-Decentralized-Trust-Mentorships`](https://github.com/LF-Decentralized-Trust-Mentorships) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/bdls`](https://github.com/hyperledger-labs/bdls) | 141 | 39 | 5 | 46 |
-| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 19 | 0 | 3 | 0 |
-| [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 4 | 0 | 0 | 0 |
-| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 4 | 1 | 0 | 0 |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 3 | 1 | 0 | 0 |
+| [`hyperledger-labs/bdls`](https://github.com/hyperledger-labs/bdls) | 101 | 33 | 0 | 34 |
+| [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 3 | 0 | 0 | 0 |
 | [`LF-Decentralized-Trust-Mentorships/mentorship-program`](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program) | 1 | 0 | 0 | 0 |
 | [`hyperledger-labs/bdls-lab`](https://github.com/hyperledger-labs/bdls-lab) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-chaincode-evm`](https://github.com/hyperledger/fabric-chaincode-evm) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-gateway-java`](https://github.com/hyperledger/fabric-gateway-java) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-rfcs`](https://github.com/hyperledger/fabric-rfcs) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -88,16 +76,10 @@ Months as rows, event types as columns. One file per repository in [`ahmed82_rol
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/bdls`](https://github.com/hyperledger-labs/bdls) | 141 | [hyperledger-labs_bdls.md](ahmed82_rollup/hyperledger-labs_bdls.md) |
-| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 19 | [hyperledger-labs_hyperledger-labs.github.io.md](ahmed82_rollup/hyperledger-labs_hyperledger-labs.github.io.md) |
-| [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 4 | [hyperledger-labs_governance.md](ahmed82_rollup/hyperledger-labs_governance.md) |
-| [`hyperledger/toc`](https://github.com/hyperledger/toc) | 4 | [hyperledger_toc.md](ahmed82_rollup/hyperledger_toc.md) |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 3 | [hyperledger_fabric.md](ahmed82_rollup/hyperledger_fabric.md) |
+| [`hyperledger-labs/bdls`](https://github.com/hyperledger-labs/bdls) | 101 | [hyperledger-labs_bdls.md](ahmed82_rollup/hyperledger-labs_bdls.md) |
+| [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 3 | [hyperledger-labs_governance.md](ahmed82_rollup/hyperledger-labs_governance.md) |
 | [`LF-Decentralized-Trust-Mentorships/mentorship-program`](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program) | 1 | [LF-Decentralized-Trust-Mentorships_mentorship-program.md](ahmed82_rollup/LF-Decentralized-Trust-Mentorships_mentorship-program.md) |
 | [`hyperledger-labs/bdls-lab`](https://github.com/hyperledger-labs/bdls-lab) | 1 | [hyperledger-labs_bdls-lab.md](ahmed82_rollup/hyperledger-labs_bdls-lab.md) |
-| [`hyperledger/fabric-chaincode-evm`](https://github.com/hyperledger/fabric-chaincode-evm) | 1 | [hyperledger_fabric-chaincode-evm.md](ahmed82_rollup/hyperledger_fabric-chaincode-evm.md) |
-| [`hyperledger/fabric-gateway-java`](https://github.com/hyperledger/fabric-gateway-java) | 1 | [hyperledger_fabric-gateway-java.md](ahmed82_rollup/hyperledger_fabric-gateway-java.md) |
-| [`hyperledger/fabric-rfcs`](https://github.com/hyperledger/fabric-rfcs) | 1 | [hyperledger_fabric-rfcs.md](ahmed82_rollup/hyperledger_fabric-rfcs.md) |
 
 ---
 

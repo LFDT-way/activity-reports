@@ -1,6 +1,6 @@
 # [`hyperledger-labs/microfab`](https://github.com/hyperledger-labs/microfab) — monthly activity
 
-| Month | PullRequestEvent | PullRequestReviewEvent | PushEvent | IssueCommentEvent | CreateEvent | ReleaseEvent | Total |
+| Month | PullRequestEvent | PullRequestReviewEvent | IssueCommentEvent | PushEvent | CreateEvent | ReleaseEvent | Total |
 | --- | --: | --: | --: | --: | --: | --: | --: |
 | 2024-05 | 2 |  | 1 | 1 |  |  | 4 |
 | 2024-06 | 8 | 6 | 6 | 6 |  |  | 26 |

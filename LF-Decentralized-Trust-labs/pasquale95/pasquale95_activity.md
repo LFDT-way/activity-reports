@@ -1,8 +1,10 @@
 # GitHub activity report — `pasquale95`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **944** events spanning **2022-09-07 → 2026-05-20**, across **3** organizations and **11** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **938** events spanning **2024-04-05 → 2026-05-20**, across **3** organizations and **10** repositories.
 
 ## Teams & repository access
 
@@ -23,20 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 944 |
-| Pull requests opened | 52 |
+| Total events | 938 |
+| Pull requests opened | 50 |
 | Pull request reviews | 31 |
 | Issues opened | 20 |
 | Pushes | 440 |
 | Commits pushed | 97 |
-| Comments | 57 |
+| Comments | 54 |
 | Releases | 37 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 6 |
 | 2024 | 14 |
 | 2025 | 493 |
 | 2026 | 431 |
@@ -48,21 +49,21 @@ Repository access granted through those teams (1 repos):
 | PushEvent | 440 |
 | CreateEvent | 136 |
 | DeleteEvent | 104 |
-| PullRequestEvent | 93 |
+| PullRequestEvent | 91 |
 | IssuesEvent | 41 |
 | ReleaseEvent | 37 |
 | PullRequestReviewEvent | 31 |
-| IssueCommentEvent | 29 |
 | PullRequestReviewCommentEvent | 28 |
+| IssueCommentEvent | 26 |
 | WatchEvent | 3 |
-| ForkEvent | 2 |
+| ForkEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`LF-Decentralized-Trust-labs`](https://github.com/LF-Decentralized-Trust-labs) | 775 | 41 | 12 | 405 |
-| [`hyperledger`](https://github.com/hyperledger) | 155 | 11 | 19 | 30 |
+| [`hyperledger`](https://github.com/hyperledger) | 149 | 9 | 19 | 30 |
 | [`hyperledger-labs`](https://github.com/hyperledger-labs) | 14 | 0 | 0 | 5 |
 
 ## Repositories
@@ -74,7 +75,6 @@ Repository access granted through those teams (1 repos):
 | [`hyperledger/fabric-x-orderer`](https://github.com/hyperledger/fabric-x-orderer) | 15 | 2 | 2 | 3 |
 | [`hyperledger-labs/jsonld-vc-bbs-go`](https://github.com/hyperledger-labs/jsonld-vc-bbs-go) | 13 | 0 | 0 | 5 |
 | [`hyperledger/fabric-x-committer`](https://github.com/hyperledger/fabric-x-committer) | 13 | 1 | 4 | 0 |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 6 | 2 | 0 | 0 |
 | [`hyperledger/fabric-x-common`](https://github.com/hyperledger/fabric-x-common) | 6 | 1 | 0 | 0 |
 | [`hyperledger/fabric-ca`](https://github.com/hyperledger/fabric-ca) | 3 | 1 | 0 | 0 |
 | [`hyperledger/fabric-x-samples`](https://github.com/hyperledger/fabric-x-samples) | 2 | 0 | 0 | 1 |
@@ -92,7 +92,6 @@ Months as rows, event types as columns. One file per repository in [`pasquale95_
 | [`hyperledger/fabric-x-orderer`](https://github.com/hyperledger/fabric-x-orderer) | 15 | [hyperledger_fabric-x-orderer.md](pasquale95_rollup/hyperledger_fabric-x-orderer.md) |
 | [`hyperledger-labs/jsonld-vc-bbs-go`](https://github.com/hyperledger-labs/jsonld-vc-bbs-go) | 13 | [hyperledger-labs_jsonld-vc-bbs-go.md](pasquale95_rollup/hyperledger-labs_jsonld-vc-bbs-go.md) |
 | [`hyperledger/fabric-x-committer`](https://github.com/hyperledger/fabric-x-committer) | 13 | [hyperledger_fabric-x-committer.md](pasquale95_rollup/hyperledger_fabric-x-committer.md) |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 6 | [hyperledger_aries-cloudagent-python.md](pasquale95_rollup/hyperledger_aries-cloudagent-python.md) |
 | [`hyperledger/fabric-x-common`](https://github.com/hyperledger/fabric-x-common) | 6 | [hyperledger_fabric-x-common.md](pasquale95_rollup/hyperledger_fabric-x-common.md) |
 | [`hyperledger/fabric-ca`](https://github.com/hyperledger/fabric-ca) | 3 | [hyperledger_fabric-ca.md](pasquale95_rollup/hyperledger_fabric-ca.md) |
 | [`hyperledger/fabric-x-samples`](https://github.com/hyperledger/fabric-x-samples) | 2 | [hyperledger_fabric-x-samples.md](pasquale95_rollup/hyperledger_fabric-x-samples.md) |

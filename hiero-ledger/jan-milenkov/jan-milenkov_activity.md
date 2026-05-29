@@ -1,24 +1,30 @@
 # GitHub activity report — `jan-milenkov`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **173** events spanning **2026-02-09 → 2026-05-28**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
-Member of **3** team(s):
+Member of **5** team(s):
 
 | Team | Role in team |
 | --- | --- |
+| `roadmap-viewers` | member |
 | `solo-committers` | maintainer |
+| `solo-docs-maintainers` | maintainer |
 | `solo-internal-contributors` | maintainer |
 | `solo-maintainers` | member |
 
-Repository access granted through those teams (1 repos):
+Repository access granted through those teams (3 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `solo` | maintain | `solo-maintainers` (maintain), `solo-committers` (write), `solo-internal-contributors` (triage) |
+| `solo-docs` | maintain | `solo-docs-maintainers` (maintain) |
+| `roadmap` | read | `roadmap-viewers` (read) |
 
 
 ## Overview

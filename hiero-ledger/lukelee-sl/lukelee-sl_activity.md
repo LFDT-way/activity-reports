@@ -1,8 +1,10 @@
 # GitHub activity report — `lukelee-sl`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **720** events spanning **2022-11-11 → 2026-03-16**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **711** events spanning **2025-02-14 → 2026-03-16**, across **1** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -34,20 +36,19 @@ Repository access granted through those teams (6 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 720 |
-| Pull requests opened | 31 |
+| Total events | 711 |
+| Pull requests opened | 28 |
 | Pull request reviews | 247 |
-| Issues opened | 26 |
+| Issues opened | 25 |
 | Pushes | 175 |
 | Commits pushed | 616 |
-| Comments | 134 |
+| Comments | 131 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 9 |
 | 2025 | 674 |
 | 2026 | 37 |
 
@@ -58,19 +59,17 @@ Repository access granted through those teams (6 repos):
 | PullRequestReviewEvent | 247 |
 | PushEvent | 175 |
 | PullRequestReviewCommentEvent | 112 |
-| PullRequestEvent | 64 |
-| IssuesEvent | 49 |
+| PullRequestEvent | 60 |
+| IssuesEvent | 48 |
 | CreateEvent | 33 |
-| IssueCommentEvent | 22 |
+| IssueCommentEvent | 19 |
 | DeleteEvent | 17 |
-| ForkEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hiero-ledger`](https://github.com/hiero-ledger) | 711 | 28 | 247 | 175 |
-| [`hyperledger`](https://github.com/hyperledger) | 9 | 3 | 0 | 0 |
 
 ## Repositories
 
@@ -78,7 +77,6 @@ Repository access granted through those teams (6 repos):
 | --- | --: | --: | --: | --: |
 | [`hiero-ledger/hiero-consensus-node`](https://github.com/hiero-ledger/hiero-consensus-node) | 673 | 27 | 228 | 167 |
 | [`hiero-ledger/hiero-improvement-proposals`](https://github.com/hiero-ledger/hiero-improvement-proposals) | 31 | 1 | 12 | 8 |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 9 | 3 | 0 | 0 |
 | [`hiero-ledger/governance`](https://github.com/hiero-ledger/governance) | 7 | 0 | 7 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -89,7 +87,6 @@ Months as rows, event types as columns. One file per repository in [`lukelee-sl_
 | --- | --: | --- |
 | [`hiero-ledger/hiero-consensus-node`](https://github.com/hiero-ledger/hiero-consensus-node) | 673 | [hiero-ledger_hiero-consensus-node.md](lukelee-sl_rollup/hiero-ledger_hiero-consensus-node.md) |
 | [`hiero-ledger/hiero-improvement-proposals`](https://github.com/hiero-ledger/hiero-improvement-proposals) | 31 | [hiero-ledger_hiero-improvement-proposals.md](lukelee-sl_rollup/hiero-ledger_hiero-improvement-proposals.md) |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 9 | [hyperledger_besu.md](lukelee-sl_rollup/hyperledger_besu.md) |
 | [`hiero-ledger/governance`](https://github.com/hiero-ledger/governance) | 7 | [hiero-ledger_governance.md](lukelee-sl_rollup/hiero-ledger_governance.md) |
 
 ---

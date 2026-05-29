@@ -1,8 +1,10 @@
 # GitHub activity report — `jrhender`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **241** events spanning **2022-10-05 → 2025-03-23**, across **3** organizations and **6** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **205** events spanning **2024-01-09 → 2025-03-23**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -24,21 +26,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 241 |
-| Pull requests opened | 26 |
-| Pull request reviews | 19 |
-| Issues opened | 14 |
+| Total events | 205 |
+| Pull requests opened | 25 |
+| Pull request reviews | 2 |
+| Issues opened | 13 |
 | Pushes | 58 |
 | Commits pushed | 119 |
-| Comments | 32 |
+| Comments | 16 |
 | Releases | 4 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 1 |
-| 2023 | 35 |
 | 2024 | 98 |
 | 2025 | 107 |
 
@@ -47,35 +47,31 @@ Repository access granted through those teams (1 repos):
 | Type | Count |
 | --- | --: |
 | PushEvent | 58 |
-| PullRequestEvent | 49 |
+| PullRequestEvent | 48 |
 | DeleteEvent | 28 |
 | CreateEvent | 27 |
-| IssuesEvent | 21 |
-| PullRequestReviewEvent | 19 |
-| PullRequestReviewCommentEvent | 17 |
-| IssueCommentEvent | 15 |
+| IssuesEvent | 20 |
+| IssueCommentEvent | 14 |
 | ReleaseEvent | 4 |
 | ForkEvent | 2 |
-| WatchEvent | 1 |
+| PullRequestReviewCommentEvent | 2 |
+| PullRequestReviewEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 196 | 24 | 0 | 58 |
-| [`openwallet-foundation`](https://github.com/openwallet-foundation) | 44 | 2 | 19 | 0 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
+| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 195 | 24 | 0 | 58 |
+| [`openwallet-foundation`](https://github.com/openwallet-foundation) | 10 | 1 | 2 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs/vc-api`](https://github.com/openwallet-foundation-labs/vc-api) | 194 | 23 | 0 | 58 |
-| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 34 | 1 | 17 | 0 |
+| [`openwallet-foundation-labs/vc-api`](https://github.com/openwallet-foundation-labs/vc-api) | 193 | 23 | 0 | 58 |
 | [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 6 | 1 | 2 | 0 |
 | [`openwallet-foundation/credo-ts`](https://github.com/openwallet-foundation/credo-ts) | 4 | 0 | 0 | 0 |
 | [`openwallet-foundation-labs/governance`](https://github.com/openwallet-foundation-labs/governance) | 2 | 1 | 0 | 0 |
-| [`hyperledger/aries-mobile-agent-react-native`](https://github.com/hyperledger/aries-mobile-agent-react-native) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -83,12 +79,10 @@ Months as rows, event types as columns. One file per repository in [`jrhender_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`openwallet-foundation-labs/vc-api`](https://github.com/openwallet-foundation-labs/vc-api) | 194 | [openwallet-foundation-labs_vc-api.md](jrhender_rollup/openwallet-foundation-labs_vc-api.md) |
-| [`openwallet-foundation/project-proposals`](https://github.com/openwallet-foundation/project-proposals) | 34 | [openwallet-foundation_project-proposals.md](jrhender_rollup/openwallet-foundation_project-proposals.md) |
+| [`openwallet-foundation-labs/vc-api`](https://github.com/openwallet-foundation-labs/vc-api) | 193 | [openwallet-foundation-labs_vc-api.md](jrhender_rollup/openwallet-foundation-labs_vc-api.md) |
 | [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 6 | [openwallet-foundation_tac.md](jrhender_rollup/openwallet-foundation_tac.md) |
 | [`openwallet-foundation/credo-ts`](https://github.com/openwallet-foundation/credo-ts) | 4 | [openwallet-foundation_credo-ts.md](jrhender_rollup/openwallet-foundation_credo-ts.md) |
 | [`openwallet-foundation-labs/governance`](https://github.com/openwallet-foundation-labs/governance) | 2 | [openwallet-foundation-labs_governance.md](jrhender_rollup/openwallet-foundation-labs_governance.md) |
-| [`hyperledger/aries-mobile-agent-react-native`](https://github.com/hyperledger/aries-mobile-agent-react-native) | 1 | [hyperledger_aries-mobile-agent-react-native.md](jrhender_rollup/hyperledger_aries-mobile-agent-react-native.md) |
 
 ---
 

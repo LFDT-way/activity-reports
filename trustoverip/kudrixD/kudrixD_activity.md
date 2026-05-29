@@ -1,8 +1,10 @@
 # GitHub activity report — `kudrixD`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **7** events spanning **2020-07-07 → 2022-08-31**, across **1** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `kudrixD` in the date range searched.
 
 ## Teams & repository access
 
@@ -18,58 +20,6 @@ Repository access granted through those teams (1 repos):
 | --- | --- | --- |
 | `tswg-did-x509-method-specification` | maintain | `tswg-did-x509-tf` (maintain) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 7 |
-| Pull requests opened | 2 |
-| Pull request reviews | 2 |
-| Issues opened | 1 |
-| Pushes | 0 |
-| Commits pushed | 0 |
-| Comments | 0 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2020 | 6 |
-| 2022 | 1 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| PullRequestEvent | 2 |
-| PullRequestReviewEvent | 2 |
-| ForkEvent | 1 |
-| IssuesEvent | 1 |
-| WatchEvent | 1 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`trustoverip`](https://github.com/trustoverip) | 7 | 2 | 2 | 0 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`trustoverip/utility-foundry-wg`](https://github.com/trustoverip/utility-foundry-wg) | 6 | 2 | 2 | 0 |
-| [`trustoverip/TechArch`](https://github.com/trustoverip/TechArch) | 1 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`kudrixD_rollup/`](kudrixD_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`trustoverip/utility-foundry-wg`](https://github.com/trustoverip/utility-foundry-wg) | 6 | [trustoverip_utility-foundry-wg.md](kudrixD_rollup/trustoverip_utility-foundry-wg.md) |
-| [`trustoverip/TechArch`](https://github.com/trustoverip/TechArch) | 1 | [trustoverip_TechArch.md](kudrixD_rollup/trustoverip_TechArch.md) |
 
 ---
 

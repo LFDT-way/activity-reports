@@ -1,8 +1,1 @@
-repo,month,WatchEvent,ForkEvent,total
-hyperledger-labs/TrustID,2020-07,1,1,2
-hyperledger/fabric-chaincode-node,2021-12,1,0,1
-hyperledger/fabric-chaincode-node,2022-02,0,1,1
-hyperledger/besu,2023-02,0,1,1
-hyperledger/fabric,2023-01,1,0,1
-hyperledger/fabric-samples,2021-12,1,0,1
-hyperledger/fabric-sdk-node,2021-12,1,0,1
+repo,month,total

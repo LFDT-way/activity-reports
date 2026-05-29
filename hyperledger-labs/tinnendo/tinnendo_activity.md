@@ -1,8 +1,10 @@
 # GitHub activity report — `tinnendo`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **66** events spanning **2020-08-05 → 2024-11-20**, across **1** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **6** events spanning **2024-09-17 → 2024-11-20**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -33,12 +35,12 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 66 |
+| Total events | 6 |
 | Pull requests opened | 2 |
-| Pull request reviews | 3 |
+| Pull request reviews | 2 |
 | Issues opened | 0 |
-| Pushes | 45 |
-| Commits pushed | 193 |
+| Pushes | 1 |
+| Commits pushed | 2 |
 | Comments | 0 |
 | Releases | 0 |
 
@@ -46,36 +48,28 @@ Repository access granted through those teams (10 repos):
 
 | Year | Events |
 | --- | --: |
-| 2020 | 42 |
-| 2021 | 15 |
-| 2022 | 2 |
-| 2023 | 1 |
 | 2024 | 6 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 45 |
-| CreateEvent | 12 |
 | PullRequestEvent | 3 |
-| PullRequestReviewEvent | 3 |
-| WatchEvent | 3 |
+| PullRequestReviewEvent | 2 |
+| PushEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 66 | 2 | 3 | 45 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 6 | 2 | 2 | 1 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 57 | 1 | 3 | 40 |
-| [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 4 | 1 | 0 | 1 |
-| [`hyperledger-labs/perun-eth-contracts`](https://github.com/hyperledger-labs/perun-eth-contracts) | 4 | 0 | 0 | 4 |
-| [`hyperledger-labs/perun-cosmwasm-backend`](https://github.com/hyperledger-labs/perun-cosmwasm-backend) | 1 | 0 | 0 | 0 |
+| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 3 | 1 | 2 | 0 |
+| [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 3 | 1 | 0 | 1 |
 
 ## Monthly rollup — one table per repository
 
@@ -83,10 +77,8 @@ Months as rows, event types as columns. One file per repository in [`tinnendo_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 57 | [hyperledger-labs_go-perun.md](tinnendo_rollup/hyperledger-labs_go-perun.md) |
-| [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 4 | [hyperledger-labs_perun-eth-backend.md](tinnendo_rollup/hyperledger-labs_perun-eth-backend.md) |
-| [`hyperledger-labs/perun-eth-contracts`](https://github.com/hyperledger-labs/perun-eth-contracts) | 4 | [hyperledger-labs_perun-eth-contracts.md](tinnendo_rollup/hyperledger-labs_perun-eth-contracts.md) |
-| [`hyperledger-labs/perun-cosmwasm-backend`](https://github.com/hyperledger-labs/perun-cosmwasm-backend) | 1 | [hyperledger-labs_perun-cosmwasm-backend.md](tinnendo_rollup/hyperledger-labs_perun-cosmwasm-backend.md) |
+| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 3 | [hyperledger-labs_go-perun.md](tinnendo_rollup/hyperledger-labs_go-perun.md) |
+| [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 3 | [hyperledger-labs_perun-eth-backend.md](tinnendo_rollup/hyperledger-labs_perun-eth-backend.md) |
 
 ---
 

@@ -1,8 +1,10 @@
 # GitHub activity report — `mineme0110`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **672** events spanning **2023-10-02 → 2026-02-04**, across **4** organizations and **15** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **650** events spanning **2024-01-03 → 2026-02-04**, across **4** organizations and **15** repositories.
 
 ## Teams & repository access
 
@@ -40,20 +42,19 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 672 |
-| Pull requests opened | 45 |
-| Pull request reviews | 89 |
+| Total events | 650 |
+| Pull requests opened | 43 |
+| Pull request reviews | 86 |
 | Issues opened | 10 |
-| Pushes | 298 |
-| Commits pushed | 602 |
-| Comments | 70 |
+| Pushes | 288 |
+| Commits pushed | 589 |
+| Comments | 69 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 22 |
 | 2024 | 518 |
 | 2025 | 127 |
 | 2026 | 5 |
@@ -62,13 +63,13 @@ Repository access granted through those teams (17 repos):
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 298 |
-| PullRequestReviewEvent | 89 |
-| PullRequestEvent | 88 |
-| CreateEvent | 55 |
-| DeleteEvent | 50 |
+| PushEvent | 288 |
+| PullRequestReviewEvent | 86 |
+| PullRequestEvent | 84 |
+| CreateEvent | 53 |
+| DeleteEvent | 48 |
 | IssueCommentEvent | 44 |
-| PullRequestReviewCommentEvent | 26 |
+| PullRequestReviewCommentEvent | 25 |
 | IssuesEvent | 20 |
 | ForkEvent | 1 |
 | WatchEvent | 1 |
@@ -79,7 +80,7 @@ Repository access granted through those teams (17 repos):
 | --- | --: | --: | --: | --: |
 | [`hyperledger`](https://github.com/hyperledger) | 468 | 31 | 48 | 229 |
 | [`hyperledger-identus`](https://github.com/hyperledger-identus) | 107 | 6 | 28 | 26 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 93 | 7 | 13 | 43 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 71 | 5 | 10 | 33 |
 | [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 4 | 1 | 0 | 0 |
 
 ## Repositories
@@ -87,7 +88,7 @@ Repository access granted through those teams (17 repos):
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger/identus-cloud-agent`](https://github.com/hyperledger/identus-cloud-agent) | 427 | 28 | 31 | 223 |
-| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 93 | 7 | 13 | 43 |
+| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 71 | 5 | 10 | 33 |
 | [`hyperledger-identus/cloud-agent`](https://github.com/hyperledger-identus/cloud-agent) | 56 | 4 | 6 | 19 |
 | [`hyperledger/identus`](https://github.com/hyperledger/identus) | 21 | 2 | 3 | 4 |
 | [`hyperledger-identus/mediator`](https://github.com/hyperledger-identus/mediator) | 20 | 1 | 5 | 6 |
@@ -109,7 +110,7 @@ Months as rows, event types as columns. One file per repository in [`mineme0110_
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`hyperledger/identus-cloud-agent`](https://github.com/hyperledger/identus-cloud-agent) | 427 | [hyperledger_identus-cloud-agent.md](mineme0110_rollup/hyperledger_identus-cloud-agent.md) |
-| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 93 | [hyperledger-labs_open-enterprise-agent.md](mineme0110_rollup/hyperledger-labs_open-enterprise-agent.md) |
+| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 71 | [hyperledger-labs_open-enterprise-agent.md](mineme0110_rollup/hyperledger-labs_open-enterprise-agent.md) |
 | [`hyperledger-identus/cloud-agent`](https://github.com/hyperledger-identus/cloud-agent) | 56 | [hyperledger-identus_cloud-agent.md](mineme0110_rollup/hyperledger-identus_cloud-agent.md) |
 | [`hyperledger/identus`](https://github.com/hyperledger/identus) | 21 | [hyperledger_identus.md](mineme0110_rollup/hyperledger_identus.md) |
 | [`hyperledger-identus/mediator`](https://github.com/hyperledger-identus/mediator) | 20 | [hyperledger-identus_mediator.md](mineme0110_rollup/hyperledger-identus_mediator.md) |

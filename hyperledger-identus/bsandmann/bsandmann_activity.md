@@ -1,8 +1,10 @@
 # GitHub activity report — `bsandmann`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **23** events spanning **2023-11-01 → 2024-08-06**, across **2** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **22** events spanning **2024-01-23 → 2024-08-06**, across **2** organizations and **4** repositories.
 
 ## Teams & repository access
 
@@ -39,10 +41,10 @@ Repository access granted through those teams (16 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 23 |
+| Total events | 22 |
 | Pull requests opened | 0 |
 | Pull request reviews | 0 |
-| Issues opened | 11 |
+| Issues opened | 10 |
 | Pushes | 0 |
 | Commits pushed | 0 |
 | Comments | 10 |
@@ -52,14 +54,13 @@ Repository access granted through those teams (16 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 1 |
 | 2024 | 22 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| IssuesEvent | 12 |
+| IssuesEvent | 11 |
 | IssueCommentEvent | 10 |
 | WatchEvent | 1 |
 
@@ -67,7 +68,7 @@ Repository access granted through those teams (16 repos):
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 13 | 0 | 0 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 12 | 0 | 0 | 0 |
 | [`hyperledger`](https://github.com/hyperledger) | 10 | 0 | 0 | 0 |
 
 ## Repositories
@@ -77,7 +78,6 @@ Repository access granted through those teams (16 repos):
 | [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 12 | 0 | 0 | 0 |
 | [`hyperledger/identus-cloud-agent`](https://github.com/hyperledger/identus-cloud-agent) | 7 | 0 | 0 | 0 |
 | [`hyperledger/identus`](https://github.com/hyperledger/identus) | 2 | 0 | 0 | 0 |
-| [`hyperledger-labs/did-webs-resolver`](https://github.com/hyperledger-labs/did-webs-resolver) | 1 | 0 | 0 | 0 |
 | [`hyperledger/indy-did-networks`](https://github.com/hyperledger/indy-did-networks) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -89,7 +89,6 @@ Months as rows, event types as columns. One file per repository in [`bsandmann_r
 | [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 12 | [hyperledger-labs_open-enterprise-agent.md](bsandmann_rollup/hyperledger-labs_open-enterprise-agent.md) |
 | [`hyperledger/identus-cloud-agent`](https://github.com/hyperledger/identus-cloud-agent) | 7 | [hyperledger_identus-cloud-agent.md](bsandmann_rollup/hyperledger_identus-cloud-agent.md) |
 | [`hyperledger/identus`](https://github.com/hyperledger/identus) | 2 | [hyperledger_identus.md](bsandmann_rollup/hyperledger_identus.md) |
-| [`hyperledger-labs/did-webs-resolver`](https://github.com/hyperledger-labs/did-webs-resolver) | 1 | [hyperledger-labs_did-webs-resolver.md](bsandmann_rollup/hyperledger-labs_did-webs-resolver.md) |
 | [`hyperledger/indy-did-networks`](https://github.com/hyperledger/indy-did-networks) | 1 | [hyperledger_indy-did-networks.md](bsandmann_rollup/hyperledger_indy-did-networks.md) |
 
 ---

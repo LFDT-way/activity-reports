@@ -1,8 +1,10 @@
 # GitHub activity report — `ItayPodhajcer`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **136** events spanning **2021-02-08 → 2025-12-31**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **124** events spanning **2024-09-22 → 2025-12-31**, across **2** organizations and **3** repositories.
 
 ## Teams & repository access
 
@@ -25,22 +27,19 @@ Repository access granted through those teams (3 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 136 |
+| Total events | 124 |
 | Pull requests opened | 8 |
 | Pull request reviews | 23 |
-| Issues opened | 4 |
+| Issues opened | 1 |
 | Pushes | 62 |
 | Commits pushed | 95 |
-| Comments | 20 |
+| Comments | 11 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 4 |
-| 2022 | 6 |
-| 2023 | 2 |
 | 2024 | 4 |
 | 2025 | 120 |
 
@@ -50,28 +49,27 @@ Repository access granted through those teams (3 repos):
 | --- | --: |
 | PushEvent | 62 |
 | PullRequestReviewEvent | 23 |
-| IssueCommentEvent | 12 |
 | PullRequestEvent | 12 |
 | PullRequestReviewCommentEvent | 8 |
 | CreateEvent | 7 |
 | DeleteEvent | 7 |
-| IssuesEvent | 5 |
+| IssueCommentEvent | 3 |
+| IssuesEvent | 2 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`LFDT-Verii`](https://github.com/LFDT-Verii) | 120 | 8 | 23 | 62 |
-| [`hyperledger`](https://github.com/hyperledger) | 16 | 0 | 0 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 4 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`LFDT-Verii/core`](https://github.com/LFDT-Verii/core) | 113 | 6 | 23 | 59 |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 15 | 0 | 0 | 0 |
 | [`LFDT-Verii/governance`](https://github.com/LFDT-Verii/governance) | 7 | 2 | 0 | 3 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 1 | 0 | 0 | 0 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 4 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -80,9 +78,8 @@ Months as rows, event types as columns. One file per repository in [`ItayPodhajc
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`LFDT-Verii/core`](https://github.com/LFDT-Verii/core) | 113 | [LFDT-Verii_core.md](ItayPodhajcer_rollup/LFDT-Verii_core.md) |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 15 | [hyperledger_besu.md](ItayPodhajcer_rollup/hyperledger_besu.md) |
 | [`LFDT-Verii/governance`](https://github.com/LFDT-Verii/governance) | 7 | [LFDT-Verii_governance.md](ItayPodhajcer_rollup/LFDT-Verii_governance.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 1 | [hyperledger_besu-docs.md](ItayPodhajcer_rollup/hyperledger_besu-docs.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 4 | [hyperledger_besu.md](ItayPodhajcer_rollup/hyperledger_besu.md) |
 
 ---
 

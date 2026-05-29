@@ -1,26 +1,40 @@
 # GitHub activity report — `mustafauzunn`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **264** events spanning **2025-10-15 → 2026-05-26**, across **1** organizations and **3** repositories.
 
 ## Teams & repository access
 
-Member of **3** team(s):
+Member of **5** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `hiero-block-node-committers` | member |
 | `hiero-consensus-node-committers` | member |
 | `hiero-improvement-proposals-committers` | member |
+| `hiero-sdk-java-maintainers` | member |
+| `hiero-sdk-triage` | member |
 
-Repository access granted through those teams (3 repos):
+Repository access granted through those teams (13 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
+| `hiero-sdk-java` | maintain | `hiero-sdk-java-maintainers` (maintain), `hiero-sdk-triage` (triage) |
 | `hiero-block-node` | write | `hiero-block-node-committers` (write) |
 | `hiero-consensus-node` | write | `hiero-consensus-node-committers` (write) |
 | `hiero-improvement-proposals` | write | `hiero-improvement-proposals-committers` (write) |
+| `hiero-enterprise-java` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-cpp` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-go` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-js` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-python` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-rust` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-swift` | triage | `hiero-sdk-triage` (triage) |
+| `hiero-sdk-tck` | triage | `hiero-sdk-triage` (triage) |
+| `sdk-collaboration-hub` | triage | `hiero-sdk-triage` (triage) |
 
 
 ## Overview

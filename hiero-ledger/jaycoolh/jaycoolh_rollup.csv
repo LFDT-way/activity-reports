@@ -1,0 +1,8 @@
+repo,month,IssuesEvent,IssueCommentEvent,ForkEvent,WatchEvent,total
+hiero-ledger/hiero-docs,2025-02,1,1,0,0,2
+hiero-ledger/hiero-docs,2025-06,2,1,0,0,3
+hiero-ledger/hiero-sdk-js,2025-03,1,0,0,0,1
+hiero-ledger/hiero-sdk-js,2025-04,0,0,0,1,1
+hiero-ledger/hiero-sdk-js,2025-06,1,0,0,0,1
+hiero-ledger/hiero-consensus-node,2025-05,0,1,1,0,2
+hiero-ledger/hiero-sdk-python,2026-01,0,1,0,0,1

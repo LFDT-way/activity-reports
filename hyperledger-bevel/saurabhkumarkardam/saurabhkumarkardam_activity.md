@@ -1,8 +1,10 @@
 # GitHub activity report — `saurabhkumarkardam`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **173** events spanning **2023-03-24 → 2024-09-20**, across **1** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **48** events spanning **2024-01-03 → 2024-09-20**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -26,45 +28,42 @@ Repository access granted through those teams (3 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 173 |
-| Pull requests opened | 49 |
-| Pull request reviews | 38 |
-| Issues opened | 16 |
+| Total events | 48 |
+| Pull requests opened | 14 |
+| Pull request reviews | 13 |
+| Issues opened | 4 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 60 |
+| Comments | 15 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 125 |
 | 2024 | 48 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 52 |
-| PullRequestReviewCommentEvent | 38 |
-| PullRequestReviewEvent | 38 |
-| IssueCommentEvent | 22 |
-| IssuesEvent | 18 |
-| ForkEvent | 5 |
+| PullRequestEvent | 14 |
+| PullRequestReviewEvent | 13 |
+| PullRequestReviewCommentEvent | 12 |
+| IssuesEvent | 6 |
+| IssueCommentEvent | 3 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 173 | 49 | 38 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 48 | 14 | 13 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 172 | 49 | 38 | 0 |
-| [`hyperledger/bevel-samples`](https://github.com/hyperledger/bevel-samples) | 1 | 0 | 0 | 0 |
+| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 48 | 14 | 13 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -72,8 +71,7 @@ Months as rows, event types as columns. One file per repository in [`saurabhkuma
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 172 | [hyperledger_bevel.md](saurabhkumarkardam_rollup/hyperledger_bevel.md) |
-| [`hyperledger/bevel-samples`](https://github.com/hyperledger/bevel-samples) | 1 | [hyperledger_bevel-samples.md](saurabhkumarkardam_rollup/hyperledger_bevel-samples.md) |
+| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 48 | [hyperledger_bevel.md](saurabhkumarkardam_rollup/hyperledger_bevel.md) |
 
 ---
 

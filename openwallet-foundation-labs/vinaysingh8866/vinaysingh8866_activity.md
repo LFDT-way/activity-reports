@@ -1,8 +1,10 @@
 # GitHub activity report — `vinaysingh8866`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **47** events spanning **2022-12-15 → 2026-05-12**, across **4** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **44** events spanning **2024-05-23 → 2026-05-12**, across **3** organizations and **7** repositories.
 
 ## Teams & repository access
 
@@ -23,8 +25,8 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 47 |
-| Pull requests opened | 6 |
+| Total events | 44 |
+| Pull requests opened | 5 |
 | Pull request reviews | 2 |
 | Issues opened | 1 |
 | Pushes | 4 |
@@ -36,7 +38,6 @@ Repository access granted through those teams (1 repos):
 
 | Year | Events |
 | --- | --: |
-| 2022 | 3 |
 | 2024 | 4 |
 | 2025 | 30 |
 | 2026 | 10 |
@@ -46,8 +47,8 @@ Repository access granted through those teams (1 repos):
 | Type | Count |
 | --- | --: |
 | IssueCommentEvent | 22 |
-| PullRequestEvent | 9 |
-| ForkEvent | 7 |
+| PullRequestEvent | 8 |
+| ForkEvent | 5 |
 | PushEvent | 4 |
 | PullRequestReviewCommentEvent | 2 |
 | PullRequestReviewEvent | 2 |
@@ -60,7 +61,6 @@ Repository access granted through those teams (1 repos):
 | [`openwallet-foundation`](https://github.com/openwallet-foundation) | 33 | 4 | 2 | 0 |
 | [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 8 | 1 | 0 | 4 |
 | [`hyperledger`](https://github.com/hyperledger) | 3 | 0 | 0 | 0 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 3 | 1 | 0 | 0 |
 
 ## Repositories
 
@@ -68,7 +68,6 @@ Repository access granted through those teams (1 repos):
 | --- | --: | --: | --: | --: |
 | [`openwallet-foundation/acapy`](https://github.com/openwallet-foundation/acapy) | 27 | 3 | 1 | 0 |
 | [`openwallet-foundation-labs/apostille`](https://github.com/openwallet-foundation-labs/apostille) | 6 | 0 | 0 | 4 |
-| [`hyperledger-labs/mosaique-decentralized-workflows`](https://github.com/hyperledger-labs/mosaique-decentralized-workflows) | 3 | 1 | 0 | 0 |
 | [`hyperledger/aries-askar`](https://github.com/hyperledger/aries-askar) | 3 | 0 | 0 | 0 |
 | [`openwallet-foundation/bifold-wallet`](https://github.com/openwallet-foundation/bifold-wallet) | 3 | 0 | 0 | 0 |
 | [`openwallet-foundation-labs/governance`](https://github.com/openwallet-foundation-labs/governance) | 2 | 1 | 0 | 0 |
@@ -83,7 +82,6 @@ Months as rows, event types as columns. One file per repository in [`vinaysingh8
 | --- | --: | --- |
 | [`openwallet-foundation/acapy`](https://github.com/openwallet-foundation/acapy) | 27 | [openwallet-foundation_acapy.md](vinaysingh8866_rollup/openwallet-foundation_acapy.md) |
 | [`openwallet-foundation-labs/apostille`](https://github.com/openwallet-foundation-labs/apostille) | 6 | [openwallet-foundation-labs_apostille.md](vinaysingh8866_rollup/openwallet-foundation-labs_apostille.md) |
-| [`hyperledger-labs/mosaique-decentralized-workflows`](https://github.com/hyperledger-labs/mosaique-decentralized-workflows) | 3 | [hyperledger-labs_mosaique-decentralized-workflows.md](vinaysingh8866_rollup/hyperledger-labs_mosaique-decentralized-workflows.md) |
 | [`hyperledger/aries-askar`](https://github.com/hyperledger/aries-askar) | 3 | [hyperledger_aries-askar.md](vinaysingh8866_rollup/hyperledger_aries-askar.md) |
 | [`openwallet-foundation/bifold-wallet`](https://github.com/openwallet-foundation/bifold-wallet) | 3 | [openwallet-foundation_bifold-wallet.md](vinaysingh8866_rollup/openwallet-foundation_bifold-wallet.md) |
 | [`openwallet-foundation-labs/governance`](https://github.com/openwallet-foundation-labs/governance) | 2 | [openwallet-foundation-labs_governance.md](vinaysingh8866_rollup/openwallet-foundation-labs_governance.md) |

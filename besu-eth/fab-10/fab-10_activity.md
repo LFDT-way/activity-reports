@@ -1,8 +1,10 @@
 # GitHub activity report — `fab-10`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **3,883** events spanning **2021-10-15 → 2026-05-28**, across **3** organizations and **8** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1,856** events spanning **2024-01-03 → 2026-05-28**, across **3** organizations and **8** repositories.
 
 ## Teams & repository access
 
@@ -33,22 +35,19 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 3,883 |
-| Pull requests opened | 431 |
-| Pull request reviews | 1,184 |
-| Issues opened | 52 |
-| Pushes | 430 |
-| Commits pushed | 469 |
-| Comments | 1,242 |
-| Releases | 7 |
+| Total events | 1,856 |
+| Pull requests opened | 211 |
+| Pull request reviews | 556 |
+| Issues opened | 20 |
+| Pushes | 237 |
+| Commits pushed | 186 |
+| Comments | 544 |
+| Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 89 |
-| 2022 | 926 |
-| 2023 | 1,012 |
 | 2024 | 1,145 |
 | 2025 | 598 |
 | 2026 | 113 |
@@ -57,23 +56,21 @@ Repository access granted through those teams (10 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 1,184 |
-| PullRequestReviewCommentEvent | 868 |
-| PullRequestEvent | 850 |
-| PushEvent | 430 |
-| IssueCommentEvent | 370 |
-| IssuesEvent | 141 |
-| CreateEvent | 19 |
-| DeleteEvent | 7 |
-| ReleaseEvent | 7 |
-| CommitCommentEvent | 4 |
-| ForkEvent | 3 |
+| PullRequestReviewEvent | 556 |
+| PullRequestEvent | 442 |
+| PullRequestReviewCommentEvent | 373 |
+| PushEvent | 237 |
+| IssueCommentEvent | 171 |
+| IssuesEvent | 67 |
+| CreateEvent | 7 |
+| DeleteEvent | 2 |
+| ForkEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 3,841 | 430 | 1,177 | 406 |
+| [`hyperledger`](https://github.com/hyperledger) | 1,814 | 210 | 549 | 213 |
 | [`besu-eth`](https://github.com/besu-eth) | 40 | 1 | 7 | 24 |
 | [`LFDT-web3j`](https://github.com/LFDT-web3j) | 2 | 0 | 0 | 0 |
 
@@ -81,12 +78,12 @@ Repository access granted through those teams (10 repos):
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 3,731 | 422 | 1,126 | 398 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 63 | 1 | 41 | 1 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1,780 | 210 | 524 | 211 |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 38 | 1 | 5 | 24 |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 32 | 4 | 8 | 5 |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 15 | 3 | 2 | 2 |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 26 | 0 | 21 | 0 |
+| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 6 | 0 | 3 | 2 |
 | [`LFDT-web3j/web3j`](https://github.com/LFDT-web3j/web3j) | 2 | 0 | 0 | 0 |
+| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 2 | 0 | 1 | 0 |
 | [`besu-eth/besu-docs`](https://github.com/besu-eth/besu-docs) | 1 | 0 | 1 | 0 |
 | [`besu-eth/besu-errorprone-checks`](https://github.com/besu-eth/besu-errorprone-checks) | 1 | 0 | 1 | 0 |
 
@@ -96,12 +93,12 @@ Months as rows, event types as columns. One file per repository in [`fab-10_roll
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 3,731 | [hyperledger_besu.md](fab-10_rollup/hyperledger_besu.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 63 | [hyperledger_besu-docs.md](fab-10_rollup/hyperledger_besu-docs.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1,780 | [hyperledger_besu.md](fab-10_rollup/hyperledger_besu.md) |
 | [`besu-eth/besu`](https://github.com/besu-eth/besu) | 38 | [besu-eth_besu.md](fab-10_rollup/besu-eth_besu.md) |
-| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 32 | [hyperledger_besu-native.md](fab-10_rollup/hyperledger_besu-native.md) |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 15 | [hyperledger_homebrew-besu.md](fab-10_rollup/hyperledger_homebrew-besu.md) |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 26 | [hyperledger_besu-docs.md](fab-10_rollup/hyperledger_besu-docs.md) |
+| [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 6 | [hyperledger_besu-native.md](fab-10_rollup/hyperledger_besu-native.md) |
 | [`LFDT-web3j/web3j`](https://github.com/LFDT-web3j/web3j) | 2 | [LFDT-web3j_web3j.md](fab-10_rollup/LFDT-web3j_web3j.md) |
+| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 2 | [hyperledger_homebrew-besu.md](fab-10_rollup/hyperledger_homebrew-besu.md) |
 | [`besu-eth/besu-docs`](https://github.com/besu-eth/besu-docs) | 1 | [besu-eth_besu-docs.md](fab-10_rollup/besu-eth_besu-docs.md) |
 | [`besu-eth/besu-errorprone-checks`](https://github.com/besu-eth/besu-errorprone-checks) | 1 | [besu-eth_besu-errorprone-checks.md](fab-10_rollup/besu-eth_besu-errorprone-checks.md) |
 

@@ -1,8 +1,10 @@
 # GitHub activity report — `dodo920306`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **114** events spanning **2023-04-30 → 2026-05-09**, across **9** organizations and **19** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **111** events spanning **2024-02-09 → 2026-05-09**, across **9** organizations and **16** repositories.
 
 ## Teams & repository access
 
@@ -23,7 +25,7 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 114 |
+| Total events | 111 |
 | Pull requests opened | 30 |
 | Pull request reviews | 5 |
 | Issues opened | 7 |
@@ -36,7 +38,6 @@ Repository access granted through those teams (1 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 3 |
 | 2024 | 7 |
 | 2025 | 84 |
 | 2026 | 20 |
@@ -47,7 +48,7 @@ Repository access granted through those teams (1 repos):
 | --- | --: |
 | IssueCommentEvent | 39 |
 | PullRequestEvent | 37 |
-| WatchEvent | 17 |
+| WatchEvent | 14 |
 | IssuesEvent | 7 |
 | PullRequestReviewEvent | 5 |
 | PullRequestReviewCommentEvent | 4 |
@@ -60,9 +61,9 @@ Repository access granted through those teams (1 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hyperledger-cello`](https://github.com/hyperledger-cello) | 93 | 28 | 5 | 2 |
-| [`hyperledger`](https://github.com/hyperledger) | 11 | 1 | 0 | 0 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 3 | 0 | 0 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 9 | 1 | 0 | 0 |
 | [`hyperledger-identus`](https://github.com/hyperledger-identus) | 2 | 1 | 0 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 2 | 0 | 0 | 0 |
 | [`LF-Decentralized-Trust-Mentorships`](https://github.com/LF-Decentralized-Trust-Mentorships) | 1 | 0 | 0 | 0 |
 | [`hyperledger-bevel`](https://github.com/hyperledger-bevel) | 1 | 0 | 0 | 0 |
 | [`hyperledger-iroha`](https://github.com/hyperledger-iroha) | 1 | 0 | 0 | 0 |
@@ -80,16 +81,13 @@ Repository access granted through those teams (1 repos):
 | [`hyperledger-bevel/bevel`](https://github.com/hyperledger-bevel/bevel) | 1 | 0 | 0 | 0 |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 1 | 0 | 0 | 0 |
 | [`hyperledger-labs/SmartBFT`](https://github.com/hyperledger-labs/SmartBFT) | 1 | 0 | 0 | 0 |
-| [`hyperledger-labs/blockchain-explorer`](https://github.com/hyperledger-labs/blockchain-explorer) | 1 | 0 | 0 | 0 |
 | [`hyperledger-labs/minifabric`](https://github.com/hyperledger-labs/minifabric) | 1 | 0 | 0 | 0 |
 | [`hyperledger-web3j/web3j`](https://github.com/hyperledger-web3j/web3j) | 1 | 0 | 0 | 0 |
 | [`hyperledger/aries`](https://github.com/hyperledger/aries) | 1 | 0 | 0 | 0 |
 | [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | 0 | 0 | 0 |
 | [`hyperledger/cello`](https://github.com/hyperledger/cello) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | 0 | 0 | 0 |
 | [`hyperledger/fabric-admin-sdk`](https://github.com/hyperledger/fabric-admin-sdk) | 1 | 0 | 0 | 0 |
 | [`hyperledger/fabric-gateway`](https://github.com/hyperledger/fabric-gateway) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | 0 | 0 | 0 |
 | [`hyperledger/indy-node`](https://github.com/hyperledger/indy-node) | 1 | 0 | 0 | 0 |
 | [`openwallet-foundation/acapy`](https://github.com/openwallet-foundation/acapy) | 1 | 0 | 0 | 0 |
 
@@ -106,16 +104,13 @@ Months as rows, event types as columns. One file per repository in [`dodo920306_
 | [`hyperledger-bevel/bevel`](https://github.com/hyperledger-bevel/bevel) | 1 | [hyperledger-bevel_bevel.md](dodo920306_rollup/hyperledger-bevel_bevel.md) |
 | [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 1 | [hyperledger-iroha_iroha.md](dodo920306_rollup/hyperledger-iroha_iroha.md) |
 | [`hyperledger-labs/SmartBFT`](https://github.com/hyperledger-labs/SmartBFT) | 1 | [hyperledger-labs_SmartBFT.md](dodo920306_rollup/hyperledger-labs_SmartBFT.md) |
-| [`hyperledger-labs/blockchain-explorer`](https://github.com/hyperledger-labs/blockchain-explorer) | 1 | [hyperledger-labs_blockchain-explorer.md](dodo920306_rollup/hyperledger-labs_blockchain-explorer.md) |
 | [`hyperledger-labs/minifabric`](https://github.com/hyperledger-labs/minifabric) | 1 | [hyperledger-labs_minifabric.md](dodo920306_rollup/hyperledger-labs_minifabric.md) |
 | [`hyperledger-web3j/web3j`](https://github.com/hyperledger-web3j/web3j) | 1 | [hyperledger-web3j_web3j.md](dodo920306_rollup/hyperledger-web3j_web3j.md) |
 | [`hyperledger/aries`](https://github.com/hyperledger/aries) | 1 | [hyperledger_aries.md](dodo920306_rollup/hyperledger_aries.md) |
 | [`hyperledger/besu`](https://github.com/hyperledger/besu) | 1 | [hyperledger_besu.md](dodo920306_rollup/hyperledger_besu.md) |
 | [`hyperledger/cello`](https://github.com/hyperledger/cello) | 1 | [hyperledger_cello.md](dodo920306_rollup/hyperledger_cello.md) |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | [hyperledger_fabric.md](dodo920306_rollup/hyperledger_fabric.md) |
 | [`hyperledger/fabric-admin-sdk`](https://github.com/hyperledger/fabric-admin-sdk) | 1 | [hyperledger_fabric-admin-sdk.md](dodo920306_rollup/hyperledger_fabric-admin-sdk.md) |
 | [`hyperledger/fabric-gateway`](https://github.com/hyperledger/fabric-gateway) | 1 | [hyperledger_fabric-gateway.md](dodo920306_rollup/hyperledger_fabric-gateway.md) |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 1 | [hyperledger_fabric-samples.md](dodo920306_rollup/hyperledger_fabric-samples.md) |
 | [`hyperledger/indy-node`](https://github.com/hyperledger/indy-node) | 1 | [hyperledger_indy-node.md](dodo920306_rollup/hyperledger_indy-node.md) |
 | [`openwallet-foundation/acapy`](https://github.com/openwallet-foundation/acapy) | 1 | [openwallet-foundation_acapy.md](dodo920306_rollup/openwallet-foundation_acapy.md) |
 

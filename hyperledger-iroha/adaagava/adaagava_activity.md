@@ -1,8 +1,10 @@
 # GitHub activity report — `adaagava`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **13** events spanning **2022-11-16 → 2024-06-21**, across **1** organizations and **2** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1** events spanning **2024-06-21 → 2024-06-21**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -41,44 +43,38 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 13 |
+| Total events | 1 |
 | Pull requests opened | 0 |
-| Pull request reviews | 3 |
-| Issues opened | 2 |
+| Pull request reviews | 0 |
+| Issues opened | 1 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 8 |
+| Comments | 0 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 6 |
-| 2023 | 6 |
 | 2024 | 1 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 6 |
-| PullRequestReviewEvent | 3 |
-| IssuesEvent | 2 |
-| PullRequestReviewCommentEvent | 2 |
+| IssuesEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 13 | 0 | 3 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 12 | 0 | 3 | 0 |
-| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 1 | 0 | 0 | 0 |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -86,8 +82,7 @@ Months as rows, event types as columns. One file per repository in [`adaagava_ro
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 12 | [hyperledger_iroha.md](adaagava_rollup/hyperledger_iroha.md) |
-| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 1 | [hyperledger_iroha-2-docs.md](adaagava_rollup/hyperledger_iroha-2-docs.md) |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 1 | [hyperledger_iroha.md](adaagava_rollup/hyperledger_iroha.md) |
 
 ---
 

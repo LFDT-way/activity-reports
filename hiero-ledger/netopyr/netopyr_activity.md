@@ -1,12 +1,14 @@
 # GitHub activity report — `netopyr`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **1,950** events spanning **2024-11-14 → 2026-05-28**, across **1** organizations and **3** repositories.
 
 ## Teams & repository access
 
-Member of **11** team(s):
+Member of **12** team(s):
 
 | Team | Role in team |
 | --- | --- |
@@ -21,8 +23,9 @@ Member of **11** team(s):
 | `hiero-improvement-proposals-committers` | member |
 | `hiero-protobufs-committers` | maintainer |
 | `hiero-protobufs-maintainers` | maintainer |
+| `roadmap-viewers` | member |
 
-Repository access granted through those teams (4 repos):
+Repository access granted through those teams (5 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
@@ -30,6 +33,7 @@ Repository access granted through those teams (4 repos):
 | `governance` | write | `governance-write` (write) |
 | `hiero-contracts` | write | `hiero-contracts-committers` (write) |
 | `hiero-improvement-proposals` | write | `hiero-improvement-proposals-committers` (write) |
+| `roadmap` | read | `roadmap-viewers` (read) |
 
 
 ## Overview

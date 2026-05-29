@@ -1,6 +1,8 @@
 # GitHub activity report — `pohlm01`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **349** events spanning **2025-03-17 → 2025-11-03**, across **3** organizations and **5** repositories.
 

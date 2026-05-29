@@ -1,6 +1,6 @@
 # [`hyperledger/web3j-sokt`](https://github.com/hyperledger/web3j-sokt) — monthly activity
 
-| Month | PullRequestEvent | CreateEvent | DeleteEvent | Total |
+| Month | PullRequestEvent | DeleteEvent | CreateEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2024-04 | 1 | 3 | 3 | 7 |
 | **Total** | **1** | **3** | **3** | **7** |

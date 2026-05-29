@@ -1,8 +1,10 @@
 # GitHub activity report — `JohnOnGH`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **12** events spanning **2021-03-22 → 2026-02-05**, across **1** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **7** events spanning **2026-01-07 → 2026-02-05**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
@@ -23,48 +25,41 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 12 |
+| Total events | 7 |
 | Pull requests opened | 0 |
 | Pull request reviews | 1 |
-| Issues opened | 3 |
+| Issues opened | 2 |
 | Pushes | 0 |
 | Commits pushed | 0 |
-| Comments | 6 |
+| Comments | 4 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 1 |
-| 2022 | 3 |
-| 2023 | 1 |
 | 2026 | 7 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| IssueCommentEvent | 4 |
-| IssuesEvent | 3 |
+| IssueCommentEvent | 2 |
+| IssuesEvent | 2 |
 | PullRequestReviewCommentEvent | 2 |
-| ForkEvent | 1 |
 | PullRequestReviewEvent | 1 |
-| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`trustoverip`](https://github.com/trustoverip) | 12 | 0 | 1 | 0 |
+| [`trustoverip`](https://github.com/trustoverip) | 7 | 0 | 1 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`trustoverip/tswg-trust-registry-protocol`](https://github.com/trustoverip/tswg-trust-registry-protocol) | 7 | 0 | 1 | 0 |
-| [`trustoverip/TechArch`](https://github.com/trustoverip/TechArch) | 4 | 0 | 0 | 0 |
-| [`trustoverip/concepts-and-terminology-wg`](https://github.com/trustoverip/concepts-and-terminology-wg) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -73,8 +68,6 @@ Months as rows, event types as columns. One file per repository in [`JohnOnGH_ro
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`trustoverip/tswg-trust-registry-protocol`](https://github.com/trustoverip/tswg-trust-registry-protocol) | 7 | [trustoverip_tswg-trust-registry-protocol.md](JohnOnGH_rollup/trustoverip_tswg-trust-registry-protocol.md) |
-| [`trustoverip/TechArch`](https://github.com/trustoverip/TechArch) | 4 | [trustoverip_TechArch.md](JohnOnGH_rollup/trustoverip_TechArch.md) |
-| [`trustoverip/concepts-and-terminology-wg`](https://github.com/trustoverip/concepts-and-terminology-wg) | 1 | [trustoverip_concepts-and-terminology-wg.md](JohnOnGH_rollup/trustoverip_concepts-and-terminology-wg.md) |
 
 ---
 

@@ -1,27 +1,31 @@
 # GitHub activity report — `JeffreyDallas`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **2,673** events spanning **2025-02-27 → 2026-05-28**, across **1** organizations and **5** repositories.
 
 ## Teams & repository access
 
-Member of **4** team(s):
+Member of **5** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `hiero-performance-engineers` | member |
 | `homebrew-tools-committers` | member |
+| `roadmap-viewers` | member |
 | `solo-committers` | member |
 | `solo-internal-contributors` | member |
 
-Repository access granted through those teams (3 repos):
+Repository access granted through those teams (4 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `hiero-consensus-node` | write | `hiero-performance-engineers` (write) |
 | `homebrew-tools` | write | `homebrew-tools-committers` (write) |
 | `solo` | write | `solo-committers` (write), `solo-internal-contributors` (triage) |
+| `roadmap` | read | `roadmap-viewers` (read) |
 
 
 ## Overview

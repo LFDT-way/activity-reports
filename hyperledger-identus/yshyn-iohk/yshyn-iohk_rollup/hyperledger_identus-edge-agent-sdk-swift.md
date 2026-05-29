@@ -1,6 +1,6 @@
 # [`hyperledger/identus-edge-agent-sdk-swift`](https://github.com/hyperledger/identus-edge-agent-sdk-swift) — monthly activity
 
-| Month | PushEvent | PullRequestReviewEvent | PullRequestEvent | DeleteEvent | PullRequestReviewCommentEvent | CreateEvent | IssuesEvent | Total |
+| Month | PushEvent | PullRequestReviewEvent | PullRequestEvent | DeleteEvent | CreateEvent | PullRequestReviewCommentEvent | IssuesEvent | Total |
 | --- | --: | --: | --: | --: | --: | --: | --: | --: |
 | 2024-09 | 1 | 1 | 2 | 1 | 1 | 1 | 3 | 10 |
 | 2024-10 |  | 1 |  |  |  |  | 2 | 3 |

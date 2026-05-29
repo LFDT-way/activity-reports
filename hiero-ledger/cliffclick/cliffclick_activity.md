@@ -1,22 +1,25 @@
 # GitHub activity report — `cliffclick`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **17** events spanning **2026-02-19 → 2026-04-14**, across **1** organizations and **1** repositories.
 
 ## Teams & repository access
 
-Member of **1** team(s):
+Member of **2** team(s):
 
 | Team | Role in team |
 | --- | --- |
+| `hiero-consensus-node-committers` | member |
 | `hiero-consensus-node-committers` | member |
 
 Repository access granted through those teams (1 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `hiero-consensus-node` | write | `hiero-consensus-node-committers` (write) |
+| `hiero-consensus-node` | write | `hiero-consensus-node-committers` (write), `hiero-consensus-node-committers` (write) |
 
 
 ## Overview

@@ -1,8 +1,10 @@
 # GitHub activity report — `gfukushima`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **778** events spanning **2022-06-20 → 2025-02-24**, across **1** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **181** events spanning **2024-01-03 → 2025-02-24**, across **1** organizations and **5** repositories.
 
 ## Teams & repository access
 
@@ -32,21 +34,19 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 778 |
-| Pull requests opened | 76 |
-| Pull request reviews | 284 |
-| Issues opened | 22 |
-| Pushes | 52 |
-| Commits pushed | 52 |
-| Comments | 237 |
+| Total events | 181 |
+| Pull requests opened | 24 |
+| Pull request reviews | 66 |
+| Issues opened | 1 |
+| Pushes | 16 |
+| Commits pushed | 16 |
+| Comments | 49 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 71 |
-| 2023 | 526 |
 | 2024 | 180 |
 | 2025 | 1 |
 
@@ -54,32 +54,30 @@ Repository access granted through those teams (10 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 284 |
-| PullRequestReviewCommentEvent | 157 |
-| PullRequestEvent | 140 |
-| IssueCommentEvent | 78 |
-| IssuesEvent | 58 |
-| PushEvent | 52 |
-| ForkEvent | 4 |
-| CommitCommentEvent | 2 |
-| CreateEvent | 2 |
-| WatchEvent | 1 |
+| PullRequestReviewEvent | 66 |
+| PullRequestEvent | 45 |
+| PullRequestReviewCommentEvent | 31 |
+| IssueCommentEvent | 18 |
+| PushEvent | 16 |
+| ForkEvent | 2 |
+| IssuesEvent | 2 |
+| CreateEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 778 | 76 | 284 | 52 |
+| [`hyperledger`](https://github.com/hyperledger) | 181 | 24 | 66 | 16 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 701 | 63 | 258 | 46 |
-| [`hyperledger/besu-verkle-trie`](https://github.com/hyperledger/besu-verkle-trie) | 27 | 7 | 6 | 3 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 23 | 1 | 12 | 0 |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 15 | 2 | 7 | 1 |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 133 | 14 | 55 | 11 |
+| [`hyperledger/besu-verkle-trie`](https://github.com/hyperledger/besu-verkle-trie) | 20 | 5 | 6 | 2 |
 | [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 12 | 3 | 1 | 2 |
+| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 9 | 1 | 3 | 1 |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 7 | 1 | 1 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -87,11 +85,11 @@ Months as rows, event types as columns. One file per repository in [`gfukushima_
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 701 | [hyperledger_besu.md](gfukushima_rollup/hyperledger_besu.md) |
-| [`hyperledger/besu-verkle-trie`](https://github.com/hyperledger/besu-verkle-trie) | 27 | [hyperledger_besu-verkle-trie.md](gfukushima_rollup/hyperledger_besu-verkle-trie.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 23 | [hyperledger_besu-docs.md](gfukushima_rollup/hyperledger_besu-docs.md) |
-| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 15 | [hyperledger_homebrew-besu.md](gfukushima_rollup/hyperledger_homebrew-besu.md) |
+| [`hyperledger/besu`](https://github.com/hyperledger/besu) | 133 | [hyperledger_besu.md](gfukushima_rollup/hyperledger_besu.md) |
+| [`hyperledger/besu-verkle-trie`](https://github.com/hyperledger/besu-verkle-trie) | 20 | [hyperledger_besu-verkle-trie.md](gfukushima_rollup/hyperledger_besu-verkle-trie.md) |
 | [`hyperledger/besu-native`](https://github.com/hyperledger/besu-native) | 12 | [hyperledger_besu-native.md](gfukushima_rollup/hyperledger_besu-native.md) |
+| [`hyperledger/homebrew-besu`](https://github.com/hyperledger/homebrew-besu) | 9 | [hyperledger_homebrew-besu.md](gfukushima_rollup/hyperledger_homebrew-besu.md) |
+| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 7 | [hyperledger_besu-docs.md](gfukushima_rollup/hyperledger_besu-docs.md) |
 
 ---
 

@@ -1,6 +1,8 @@
 # GitHub activity report — `stefan-kauhaus`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **3** events spanning **2024-05-03 → 2026-02-17**, across **1** organizations and **2** repositories.
 

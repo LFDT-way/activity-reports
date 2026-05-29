@@ -1,8 +1,10 @@
 # GitHub activity report — `jcdrouin21`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **102** events spanning **2022-05-31 → 2025-03-28**, across **2** organizations and **4** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **58** events spanning **2024-09-10 → 2025-03-28**, across **2** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -24,21 +26,19 @@ Repository access granted through those teams (2 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 102 |
-| Pull requests opened | 24 |
-| Pull request reviews | 21 |
+| Total events | 58 |
+| Pull requests opened | 7 |
+| Pull request reviews | 12 |
 | Issues opened | 0 |
-| Pushes | 19 |
-| Commits pushed | 19 |
-| Comments | 15 |
+| Pushes | 18 |
+| Commits pushed | 18 |
+| Comments | 5 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2022 | 28 |
-| 2023 | 16 |
 | 2024 | 35 |
 | 2025 | 23 |
 
@@ -46,28 +46,24 @@ Repository access granted through those teams (2 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 45 |
-| PullRequestReviewEvent | 21 |
-| PushEvent | 19 |
-| PullRequestReviewCommentEvent | 14 |
+| PullRequestEvent | 22 |
+| PushEvent | 18 |
+| PullRequestReviewEvent | 12 |
+| PullRequestReviewCommentEvent | 5 |
 | ForkEvent | 1 |
-| IssueCommentEvent | 1 |
-| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`openwallet-foundation`](https://github.com/openwallet-foundation) | 57 | 7 | 12 | 18 |
-| [`hyperledger`](https://github.com/hyperledger) | 45 | 17 | 9 | 1 |
+| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`openwallet-foundation/bifold-wallet`](https://github.com/openwallet-foundation/bifold-wallet) | 57 | 7 | 12 | 18 |
-| [`hyperledger/aries-mobile-agent-react-native`](https://github.com/hyperledger/aries-mobile-agent-react-native) | 43 | 17 | 9 | 1 |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 1 | 0 | 0 | 0 |
 | [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -77,8 +73,6 @@ Months as rows, event types as columns. One file per repository in [`jcdrouin21_
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`openwallet-foundation/bifold-wallet`](https://github.com/openwallet-foundation/bifold-wallet) | 57 | [openwallet-foundation_bifold-wallet.md](jcdrouin21_rollup/openwallet-foundation_bifold-wallet.md) |
-| [`hyperledger/aries-mobile-agent-react-native`](https://github.com/hyperledger/aries-mobile-agent-react-native) | 43 | [hyperledger_aries-mobile-agent-react-native.md](jcdrouin21_rollup/hyperledger_aries-mobile-agent-react-native.md) |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 1 | [hyperledger_aries-cloudagent-python.md](jcdrouin21_rollup/hyperledger_aries-cloudagent-python.md) |
 | [`hyperledger/aries-rfcs`](https://github.com/hyperledger/aries-rfcs) | 1 | [hyperledger_aries-rfcs.md](jcdrouin21_rollup/hyperledger_aries-rfcs.md) |
 
 ---

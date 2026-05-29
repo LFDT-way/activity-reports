@@ -1,54 +1,65 @@
 # GitHub activity report — `SimiHunjan`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **474** events spanning **2024-10-04 → 2026-05-11**, across **2** organizations and **21** repositories.
 
 ## Teams & repository access
 
-Member of **20** team(s):
+Member of **23** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `governance-write` | member |
+| `hiero-block-node-internal-contributors` | member |
+| `hiero-consensus-node-internal-contributors` | member |
 | `hiero-consensus-node-release-managers` | member |
+| `hiero-contracts-internal-contributors` | member |
 | `hiero-docs-committers` | maintainer |
 | `hiero-docs-maintainers` | maintainer |
 | `hiero-improvement-proposals-committers` | member |
+| `hiero-json-rpc-relay-internal-contributors` | member |
 | `hiero-mirror-node-explorer-committers` | member |
 | `hiero-mirror-node-explorer-maintainers` | member |
 | `hiero-sdk-cpp-maintainers` | member |
 | `hiero-sdk-go-committers` | maintainer |
 | `hiero-sdk-go-maintainers` | maintainer |
-| `hiero-sdk-java-maintainers` | member |
+| `hiero-sdk-java-maintainers` | maintainer |
 | `hiero-sdk-js-committers` | maintainer |
-| `hiero-sdk-js-internal-contributors` | maintainer |
 | `hiero-sdk-js-maintainers` | maintainer |
 | `hiero-sdk-rust-maintainers` | member |
 | `hiero-sdk-swift-maintainers` | member |
-| `hiero-sdk-tck-internal-contributors` | maintainer |
 | `hiero-sdk-tck-maintainers` | member |
-| `roadmap-committers` | member |
+| `hiero-triage` | member |
 | `sdk-collaboration-hub-maintainers` | maintainer |
+| `solo-internal-contributors` | member |
 
-Repository access granted through those teams (14 repos):
+Repository access granted through those teams (20 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `hiero-docs` | admin | `hiero-docs-maintainers` (admin), `hiero-docs-committers` (write) |
-| `hiero-mirror-node-explorer` | maintain | `hiero-mirror-node-explorer-maintainers` (maintain), `hiero-mirror-node-explorer-committers` (write) |
-| `hiero-sdk-cpp` | maintain | `hiero-sdk-cpp-maintainers` (maintain) |
-| `hiero-sdk-go` | maintain | `hiero-sdk-go-maintainers` (maintain), `hiero-sdk-go-committers` (write) |
-| `hiero-sdk-java` | maintain | `hiero-sdk-java-maintainers` (maintain) |
-| `hiero-sdk-js` | maintain | `hiero-sdk-js-maintainers` (maintain), `hiero-sdk-js-committers` (write), `hiero-sdk-js-internal-contributors` (triage) |
-| `hiero-sdk-rust` | maintain | `hiero-sdk-rust-maintainers` (maintain) |
-| `hiero-sdk-swift` | maintain | `hiero-sdk-swift-maintainers` (maintain) |
-| `hiero-sdk-tck` | maintain | `hiero-sdk-tck-maintainers` (maintain), `hiero-sdk-tck-internal-contributors` (triage) |
+| `hiero-docs` | admin | `hiero-docs-maintainers` (admin), `hiero-docs-committers` (write), `hiero-triage` (triage) |
+| `hiero-mirror-node-explorer` | maintain | `hiero-mirror-node-explorer-maintainers` (maintain), `hiero-mirror-node-explorer-committers` (write), `hiero-triage` (triage) |
+| `hiero-sdk-cpp` | maintain | `hiero-sdk-cpp-maintainers` (maintain), `hiero-triage` (triage) |
+| `hiero-sdk-go` | maintain | `hiero-sdk-go-maintainers` (maintain), `hiero-sdk-go-committers` (write), `hiero-triage` (triage) |
+| `hiero-sdk-java` | maintain | `hiero-sdk-java-maintainers` (maintain), `hiero-triage` (triage) |
+| `hiero-sdk-js` | maintain | `hiero-sdk-js-maintainers` (maintain), `hiero-sdk-js-committers` (write), `hiero-triage` (triage) |
+| `hiero-sdk-rust` | maintain | `hiero-sdk-rust-maintainers` (maintain), `hiero-triage` (triage) |
+| `hiero-sdk-swift` | maintain | `hiero-sdk-swift-maintainers` (maintain), `hiero-triage` (triage) |
+| `hiero-sdk-tck` | maintain | `hiero-sdk-tck-maintainers` (maintain) |
 | `sdk-collaboration-hub` | maintain | `sdk-collaboration-hub-maintainers` (maintain) |
 | `governance` | write | `governance-write` (write) |
-| `hiero-consensus-node` | write | `hiero-consensus-node-release-managers` (write) |
+| `hiero-consensus-node` | write | `hiero-consensus-node-release-managers` (write), `hiero-consensus-node-internal-contributors` (triage), `hiero-triage` (triage) |
 | `hiero-improvement-proposals` | write | `hiero-improvement-proposals-committers` (write) |
-| `roadmap` | write | `roadmap-committers` (write) |
+| `roadmap` | write | `hiero-triage` (write) |
+| `hiero-block-node` | triage | `hiero-block-node-internal-contributors` (triage), `hiero-triage` (triage) |
+| `hiero-contracts` | triage | `hiero-contracts-internal-contributors` (triage), `hiero-triage` (triage) |
+| `hiero-json-rpc-relay` | triage | `hiero-json-rpc-relay-internal-contributors` (triage), `hiero-triage` (triage) |
+| `hiero-local-node` | triage | `hiero-triage` (triage) |
+| `hiero-mirror-node` | triage | `hiero-triage` (triage) |
+| `solo` | triage | `hiero-triage` (triage), `solo-internal-contributors` (triage) |
 
 
 ## Overview

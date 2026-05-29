@@ -1,6 +1,6 @@
 # [`hyperledger/web3j-unit`](https://github.com/hyperledger/web3j-unit) — monthly activity
 
-| Month | PullRequestEvent | CreateEvent | DeleteEvent | Total |
+| Month | PullRequestEvent | DeleteEvent | CreateEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2024-04 | 2 | 2 | 2 | 6 |
 | **Total** | **2** | **2** | **2** | **6** |

@@ -1,6 +1,6 @@
 # [`hyperledger/web3j-solidity-gradle-plugin`](https://github.com/hyperledger/web3j-solidity-gradle-plugin) — monthly activity
 
-| Month | PullRequestEvent | CreateEvent | DeleteEvent | Total |
+| Month | PullRequestEvent | DeleteEvent | CreateEvent | Total |
 | --- | --: | --: | --: | --: |
 | 2024-04 | 1 | 1 | 1 | 3 |
 | **Total** | **1** | **1** | **1** | **3** |

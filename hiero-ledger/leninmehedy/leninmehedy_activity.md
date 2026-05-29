@@ -1,27 +1,32 @@
 # GitHub activity report — `leninmehedy`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **29** events spanning **2016-04-14 → 2026-03-26**, across **2** organizations and **7** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **27** events spanning **2025-02-18 → 2026-03-26**, across **1** organizations and **5** repositories.
 
 ## Teams & repository access
 
-Member of **6** team(s):
+Member of **8** team(s):
 
 | Team | Role in team |
 | --- | --- |
 | `github-maintainers` | member |
 | `governance-write` | member |
+| `roadmap-viewers` | member |
 | `solo-admins` | member |
 | `solo-committers` | maintainer |
+| `solo-docs-admins` | member |
 | `solo-internal-contributors` | maintainer |
 | `solo-maintainers` | member |
 
-Repository access granted through those teams (40 repos):
+Repository access granted through those teams (41 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `solo` | admin | `solo-admins` (admin), `github-maintainers` (maintain), `solo-maintainers` (maintain), `solo-committers` (write), `solo-internal-contributors` (triage) |
+| `solo-docs` | admin | `solo-docs-admins` (admin), `github-maintainers` (maintain) |
 | `.github` | maintain | `github-maintainers` (maintain) |
 | `awesome-contributions` | maintain | `github-maintainers` (maintain) |
 | `governance` | maintain | `github-maintainers` (maintain), `governance-write` (write) |
@@ -32,6 +37,7 @@ Repository access granted through those teams (40 repos):
 | `hiero-consensus-node` | maintain | `github-maintainers` (maintain) |
 | `hiero-consensus-specifications` | maintain | `github-maintainers` (maintain) |
 | `hiero-contracts` | maintain | `github-maintainers` (maintain) |
+| `hiero-cryptography` | maintain | `github-maintainers` (maintain) |
 | `hiero-did-sdk-js` | maintain | `github-maintainers` (maintain) |
 | `hiero-did-sdk-python` | maintain | `github-maintainers` (maintain) |
 | `hiero-docs` | maintain | `github-maintainers` (maintain) |
@@ -56,9 +62,8 @@ Repository access granted through those teams (40 repos):
 | `hiero-website` | maintain | `github-maintainers` (maintain) |
 | `homebrew-tools` | maintain | `github-maintainers` (maintain) |
 | `identity-collaboration-hub` | maintain | `github-maintainers` (maintain) |
-| `roadmap` | maintain | `github-maintainers` (maintain) |
+| `roadmap` | maintain | `github-maintainers` (maintain), `roadmap-viewers` (read) |
 | `sdk-collaboration-hub` | maintain | `github-maintainers` (maintain) |
-| `solo-docs` | maintain | `github-maintainers` (maintain) |
 | `tsc` | maintain | `github-maintainers` (maintain) |
 | `tsc-eligibility-check` | maintain | `github-maintainers` (maintain) |
 
@@ -67,7 +72,7 @@ Repository access granted through those teams (40 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 29 |
+| Total events | 27 |
 | Pull requests opened | 1 |
 | Pull request reviews | 6 |
 | Issues opened | 4 |
@@ -80,8 +85,6 @@ Repository access granted through those teams (40 repos):
 
 | Year | Events |
 | --- | --: |
-| 2016 | 1 |
-| 2019 | 1 |
 | 2025 | 23 |
 | 2026 | 4 |
 
@@ -93,7 +96,6 @@ Repository access granted through those teams (40 repos):
 | PullRequestReviewEvent | 6 |
 | IssuesEvent | 5 |
 | CreateEvent | 3 |
-| ForkEvent | 2 |
 | PullRequestEvent | 2 |
 | IssueCommentEvent | 1 |
 | WatchEvent | 1 |
@@ -103,7 +105,6 @@ Repository access granted through those teams (40 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`hiero-ledger`](https://github.com/hiero-ledger) | 27 | 1 | 6 | 9 |
-| [`hyperledger`](https://github.com/hyperledger) | 2 | 0 | 0 | 0 |
 
 ## Repositories
 
@@ -114,8 +115,6 @@ Repository access granted through those teams (40 repos):
 | [`hiero-ledger/hiero-sdk-go`](https://github.com/hiero-ledger/hiero-sdk-go) | 2 | 0 | 0 | 0 |
 | [`hiero-ledger/governance`](https://github.com/hiero-ledger/governance) | 1 | 0 | 0 | 0 |
 | [`hiero-ledger/hiero-mirror-node`](https://github.com/hiero-ledger/hiero-mirror-node) | 1 | 0 | 1 | 0 |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-chaincode-java`](https://github.com/hyperledger/fabric-chaincode-java) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -128,8 +127,6 @@ Months as rows, event types as columns. One file per repository in [`leninmehedy
 | [`hiero-ledger/hiero-sdk-go`](https://github.com/hiero-ledger/hiero-sdk-go) | 2 | [hiero-ledger_hiero-sdk-go.md](leninmehedy_rollup/hiero-ledger_hiero-sdk-go.md) |
 | [`hiero-ledger/governance`](https://github.com/hiero-ledger/governance) | 1 | [hiero-ledger_governance.md](leninmehedy_rollup/hiero-ledger_governance.md) |
 | [`hiero-ledger/hiero-mirror-node`](https://github.com/hiero-ledger/hiero-mirror-node) | 1 | [hiero-ledger_hiero-mirror-node.md](leninmehedy_rollup/hiero-ledger_hiero-mirror-node.md) |
-| [`hyperledger/fabric`](https://github.com/hyperledger/fabric) | 1 | [hyperledger_fabric.md](leninmehedy_rollup/hyperledger_fabric.md) |
-| [`hyperledger/fabric-chaincode-java`](https://github.com/hyperledger/fabric-chaincode-java) | 1 | [hyperledger_fabric-chaincode-java.md](leninmehedy_rollup/hyperledger_fabric-chaincode-java.md) |
 
 ---
 

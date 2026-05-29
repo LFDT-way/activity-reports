@@ -1,8 +1,10 @@
 # GitHub activity report — `RmbRT`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **163** events spanning **2021-03-03 → 2024-01-19**, across **1** organizations and **5** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **3** events spanning **2024-01-15 → 2024-01-19**, across **1** organizations and **2** repositories.
 
 ## Teams & repository access
 
@@ -33,54 +35,41 @@ Repository access granted through those teams (10 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 163 |
-| Pull requests opened | 5 |
-| Pull request reviews | 51 |
-| Issues opened | 9 |
-| Pushes | 29 |
-| Commits pushed | 85 |
-| Comments | 40 |
+| Total events | 3 |
+| Pull requests opened | 0 |
+| Pull request reviews | 1 |
+| Issues opened | 0 |
+| Pushes | 0 |
+| Commits pushed | 0 |
+| Comments | 2 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 20 |
-| 2022 | 99 |
-| 2023 | 41 |
 | 2024 | 3 |
 
 ## Event types
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 51 |
-| PushEvent | 29 |
-| PullRequestReviewCommentEvent | 26 |
-| PullRequestEvent | 18 |
-| IssuesEvent | 13 |
-| IssueCommentEvent | 11 |
-| DeleteEvent | 6 |
-| CreateEvent | 5 |
-| CommitCommentEvent | 3 |
-| WatchEvent | 1 |
+| IssueCommentEvent | 1 |
+| PullRequestReviewCommentEvent | 1 |
+| PullRequestReviewEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 163 | 5 | 51 | 29 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 3 | 0 | 1 | 0 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 130 | 5 | 42 | 23 |
-| [`hyperledger-labs/perun-rs`](https://github.com/hyperledger-labs/perun-rs) | 13 | 0 | 3 | 3 |
-| [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 9 | 0 | 4 | 1 |
-| [`hyperledger-labs/perun-eth-contracts`](https://github.com/hyperledger-labs/perun-eth-contracts) | 7 | 0 | 1 | 1 |
-| [`hyperledger-labs/perun-doc`](https://github.com/hyperledger-labs/perun-doc) | 4 | 0 | 1 | 1 |
+| [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 2 | 0 | 1 | 0 |
+| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
 
@@ -88,11 +77,8 @@ Months as rows, event types as columns. One file per repository in [`RmbRT_rollu
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 130 | [hyperledger-labs_go-perun.md](RmbRT_rollup/hyperledger-labs_go-perun.md) |
-| [`hyperledger-labs/perun-rs`](https://github.com/hyperledger-labs/perun-rs) | 13 | [hyperledger-labs_perun-rs.md](RmbRT_rollup/hyperledger-labs_perun-rs.md) |
-| [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 9 | [hyperledger-labs_perun-eth-backend.md](RmbRT_rollup/hyperledger-labs_perun-eth-backend.md) |
-| [`hyperledger-labs/perun-eth-contracts`](https://github.com/hyperledger-labs/perun-eth-contracts) | 7 | [hyperledger-labs_perun-eth-contracts.md](RmbRT_rollup/hyperledger-labs_perun-eth-contracts.md) |
-| [`hyperledger-labs/perun-doc`](https://github.com/hyperledger-labs/perun-doc) | 4 | [hyperledger-labs_perun-doc.md](RmbRT_rollup/hyperledger-labs_perun-doc.md) |
+| [`hyperledger-labs/perun-eth-backend`](https://github.com/hyperledger-labs/perun-eth-backend) | 2 | [hyperledger-labs_perun-eth-backend.md](RmbRT_rollup/hyperledger-labs_perun-eth-backend.md) |
+| [`hyperledger-labs/go-perun`](https://github.com/hyperledger-labs/go-perun) | 1 | [hyperledger-labs_go-perun.md](RmbRT_rollup/hyperledger-labs_go-perun.md) |
 
 ---
 

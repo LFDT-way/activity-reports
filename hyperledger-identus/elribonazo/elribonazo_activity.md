@@ -1,8 +1,10 @@
 # GitHub activity report — `elribonazo`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **1,467** events spanning **2023-09-22 → 2026-05-11**, across **4** organizations and **24** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **1,450** events spanning **2024-02-08 → 2026-05-11**, across **4** organizations and **24** repositories.
 
 ## Teams & repository access
 
@@ -40,12 +42,12 @@ Repository access granted through those teams (17 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 1,467 |
-| Pull requests opened | 83 |
+| Total events | 1,450 |
+| Pull requests opened | 80 |
 | Pull request reviews | 149 |
 | Issues opened | 48 |
-| Pushes | 614 |
-| Commits pushed | 990 |
+| Pushes | 608 |
+| Commits pushed | 983 |
 | Comments | 167 |
 | Releases | 5 |
 
@@ -53,7 +55,6 @@ Repository access granted through those teams (17 repos):
 
 | Year | Events |
 | --- | --: |
-| 2023 | 17 |
 | 2024 | 781 |
 | 2025 | 531 |
 | 2026 | 138 |
@@ -62,11 +63,11 @@ Repository access granted through those teams (17 repos):
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 614 |
-| PullRequestEvent | 176 |
+| PushEvent | 608 |
+| PullRequestEvent | 170 |
 | PullRequestReviewEvent | 149 |
-| DeleteEvent | 131 |
-| CreateEvent | 129 |
+| DeleteEvent | 129 |
+| CreateEvent | 126 |
 | IssueCommentEvent | 114 |
 | IssuesEvent | 95 |
 | PullRequestReviewCommentEvent | 53 |
@@ -79,7 +80,7 @@ Repository access granted through those teams (17 repos):
 | --- | --: | --: | --: | --: |
 | [`hyperledger`](https://github.com/hyperledger) | 935 | 55 | 99 | 385 |
 | [`hyperledger-identus`](https://github.com/hyperledger-identus) | 511 | 25 | 49 | 223 |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 20 | 3 | 0 | 6 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 3 | 0 | 0 | 0 |
 | [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 1 | 0 | 1 | 0 |
 
 ## Repositories
@@ -93,7 +94,6 @@ Repository access granted through those teams (17 repos):
 | [`hyperledger/identus-docs`](https://github.com/hyperledger/identus-docs) | 54 | 2 | 15 | 19 |
 | [`hyperledger/identus-cloud-agent`](https://github.com/hyperledger/identus-cloud-agent) | 34 | 2 | 9 | 4 |
 | [`hyperledger-identus/docs`](https://github.com/hyperledger-identus/docs) | 23 | 3 | 2 | 11 |
-| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 20 | 3 | 0 | 6 |
 | [`hyperledger/identus-edge-agent-sdk-swift`](https://github.com/hyperledger/identus-edge-agent-sdk-swift) | 14 | 0 | 8 | 0 |
 | [`hyperledger/identus-mediator`](https://github.com/hyperledger/identus-mediator) | 14 | 2 | 0 | 6 |
 | [`hyperledger-identus/.github`](https://github.com/hyperledger-identus/.github) | 12 | 0 | 0 | 7 |
@@ -104,6 +104,7 @@ Repository access granted through those teams (17 repos):
 | [`hyperledger-identus/mediator`](https://github.com/hyperledger-identus/mediator) | 5 | 1 | 1 | 1 |
 | [`hyperledger-identus/hyperledger-identus`](https://github.com/hyperledger-identus/hyperledger-identus) | 4 | 0 | 0 | 2 |
 | [`hyperledger-identus/identus`](https://github.com/hyperledger-identus/identus) | 3 | 0 | 1 | 0 |
+| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 3 | 0 | 0 | 0 |
 | [`hyperledger-identus/governance`](https://github.com/hyperledger-identus/governance) | 2 | 0 | 2 | 0 |
 | [`hyperledger-identus/sdk-swift`](https://github.com/hyperledger-identus/sdk-swift) | 2 | 0 | 2 | 0 |
 | [`hyperledger-identus/cloud-agent`](https://github.com/hyperledger-identus/cloud-agent) | 1 | 0 | 1 | 0 |
@@ -124,7 +125,6 @@ Months as rows, event types as columns. One file per repository in [`elribonazo_
 | [`hyperledger/identus-docs`](https://github.com/hyperledger/identus-docs) | 54 | [hyperledger_identus-docs.md](elribonazo_rollup/hyperledger_identus-docs.md) |
 | [`hyperledger/identus-cloud-agent`](https://github.com/hyperledger/identus-cloud-agent) | 34 | [hyperledger_identus-cloud-agent.md](elribonazo_rollup/hyperledger_identus-cloud-agent.md) |
 | [`hyperledger-identus/docs`](https://github.com/hyperledger-identus/docs) | 23 | [hyperledger-identus_docs.md](elribonazo_rollup/hyperledger-identus_docs.md) |
-| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 20 | [hyperledger-labs_open-enterprise-agent.md](elribonazo_rollup/hyperledger-labs_open-enterprise-agent.md) |
 | [`hyperledger/identus-edge-agent-sdk-swift`](https://github.com/hyperledger/identus-edge-agent-sdk-swift) | 14 | [hyperledger_identus-edge-agent-sdk-swift.md](elribonazo_rollup/hyperledger_identus-edge-agent-sdk-swift.md) |
 | [`hyperledger/identus-mediator`](https://github.com/hyperledger/identus-mediator) | 14 | [hyperledger_identus-mediator.md](elribonazo_rollup/hyperledger_identus-mediator.md) |
 | [`hyperledger-identus/.github`](https://github.com/hyperledger-identus/.github) | 12 | [hyperledger-identus_.github.md](elribonazo_rollup/hyperledger-identus_.github.md) |
@@ -135,6 +135,7 @@ Months as rows, event types as columns. One file per repository in [`elribonazo_
 | [`hyperledger-identus/mediator`](https://github.com/hyperledger-identus/mediator) | 5 | [hyperledger-identus_mediator.md](elribonazo_rollup/hyperledger-identus_mediator.md) |
 | [`hyperledger-identus/hyperledger-identus`](https://github.com/hyperledger-identus/hyperledger-identus) | 4 | [hyperledger-identus_hyperledger-identus.md](elribonazo_rollup/hyperledger-identus_hyperledger-identus.md) |
 | [`hyperledger-identus/identus`](https://github.com/hyperledger-identus/identus) | 3 | [hyperledger-identus_identus.md](elribonazo_rollup/hyperledger-identus_identus.md) |
+| [`hyperledger-labs/open-enterprise-agent`](https://github.com/hyperledger-labs/open-enterprise-agent) | 3 | [hyperledger-labs_open-enterprise-agent.md](elribonazo_rollup/hyperledger-labs_open-enterprise-agent.md) |
 | [`hyperledger-identus/governance`](https://github.com/hyperledger-identus/governance) | 2 | [hyperledger-identus_governance.md](elribonazo_rollup/hyperledger-identus_governance.md) |
 | [`hyperledger-identus/sdk-swift`](https://github.com/hyperledger-identus/sdk-swift) | 2 | [hyperledger-identus_sdk-swift.md](elribonazo_rollup/hyperledger-identus_sdk-swift.md) |
 | [`hyperledger-identus/cloud-agent`](https://github.com/hyperledger-identus/cloud-agent) | 1 | [hyperledger-identus_cloud-agent.md](elribonazo_rollup/hyperledger-identus_cloud-agent.md) |

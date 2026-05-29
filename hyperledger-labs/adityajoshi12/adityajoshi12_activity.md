@@ -1,8 +1,10 @@
 # GitHub activity report — `adityajoshi12`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **494** events spanning **2021-02-13 → 2026-03-28**, across **3** organizations and **17** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **101** events spanning **2024-01-09 → 2026-03-28**, across **3** organizations and **9** repositories.
 
 ## Teams & repository access
 
@@ -23,22 +25,19 @@ Repository access granted through those teams (1 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 494 |
-| Pull requests opened | 59 |
-| Pull request reviews | 140 |
-| Issues opened | 27 |
-| Pushes | 32 |
-| Commits pushed | 63 |
-| Comments | 168 |
+| Total events | 101 |
+| Pull requests opened | 17 |
+| Pull request reviews | 11 |
+| Issues opened | 7 |
+| Pushes | 22 |
+| Commits pushed | 24 |
+| Comments | 14 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2021 | 6 |
-| 2022 | 91 |
-| 2023 | 296 |
 | 2024 | 53 |
 | 2025 | 37 |
 | 2026 | 11 |
@@ -47,45 +46,37 @@ Repository access granted through those teams (1 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestReviewEvent | 140 |
-| PullRequestEvent | 87 |
-| IssueCommentEvent | 85 |
-| PullRequestReviewCommentEvent | 83 |
-| IssuesEvent | 42 |
-| PushEvent | 32 |
-| ForkEvent | 12 |
-| WatchEvent | 5 |
-| CreateEvent | 4 |
+| PullRequestEvent | 30 |
+| PushEvent | 22 |
+| IssuesEvent | 14 |
+| IssueCommentEvent | 13 |
+| PullRequestReviewEvent | 11 |
 | DeleteEvent | 4 |
+| ForkEvent | 3 |
+| CreateEvent | 2 |
+| PullRequestReviewCommentEvent | 1 |
+| WatchEvent | 1 |
 
 ## Organizations
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 240 | 20 | 98 | 17 |
-| [`hyperledger`](https://github.com/hyperledger) | 228 | 31 | 39 | 9 |
+| [`hyperledger`](https://github.com/hyperledger) | 43 | 7 | 0 | 4 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 32 | 2 | 8 | 12 |
 | [`hyperledger-bevel`](https://github.com/hyperledger-bevel) | 26 | 8 | 3 | 6 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 141 | 19 | 37 | 0 |
-| [`hyperledger-labs/blockchain-explorer`](https://github.com/hyperledger-labs/blockchain-explorer) | 140 | 6 | 68 | 1 |
-| [`hyperledger-labs/hlf-connector`](https://github.com/hyperledger-labs/hlf-connector) | 64 | 4 | 26 | 13 |
-| [`hyperledger/bevel-operator-fabric`](https://github.com/hyperledger/bevel-operator-fabric) | 62 | 8 | 1 | 9 |
-| [`hyperledger-labs/hlf-operator`](https://github.com/hyperledger-labs/hlf-operator) | 28 | 6 | 4 | 3 |
+| [`hyperledger-labs/hlf-connector`](https://github.com/hyperledger-labs/hlf-connector) | 32 | 2 | 8 | 12 |
 | [`hyperledger-bevel/bevel-operator-fabric`](https://github.com/hyperledger-bevel/bevel-operator-fabric) | 24 | 8 | 1 | 6 |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 12 | 2 | 1 | 0 |
-| [`hyperledger-labs/blockchain-carbon-accounting`](https://github.com/hyperledger-labs/blockchain-carbon-accounting) | 6 | 4 | 0 | 0 |
-| [`hyperledger/fabric-admin-sdk`](https://github.com/hyperledger/fabric-admin-sdk) | 6 | 1 | 0 | 0 |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 3 | 1 | 0 | 0 |
+| [`hyperledger/bevel-operator-fabric`](https://github.com/hyperledger/bevel-operator-fabric) | 19 | 2 | 0 | 4 |
+| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 15 | 3 | 0 | 0 |
+| [`hyperledger/fabric-admin-sdk`](https://github.com/hyperledger/fabric-admin-sdk) | 5 | 1 | 0 | 0 |
 | [`hyperledger-bevel/bevel`](https://github.com/hyperledger-bevel/bevel) | 2 | 0 | 2 | 0 |
-| [`hyperledger-labs/blockchain-automation-framework`](https://github.com/hyperledger-labs/blockchain-automation-framework) | 1 | 0 | 0 | 0 |
-| [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 1 | 0 | 0 | 0 |
-| [`hyperledger/caliper`](https://github.com/hyperledger/caliper) | 1 | 0 | 0 | 0 |
+| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 2 | 1 | 0 | 0 |
 | [`hyperledger/fabric-ca`](https://github.com/hyperledger/fabric-ca) | 1 | 0 | 0 | 0 |
-| [`hyperledger/fabric-protos`](https://github.com/hyperledger/fabric-protos) | 1 | 0 | 0 | 0 |
 | [`hyperledger/toc`](https://github.com/hyperledger/toc) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -94,22 +85,14 @@ Months as rows, event types as columns. One file per repository in [`adityajoshi
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 141 | [hyperledger_bevel.md](adityajoshi12_rollup/hyperledger_bevel.md) |
-| [`hyperledger-labs/blockchain-explorer`](https://github.com/hyperledger-labs/blockchain-explorer) | 140 | [hyperledger-labs_blockchain-explorer.md](adityajoshi12_rollup/hyperledger-labs_blockchain-explorer.md) |
-| [`hyperledger-labs/hlf-connector`](https://github.com/hyperledger-labs/hlf-connector) | 64 | [hyperledger-labs_hlf-connector.md](adityajoshi12_rollup/hyperledger-labs_hlf-connector.md) |
-| [`hyperledger/bevel-operator-fabric`](https://github.com/hyperledger/bevel-operator-fabric) | 62 | [hyperledger_bevel-operator-fabric.md](adityajoshi12_rollup/hyperledger_bevel-operator-fabric.md) |
-| [`hyperledger-labs/hlf-operator`](https://github.com/hyperledger-labs/hlf-operator) | 28 | [hyperledger-labs_hlf-operator.md](adityajoshi12_rollup/hyperledger-labs_hlf-operator.md) |
+| [`hyperledger-labs/hlf-connector`](https://github.com/hyperledger-labs/hlf-connector) | 32 | [hyperledger-labs_hlf-connector.md](adityajoshi12_rollup/hyperledger-labs_hlf-connector.md) |
 | [`hyperledger-bevel/bevel-operator-fabric`](https://github.com/hyperledger-bevel/bevel-operator-fabric) | 24 | [hyperledger-bevel_bevel-operator-fabric.md](adityajoshi12_rollup/hyperledger-bevel_bevel-operator-fabric.md) |
-| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 12 | [hyperledger_fabric-samples.md](adityajoshi12_rollup/hyperledger_fabric-samples.md) |
-| [`hyperledger-labs/blockchain-carbon-accounting`](https://github.com/hyperledger-labs/blockchain-carbon-accounting) | 6 | [hyperledger-labs_blockchain-carbon-accounting.md](adityajoshi12_rollup/hyperledger-labs_blockchain-carbon-accounting.md) |
-| [`hyperledger/fabric-admin-sdk`](https://github.com/hyperledger/fabric-admin-sdk) | 6 | [hyperledger_fabric-admin-sdk.md](adityajoshi12_rollup/hyperledger_fabric-admin-sdk.md) |
-| [`hyperledger/besu-docs`](https://github.com/hyperledger/besu-docs) | 3 | [hyperledger_besu-docs.md](adityajoshi12_rollup/hyperledger_besu-docs.md) |
+| [`hyperledger/bevel-operator-fabric`](https://github.com/hyperledger/bevel-operator-fabric) | 19 | [hyperledger_bevel-operator-fabric.md](adityajoshi12_rollup/hyperledger_bevel-operator-fabric.md) |
+| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 15 | [hyperledger_bevel.md](adityajoshi12_rollup/hyperledger_bevel.md) |
+| [`hyperledger/fabric-admin-sdk`](https://github.com/hyperledger/fabric-admin-sdk) | 5 | [hyperledger_fabric-admin-sdk.md](adityajoshi12_rollup/hyperledger_fabric-admin-sdk.md) |
 | [`hyperledger-bevel/bevel`](https://github.com/hyperledger-bevel/bevel) | 2 | [hyperledger-bevel_bevel.md](adityajoshi12_rollup/hyperledger-bevel_bevel.md) |
-| [`hyperledger-labs/blockchain-automation-framework`](https://github.com/hyperledger-labs/blockchain-automation-framework) | 1 | [hyperledger-labs_blockchain-automation-framework.md](adityajoshi12_rollup/hyperledger-labs_blockchain-automation-framework.md) |
-| [`hyperledger-labs/governance`](https://github.com/hyperledger-labs/governance) | 1 | [hyperledger-labs_governance.md](adityajoshi12_rollup/hyperledger-labs_governance.md) |
-| [`hyperledger/caliper`](https://github.com/hyperledger/caliper) | 1 | [hyperledger_caliper.md](adityajoshi12_rollup/hyperledger_caliper.md) |
+| [`hyperledger/fabric-samples`](https://github.com/hyperledger/fabric-samples) | 2 | [hyperledger_fabric-samples.md](adityajoshi12_rollup/hyperledger_fabric-samples.md) |
 | [`hyperledger/fabric-ca`](https://github.com/hyperledger/fabric-ca) | 1 | [hyperledger_fabric-ca.md](adityajoshi12_rollup/hyperledger_fabric-ca.md) |
-| [`hyperledger/fabric-protos`](https://github.com/hyperledger/fabric-protos) | 1 | [hyperledger_fabric-protos.md](adityajoshi12_rollup/hyperledger_fabric-protos.md) |
 | [`hyperledger/toc`](https://github.com/hyperledger/toc) | 1 | [hyperledger_toc.md](adityajoshi12_rollup/hyperledger_toc.md) |
 
 ---

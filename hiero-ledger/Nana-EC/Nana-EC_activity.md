@@ -1,6 +1,8 @@
 # GitHub activity report — `Nana-EC`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **2,209** events spanning **2024-11-05 → 2026-05-28**, across **1** organizations and **11** repositories.
 
@@ -26,21 +28,31 @@ Member of **17** team(s):
 | `hiero-json-rpc-relay-maintainers` | maintainer |
 | `hiero-local-node-committers` | maintainer |
 | `hiero-local-node-maintainers` | maintainer |
-| `roadmap-committers` | member |
+| `hiero-triage` | member |
 
-Repository access granted through those teams (9 repos):
+Repository access granted through those teams (19 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
-| `hiero-block-node` | maintain | `hiero-block-node-maintainers` (maintain), `hiero-block-node-committers` (write), `hiero-block-node-internal-contributors` (triage) |
-| `hiero-consensus-node` | maintain | `hiero-consensus-node-maintainers` (maintain), `hiero-consensus-node-committers` (write), `hiero-consensus-node-release-managers` (write), `hiero-consensus-node-smart-contract-codeowners` (write) |
-| `hiero-contracts` | maintain | `hiero-contracts-maintainers` (maintain) |
+| `hiero-block-node` | maintain | `hiero-block-node-maintainers` (maintain), `hiero-block-node-committers` (write), `hiero-block-node-internal-contributors` (triage), `hiero-triage` (triage) |
+| `hiero-consensus-node` | maintain | `hiero-consensus-node-maintainers` (maintain), `hiero-consensus-node-committers` (write), `hiero-consensus-node-release-managers` (write), `hiero-consensus-node-smart-contract-codeowners` (write), `hiero-triage` (triage) |
+| `hiero-contracts` | maintain | `hiero-contracts-maintainers` (maintain), `hiero-triage` (triage) |
 | `hiero-ethereum-execution-spec-tests` | maintain | `hiero-ethereum-execution-spec-tests-maintainers` (maintain) |
-| `hiero-json-rpc-relay` | maintain | `hiero-json-rpc-relay-maintainers` (maintain), `hiero-json-rpc-relay-committers` (write), `hiero-json-rpc-relay-internal-contributors` (triage) |
-| `hiero-local-node` | maintain | `hiero-local-node-maintainers` (maintain), `hiero-local-node-committers` (write) |
+| `hiero-json-rpc-relay` | maintain | `hiero-json-rpc-relay-maintainers` (maintain), `hiero-json-rpc-relay-committers` (write), `hiero-json-rpc-relay-internal-contributors` (triage), `hiero-triage` (triage) |
+| `hiero-local-node` | maintain | `hiero-local-node-maintainers` (maintain), `hiero-local-node-committers` (write), `hiero-triage` (triage) |
 | `governance` | write | `governance-write` (write) |
 | `hiero-improvement-proposals` | write | `hiero-improvement-proposals-committers` (write) |
-| `roadmap` | write | `roadmap-committers` (write) |
+| `roadmap` | write | `hiero-triage` (write) |
+| `hiero-docs` | triage | `hiero-triage` (triage) |
+| `hiero-mirror-node` | triage | `hiero-triage` (triage) |
+| `hiero-mirror-node-explorer` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-cpp` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-go` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-java` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-js` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-rust` | triage | `hiero-triage` (triage) |
+| `hiero-sdk-swift` | triage | `hiero-triage` (triage) |
+| `solo` | triage | `hiero-triage` (triage) |
 
 
 ## Overview

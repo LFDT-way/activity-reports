@@ -1,6 +1,6 @@
 # [`openwallet-foundation/.github`](https://github.com/openwallet-foundation/.github) — monthly activity
 
-| Month | PullRequestEvent | PushEvent | CreateEvent | DeleteEvent | PullRequestReviewEvent | Total |
+| Month | PullRequestEvent | PushEvent | DeleteEvent | CreateEvent | PullRequestReviewEvent | Total |
 | --- | --: | --: | --: | --: | --: | --: |
 | 2024-03 | 1 | 1 | 1 | 1 |  | 4 |
 | 2024-05 | 1 | 1 |  |  | 1 | 3 |

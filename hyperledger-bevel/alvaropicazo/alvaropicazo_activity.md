@@ -1,8 +1,10 @@
 # GitHub activity report — `alvaropicazo`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **181** events spanning **2020-12-17 → 2026-04-14**, across **6** organizations and **11** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **122** events spanning **2024-04-22 → 2026-04-14**, across **6** organizations and **9** repositories.
 
 ## Teams & repository access
 
@@ -27,21 +29,19 @@ Repository access granted through those teams (3 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 181 |
-| Pull requests opened | 39 |
-| Pull request reviews | 34 |
-| Issues opened | 20 |
+| Total events | 122 |
+| Pull requests opened | 20 |
+| Pull request reviews | 32 |
+| Issues opened | 16 |
 | Pushes | 7 |
 | Commits pushed | 29 |
-| Comments | 53 |
+| Comments | 25 |
 | Releases | 1 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2020 | 1 |
-| 2021 | 58 |
 | 2024 | 48 |
 | 2025 | 68 |
 | 2026 | 6 |
@@ -50,14 +50,14 @@ Repository access granted through those teams (3 repos):
 
 | Type | Count |
 | --- | --: |
-| PullRequestEvent | 47 |
-| IssueCommentEvent | 45 |
-| PullRequestReviewEvent | 34 |
-| IssuesEvent | 29 |
-| PullRequestReviewCommentEvent | 8 |
+| PullRequestReviewEvent | 32 |
+| PullRequestEvent | 26 |
+| IssuesEvent | 25 |
+| IssueCommentEvent | 20 |
 | PushEvent | 7 |
-| ForkEvent | 4 |
-| WatchEvent | 4 |
+| PullRequestReviewCommentEvent | 5 |
+| ForkEvent | 2 |
+| WatchEvent | 2 |
 | CreateEvent | 1 |
 | DeleteEvent | 1 |
 | ReleaseEvent | 1 |
@@ -66,10 +66,10 @@ Repository access granted through those teams (3 repos):
 
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 70 | 20 | 12 | 0 |
 | [`hyperledger-bevel`](https://github.com/hyperledger-bevel) | 53 | 10 | 6 | 3 |
 | [`LF-Decentralized-Trust-labs`](https://github.com/LF-Decentralized-Trust-labs) | 25 | 0 | 13 | 4 |
-| [`hyperledger`](https://github.com/hyperledger) | 24 | 5 | 2 | 0 |
+| [`hyperledger`](https://github.com/hyperledger) | 22 | 5 | 2 | 0 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 13 | 1 | 10 | 0 |
 | [`LF-Decentralized-Trust`](https://github.com/LF-Decentralized-Trust) | 8 | 4 | 1 | 0 |
 | [`LF-Decentralized-Trust-Mentorships`](https://github.com/LF-Decentralized-Trust-Mentorships) | 1 | 0 | 0 | 0 |
 
@@ -77,7 +77,6 @@ Repository access granted through those teams (3 repos):
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
-| [`hyperledger-labs/blockchain-automation-framework`](https://github.com/hyperledger-labs/blockchain-automation-framework) | 57 | 19 | 2 | 0 |
 | [`hyperledger-bevel/bevel`](https://github.com/hyperledger-bevel/bevel) | 53 | 10 | 6 | 3 |
 | [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 22 | 5 | 2 | 0 |
 | [`LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io`](https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io) | 19 | 0 | 9 | 4 |
@@ -86,7 +85,6 @@ Repository access granted through those teams (3 repos):
 | [`LF-Decentralized-Trust-labs/governance`](https://github.com/LF-Decentralized-Trust-labs/governance) | 4 | 0 | 4 | 0 |
 | [`hyperledger-labs/hyperledger-community-management-tools`](https://github.com/hyperledger-labs/hyperledger-community-management-tools) | 4 | 1 | 1 | 0 |
 | [`LF-Decentralized-Trust-labs/paladin`](https://github.com/LF-Decentralized-Trust-labs/paladin) | 2 | 0 | 0 | 0 |
-| [`hyperledger/cactus`](https://github.com/hyperledger/cactus) | 2 | 0 | 0 | 0 |
 | [`LF-Decentralized-Trust-Mentorships/mentorship-program`](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program) | 1 | 0 | 0 | 0 |
 
 ## Monthly rollup — one table per repository
@@ -95,7 +93,6 @@ Months as rows, event types as columns. One file per repository in [`alvaropicaz
 
 | Repository | Events | Rollup |
 | --- | --: | --- |
-| [`hyperledger-labs/blockchain-automation-framework`](https://github.com/hyperledger-labs/blockchain-automation-framework) | 57 | [hyperledger-labs_blockchain-automation-framework.md](alvaropicazo_rollup/hyperledger-labs_blockchain-automation-framework.md) |
 | [`hyperledger-bevel/bevel`](https://github.com/hyperledger-bevel/bevel) | 53 | [hyperledger-bevel_bevel.md](alvaropicazo_rollup/hyperledger-bevel_bevel.md) |
 | [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 22 | [hyperledger_bevel.md](alvaropicazo_rollup/hyperledger_bevel.md) |
 | [`LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io`](https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io) | 19 | [LF-Decentralized-Trust-labs_LF-Decentralized-Trust-labs.github.io.md](alvaropicazo_rollup/LF-Decentralized-Trust-labs_LF-Decentralized-Trust-labs.github.io.md) |
@@ -104,7 +101,6 @@ Months as rows, event types as columns. One file per repository in [`alvaropicaz
 | [`LF-Decentralized-Trust-labs/governance`](https://github.com/LF-Decentralized-Trust-labs/governance) | 4 | [LF-Decentralized-Trust-labs_governance.md](alvaropicazo_rollup/LF-Decentralized-Trust-labs_governance.md) |
 | [`hyperledger-labs/hyperledger-community-management-tools`](https://github.com/hyperledger-labs/hyperledger-community-management-tools) | 4 | [hyperledger-labs_hyperledger-community-management-tools.md](alvaropicazo_rollup/hyperledger-labs_hyperledger-community-management-tools.md) |
 | [`LF-Decentralized-Trust-labs/paladin`](https://github.com/LF-Decentralized-Trust-labs/paladin) | 2 | [LF-Decentralized-Trust-labs_paladin.md](alvaropicazo_rollup/LF-Decentralized-Trust-labs_paladin.md) |
-| [`hyperledger/cactus`](https://github.com/hyperledger/cactus) | 2 | [hyperledger_cactus.md](alvaropicazo_rollup/hyperledger_cactus.md) |
 | [`LF-Decentralized-Trust-Mentorships/mentorship-program`](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program) | 1 | [LF-Decentralized-Trust-Mentorships_mentorship-program.md](alvaropicazo_rollup/LF-Decentralized-Trust-Mentorships_mentorship-program.md) |
 
 ---

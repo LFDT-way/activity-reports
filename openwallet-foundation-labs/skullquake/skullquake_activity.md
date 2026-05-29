@@ -1,8 +1,10 @@
 # GitHub activity report — `skullquake`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **14** events spanning **2023-04-08 → 2023-12-05**, across **2** organizations and **3** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `skullquake` in the date range searched.
 
 ## Teams & repository access
 
@@ -18,58 +20,6 @@ Repository access granted through those teams (1 repos):
 | --- | --- | --- |
 | `farmworker-wallet-os` | maintain | `fwos-maintainers` (maintain) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 14 |
-| Pull requests opened | 6 |
-| Pull request reviews | 0 |
-| Issues opened | 1 |
-| Pushes | 1 |
-| Commits pushed | 1 |
-| Comments | 0 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2023 | 14 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| PullRequestEvent | 12 |
-| IssuesEvent | 1 |
-| PushEvent | 1 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs`](https://github.com/openwallet-foundation-labs) | 13 | 6 | 0 | 1 |
-| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`openwallet-foundation-labs/fwos-demo-app`](https://github.com/openwallet-foundation-labs/fwos-demo-app) | 11 | 5 | 0 | 1 |
-| [`openwallet-foundation-labs/fwos-native-template`](https://github.com/openwallet-foundation-labs/fwos-native-template) | 2 | 1 | 0 | 0 |
-| [`hyperledger/aries-javascript-docs`](https://github.com/hyperledger/aries-javascript-docs) | 1 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`skullquake_rollup/`](skullquake_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`openwallet-foundation-labs/fwos-demo-app`](https://github.com/openwallet-foundation-labs/fwos-demo-app) | 11 | [openwallet-foundation-labs_fwos-demo-app.md](skullquake_rollup/openwallet-foundation-labs_fwos-demo-app.md) |
-| [`openwallet-foundation-labs/fwos-native-template`](https://github.com/openwallet-foundation-labs/fwos-native-template) | 2 | [openwallet-foundation-labs_fwos-native-template.md](skullquake_rollup/openwallet-foundation-labs_fwos-native-template.md) |
-| [`hyperledger/aries-javascript-docs`](https://github.com/hyperledger/aries-javascript-docs) | 1 | [hyperledger_aries-javascript-docs.md](skullquake_rollup/hyperledger_aries-javascript-docs.md) |
 
 ---
 

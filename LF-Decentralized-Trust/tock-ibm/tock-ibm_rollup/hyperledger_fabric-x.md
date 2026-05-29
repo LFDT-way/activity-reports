@@ -1,6 +1,6 @@
 # [`hyperledger/fabric-x`](https://github.com/hyperledger/fabric-x) — monthly activity
 
-| Month | CreateEvent | DeleteEvent | WatchEvent | GollumEvent | Total |
+| Month | DeleteEvent | CreateEvent | WatchEvent | GollumEvent | Total |
 | --- | --: | --: | --: | --: | --: |
 | 2025-07 |  |  | 1 |  | 1 |
 | 2025-12 |  |  |  | 1 | 1 |

@@ -1,41 +1,41 @@
 # GitHub activity reports
 
-Per-user activity extracted from the archive for the 31 users listed in `groups.yml` (31 with activity).
+Per-user activity for 2024–2026 extracted from the archive for the 31 users listed in `groups.yml` (28 with activity).
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 | User | Events | First | Last | Orgs | Repos | Teams |
 | --- | --: | --- | --- | --: | --: | --: |
-| [`dhh1128`](dhh1128/dhh1128_activity.md) | 2,682 | 2017-05-29 | 2026-03-19 | 4 | 76 | 1 |
-| [`henkvancann`](henkvancann/henkvancann_activity.md) | 1,444 | 2021-12-16 | 2026-03-17 | 2 | 25 | 4 |
-| [`m00sey`](m00sey/m00sey_activity.md) | 1,057 | 2020-01-08 | 2025-12-17 | 4 | 51 | 20 |
-| [`SmithSamuelM`](SmithSamuelM/SmithSamuelM_activity.md) | 916 | 2019-07-10 | 2026-02-10 | 2 | 20 | 4 |
 | [`kordwarshuis`](kordwarshuis/kordwarshuis_activity.md) | 817 | 2024-02-05 | 2026-04-27 | 1 | 18 | 4 |
-| [`andorsk`](andorsk/andorsk_activity.md) | 754 | 2022-06-21 | 2025-10-20 | 5 | 22 | 3 |
 | [`stormer78`](stormer78/stormer78_activity.md) | 736 | 2025-05-10 | 2026-05-28 | 4 | 13 | 1 |
-| [`darrellodonnell`](darrellodonnell/darrellodonnell_activity.md) | 536 | 2017-08-24 | 2026-04-15 | 4 | 24 | 4 |
-| [`wenjing`](wenjing/wenjing_activity.md) | 534 | 2022-06-08 | 2026-04-10 | 5 | 15 | 6 |
-| [`talltree`](talltree/talltree_activity.md) | 336 | 2019-06-30 | 2026-03-25 | 5 | 38 | 12 |
-| [`pfeairheller`](pfeairheller/pfeairheller_activity.md) | 250 | 2020-01-03 | 2025-05-13 | 2 | 11 | 2 |
-| [`peacekeeper`](peacekeeper/peacekeeper_activity.md) | 236 | 2017-05-29 | 2025-11-12 | 4 | 16 | 1 |
-| [`NickyHickman`](NickyHickman/NickyHickman_activity.md) | 150 | 2020-09-29 | 2026-05-08 | 2 | 8 | 3 |
-| [`kentbull`](kentbull/kentbull_activity.md) | 116 | 2022-04-03 | 2026-04-20 | 5 | 18 | 2 |
-| [`neiljthomson`](neiljthomson/neiljthomson_activity.md) | 90 | 2022-06-21 | 2023-03-15 | 1 | 3 | 1 |
-| [`a-fox`](a-fox/a-fox_activity.md) | 77 | 2017-11-12 | 2024-12-19 | 2 | 9 | 1 |
-| [`sankarshanmukhopadhyay`](sankarshanmukhopadhyay/sankarshanmukhopadhyay_activity.md) | 64 | 2020-02-06 | 2026-03-17 | 4 | 18 | 1 |
+| [`m00sey`](m00sey/m00sey_activity.md) | 643 | 2024-01-03 | 2025-12-17 | 2 | 24 | 20 |
+| [`SmithSamuelM`](SmithSamuelM/SmithSamuelM_activity.md) | 500 | 2024-01-03 | 2026-02-10 | 1 | 9 | 4 |
+| [`andorsk`](andorsk/andorsk_activity.md) | 435 | 2024-01-18 | 2025-10-20 | 5 | 13 | 3 |
+| [`henkvancann`](henkvancann/henkvancann_activity.md) | 427 | 2024-01-23 | 2026-03-17 | 2 | 21 | 4 |
+| [`wenjing`](wenjing/wenjing_activity.md) | 425 | 2024-02-20 | 2026-04-10 | 5 | 14 | 6 |
+| [`darrellodonnell`](darrellodonnell/darrellodonnell_activity.md) | 380 | 2024-01-03 | 2026-04-15 | 2 | 14 | 4 |
+| [`talltree`](talltree/talltree_activity.md) | 72 | 2024-01-12 | 2026-03-25 | 3 | 18 | 12 |
+| [`pfeairheller`](pfeairheller/pfeairheller_activity.md) | 67 | 2024-01-19 | 2025-05-13 | 1 | 5 | 2 |
+| [`kentbull`](kentbull/kentbull_activity.md) | 63 | 2024-02-15 | 2026-04-20 | 3 | 8 | 2 |
 | [`geoffturk`](geoffturk/geoffturk_activity.md) | 53 | 2025-10-31 | 2026-05-28 | 2 | 8 | 2 |
 | [`scouten-adobe`](scouten-adobe/scouten-adobe_activity.md) | 51 | 2024-03-06 | 2024-03-21 | 1 | 1 | 1 |
 | [`jrayback`](jrayback/jrayback_activity.md) | 46 | 2024-10-23 | 2026-04-14 | 4 | 10 | 1 |
-| [`tweeddalex`](tweeddalex/tweeddalex_activity.md) | 38 | 2022-11-03 | 2026-04-01 | 3 | 6 | 1 |
+| [`dhh1128`](dhh1128/dhh1128_activity.md) | 40 | 2024-01-13 | 2026-03-19 | 2 | 9 | 1 |
+| [`tweeddalex`](tweeddalex/tweeddalex_activity.md) | 33 | 2024-09-04 | 2026-04-01 | 2 | 4 | 1 |
 | [`carlyh-micb`](carlyh-micb/carlyh-micb_activity.md) | 17 | 2024-10-07 | 2026-04-24 | 2 | 5 | 4 |
-| [`mathieuglaude`](mathieuglaude/mathieuglaude_activity.md) | 14 | 2020-10-01 | 2024-03-27 | 2 | 5 | 2 |
-| [`JohnOnGH`](JohnOnGH/JohnOnGH_activity.md) | 12 | 2021-03-22 | 2026-02-05 | 1 | 3 | 1 |
-| [`trbouma`](trbouma/trbouma_activity.md) | 12 | 2019-05-13 | 2026-01-09 | 3 | 7 | 1 |
-| [`kudrixD`](kudrixD/kudrixD_activity.md) | 7 | 2020-07-07 | 2022-08-31 | 1 | 2 | 1 |
-| [`jacqueslatour`](jacqueslatour/jacqueslatour_activity.md) | 6 | 2022-09-02 | 2024-07-09 | 1 | 3 | 1 |
+| [`sankarshanmukhopadhyay`](sankarshanmukhopadhyay/sankarshanmukhopadhyay_activity.md) | 14 | 2025-02-07 | 2026-03-17 | 2 | 4 | 1 |
+| [`NickyHickman`](NickyHickman/NickyHickman_activity.md) | 13 | 2026-03-25 | 2026-05-08 | 1 | 1 | 3 |
+| [`peacekeeper`](peacekeeper/peacekeeper_activity.md) | 13 | 2024-10-20 | 2025-11-12 | 2 | 4 | 1 |
+| [`a-fox`](a-fox/a-fox_activity.md) | 8 | 2024-03-07 | 2024-12-19 | 1 | 3 | 1 |
+| [`JohnOnGH`](JohnOnGH/JohnOnGH_activity.md) | 7 | 2026-01-07 | 2026-02-05 | 1 | 1 | 1 |
 | [`martipos`](martipos/martipos_activity.md) | 6 | 2026-03-25 | 2026-05-20 | 1 | 2 | 4 |
-| [`stevenmilstein`](stevenmilstein/stevenmilstein_activity.md) | 6 | 2020-06-29 | 2020-12-10 | 1 | 3 | 1 |
+| [`mathieuglaude`](mathieuglaude/mathieuglaude_activity.md) | 4 | 2024-03-25 | 2024-03-27 | 1 | 1 | 2 |
+| [`trbouma`](trbouma/trbouma_activity.md) | 3 | 2024-08-02 | 2026-01-09 | 2 | 2 | 1 |
 | [`danielbachgit`](danielbachgit/danielbachgit_activity.md) | 2 | 2024-05-11 | 2024-05-11 | 1 | 1 | 1 |
 | [`ScottSPerryCPA`](ScottSPerryCPA/ScottSPerryCPA_activity.md) | 2 | 2025-04-02 | 2025-04-02 | 1 | 1 | 1 |
+| [`jacqueslatour`](jacqueslatour/jacqueslatour_activity.md) | 1 | 2024-07-09 | 2024-07-09 | 1 | 1 | 1 |
+| [`kudrixD`](kudrixD/kudrixD_activity.md) | 0 | — | — | 0 | 0 | 1 |
+| [`neiljthomson`](neiljthomson/neiljthomson_activity.md) | 0 | — | — | 0 | 0 | 1 |
+| [`stevenmilstein`](stevenmilstein/stevenmilstein_activity.md) | 0 | — | — | 0 | 0 | 1 |
 
 <sub>Generated by `team-reports`.</sub>

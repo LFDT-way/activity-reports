@@ -1,8 +1,10 @@
 # GitHub activity report — `thelinuxfoundation`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **2** events spanning **2016-02-03 → 2016-02-03**, across **1** organizations and **1** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+**No activity found** for `thelinuxfoundation` in the date range searched.
 
 ## Teams & repository access
 
@@ -19,51 +21,6 @@ Repository access granted through those teams (2 repos):
 | `.github` | maintain | `lf-staff` (maintain) |
 | `governance` | maintain | `lf-staff` (maintain) |
 
-
-## Overview
-
-| Metric | Value |
-| --- | --: |
-| Total events | 2 |
-| Pull requests opened | 0 |
-| Pull request reviews | 0 |
-| Issues opened | 0 |
-| Pushes | 0 |
-| Commits pushed | 0 |
-| Comments | 0 |
-| Releases | 0 |
-
-## Activity by year
-
-| Year | Events |
-| --- | --: |
-| 2016 | 2 |
-
-## Event types
-
-| Type | Count |
-| --- | --: |
-| MemberEvent | 2 |
-
-## Organizations
-
-| Organization | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger`](https://github.com/hyperledger) | 2 | 0 | 0 | 0 |
-
-## Repositories
-
-| Repository | Events | PRs opened | Reviews | Pushes |
-| --- | --: | --: | --: | --: |
-| [`hyperledger/hyperledger`](https://github.com/hyperledger/hyperledger) | 2 | 0 | 0 | 0 |
-
-## Monthly rollup — one table per repository
-
-Months as rows, event types as columns. One file per repository in [`thelinuxfoundation_rollup/`](thelinuxfoundation_rollup/):
-
-| Repository | Events | Rollup |
-| --- | --: | --- |
-| [`hyperledger/hyperledger`](https://github.com/hyperledger/hyperledger) | 2 | [hyperledger_hyperledger.md](thelinuxfoundation_rollup/hyperledger_hyperledger.md) |
 
 ---
 

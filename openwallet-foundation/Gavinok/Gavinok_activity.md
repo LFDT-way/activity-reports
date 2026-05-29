@@ -1,8 +1,10 @@
 # GitHub activity report — `Gavinok`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
 
-Compiled from **310** events spanning **2023-08-10 → 2026-05-05**, across **2** organizations and **9** repositories.
+Date range searched: **2024-01-01 → 2026-05-28**.
+
+Compiled from **275** events spanning **2024-01-02 → 2026-05-05**, across **2** organizations and **9** repositories.
 
 ## Teams & repository access
 
@@ -32,20 +34,19 @@ Repository access granted through those teams (9 repos):
 
 | Metric | Value |
 | --- | --: |
-| Total events | 310 |
-| Pull requests opened | 36 |
-| Pull request reviews | 45 |
-| Issues opened | 17 |
-| Pushes | 90 |
-| Commits pushed | 177 |
-| Comments | 83 |
+| Total events | 275 |
+| Pull requests opened | 27 |
+| Pull request reviews | 39 |
+| Issues opened | 15 |
+| Pushes | 89 |
+| Commits pushed | 176 |
+| Comments | 70 |
 | Releases | 0 |
 
 ## Activity by year
 
 | Year | Events |
 | --- | --: |
-| 2023 | 35 |
 | 2024 | 91 |
 | 2025 | 169 |
 | 2026 | 15 |
@@ -54,14 +55,14 @@ Repository access granted through those teams (9 repos):
 
 | Type | Count |
 | --- | --: |
-| PushEvent | 90 |
-| IssueCommentEvent | 59 |
-| PullRequestEvent | 48 |
-| PullRequestReviewEvent | 45 |
-| IssuesEvent | 28 |
-| PullRequestReviewCommentEvent | 24 |
-| CreateEvent | 10 |
-| ForkEvent | 4 |
+| PushEvent | 89 |
+| IssueCommentEvent | 51 |
+| PullRequestReviewEvent | 39 |
+| PullRequestEvent | 38 |
+| IssuesEvent | 26 |
+| PullRequestReviewCommentEvent | 19 |
+| CreateEvent | 9 |
+| ForkEvent | 2 |
 | DeleteEvent | 1 |
 | WatchEvent | 1 |
 
@@ -70,15 +71,15 @@ Repository access granted through those teams (9 repos):
 | Organization | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`openwallet-foundation`](https://github.com/openwallet-foundation) | 177 | 17 | 25 | 65 |
-| [`hyperledger`](https://github.com/hyperledger) | 133 | 19 | 20 | 25 |
+| [`hyperledger`](https://github.com/hyperledger) | 98 | 10 | 14 | 24 |
 
 ## Repositories
 
 | Repository | Events | PRs opened | Reviews | Pushes |
 | --- | --: | --: | --: | --: |
 | [`openwallet-foundation/acapy-vc-authn-oidc`](https://github.com/openwallet-foundation/acapy-vc-authn-oidc) | 159 | 14 | 22 | 65 |
-| [`hyperledger/aries-endorser-service`](https://github.com/hyperledger/aries-endorser-service) | 95 | 12 | 15 | 25 |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 31 | 6 | 4 | 0 |
+| [`hyperledger/aries-endorser-service`](https://github.com/hyperledger/aries-endorser-service) | 79 | 8 | 12 | 24 |
+| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 12 | 1 | 1 | 0 |
 | [`openwallet-foundation/helm-charts`](https://github.com/openwallet-foundation/helm-charts) | 9 | 2 | 1 | 0 |
 | [`hyperledger/anoncreds-rs`](https://github.com/hyperledger/anoncreds-rs) | 7 | 1 | 1 | 0 |
 | [`openwallet-foundation/acapy-endorser-service`](https://github.com/openwallet-foundation/acapy-endorser-service) | 6 | 1 | 2 | 0 |
@@ -93,8 +94,8 @@ Months as rows, event types as columns. One file per repository in [`Gavinok_rol
 | Repository | Events | Rollup |
 | --- | --: | --- |
 | [`openwallet-foundation/acapy-vc-authn-oidc`](https://github.com/openwallet-foundation/acapy-vc-authn-oidc) | 159 | [openwallet-foundation_acapy-vc-authn-oidc.md](Gavinok_rollup/openwallet-foundation_acapy-vc-authn-oidc.md) |
-| [`hyperledger/aries-endorser-service`](https://github.com/hyperledger/aries-endorser-service) | 95 | [hyperledger_aries-endorser-service.md](Gavinok_rollup/hyperledger_aries-endorser-service.md) |
-| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 31 | [hyperledger_aries-cloudagent-python.md](Gavinok_rollup/hyperledger_aries-cloudagent-python.md) |
+| [`hyperledger/aries-endorser-service`](https://github.com/hyperledger/aries-endorser-service) | 79 | [hyperledger_aries-endorser-service.md](Gavinok_rollup/hyperledger_aries-endorser-service.md) |
+| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 12 | [hyperledger_aries-cloudagent-python.md](Gavinok_rollup/hyperledger_aries-cloudagent-python.md) |
 | [`openwallet-foundation/helm-charts`](https://github.com/openwallet-foundation/helm-charts) | 9 | [openwallet-foundation_helm-charts.md](Gavinok_rollup/openwallet-foundation_helm-charts.md) |
 | [`hyperledger/anoncreds-rs`](https://github.com/hyperledger/anoncreds-rs) | 7 | [hyperledger_anoncreds-rs.md](Gavinok_rollup/hyperledger_anoncreds-rs.md) |
 | [`openwallet-foundation/acapy-endorser-service`](https://github.com/openwallet-foundation/acapy-endorser-service) | 6 | [openwallet-foundation_acapy-endorser-service.md](Gavinok_rollup/openwallet-foundation_acapy-endorser-service.md) |

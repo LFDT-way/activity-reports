@@ -1,6 +1,8 @@
 # GitHub activity report — `auer-martin`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **296** events spanning **2024-02-14 → 2025-04-16**, across **3** organizations and **9** repositories.
 
@@ -12,11 +14,12 @@ Member of **1** team(s):
 | --- | --- |
 | `credo-maintainers` | member |
 
-Repository access granted through those teams (6 repos):
+Repository access granted through those teams (7 repos):
 
 | Repository | Access | Granted by |
 | --- | --- | --- |
 | `credo-ts` | maintain | `credo-maintainers` (maintain) |
+| `credo-ts-didcomm-ext` | maintain | `credo-maintainers` (maintain) |
 | `credo-ts-docs` | maintain | `credo-maintainers` (maintain) |
 | `credo-ts-ext` | maintain | `credo-maintainers` (maintain) |
 | `didcomm-mediator-credo` | maintain | `credo-maintainers` (maintain) |

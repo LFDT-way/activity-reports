@@ -1,6 +1,8 @@
 # GitHub activity report — `cheese-cakee`
 
-Date range searched: **2015-01-01 → 2026-05-28**.
+_Limited to years 2024–2026._
+
+Date range searched: **2024-01-01 → 2026-05-28**.
 
 Compiled from **63** events spanning **2025-10-30 → 2026-05-24**, across **1** organizations and **3** repositories.
 
