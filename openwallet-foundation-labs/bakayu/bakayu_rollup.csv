@@ -1,0 +1,10 @@
+repo,month,PullRequestEvent,ForkEvent,PushEvent,WatchEvent,CreateEvent,IssueCommentEvent,IssuesEvent,MemberEvent,total
+openwallet-foundation-labs/tmcp-credentials,2025-07,0,0,0,1,0,0,0,1,2
+openwallet-foundation-labs/tmcp-credentials,2025-09,2,0,3,0,1,0,0,0,6
+openwallet-foundation-labs/tmcp-credentials,2025-12,0,0,1,0,0,0,0,0,1
+openwallet-foundation-labs/tsp,2025-05,0,1,0,1,0,0,0,0,2
+openwallet-foundation-labs/tsp,2025-07,1,0,0,0,0,0,1,0,2
+trustoverip/tswg-tsp-specification,2025-05,1,1,0,0,0,1,0,0,3
+openwallet-foundation-labs/mcp-over-tsp-python,2025-07,0,1,0,0,0,0,0,0,1
+openwallet-foundation-labs/mcp-over-tsp-python,2025-09,1,0,0,0,0,0,0,0,1
+openwallet-foundation-labs/sd-jwt-python,2025-09,0,1,0,0,0,0,0,0,1

@@ -1,0 +1,4 @@
+repo,month,ForkEvent,IssuesEvent,PullRequestReviewEvent,total
+hyperledger/aries-cloudagent-python,2024-02,0,1,0,1
+hyperledger/indy-sdk,2023-03,1,0,0,1
+openwallet-foundation/vcx,2025-07,0,0,1,1

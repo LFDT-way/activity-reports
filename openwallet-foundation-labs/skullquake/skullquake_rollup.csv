@@ -1,0 +1,5 @@
+repo,month,PullRequestEvent,IssuesEvent,PushEvent,total
+openwallet-foundation-labs/fwos-demo-app,2023-08,8,0,1,9
+openwallet-foundation-labs/fwos-demo-app,2023-09,2,0,0,2
+openwallet-foundation-labs/fwos-native-template,2023-12,2,0,0,2
+hyperledger/aries-javascript-docs,2023-04,0,1,0,1

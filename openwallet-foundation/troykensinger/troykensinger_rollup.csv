@@ -1,0 +1,17 @@
+repo,month,IssuesEvent,PullRequestEvent,PushEvent,ForkEvent,PullRequestReviewEvent,IssueCommentEvent,CreateEvent,PullRequestReviewCommentEvent,total
+openwallet-foundation-labs/identity-credential,2024-11,0,14,0,8,0,0,0,0,22
+openwallet-foundation-labs/identity-credential,2025-01,0,1,0,0,0,0,0,0,1
+openwallet-foundation-labs/identity-credential,2025-06,38,0,1,0,2,1,1,0,43
+openwallet-foundation-labs/identity-credential,2025-07,15,0,0,0,0,0,0,0,15
+openwallet-foundation-labs/identity-credential,2025-08,1,0,0,0,1,0,0,0,2
+openwallet-foundation/multipaz,2025-09,8,0,2,0,3,1,0,1,15
+openwallet-foundation/multipaz,2025-10,3,1,6,0,0,0,1,0,11
+openwallet-foundation/multipaz,2025-11,0,0,2,0,1,0,0,0,3
+openwallet-foundation-labs/governance,2025-06,0,6,0,0,0,0,0,0,6
+openwallet-foundation-labs/governance,2025-08,0,0,0,0,0,1,0,0,1
+openwallet-foundation/governance,2025-09,0,1,0,1,0,0,0,0,2
+openwallet-foundation/governance,2025-10,0,1,0,0,0,0,0,0,1
+openwallet-foundation/governance,2025-12,0,1,0,0,0,0,0,0,1
+openwallet-foundation/project-proposals,2025-08,0,3,0,1,0,0,0,0,4
+openwallet-foundation/multipaz-identity-reader,2025-09,0,1,0,0,1,0,0,0,2
+openwallet-foundation/multipaz-samples,2025-11,0,0,1,0,0,0,0,0,1

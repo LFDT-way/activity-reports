@@ -1,0 +1,15 @@
+repo,month,IssueCommentEvent,IssuesEvent,PullRequestEvent,PullRequestReviewCommentEvent,PullRequestReviewEvent,ForkEvent,WatchEvent,total
+open-quantum-safe/oqs-provider,2023-07,2,1,0,0,0,0,0,3
+open-quantum-safe/oqs-provider,2024-04,19,0,1,2,2,1,0,25
+open-quantum-safe/oqs-provider,2024-05,6,0,2,0,0,0,0,8
+open-quantum-safe/oqs-provider,2024-08,1,0,0,0,0,0,0,1
+open-quantum-safe/oqs-provider,2024-10,1,0,0,2,2,0,0,5
+open-quantum-safe/liboqs,2023-01,7,2,0,0,0,1,0,10
+open-quantum-safe/liboqs,2023-05,0,1,0,0,0,0,0,1
+open-quantum-safe/liboqs,2023-10,0,0,1,0,0,0,0,1
+open-quantum-safe/liboqs,2024-09,0,1,1,0,0,0,0,2
+open-quantum-safe/liboqs,2024-12,3,1,1,0,0,0,0,5
+open-quantum-safe/liboqs,2025-07,1,0,0,0,0,0,0,1
+open-quantum-safe/liboqs,2025-09,2,0,0,0,0,0,0,2
+open-quantum-safe/liboqs-python,2023-11,0,0,0,0,0,0,1,1
+open-quantum-safe/liboqs-python,2025-01,0,1,1,0,0,1,0,3

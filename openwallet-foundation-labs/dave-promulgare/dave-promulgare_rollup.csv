@@ -1,0 +1,15 @@
+repo,month,PullRequestEvent,PushEvent,ForkEvent,IssuesEvent,IssueCommentEvent,total
+hyperledger-labs/mosaique-decentralized-workflows,2022-12,10,7,0,1,1,19
+hyperledger-labs/mosaique-decentralized-workflows,2023-08,3,2,0,0,0,5
+trustoverip/TSS0012-layer2-interop-spec,2020-12,1,0,1,0,0,2
+trustoverip/TSS0012-layer2-interop-spec,2021-01,1,2,0,0,0,3
+hyperledger-labs/hyperledger-labs.github.io,2022-08,1,0,1,0,0,2
+trustoverip/TSS0013-layer3-interop-spec,2020-12,0,0,1,0,0,1
+trustoverip/TSS0013-layer3-interop-spec,2021-01,1,0,0,0,0,1
+hyperledger-labs/business-partner-agent,2022-08,0,0,1,0,0,1
+hyperledger/aries-cloudagent-python,2021-01,0,0,1,0,0,1
+hyperledger/aries-framework-javascript,2021-07,0,0,1,0,0,1
+hyperledger/besu,2023-05,0,0,1,0,0,1
+openwallet-foundation/acapy,2025-12,0,0,0,1,0,1
+trustoverip/TSS0002-technology-stack,2021-01,0,0,1,0,0,1
+trustoverip/utility-foundry-wg,2021-01,1,0,0,0,0,1

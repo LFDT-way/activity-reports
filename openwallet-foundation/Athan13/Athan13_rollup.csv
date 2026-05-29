@@ -1,0 +1,4 @@
+repo,month,PushEvent,PullRequestEvent,IssueCommentEvent,CreateEvent,DeleteEvent,ForkEvent,total
+openwallet-foundation/acapy-minimal-example,2025-08,6,1,2,1,1,0,11
+openwallet-foundation/acapy-plugins,2025-02,0,3,0,0,0,0,3
+openwallet-foundation/project-proposals,2025-07,0,0,1,0,0,1,2

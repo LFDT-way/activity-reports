@@ -1,0 +1,14 @@
+repo,month,PullRequestReviewCommentEvent,PullRequestReviewEvent,PullRequestEvent,PushEvent,IssueCommentEvent,IssuesEvent,CreateEvent,DeleteEvent,ForkEvent,total
+openwallet-foundation-labs/identity-credential,2024-05,0,0,2,0,1,2,0,0,1,6
+openwallet-foundation-labs/identity-credential,2024-06,9,9,1,0,2,1,0,0,0,22
+openwallet-foundation-labs/identity-credential,2024-07,0,0,3,0,3,2,0,0,0,8
+openwallet-foundation-labs/identity-credential,2024-08,10,9,8,0,3,1,0,0,0,31
+openwallet-foundation-labs/identity-credential,2024-09,11,6,6,2,1,0,0,0,0,26
+openwallet-foundation-labs/identity-credential,2024-10,37,16,6,1,2,2,0,0,0,64
+openwallet-foundation-labs/identity-credential,2024-11,55,37,33,28,2,0,0,0,0,155
+openwallet-foundation-labs/identity-credential,2024-12,7,9,3,3,2,0,0,0,0,24
+openwallet-foundation-labs/identity-credential,2025-01,64,35,0,1,7,3,0,0,0,110
+openwallet-foundation-labs/identity-credential,2025-02,44,27,8,3,4,0,3,1,0,90
+openwallet-foundation-labs/identity-credential,2025-03,37,42,15,7,7,0,0,0,0,108
+openwallet-foundation-labs/identity-credential,2025-04,14,12,6,2,1,0,0,0,0,35
+openwallet-foundation-labs/identity-credential,2025-05,12,13,3,3,1,0,0,0,0,32

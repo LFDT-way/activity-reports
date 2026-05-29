@@ -1,0 +1,6 @@
+repo,month,ForkEvent,PushEvent,CreateEvent,DeleteEvent,PullRequestEvent,WatchEvent,total
+openwallet-foundation-labs/sd-jwt-vc-dm,2025-03,1,4,2,2,0,0,9
+openwallet-foundation-labs/credhub,2024-08,1,0,0,0,1,0,2
+openwallet-foundation/digital-wallet-and-agent-overviews-sig,2024-10,1,0,0,0,0,0,1
+openwallet-foundation/digital-wallet-and-agent-overviews-sig,2024-11,0,0,0,0,0,1,1
+openwallet-foundation/safe-wallet-sig,2024-10,1,0,0,0,0,0,1

@@ -1,0 +1,8 @@
+repo,month,PushEvent,PullRequestEvent,CreateEvent,DeleteEvent,IssuesEvent,IssueCommentEvent,ForkEvent,total
+openwallet-foundation-labs/ehr-wallet,2025-08,4,4,1,0,3,0,0,12
+openwallet-foundation-labs/ehr-wallet,2025-11,7,4,0,0,2,2,0,15
+openwallet-foundation-labs/ehr-wallet,2025-12,1,0,0,0,0,0,0,1
+openwallet-foundation-labs/ehr-wallet,2026-02,6,2,1,0,0,0,0,9
+openwallet-foundation-labs/ehr-wallet,2026-03,19,3,2,3,0,0,0,27
+openwallet-foundation-labs/ehr-wallet,2026-04,7,6,1,2,0,2,0,18
+openwallet-foundation/project-proposals,2025-06,0,1,0,0,0,0,1,2

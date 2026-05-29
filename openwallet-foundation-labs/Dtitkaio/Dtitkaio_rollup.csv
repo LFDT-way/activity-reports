@@ -1,0 +1,5 @@
+repo,month,IssuesEvent,PullRequestEvent,PullRequestReviewEvent,PushEvent,IssueCommentEvent,PullRequestReviewCommentEvent,WatchEvent,CreateEvent,ForkEvent,total
+openwallet-foundation-labs/sd-jwt-vc-dm,2025-02,3,4,6,2,2,0,1,0,1,19
+openwallet-foundation-labs/sd-jwt-vc-dm,2025-03,20,16,5,8,6,2,1,1,0,59
+openwallet-foundation-labs/sd-jwt-vc-dm,2025-04,1,2,1,2,2,0,1,0,0,9
+openwallet-foundation-labs/sd-jwt-vc-dm,2025-07,0,0,2,0,0,3,0,0,0,5

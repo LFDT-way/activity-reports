@@ -1,0 +1,6 @@
+repo,month,PushEvent,PullRequestReviewEvent,PullRequestEvent,PullRequestReviewCommentEvent,IssueCommentEvent,CreateEvent,ForkEvent,total
+openwallet-foundation-labs/identity-credential,2024-10,0,0,0,0,0,0,1,1
+openwallet-foundation-labs/identity-credential,2025-04,15,5,4,5,1,1,0,31
+openwallet-foundation-labs/identity-credential,2025-05,1,0,2,0,1,2,0,6
+openwallet-foundation-labs/identity-credential,2025-06,1,0,1,0,2,0,0,4
+openwallet-foundation-labs/identity-credential,2025-07,5,4,0,2,1,0,0,12

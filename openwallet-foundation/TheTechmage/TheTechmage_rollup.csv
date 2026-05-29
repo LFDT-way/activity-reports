@@ -1,0 +1,11 @@
+repo,month,PullRequestEvent,IssueCommentEvent,ForkEvent,PushEvent,total
+openwallet-foundation/acapy-plugins,2024-10,2,1,0,0,3
+openwallet-foundation/acapy-plugins,2024-11,1,0,0,0,1
+openwallet-foundation/acapy-plugins,2025-04,1,1,0,0,2
+openwallet-foundation/acapy-plugins,2026-01,1,0,1,0,2
+openwallet-foundation/acapy,2024-11,1,1,0,0,2
+openwallet-foundation/acapy,2025-06,1,0,0,0,1
+openwallet-foundation/acapy,2025-08,1,1,0,0,2
+hyperledger/aries-cloudagent-python,2024-07,1,2,0,0,3
+openwallet-foundation/credo-ts,2025-02,0,1,0,0,1
+openwallet-foundation/didcomm-mediator-socketdock,2025-08,0,0,0,1,1

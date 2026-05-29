@@ -1,0 +1,12 @@
+repo,month,IssuesEvent,ForkEvent,PullRequestEvent,PullRequestReviewCommentEvent,PullRequestReviewEvent,IssueCommentEvent,WatchEvent,total
+openwallet-foundation/tac,2024-03,1,0,0,0,0,0,0,1
+openwallet-foundation/tac,2024-04,1,0,0,0,0,0,0,1
+openwallet-foundation/tac,2024-07,0,1,1,0,0,0,0,2
+openwallet-foundation/tac,2025-11,2,0,0,0,0,0,0,2
+openwallet-foundation/project-proposals,2024-10,0,0,0,1,1,0,0,2
+openwallet-foundation/project-proposals,2025-02,0,0,0,1,1,0,0,2
+openwallet-foundation/project-proposals,2026-02,0,0,0,0,0,1,0,1
+openwallet-foundation-labs/governance,2024-06,0,1,1,0,0,0,0,2
+openwallet-foundation/digital-wallet-and-agent-overviews-sig,2024-02,0,1,1,0,0,0,0,2
+hyperledger/anoncreds-v2-rs,2024-01,0,0,0,0,0,0,1,1
+openwallet-foundation-labs/sd-jwt-js,2024-03,1,0,0,0,0,0,0,1

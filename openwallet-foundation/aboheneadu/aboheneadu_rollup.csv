@@ -1,0 +1,6 @@
+repo,month,PushEvent,PullRequestReviewEvent,CreateEvent,PullRequestEvent,DeleteEvent,IssueCommentEvent,IssuesEvent,PullRequestReviewCommentEvent,total
+openwallet-foundation/multipaz,2025-11,6,0,1,0,1,0,0,0,8
+openwallet-foundation/multipaz,2025-12,7,3,0,0,0,0,0,1,11
+openwallet-foundation/multipaz,2026-01,1,0,1,1,0,1,1,0,5
+openwallet-foundation/multipaz-samples,2025-12,4,0,1,1,0,0,0,0,6
+openwallet-foundation/multipaz-samples,2026-01,0,1,0,0,0,0,0,0,1

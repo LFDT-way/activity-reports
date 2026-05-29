@@ -1,0 +1,5 @@
+repo,month,IssueCommentEvent,ForkEvent,PullRequestEvent,PullRequestReviewCommentEvent,PullRequestReviewEvent,WatchEvent,total
+openwallet-foundation/project-proposals,2023-12,0,1,0,0,0,0,1
+openwallet-foundation/project-proposals,2024-01,3,0,1,1,1,0,6
+openwallet-foundation/tac,2024-02,2,0,0,0,0,0,2
+openwallet-foundation-labs/multiformat-vc-ios,2025-08,0,0,0,0,0,1,1

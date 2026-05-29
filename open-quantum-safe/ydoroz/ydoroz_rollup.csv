@@ -1,0 +1,6 @@
+repo,month,IssueCommentEvent,PullRequestEvent,ForkEvent,PullRequestReviewEvent,total
+PQCA/TAC,2024-06,0,2,1,0,3
+PQCA/TAC,2024-12,1,0,0,1,2
+open-quantum-safe/tsc,2025-03,3,0,0,1,4
+pq-code-package/tsc,2024-06,0,3,1,0,4
+open-quantum-safe/liboqs,2024-07,1,0,0,0,1
