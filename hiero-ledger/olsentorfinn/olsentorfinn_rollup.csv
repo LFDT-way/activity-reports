@@ -1,0 +1,8 @@
+repo,month,IssuesEvent,PullRequestReviewEvent,PullRequestEvent,PullRequestReviewCommentEvent,IssueCommentEvent,ForkEvent,WatchEvent,total
+hiero-ledger/solo,2025-12,3,0,1,0,0,1,0,5
+hiero-ledger/solo,2026-01,14,2,1,2,1,0,0,20
+hiero-ledger/solo,2026-02,29,3,0,1,1,0,0,34
+hiero-ledger/hiero-local-node,2026-02,2,0,0,0,0,0,0,2
+hiero-ledger/governance,2025-11,0,0,1,0,0,0,0,1
+hiero-ledger/hiero-sdk-tck,2024-10,0,0,0,0,0,0,1,1
+hiero-ledger/solo-docs,2026-05,1,0,0,0,0,0,0,1

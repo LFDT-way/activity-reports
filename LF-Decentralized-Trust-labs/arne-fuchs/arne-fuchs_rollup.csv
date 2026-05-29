@@ -1,0 +1,15 @@
+repo,month,PushEvent,IssuesEvent,PullRequestEvent,PullRequestReviewCommentEvent,PullRequestReviewEvent,IssueCommentEvent,ForkEvent,WatchEvent,total
+LF-Decentralized-Trust-labs/fabric-sdk-rust,2025-04,1,0,0,0,0,0,0,0,1
+LF-Decentralized-Trust-labs/fabric-sdk-rust,2025-05,3,0,0,0,0,0,0,0,3
+LF-Decentralized-Trust-labs/fabric-sdk-rust,2025-09,3,0,1,0,0,0,0,0,4
+LF-Decentralized-Trust-labs/fabric-sdk-rust,2025-10,5,0,3,0,0,0,0,0,8
+LF-Decentralized-Trust-labs/fabric-sdk-rust,2026-01,11,9,0,0,0,0,0,0,20
+LF-Decentralized-Trust-labs/fabric-sdk-rust,2026-02,11,1,1,0,0,1,0,0,14
+LF-Decentralized-Trust-labs/fabric-sdk-rust,2026-03,2,0,0,0,0,0,0,0,2
+LF-Decentralized-Trust-labs/fabric-sdk-rust,2026-04,13,0,0,0,0,0,0,0,13
+LF-Decentralized-Trust-labs/fabric-sdk-rust,2026-05,4,0,0,0,0,0,0,0,4
+LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io,2025-02,0,0,1,0,0,0,1,0,2
+LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io,2025-03,0,0,0,5,5,0,0,0,10
+LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io,2025-04,0,0,0,0,0,2,0,0,2
+hyperledger/fabric-protos,2025-04,0,1,0,0,0,1,0,0,2
+hyperledger/fabric-gateway,2026-02,0,0,0,0,0,0,0,1,1

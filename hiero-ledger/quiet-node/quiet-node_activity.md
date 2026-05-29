@@ -1,0 +1,103 @@
+# GitHub activity report — `quiet-node`
+
+Date range searched: **2015-01-01 → 2026-05-28**.
+
+Compiled from **2,588** events spanning **2025-03-21 → 2026-05-27**, across **1** organizations and **9** repositories.
+
+## Teams & repository access
+
+Member of **6** team(s):
+
+| Team | Role in team |
+| --- | --- |
+| `governance-write` | member |
+| `hiero-contracts-maintainers` | member |
+| `hiero-ethereum-execution-spec-tests-maintainers` | member |
+| `hiero-json-rpc-relay-committers` | member |
+| `hiero-json-rpc-relay-maintainers` | member |
+| `roadmap-viewers` | member |
+
+Repository access granted through those teams (5 repos):
+
+| Repository | Access | Granted by |
+| --- | --- | --- |
+| `hiero-contracts` | maintain | `hiero-contracts-maintainers` (maintain) |
+| `hiero-ethereum-execution-spec-tests` | maintain | `hiero-ethereum-execution-spec-tests-maintainers` (maintain) |
+| `hiero-json-rpc-relay` | maintain | `hiero-json-rpc-relay-maintainers` (maintain), `hiero-json-rpc-relay-committers` (write) |
+| `governance` | write | `governance-write` (write) |
+| `roadmap` | read | `roadmap-viewers` (read) |
+
+
+## Overview
+
+| Metric | Value |
+| --- | --: |
+| Total events | 2,588 |
+| Pull requests opened | 63 |
+| Pull request reviews | 657 |
+| Issues opened | 73 |
+| Pushes | 738 |
+| Commits pushed | 1,261 |
+| Comments | 579 |
+| Releases | 0 |
+
+## Activity by year
+
+| Year | Events |
+| --- | --: |
+| 2025 | 2,191 |
+| 2026 | 397 |
+
+## Event types
+
+| Type | Count |
+| --- | --: |
+| PushEvent | 738 |
+| PullRequestReviewEvent | 657 |
+| PullRequestReviewCommentEvent | 459 |
+| PullRequestEvent | 209 |
+| IssuesEvent | 179 |
+| DeleteEvent | 128 |
+| IssueCommentEvent | 120 |
+| CreateEvent | 97 |
+| ForkEvent | 1 |
+
+## Organizations
+
+| Organization | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`hiero-ledger`](https://github.com/hiero-ledger) | 2,588 | 63 | 657 | 738 |
+
+## Repositories
+
+| Repository | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`hiero-ledger/hiero-json-rpc-relay`](https://github.com/hiero-ledger/hiero-json-rpc-relay) | 2,554 | 56 | 654 | 738 |
+| [`hiero-ledger/hiero-contracts`](https://github.com/hiero-ledger/hiero-contracts) | 8 | 0 | 3 | 0 |
+| [`hiero-ledger/hiero-mirror-node`](https://github.com/hiero-ledger/hiero-mirror-node) | 7 | 0 | 0 | 0 |
+| [`hiero-ledger/hiero-local-node`](https://github.com/hiero-ledger/hiero-local-node) | 5 | 0 | 0 | 0 |
+| [`hiero-ledger/hiero-mirror-node-explorer`](https://github.com/hiero-ledger/hiero-mirror-node-explorer) | 5 | 2 | 0 | 0 |
+| [`hiero-ledger/hiero-consensus-node`](https://github.com/hiero-ledger/hiero-consensus-node) | 4 | 4 | 0 | 0 |
+| [`hiero-ledger/hiero-sdk-js`](https://github.com/hiero-ledger/hiero-sdk-js) | 2 | 0 | 0 | 0 |
+| [`hiero-ledger/solo`](https://github.com/hiero-ledger/solo) | 2 | 1 | 0 | 0 |
+| [`hiero-ledger/hiero-improvement-proposals`](https://github.com/hiero-ledger/hiero-improvement-proposals) | 1 | 0 | 0 | 0 |
+
+## Monthly rollup — one table per repository
+
+Months as rows, event types as columns. One file per repository in [`quiet-node_rollup/`](quiet-node_rollup/):
+
+| Repository | Events | Rollup |
+| --- | --: | --- |
+| [`hiero-ledger/hiero-json-rpc-relay`](https://github.com/hiero-ledger/hiero-json-rpc-relay) | 2,554 | [hiero-ledger_hiero-json-rpc-relay.md](quiet-node_rollup/hiero-ledger_hiero-json-rpc-relay.md) |
+| [`hiero-ledger/hiero-contracts`](https://github.com/hiero-ledger/hiero-contracts) | 8 | [hiero-ledger_hiero-contracts.md](quiet-node_rollup/hiero-ledger_hiero-contracts.md) |
+| [`hiero-ledger/hiero-mirror-node`](https://github.com/hiero-ledger/hiero-mirror-node) | 7 | [hiero-ledger_hiero-mirror-node.md](quiet-node_rollup/hiero-ledger_hiero-mirror-node.md) |
+| [`hiero-ledger/hiero-local-node`](https://github.com/hiero-ledger/hiero-local-node) | 5 | [hiero-ledger_hiero-local-node.md](quiet-node_rollup/hiero-ledger_hiero-local-node.md) |
+| [`hiero-ledger/hiero-mirror-node-explorer`](https://github.com/hiero-ledger/hiero-mirror-node-explorer) | 5 | [hiero-ledger_hiero-mirror-node-explorer.md](quiet-node_rollup/hiero-ledger_hiero-mirror-node-explorer.md) |
+| [`hiero-ledger/hiero-consensus-node`](https://github.com/hiero-ledger/hiero-consensus-node) | 4 | [hiero-ledger_hiero-consensus-node.md](quiet-node_rollup/hiero-ledger_hiero-consensus-node.md) |
+| [`hiero-ledger/hiero-sdk-js`](https://github.com/hiero-ledger/hiero-sdk-js) | 2 | [hiero-ledger_hiero-sdk-js.md](quiet-node_rollup/hiero-ledger_hiero-sdk-js.md) |
+| [`hiero-ledger/solo`](https://github.com/hiero-ledger/solo) | 2 | [hiero-ledger_solo.md](quiet-node_rollup/hiero-ledger_solo.md) |
+| [`hiero-ledger/hiero-improvement-proposals`](https://github.com/hiero-ledger/hiero-improvement-proposals) | 1 | [hiero-ledger_hiero-improvement-proposals.md](quiet-node_rollup/hiero-ledger_hiero-improvement-proposals.md) |
+
+---
+
+<sub>Generated by `gh-report` from `gh-activity` archive data.</sub>

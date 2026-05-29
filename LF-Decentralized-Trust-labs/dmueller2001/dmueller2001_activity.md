@@ -1,0 +1,121 @@
+# GitHub activity report — `dmueller2001`
+
+Date range searched: **2015-01-01 → 2026-05-28**.
+
+Compiled from **209** events spanning **2024-10-15 → 2026-02-17**, across **5** organizations and **10** repositories.
+
+## Teams & repository access
+
+Member of **1** team(s):
+
+| Team | Role in team |
+| --- | --- |
+| `lab-stewards` | member |
+
+Repository access granted through those teams (21 repos):
+
+| Repository | Access | Granted by |
+| --- | --- | --- |
+| `HOPrS` | maintain | `lab-stewards` (maintain) |
+| `LF-Decentralized-Trust-labs.github.io` | maintain | `lab-stewards` (maintain) |
+| `Naryo` | maintain | `lab-stewards` (maintain) |
+| `chaindeploy` | maintain | `lab-stewards` (maintain) |
+| `decentralized-directory-protocol` | maintain | `lab-stewards` (maintain) |
+| `fabino-test` | maintain | `lab-stewards` (maintain) |
+| `fabric-chaincode-rust` | maintain | `lab-stewards` (maintain) |
+| `fabric-sdk-rust` | maintain | `lab-stewards` (maintain) |
+| `fabric-x-ansible-collection` | maintain | `lab-stewards` (maintain) |
+| `flavum` | maintain | `lab-stewards` (maintain) |
+| `gitmesh` | maintain | `lab-stewards` (maintain) |
+| `governance` | maintain | `lab-stewards` (maintain) |
+| `hypernate` | maintain | `lab-stewards` (maintain) |
+| `hypernate-samples` | maintain | `lab-stewards` (maintain) |
+| `identity-bot` | maintain | `lab-stewards` (maintain) |
+| `onboard-diagnostics` | maintain | `lab-stewards` (maintain) |
+| `one-attestation-api` | maintain | `lab-stewards` (maintain) |
+| `opendecentra-nextg` | maintain | `lab-stewards` (maintain) |
+| `os-frontiers` | maintain | `lab-stewards` (maintain) |
+| `proof-of-process` | maintain | `lab-stewards` (maintain) |
+| `rethv` | maintain | `lab-stewards` (maintain) |
+
+
+## Overview
+
+| Metric | Value |
+| --- | --: |
+| Total events | 209 |
+| Pull requests opened | 37 |
+| Pull request reviews | 22 |
+| Issues opened | 5 |
+| Pushes | 58 |
+| Commits pushed | 70 |
+| Comments | 9 |
+| Releases | 0 |
+
+## Activity by year
+
+| Year | Events |
+| --- | --: |
+| 2024 | 1 |
+| 2025 | 206 |
+| 2026 | 2 |
+
+## Event types
+
+| Type | Count |
+| --- | --: |
+| PullRequestEvent | 68 |
+| PushEvent | 58 |
+| CreateEvent | 38 |
+| PullRequestReviewEvent | 22 |
+| IssuesEvent | 9 |
+| IssueCommentEvent | 7 |
+| ForkEvent | 4 |
+| PullRequestReviewCommentEvent | 2 |
+| DeleteEvent | 1 |
+
+## Organizations
+
+| Organization | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`LF-Decentralized-Trust-labs`](https://github.com/LF-Decentralized-Trust-labs) | 146 | 32 | 1 | 38 |
+| [`LF-Decentralized-Trust`](https://github.com/LF-Decentralized-Trust) | 42 | 0 | 14 | 20 |
+| [`hiero-ledger`](https://github.com/hiero-ledger) | 18 | 5 | 6 | 0 |
+| [`openwallet-foundation`](https://github.com/openwallet-foundation) | 2 | 0 | 0 | 0 |
+| [`LFDT-Hiero`](https://github.com/LFDT-Hiero) | 1 | 0 | 1 | 0 |
+
+## Repositories
+
+| Repository | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`LF-Decentralized-Trust-labs/contributors-site`](https://github.com/LF-Decentralized-Trust-labs/contributors-site) | 146 | 32 | 1 | 38 |
+| [`LF-Decentralized-Trust/contribute`](https://github.com/LF-Decentralized-Trust/contribute) | 22 | 0 | 0 | 18 |
+| [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) | 20 | 0 | 14 | 2 |
+| [`hiero-ledger/hiero-website`](https://github.com/hiero-ledger/hiero-website) | 6 | 0 | 5 | 0 |
+| [`hiero-ledger/hiero-did-sdk-python`](https://github.com/hiero-ledger/hiero-did-sdk-python) | 5 | 3 | 0 | 0 |
+| [`hiero-ledger/tsc`](https://github.com/hiero-ledger/tsc) | 3 | 0 | 1 | 0 |
+| [`hiero-ledger/governance`](https://github.com/hiero-ledger/governance) | 2 | 1 | 0 | 0 |
+| [`hiero-ledger/hiero`](https://github.com/hiero-ledger/hiero) | 2 | 1 | 0 | 0 |
+| [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 2 | 0 | 0 | 0 |
+| [`LFDT-Hiero/tsc`](https://github.com/LFDT-Hiero/tsc) | 1 | 0 | 1 | 0 |
+
+## Monthly rollup — one table per repository
+
+Months as rows, event types as columns. One file per repository in [`dmueller2001_rollup/`](dmueller2001_rollup/):
+
+| Repository | Events | Rollup |
+| --- | --: | --- |
+| [`LF-Decentralized-Trust-labs/contributors-site`](https://github.com/LF-Decentralized-Trust-labs/contributors-site) | 146 | [LF-Decentralized-Trust-labs_contributors-site.md](dmueller2001_rollup/LF-Decentralized-Trust-labs_contributors-site.md) |
+| [`LF-Decentralized-Trust/contribute`](https://github.com/LF-Decentralized-Trust/contribute) | 22 | [LF-Decentralized-Trust_contribute.md](dmueller2001_rollup/LF-Decentralized-Trust_contribute.md) |
+| [`LF-Decentralized-Trust/governance`](https://github.com/LF-Decentralized-Trust/governance) | 20 | [LF-Decentralized-Trust_governance.md](dmueller2001_rollup/LF-Decentralized-Trust_governance.md) |
+| [`hiero-ledger/hiero-website`](https://github.com/hiero-ledger/hiero-website) | 6 | [hiero-ledger_hiero-website.md](dmueller2001_rollup/hiero-ledger_hiero-website.md) |
+| [`hiero-ledger/hiero-did-sdk-python`](https://github.com/hiero-ledger/hiero-did-sdk-python) | 5 | [hiero-ledger_hiero-did-sdk-python.md](dmueller2001_rollup/hiero-ledger_hiero-did-sdk-python.md) |
+| [`hiero-ledger/tsc`](https://github.com/hiero-ledger/tsc) | 3 | [hiero-ledger_tsc.md](dmueller2001_rollup/hiero-ledger_tsc.md) |
+| [`hiero-ledger/governance`](https://github.com/hiero-ledger/governance) | 2 | [hiero-ledger_governance.md](dmueller2001_rollup/hiero-ledger_governance.md) |
+| [`hiero-ledger/hiero`](https://github.com/hiero-ledger/hiero) | 2 | [hiero-ledger_hiero.md](dmueller2001_rollup/hiero-ledger_hiero.md) |
+| [`openwallet-foundation/tac`](https://github.com/openwallet-foundation/tac) | 2 | [openwallet-foundation_tac.md](dmueller2001_rollup/openwallet-foundation_tac.md) |
+| [`LFDT-Hiero/tsc`](https://github.com/LFDT-Hiero/tsc) | 1 | [LFDT-Hiero_tsc.md](dmueller2001_rollup/LFDT-Hiero_tsc.md) |
+
+---
+
+<sub>Generated by `gh-report` from `gh-activity` archive data.</sub>

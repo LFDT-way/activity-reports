@@ -1,0 +1,3 @@
+repo,month,IssuesEvent,IssueCommentEvent,PullRequestReviewEvent,WatchEvent,total
+hiero-ledger/hiero-mirror-node,2025-09,2,1,0,1,4
+hiero-ledger/hiero-block-node,2025-09,0,0,1,0,1

@@ -1,0 +1,13 @@
+repo,month,PullRequestReviewEvent,PushEvent,CreateEvent,PullRequestEvent,IssueCommentEvent,IssuesEvent,PullRequestReviewCommentEvent,total
+hiero-ledger/tsc,2024-11,4,0,0,0,1,0,1,6
+hiero-ledger/tsc,2024-12,2,1,0,0,1,0,0,4
+hiero-ledger/tsc,2025-03,3,0,0,0,0,0,0,3
+hiero-ledger/tsc,2025-04,1,0,0,0,0,0,0,1
+hiero-ledger/tsc,2025-05,4,0,0,0,0,0,0,4
+hiero-ledger/tsc,2025-06,1,0,0,0,2,1,0,4
+hiero-ledger/hiero-sdk-tck,2025-03,0,3,3,2,0,0,0,8
+hiero-ledger/governance,2025-03,1,0,0,0,0,0,0,1
+hiero-ledger/governance,2025-05,0,1,1,1,0,0,0,3
+hiero-ledger/governance,2025-07,0,0,0,1,0,0,0,1
+hiero-ledger/hiero-sdk-js,2025-03,0,1,1,1,0,0,0,3
+hiero-ledger/hiero,2025-03,0,1,0,0,0,0,0,1

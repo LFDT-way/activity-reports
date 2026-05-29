@@ -1,0 +1,6 @@
+repo,month,PullRequestEvent,ForkEvent,total
+hyperledger-labs/fabric-debugger,2024-08,0,1,1
+hyperledger-labs/fabric-debugger,2024-09,1,0,1
+hyperledger-labs/fabric-debugger,2024-12,1,1,2
+hyperledger-labs/fabric-debugger,2025-01,2,0,2
+hyperledger/fabric-chaincode-java,2023-02,0,1,1

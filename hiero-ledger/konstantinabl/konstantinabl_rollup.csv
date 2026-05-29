@@ -1,0 +1,16 @@
+repo,month,PullRequestReviewEvent,PushEvent,PullRequestReviewCommentEvent,IssuesEvent,PullRequestEvent,DeleteEvent,IssueCommentEvent,CreateEvent,total
+hiero-ledger/hiero-json-rpc-relay,2025-03,11,26,8,2,2,1,1,1,52
+hiero-ledger/hiero-json-rpc-relay,2025-04,81,46,79,4,6,4,1,1,222
+hiero-ledger/hiero-json-rpc-relay,2025-05,53,33,47,6,8,5,1,4,157
+hiero-ledger/hiero-json-rpc-relay,2025-06,17,19,8,2,1,2,2,1,52
+hiero-ledger/hiero-json-rpc-relay,2025-07,13,44,11,13,8,5,3,4,101
+hiero-ledger/hiero-json-rpc-relay,2025-08,48,31,7,11,28,19,19,2,165
+hiero-ledger/hiero-json-rpc-relay,2025-09,11,5,2,6,0,0,2,1,27
+hiero-ledger/hiero-json-rpc-relay,2025-10,23,36,27,6,0,5,3,1,101
+hiero-ledger/hiero-json-rpc-relay,2025-11,18,20,16,7,5,5,0,2,73
+hiero-ledger/hiero-json-rpc-relay,2025-12,10,7,4,3,1,0,0,4,29
+hiero-ledger/hiero-json-rpc-relay,2026-01,5,14,5,0,2,5,0,0,31
+hiero-ledger/hiero-json-rpc-relay,2026-02,6,2,5,0,0,0,0,0,13
+hiero-ledger/hiero-local-node,2025-02,3,0,0,0,0,0,1,0,4
+hiero-ledger/hiero-local-node,2025-09,0,0,0,0,0,0,0,1,1
+hiero-ledger/hiero-mirror-node,2025-04,0,0,0,1,0,0,0,0,1

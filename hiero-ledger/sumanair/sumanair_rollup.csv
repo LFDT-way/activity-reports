@@ -1,0 +1,15 @@
+repo,month,ForkEvent,PullRequestEvent,IssueCommentEvent,total
+hyperledger/fabric,2016-05,1,0,0,1
+hyperledger/fabric,2016-06,2,0,0,2
+hyperledger/fabric,2016-09,1,0,0,1
+hyperledger/composer,2017-06,1,0,0,1
+hyperledger/composer,2017-08,1,0,0,1
+hyperledger/composer,2018-06,1,0,0,1
+hiero-ledger/governance,2025-04,1,1,0,2
+hyperledger-archives/fabric,2016-09,0,2,0,2
+hyperledger/composer-sample-applications,2017-08,1,0,0,1
+hyperledger/composer-sample-applications,2018-06,1,0,0,1
+hyperledger-labs/blockchain-automation-framework,2021-09,1,0,0,1
+hyperledger/fabric-samples,2019-04,1,0,0,1
+hyperledger/fabric-sdk-node,2018-12,1,0,0,1
+hyperledger/firefly-cli,2022-10,0,0,1,1

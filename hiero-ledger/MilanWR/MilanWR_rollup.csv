@@ -1,0 +1,17 @@
+repo,month,PullRequestReviewEvent,IssueCommentEvent,PullRequestEvent,WatchEvent,ForkEvent,PushEvent,DeleteEvent,PullRequestReviewCommentEvent,total
+hiero-ledger/tsc,2025-06,7,0,2,1,0,0,0,0,10
+hiero-ledger/tsc,2025-07,3,0,0,0,0,0,0,0,3
+hiero-ledger/tsc,2025-08,1,0,0,0,0,0,0,0,1
+hiero-ledger/tsc,2025-09,1,0,0,0,0,0,0,0,1
+hiero-ledger/tsc,2025-11,1,1,0,0,0,2,0,0,4
+hiero-ledger/tsc,2026-05,0,0,0,0,0,0,1,0,1
+hiero-ledger/governance,2025-04,0,0,1,0,1,0,0,0,2
+hiero-ledger/governance,2025-05,1,0,0,0,0,0,0,0,1
+hiero-ledger/governance,2025-06,6,0,0,0,0,0,0,0,6
+hiero-ledger/governance,2025-07,1,1,0,0,0,0,0,0,2
+hiero-ledger/governance,2025-09,3,0,0,0,0,0,0,0,3
+hiero-ledger/hiero-website,2025-06,0,0,0,1,0,0,0,0,1
+hiero-ledger/hiero-website,2025-07,4,1,0,0,0,0,0,0,5
+hiero-ledger/hiero-mirror-node-explorer,2025-03,0,0,0,1,0,0,0,0,1
+hiero-ledger/hiero-mirror-node-explorer,2025-09,0,1,1,0,1,0,0,0,3
+hiero-ledger/hiero-improvement-proposals,2025-05,2,0,0,0,0,0,0,1,3

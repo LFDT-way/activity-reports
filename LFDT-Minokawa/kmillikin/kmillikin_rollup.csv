@@ -1,0 +1,11 @@
+repo,month,PushEvent,IssuesEvent,DeleteEvent,CreateEvent,PullRequestReviewEvent,PullRequestEvent,IssueCommentEvent,PullRequestReviewCommentEvent,total
+LFDT-Minokawa/compact,2026-01,13,8,6,6,3,5,5,0,46
+LFDT-Minokawa/compact,2026-02,45,29,10,13,14,13,9,7,140
+LFDT-Minokawa/compact,2026-03,27,10,13,9,4,3,6,3,75
+LFDT-Minokawa/compact,2026-04,21,2,9,1,2,2,0,2,39
+LFDT-Minokawa/compact,2026-05,4,3,0,0,0,0,0,0,7
+LF-Decentralized-Trust/project-proposals,2025-07,0,0,0,0,3,0,2,3,8
+LFDT-Minokawa/governance,2025-12,0,0,0,0,1,0,0,0,1
+LFDT-Minokawa/governance,2026-01,1,0,0,1,0,1,0,0,3
+LFDT-Minokawa/governance,2026-02,1,0,1,0,0,1,0,0,3
+LF-Decentralized-Trust/governance,2026-01,0,0,0,0,1,0,0,0,1

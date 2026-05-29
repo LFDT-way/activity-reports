@@ -1,0 +1,6 @@
+repo,month,PushEvent,PullRequestReviewEvent,IssuesEvent,PullRequestEvent,PullRequestReviewCommentEvent,CreateEvent,DeleteEvent,IssueCommentEvent,total
+hiero-ledger/solo,2026-02,10,3,12,4,2,2,0,1,34
+hiero-ledger/solo,2026-03,23,6,2,3,4,2,0,1,41
+hiero-ledger/solo,2026-04,21,11,5,11,6,1,9,0,64
+hiero-ledger/solo,2026-05,22,5,1,0,0,4,0,0,32
+hiero-ledger/governance,2026-02,0,0,0,2,0,0,0,0,2

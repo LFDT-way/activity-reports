@@ -1,0 +1,17 @@
+repo,month,PullRequestReviewEvent,PullRequestReviewCommentEvent,PullRequestEvent,IssueCommentEvent,IssuesEvent,PushEvent,CreateEvent,DeleteEvent,ForkEvent,ReleaseEvent,total
+hyperledger/iroha,2024-04,6,4,9,3,6,2,1,1,1,0,33
+hyperledger/iroha,2024-05,16,6,8,2,7,4,3,0,0,0,46
+hyperledger/iroha,2024-06,39,29,8,6,5,1,0,0,0,0,88
+hyperledger/iroha,2024-07,26,15,11,7,9,3,0,0,0,0,71
+hyperledger/iroha,2024-08,13,9,6,11,0,0,0,0,0,0,39
+hyperledger/iroha,2024-09,6,0,9,13,4,2,0,0,0,0,34
+hyperledger/iroha,2024-10,10,2,9,5,2,2,0,0,0,0,30
+hyperledger-iroha/iroha,2024-10,16,13,3,2,1,1,0,0,0,0,36
+hyperledger-iroha/iroha,2024-11,0,0,0,1,2,0,0,0,0,0,3
+hyperledger-iroha/iroha,2025-02,8,6,5,3,4,1,0,0,0,0,27
+hyperledger-iroha/iroha,2025-03,8,5,15,1,8,9,3,0,0,2,51
+hyperledger-iroha/iroha,2025-04,12,1,1,1,0,0,0,0,0,0,15
+hyperledger-iroha/iroha,2025-05,10,5,3,0,0,1,0,0,0,0,19
+hyperledger-iroha/iroha,2025-06,5,3,1,2,0,1,0,0,0,0,12
+hyperledger-iroha/iroha-2-examples,2024-11,2,2,0,0,0,0,1,2,0,0,7
+hyperledger/iroha-java,2024-10,0,0,0,0,0,0,0,0,1,0,1

@@ -1,0 +1,10 @@
+repo,month,PushEvent,PullRequestReviewEvent,CreateEvent,DeleteEvent,PullRequestEvent,PullRequestReviewCommentEvent,total
+hiero-ledger/hiero-consensus-node,2026-03,12,0,2,1,0,0,15
+hiero-ledger/tsc,2024-10,0,1,0,0,0,0,1
+hiero-ledger/tsc,2024-11,0,1,0,0,0,0,1
+hiero-ledger/tsc,2024-12,0,2,0,0,0,0,2
+hiero-ledger/tsc,2025-01,0,1,0,0,0,0,1
+hiero-ledger/tsc,2025-04,0,3,0,0,0,0,3
+hiero-ledger/tsc,2025-06,0,1,0,0,0,0,1
+LFDT-Hiero/tsc,2024-10,1,1,0,0,1,0,3
+hiero-ledger/hiero-improvement-proposals,2026-03,0,0,0,0,0,1,1

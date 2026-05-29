@@ -1,0 +1,115 @@
+# GitHub activity report — `shitrerohit`
+
+Date range searched: **2015-01-01 → 2026-05-28**.
+
+Compiled from **472** events spanning **2022-04-25 → 2026-03-25**, across **2** organizations and **11** repositories.
+
+## Teams & repository access
+
+Member of **4** team(s):
+
+| Team | Role in team |
+| --- | --- |
+| `dev-team` | member |
+| `platform-admin-team` | member |
+| `tsc` | member |
+| `verifier-app-committers` | maintainer |
+
+Repository access granted through those teams (10 repos):
+
+| Repository | Access | Granted by |
+| --- | --- | --- |
+| `agent-controller` | write | `dev-team` (write) |
+| `credebl-aries-oca-bundles` | write | `dev-team` (write) |
+| `credebl.github.io` | write | `dev-team` (write) |
+| `credo-controller` | write | `dev-team` (write) |
+| `mediator-agent` | write | `dev-team` (write) |
+| `platform` | write | `dev-team` (write) |
+| `platform-admin` | write | `platform-admin-team` (write) |
+| `studio` | write | `dev-team` (write) |
+| `webauthn-server` | write | `dev-team` (write) |
+| `trust-registry` | read | `dev-team` (read) |
+
+
+## Overview
+
+| Metric | Value |
+| --- | --: |
+| Total events | 472 |
+| Pull requests opened | 30 |
+| Pull request reviews | 187 |
+| Issues opened | 9 |
+| Pushes | 112 |
+| Commits pushed | 305 |
+| Comments | 67 |
+| Releases | 0 |
+
+## Activity by year
+
+| Year | Events |
+| --- | --: |
+| 2022 | 1 |
+| 2023 | 3 |
+| 2024 | 92 |
+| 2025 | 294 |
+| 2026 | 82 |
+
+## Event types
+
+| Type | Count |
+| --- | --: |
+| PullRequestReviewEvent | 187 |
+| PushEvent | 112 |
+| PullRequestReviewCommentEvent | 65 |
+| PullRequestEvent | 59 |
+| CreateEvent | 30 |
+| IssuesEvent | 10 |
+| DeleteEvent | 3 |
+| WatchEvent | 3 |
+| IssueCommentEvent | 2 |
+| ForkEvent | 1 |
+
+## Organizations
+
+| Organization | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`credebl`](https://github.com/credebl) | 471 | 30 | 187 | 112 |
+| [`hyperledger`](https://github.com/hyperledger) | 1 | 0 | 0 | 0 |
+
+## Repositories
+
+| Repository | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`credebl/studio`](https://github.com/credebl/studio) | 245 | 14 | 109 | 51 |
+| [`credebl/platform`](https://github.com/credebl/platform) | 171 | 13 | 62 | 41 |
+| [`credebl/credo-controller`](https://github.com/credebl/credo-controller) | 24 | 1 | 7 | 10 |
+| [`credebl/agent-controller`](https://github.com/credebl/agent-controller) | 19 | 1 | 4 | 7 |
+| [`credebl/verifier-app`](https://github.com/credebl/verifier-app) | 5 | 1 | 0 | 3 |
+| [`credebl/afj-controller`](https://github.com/credebl/afj-controller) | 2 | 0 | 1 | 0 |
+| [`credebl/platform-admin`](https://github.com/credebl/platform-admin) | 2 | 0 | 2 | 0 |
+| [`credebl/adeya-wallet`](https://github.com/credebl/adeya-wallet) | 1 | 0 | 0 | 0 |
+| [`credebl/credebl-aries-oca-bundles`](https://github.com/credebl/credebl-aries-oca-bundles) | 1 | 0 | 1 | 0 |
+| [`credebl/docs`](https://github.com/credebl/docs) | 1 | 0 | 1 | 0 |
+| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 1 | 0 | 0 | 0 |
+
+## Monthly rollup — one table per repository
+
+Months as rows, event types as columns. One file per repository in [`shitrerohit_rollup/`](shitrerohit_rollup/):
+
+| Repository | Events | Rollup |
+| --- | --: | --- |
+| [`credebl/studio`](https://github.com/credebl/studio) | 245 | [credebl_studio.md](shitrerohit_rollup/credebl_studio.md) |
+| [`credebl/platform`](https://github.com/credebl/platform) | 171 | [credebl_platform.md](shitrerohit_rollup/credebl_platform.md) |
+| [`credebl/credo-controller`](https://github.com/credebl/credo-controller) | 24 | [credebl_credo-controller.md](shitrerohit_rollup/credebl_credo-controller.md) |
+| [`credebl/agent-controller`](https://github.com/credebl/agent-controller) | 19 | [credebl_agent-controller.md](shitrerohit_rollup/credebl_agent-controller.md) |
+| [`credebl/verifier-app`](https://github.com/credebl/verifier-app) | 5 | [credebl_verifier-app.md](shitrerohit_rollup/credebl_verifier-app.md) |
+| [`credebl/afj-controller`](https://github.com/credebl/afj-controller) | 2 | [credebl_afj-controller.md](shitrerohit_rollup/credebl_afj-controller.md) |
+| [`credebl/platform-admin`](https://github.com/credebl/platform-admin) | 2 | [credebl_platform-admin.md](shitrerohit_rollup/credebl_platform-admin.md) |
+| [`credebl/adeya-wallet`](https://github.com/credebl/adeya-wallet) | 1 | [credebl_adeya-wallet.md](shitrerohit_rollup/credebl_adeya-wallet.md) |
+| [`credebl/credebl-aries-oca-bundles`](https://github.com/credebl/credebl-aries-oca-bundles) | 1 | [credebl_credebl-aries-oca-bundles.md](shitrerohit_rollup/credebl_credebl-aries-oca-bundles.md) |
+| [`credebl/docs`](https://github.com/credebl/docs) | 1 | [credebl_docs.md](shitrerohit_rollup/credebl_docs.md) |
+| [`hyperledger/aries-cloudagent-python`](https://github.com/hyperledger/aries-cloudagent-python) | 1 | [hyperledger_aries-cloudagent-python.md](shitrerohit_rollup/hyperledger_aries-cloudagent-python.md) |
+
+---
+
+<sub>Generated by `gh-report` from `gh-activity` archive data.</sub>

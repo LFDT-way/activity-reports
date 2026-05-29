@@ -1,0 +1,15 @@
+repo,month,GollumEvent,PushEvent,CreateEvent,DeleteEvent,IssueCommentEvent,WatchEvent,total
+trustoverip/yoma,2021-12,39,0,0,0,0,0,39
+trustoverip/yoma,2022-01,2,0,0,0,0,0,2
+trustoverip/yoma,2022-02,44,0,0,0,0,0,44
+trustoverip/hxwg,2022-11,24,0,0,0,0,0,24
+trustoverip/dtgwg-rahp-tf,2026-03,0,0,2,0,0,0,2
+trustoverip/dtgwg-rahp-tf,2026-04,0,5,0,2,0,0,7
+trustoverip/dtgwg-rahp-tf,2026-05,0,0,2,2,0,0,4
+trustoverip/yoma-gf-terms,2021-10,11,0,0,0,0,0,11
+trustoverip/yoma-gf-terms,2021-11,2,0,0,0,0,0,2
+trustoverip/mega,2021-12,8,0,0,0,0,0,8
+trustoverip/toip,2022-01,2,0,0,0,0,0,2
+trustoverip/toip,2022-02,3,0,0,0,0,0,3
+hyperledger/aries-rfcs,2020-09,0,0,0,0,1,0,1
+trustoverip/toip-terms,2021-10,0,0,0,0,0,1,1

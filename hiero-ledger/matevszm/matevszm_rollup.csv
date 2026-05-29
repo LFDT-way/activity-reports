@@ -1,0 +1,8 @@
+repo,month,PushEvent,IssuesEvent,CreateEvent,PullRequestEvent,PullRequestReviewEvent,DeleteEvent,PullRequestReviewCommentEvent,IssueCommentEvent,total
+hiero-ledger/hiero-cli,2025-11,0,6,0,0,0,0,0,0,6
+hiero-ledger/hiero-cli,2025-12,17,20,9,13,12,4,3,2,80
+hiero-ledger/hiero-cli,2026-01,38,8,8,5,10,3,6,0,78
+hiero-ledger/hiero-cli,2026-02,20,39,9,9,4,7,2,0,90
+hiero-ledger/hiero-cli,2026-03,50,12,12,7,5,6,0,0,92
+hiero-ledger/hiero-cli,2026-04,16,4,6,7,1,8,3,0,45
+hiero-ledger/hiero-cli,2026-05,16,3,7,1,3,4,0,0,34

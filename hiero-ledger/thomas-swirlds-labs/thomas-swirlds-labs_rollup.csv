@@ -1,0 +1,7 @@
+repo,month,PushEvent,PullRequestReviewEvent,PullRequestReviewCommentEvent,IssuesEvent,PullRequestEvent,WatchEvent,IssueCommentEvent,CreateEvent,DeleteEvent,ForkEvent,total
+hiero-ledger/hiero-consensus-node,2025-02,8,8,2,2,2,0,2,1,1,0,26
+hiero-ledger/hiero-consensus-node,2025-03,9,4,3,0,0,0,0,0,0,0,16
+hiero-ledger/hiero-gradle-conventions,2025-02,0,2,2,1,1,0,0,0,0,1,7
+hiero-ledger/hiero,2024-10,0,0,0,0,0,1,0,0,0,0,1
+hiero-ledger/hiero-sdk-cpp,2024-11,0,0,0,0,0,1,0,0,0,0,1
+hiero-ledger/hiero-sdk-tck,2024-11,0,0,0,0,0,1,0,0,0,0,1

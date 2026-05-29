@@ -1,0 +1,4 @@
+repo,month,IssueCommentEvent,IssuesEvent,ForkEvent,PullRequestEvent,WatchEvent,total
+hiero-ledger/hiero-sdk-go,2024-11,1,1,1,1,0,4
+hiero-ledger/hiero-consensus-node,2025-12,1,1,0,0,0,2
+hiero-ledger/hiero,2024-10,0,0,0,0,1,1

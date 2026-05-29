@@ -1,0 +1,100 @@
+# GitHub activity report — `jonathan-m-hamilton`
+
+Date range searched: **2015-01-01 → 2026-05-28**.
+
+Compiled from **360** events spanning **2019-06-17 → 2021-12-06**, across **2** organizations and **9** repositories.
+
+## Teams & repository access
+
+Member of **1** team(s):
+
+| Team | Role in team |
+| --- | --- |
+| `bevel-triage` | maintainer |
+
+Repository access granted through those teams (3 repos):
+
+| Repository | Access | Granted by |
+| --- | --- | --- |
+| `bevel` | triage | `bevel-triage` (triage) |
+| `bevel-operator-fabric` | triage | `bevel-triage` (triage) |
+| `bevel-samples` | triage | `bevel-triage` (triage) |
+
+
+## Overview
+
+| Metric | Value |
+| --- | --: |
+| Total events | 360 |
+| Pull requests opened | 6 |
+| Pull request reviews | 225 |
+| Issues opened | 34 |
+| Pushes | 15 |
+| Commits pushed | 28 |
+| Comments | 40 |
+| Releases | 1 |
+
+## Activity by year
+
+| Year | Events |
+| --- | --: |
+| 2019 | 91 |
+| 2020 | 98 |
+| 2021 | 171 |
+
+## Event types
+
+| Type | Count |
+| --- | --: |
+| PullRequestReviewEvent | 225 |
+| IssuesEvent | 46 |
+| IssueCommentEvent | 35 |
+| PullRequestEvent | 20 |
+| PushEvent | 15 |
+| WatchEvent | 7 |
+| PullRequestReviewCommentEvent | 5 |
+| GollumEvent | 3 |
+| ForkEvent | 2 |
+| CreateEvent | 1 |
+| ReleaseEvent | 1 |
+
+## Organizations
+
+| Organization | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`hyperledger`](https://github.com/hyperledger) | 239 | 0 | 225 | 1 |
+| [`hyperledger-labs`](https://github.com/hyperledger-labs) | 121 | 6 | 0 | 14 |
+
+## Repositories
+
+| Repository | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`hyperledger/cactus`](https://github.com/hyperledger/cactus) | 238 | 0 | 224 | 1 |
+| [`hyperledger-labs/blockchain-integration-framework`](https://github.com/hyperledger-labs/blockchain-integration-framework) | 98 | 4 | 0 | 12 |
+| [`hyperledger-labs/blockchain-automation-framework`](https://github.com/hyperledger-labs/blockchain-automation-framework) | 18 | 2 | 0 | 2 |
+| [`hyperledger-labs/convector`](https://github.com/hyperledger-labs/convector) | 1 | 0 | 0 | 0 |
+| [`hyperledger-labs/hyperledger-community-management-tools`](https://github.com/hyperledger-labs/hyperledger-community-management-tools) | 1 | 0 | 0 | 0 |
+| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 1 | 0 | 0 | 0 |
+| [`hyperledger-labs/solang`](https://github.com/hyperledger-labs/solang) | 1 | 0 | 0 | 0 |
+| [`hyperledger-labs/weaver-dlt-interoperability`](https://github.com/hyperledger-labs/weaver-dlt-interoperability) | 1 | 0 | 0 | 0 |
+| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 1 | 0 | 1 | 0 |
+
+## Monthly rollup — one table per repository
+
+Months as rows, event types as columns. One file per repository in [`jonathan-m-hamilton_rollup/`](jonathan-m-hamilton_rollup/):
+
+| Repository | Events | Rollup |
+| --- | --: | --- |
+| [`hyperledger/cactus`](https://github.com/hyperledger/cactus) | 238 | [hyperledger_cactus.md](jonathan-m-hamilton_rollup/hyperledger_cactus.md) |
+| [`hyperledger-labs/blockchain-integration-framework`](https://github.com/hyperledger-labs/blockchain-integration-framework) | 98 | [hyperledger-labs_blockchain-integration-framework.md](jonathan-m-hamilton_rollup/hyperledger-labs_blockchain-integration-framework.md) |
+| [`hyperledger-labs/blockchain-automation-framework`](https://github.com/hyperledger-labs/blockchain-automation-framework) | 18 | [hyperledger-labs_blockchain-automation-framework.md](jonathan-m-hamilton_rollup/hyperledger-labs_blockchain-automation-framework.md) |
+| [`hyperledger-labs/convector`](https://github.com/hyperledger-labs/convector) | 1 | [hyperledger-labs_convector.md](jonathan-m-hamilton_rollup/hyperledger-labs_convector.md) |
+| [`hyperledger-labs/hyperledger-community-management-tools`](https://github.com/hyperledger-labs/hyperledger-community-management-tools) | 1 | [hyperledger-labs_hyperledger-community-management-tools.md](jonathan-m-hamilton_rollup/hyperledger-labs_hyperledger-community-management-tools.md) |
+| [`hyperledger-labs/hyperledger-labs.github.io`](https://github.com/hyperledger-labs/hyperledger-labs.github.io) | 1 | [hyperledger-labs_hyperledger-labs.github.io.md](jonathan-m-hamilton_rollup/hyperledger-labs_hyperledger-labs.github.io.md) |
+| [`hyperledger-labs/solang`](https://github.com/hyperledger-labs/solang) | 1 | [hyperledger-labs_solang.md](jonathan-m-hamilton_rollup/hyperledger-labs_solang.md) |
+| [`hyperledger-labs/weaver-dlt-interoperability`](https://github.com/hyperledger-labs/weaver-dlt-interoperability) | 1 | [hyperledger-labs_weaver-dlt-interoperability.md](jonathan-m-hamilton_rollup/hyperledger-labs_weaver-dlt-interoperability.md) |
+| [`hyperledger/bevel`](https://github.com/hyperledger/bevel) | 1 | [hyperledger_bevel.md](jonathan-m-hamilton_rollup/hyperledger_bevel.md) |
+
+---
+
+<sub>Generated by `gh-report` from `gh-activity` archive data.</sub>

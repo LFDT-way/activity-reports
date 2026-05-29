@@ -1,0 +1,6 @@
+repo,month,PullRequestEvent,IssueCommentEvent,ForkEvent,PushEvent,total
+hyperledger-labs/learning-tokens,2025-07,4,2,1,1,8
+hyperledger-labs/learning-tokens,2025-09,0,1,0,0,1
+hyperledger-labs/learning-tokens,2025-11,1,0,0,0,1
+hyperledger-labs/learning-tokens,2025-12,1,0,0,0,1
+hyperledger-labs/learning-tokens,2026-01,1,0,0,0,1

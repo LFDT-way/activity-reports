@@ -1,0 +1,8 @@
+repo,month,PullRequestReviewCommentEvent,PullRequestReviewEvent,PullRequestEvent,CreateEvent,ForkEvent,WatchEvent,total
+hiero-ledger/hiero-improvement-proposals,2025-07,2,1,0,0,0,0,3
+hiero-ledger/hiero-improvement-proposals,2025-09,0,0,1,0,0,0,1
+hiero-ledger/hiero-improvement-proposals,2025-10,0,1,0,0,0,0,1
+hiero-ledger/hiero-improvement-proposals,2026-02,1,1,0,0,0,0,2
+hiero-ledger/hiero-improvement-proposals,2026-03,0,0,0,1,0,0,1
+hiero-ledger/governance,2025-04,0,0,1,0,1,0,2
+hiero-ledger/hiero-sdk-python,2025-04,0,0,0,0,0,1,1

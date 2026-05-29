@@ -1,0 +1,6 @@
+repo,month,PullRequestReviewEvent,PullRequestReviewCommentEvent,IssuesEvent,PullRequestEvent,IssueCommentEvent,total
+hiero-ledger/hiero-json-rpc-relay,2026-02,14,9,2,3,0,28
+hiero-ledger/hiero-json-rpc-relay,2026-03,5,3,2,1,1,12
+hiero-ledger/hiero-json-rpc-relay,2026-04,5,1,1,1,1,9
+hiero-ledger/hiero-json-rpc-relay,2026-05,0,0,1,0,0,1
+hiero-ledger/hiero-contracts,2026-04,1,0,0,0,0,1

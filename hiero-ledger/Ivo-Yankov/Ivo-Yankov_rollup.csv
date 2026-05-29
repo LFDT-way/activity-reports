@@ -1,0 +1,17 @@
+repo,month,PushEvent,PullRequestEvent,IssuesEvent,CreateEvent,PullRequestReviewEvent,PullRequestReviewCommentEvent,DeleteEvent,IssueCommentEvent,ForkEvent,total
+hiero-ledger/solo,2025-04,18,4,1,1,2,1,1,0,0,28
+hiero-ledger/solo,2025-05,49,4,2,1,3,0,2,0,0,61
+hiero-ledger/solo,2025-06,14,3,5,4,1,0,0,1,0,28
+hiero-ledger/solo,2025-07,19,5,5,4,4,3,1,1,0,42
+hiero-ledger/solo,2025-08,14,9,5,7,4,2,1,0,1,43
+hiero-ledger/solo,2025-09,16,1,2,2,0,0,1,3,0,25
+hiero-ledger/solo,2025-10,29,3,8,4,0,0,2,0,0,46
+hiero-ledger/solo,2025-11,32,5,6,1,2,1,1,0,0,48
+hiero-ledger/solo,2025-12,23,14,2,0,0,1,0,0,0,40
+hiero-ledger/solo,2026-01,24,10,4,4,0,0,0,0,0,42
+hiero-ledger/solo,2026-02,19,9,1,3,1,1,0,0,0,34
+hiero-ledger/solo,2026-03,13,2,3,2,1,0,1,1,0,23
+hiero-ledger/solo,2026-04,21,1,5,6,2,3,0,0,0,38
+hiero-ledger/solo,2026-05,26,0,0,6,0,1,0,0,0,33
+hiero-ledger/hiero-local-node,2026-03,5,1,0,1,0,0,2,0,0,9
+hiero-ledger/solo-docs,2026-03,0,0,0,0,0,1,0,0,0,1

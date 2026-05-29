@@ -1,0 +1,16 @@
+repo,month,IssueCommentEvent,PullRequestEvent,PushEvent,WatchEvent,PullRequestReviewEvent,CreateEvent,DeleteEvent,ForkEvent,GollumEvent,IssuesEvent,PullRequestReviewCommentEvent,total
+hyperledger/fabric-x,2025-10,0,0,0,1,0,0,0,0,0,0,0,1
+hyperledger/fabric-x,2025-11,1,0,1,0,0,0,0,0,0,0,0,2
+hyperledger/fabric-x,2026-02,0,0,0,0,0,0,0,0,1,0,0,1
+hyperledger/fabric-x,2026-04,2,1,1,0,0,0,0,0,0,0,0,4
+hyperledger-labs/hyperledger-labs.github.io,2024-08,3,1,0,0,1,0,0,1,0,0,1,7
+hyperledger-labs/jsonld-vc-bbs-go,2024-09,0,0,2,0,0,2,2,0,0,0,0,6
+hyperledger-labs/jsonld-vc-bbs-go,2024-11,0,0,0,0,1,0,0,0,0,0,0,1
+hyperledger/fabric-x-orderer,2025-07,1,0,0,0,1,0,0,0,0,1,0,3
+hyperledger/fabric-x-orderer,2026-04,1,0,0,0,0,0,0,0,0,0,0,1
+hyperledger/governance,2025-07,0,1,0,0,0,0,0,1,0,0,0,2
+hyperledger/governance,2025-08,0,1,0,0,0,0,0,0,0,0,0,1
+hyperledger/fabric-x-samples,2026-04,0,1,1,0,0,0,0,0,0,0,0,2
+LF-Decentralized-Trust-labs/fabric-x-ansible-collection,2025-07,0,0,0,1,0,0,0,0,0,0,0,1
+hyperledger-labs/fabric-private-chaincode,2020-01,0,0,0,1,0,0,0,0,0,0,0,1
+hyperledger/fabric-x-committer,2026-04,0,0,0,1,0,0,0,0,0,0,0,1

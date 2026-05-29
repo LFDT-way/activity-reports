@@ -1,0 +1,8 @@
+repo,month,PullRequestReviewEvent,IssuesEvent,ForkEvent,PullRequestEvent,total
+hiero-ledger/hiero-sdk-swift,2025-02,2,0,0,0,2
+hiero-ledger/hiero-sdk-swift,2025-03,3,5,0,0,8
+hiero-ledger/hiero-sdk-swift,2025-04,1,0,0,0,1
+hiero-ledger/hiero-sdk-rust,2025-03,7,0,0,0,7
+hiero-ledger/hiero-sdk-rust,2025-04,1,0,0,0,1
+hiero-ledger/hiero-mirror-node-explorer,2025-03,0,4,0,0,4
+hiero-ledger/governance,2025-02,0,0,1,1,2

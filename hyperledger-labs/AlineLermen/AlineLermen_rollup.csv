@@ -1,0 +1,6 @@
+repo,month,PullRequestEvent,CreateEvent,ForkEvent,PushEvent,total
+hyperledger-labs/cc-tools,2023-10,2,2,0,1,5
+hyperledger-labs/cc-tools-demo,2023-10,1,1,0,0,2
+hyperledger-labs/cc-tools-demo,2024-01,1,1,0,0,2
+hyperledger-labs/cc-tools-doc,2023-10,1,1,0,0,2
+hyperledger/fabric-docs-i18n,2022-01,1,0,1,0,2

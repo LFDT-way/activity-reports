@@ -1,0 +1,11 @@
+repo,month,PushEvent,PullRequestEvent,PullRequestReviewCommentEvent,PullRequestReviewEvent,ForkEvent,IssueCommentEvent,CreateEvent,DeleteEvent,IssuesEvent,total
+credebl/platform,2026-02,6,1,0,0,0,0,1,0,0,8
+credebl/platform,2026-03,1,0,0,0,0,0,0,0,0,1
+credebl/platform,2026-04,4,0,0,0,0,0,0,0,0,4
+credebl/platform,2026-05,1,0,0,0,0,0,0,1,0,2
+openwallet-foundation/credo-ts,2024-09,0,1,4,4,1,2,0,0,0,12
+openwallet-foundation/credo-ts,2025-01,0,0,0,0,0,1,0,0,1,2
+credebl/agent-controller,2026-03,3,0,0,0,0,0,0,0,0,3
+credebl/agent-controller,2026-04,4,0,0,0,0,0,0,0,0,4
+credebl/agent-controller,2026-05,2,0,0,0,0,0,0,0,0,2
+credebl/credo-controller,2025-01,0,2,0,0,2,0,0,0,0,4

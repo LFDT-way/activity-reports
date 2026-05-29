@@ -1,0 +1,17 @@
+repo,month,PushEvent,IssueCommentEvent,PullRequestEvent,IssuesEvent,ForkEvent,CreateEvent,DeleteEvent,WatchEvent,total
+LF-Decentralized-Trust-labs/verazt,2025-07,14,0,4,2,0,2,0,1,23
+LF-Decentralized-Trust-labs/verazt,2025-08,41,0,14,0,0,0,0,0,55
+LF-Decentralized-Trust-labs/verazt,2026-02,5,0,0,0,0,0,1,0,6
+LF-Decentralized-Trust-labs/verazt,2026-03,10,0,6,0,0,0,0,0,16
+LF-Decentralized-Trust-labs/verazt,2026-04,1,0,0,0,0,0,0,0,1
+hyperledger-labs/solang,2021-02,0,3,0,3,0,0,0,0,6
+hyperledger-labs/solang,2021-03,0,2,0,1,0,0,0,0,3
+hyperledger-labs/solang,2021-11,0,12,3,5,1,0,0,0,21
+hyperledger-labs/solang,2021-12,0,1,0,1,0,0,0,0,2
+hyperledger-labs/solang,2022-01,0,6,1,5,0,0,0,0,12
+hyperledger-labs/solang,2022-02,0,4,0,1,0,0,0,0,5
+hyperledger-labs/solang,2022-03,0,1,0,0,0,0,0,0,1
+LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io,2025-07,0,3,0,0,1,0,0,0,4
+LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io,2025-08,0,2,0,0,0,0,0,0,2
+hyperledger/solang,2022-09,0,2,0,1,0,0,0,0,3
+hyperledger/fabric,2021-06,0,0,0,0,1,0,0,0,1

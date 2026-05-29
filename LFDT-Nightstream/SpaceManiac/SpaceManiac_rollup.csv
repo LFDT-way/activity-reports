@@ -1,0 +1,9 @@
+repo,month,PushEvent,CreateEvent,DeleteEvent,PullRequestEvent,PullRequestReviewCommentEvent,PullRequestReviewEvent,IssueCommentEvent,total
+LFDT-Nightstream/Starstream,2025-10,18,9,5,1,1,2,0,36
+LFDT-Nightstream/Starstream,2025-11,28,7,15,6,5,1,2,64
+LFDT-Nightstream/Starstream,2025-12,10,2,3,4,0,2,0,21
+LFDT-Nightstream/Starstream,2026-01,5,3,1,1,5,3,0,18
+LFDT-Nightstream/Starstream,2026-02,7,3,3,3,1,3,0,20
+LFDT-Nightstream/Starstream,2026-03,9,3,0,0,2,0,0,14
+LFDT-Nightstream/Starstream,2026-04,3,1,0,0,0,0,1,5
+LFDT-Nightstream/Starstream,2026-05,6,2,3,0,0,0,0,11

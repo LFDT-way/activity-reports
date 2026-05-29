@@ -1,0 +1,6 @@
+repo,month,PushEvent,PullRequestReviewEvent,PullRequestReviewCommentEvent,DeleteEvent,CreateEvent,IssuesEvent,IssueCommentEvent,PullRequestEvent,total
+LFDT-Minokawa/compact,2026-01,1,0,0,0,2,0,3,0,6
+LFDT-Minokawa/compact,2026-02,22,9,4,3,2,5,2,1,48
+LFDT-Minokawa/compact,2026-03,47,14,16,4,1,0,0,1,83
+LFDT-Minokawa/compact,2026-04,8,2,4,3,2,3,0,0,22
+LFDT-Minokawa/compact,2026-05,4,0,0,0,2,0,0,0,6

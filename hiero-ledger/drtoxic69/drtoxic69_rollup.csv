@@ -1,0 +1,5 @@
+repo,month,PullRequestEvent,IssueCommentEvent,PullRequestReviewCommentEvent,PullRequestReviewEvent,total
+hiero-ledger/hiero-sdk-python,2025-10,1,0,0,0,1
+hiero-ledger/hiero-sdk-python,2025-12,4,4,2,1,11
+hiero-ledger/hiero-sdk-python,2026-01,1,1,1,2,5
+hiero-ledger/hiero-sdk-python,2026-02,1,0,0,0,1

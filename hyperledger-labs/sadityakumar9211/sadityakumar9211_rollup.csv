@@ -1,0 +1,12 @@
+repo,month,PushEvent,ForkEvent,PullRequestReviewEvent,WatchEvent,IssueCommentEvent,PullRequestEvent,total
+hyperledger-labs/bdls,2024-06,1,0,2,0,1,1,5
+hyperledger-labs/bdls,2024-09,0,0,1,0,0,0,1
+hyperledger-labs/bdls,2024-10,0,0,1,0,0,0,1
+hyperledger-labs/bdls,2025-04,4,0,0,0,0,1,5
+hyperledger-labs/bdls,2025-07,1,0,0,0,0,0,1
+hyperledger-labs/bdls,2025-11,0,0,1,0,0,0,1
+hyperledger/fabric,2023-07,0,3,0,1,0,0,4
+hyperledger/aries,2023-05,0,1,0,1,0,0,2
+hyperledger/aries-framework-javascript,2023-05,0,1,0,1,0,0,2
+hyperledger/caliper-benchmarks,2023-11,0,0,0,0,2,0,2
+hyperledger/bevel,2023-05,0,0,0,1,0,0,1

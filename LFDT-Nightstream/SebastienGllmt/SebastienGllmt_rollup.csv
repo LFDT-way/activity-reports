@@ -1,0 +1,11 @@
+repo,month,PushEvent,CreateEvent,DeleteEvent,PullRequestEvent,WatchEvent,total
+LFDT-Nightstream/Starstream,2025-12,3,1,1,0,0,5
+LFDT-Nightstream/Starstream,2026-01,4,1,1,1,0,7
+LFDT-Nightstream/Starstream,2026-02,1,0,0,0,0,1
+LFDT-Nightstream/governance,2025-10,0,1,0,0,1,2
+LFDT-Nightstream/governance,2025-12,0,0,1,1,0,2
+LFDT-Nightstream/governance,2026-02,1,1,1,1,0,4
+LFDT-Nightstream/governance,2026-03,1,1,1,0,0,3
+LFDT-Nightstream/MVE-Planning,2026-03,3,1,0,0,0,4
+LFDT-Nightstream/MVE-Planning,2026-04,4,0,0,0,0,4
+LFDT-Minokawa/compact,2025-12,0,0,0,0,1,1

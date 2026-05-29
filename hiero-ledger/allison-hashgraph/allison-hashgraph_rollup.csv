@@ -1,0 +1,7 @@
+repo,month,WatchEvent,PullRequestReviewEvent,IssueCommentEvent,total
+hiero-ledger/hiero-consensus-node,2025-03,0,1,0,1
+hiero-ledger/hiero-consensus-node,2025-04,0,0,1,1
+hiero-ledger/hiero-consensus-node,2025-11,0,1,0,1
+hiero-ledger/hiero,2024-11,1,0,0,1
+hiero-ledger/hiero-sdk-cpp,2024-11,1,0,0,1
+hiero-ledger/hiero-sdk-tck,2024-11,1,0,0,1

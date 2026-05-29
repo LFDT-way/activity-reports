@@ -1,0 +1,7 @@
+repo,month,IssueCommentEvent,IssuesEvent,PullRequestReviewCommentEvent,ForkEvent,PullRequestReviewEvent,WatchEvent,total
+trustoverip/tswg-trust-registry-protocol,2026-01,1,2,2,0,1,0,6
+trustoverip/tswg-trust-registry-protocol,2026-02,1,0,0,0,0,0,1
+trustoverip/TechArch,2022-09,0,0,0,1,0,0,1
+trustoverip/TechArch,2022-11,1,1,0,0,0,0,2
+trustoverip/TechArch,2023-12,0,0,0,0,0,1,1
+trustoverip/concepts-and-terminology-wg,2021-03,1,0,0,0,0,0,1

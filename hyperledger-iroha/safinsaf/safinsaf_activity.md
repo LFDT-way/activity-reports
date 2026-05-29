@@ -1,0 +1,116 @@
+# GitHub activity report — `safinsaf`
+
+Date range searched: **2015-01-01 → 2026-05-28**.
+
+Compiled from **479** events spanning **2021-10-17 → 2024-11-04**, across **2** organizations and **8** repositories.
+
+## Teams & repository access
+
+Member of **3** team(s):
+
+| Team | Role in team |
+| --- | --- |
+| `iroha-admin` | member |
+| `iroha-contributors` | member |
+| `iroha-ios` | member |
+
+Repository access granted through those teams (19 repos):
+
+| Repository | Access | Granted by |
+| --- | --- | --- |
+| `const-str` | admin | `iroha-admin` (admin) |
+| `const-vec` | admin | `iroha-admin` (admin) |
+| `hub-chain-poc` | admin | `iroha-admin` (admin), `iroha-contributors` (maintain), `iroha-ios` (maintain) |
+| `iroha` | admin | `iroha-admin` (admin), `iroha-contributors` (maintain), `iroha-ios` (maintain) |
+| `iroha-2-docs` | admin | `iroha-admin` (admin), `iroha-contributors` (write), `iroha-ios` (write) |
+| `iroha-config-base` | admin | `iroha-admin` (admin) |
+| `iroha-crypto` | admin | `iroha-admin` (admin) |
+| `iroha-deploy` | admin | `iroha-admin` (admin) |
+| `iroha-ed25519` | admin | `iroha-admin` (admin) |
+| `iroha-ffi` | admin | `iroha-admin` (admin) |
+| `iroha-ios` | admin | `iroha-admin` (admin), `iroha-ios` (maintain) |
+| `iroha-java` | admin | `iroha-admin` (admin) |
+| `iroha-javascript` | admin | `iroha-admin` (admin) |
+| `iroha-news` | admin | `iroha-admin` (admin) |
+| `iroha-python` | admin | `iroha-admin` (admin) |
+| `iroha-wasm-codec` | admin | `iroha-admin` (admin) |
+| `.github` | maintain | `iroha-contributors` (maintain) |
+| `iroha-2-examples` | maintain | `iroha-admin` (maintain) |
+| `iroha-rfcs` | maintain | `iroha-admin` (maintain) |
+
+
+## Overview
+
+| Metric | Value |
+| --- | --: |
+| Total events | 479 |
+| Pull requests opened | 44 |
+| Pull request reviews | 12 |
+| Issues opened | 8 |
+| Pushes | 156 |
+| Commits pushed | 319 |
+| Comments | 8 |
+| Releases | 0 |
+
+## Activity by year
+
+| Year | Events |
+| --- | --: |
+| 2021 | 8 |
+| 2022 | 400 |
+| 2023 | 46 |
+| 2024 | 25 |
+
+## Event types
+
+| Type | Count |
+| --- | --: |
+| PullRequestEvent | 233 |
+| PushEvent | 156 |
+| CreateEvent | 35 |
+| DeleteEvent | 23 |
+| PullRequestReviewEvent | 12 |
+| IssuesEvent | 8 |
+| IssueCommentEvent | 7 |
+| ForkEvent | 3 |
+| PullRequestReviewCommentEvent | 1 |
+| WatchEvent | 1 |
+
+## Organizations
+
+| Organization | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`hyperledger`](https://github.com/hyperledger) | 478 | 44 | 12 | 156 |
+| [`hyperledger-iroha`](https://github.com/hyperledger-iroha) | 1 | 0 | 0 | 0 |
+
+## Repositories
+
+| Repository | Events | PRs opened | Reviews | Pushes |
+| --- | --: | --: | --: | --: |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 429 | 36 | 6 | 146 |
+| [`hyperledger/iroha-deploy`](https://github.com/hyperledger/iroha-deploy) | 16 | 4 | 2 | 3 |
+| [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 16 | 3 | 2 | 5 |
+| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 10 | 0 | 0 | 0 |
+| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 3 | 1 | 0 | 0 |
+| [`hyperledger/iroha-ios`](https://github.com/hyperledger/iroha-ios) | 2 | 0 | 0 | 2 |
+| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 2 | 0 | 2 | 0 |
+| [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 1 | 0 | 0 | 0 |
+
+## Monthly rollup — one table per repository
+
+Months as rows, event types as columns. One file per repository in [`safinsaf_rollup/`](safinsaf_rollup/):
+
+| Repository | Events | Rollup |
+| --- | --: | --- |
+| [`hyperledger/iroha`](https://github.com/hyperledger/iroha) | 429 | [hyperledger_iroha.md](safinsaf_rollup/hyperledger_iroha.md) |
+| [`hyperledger/iroha-deploy`](https://github.com/hyperledger/iroha-deploy) | 16 | [hyperledger_iroha-deploy.md](safinsaf_rollup/hyperledger_iroha-deploy.md) |
+| [`hyperledger/iroha-javascript`](https://github.com/hyperledger/iroha-javascript) | 16 | [hyperledger_iroha-javascript.md](safinsaf_rollup/hyperledger_iroha-javascript.md) |
+| [`hyperledger/governance`](https://github.com/hyperledger/governance) | 10 | [hyperledger_governance.md](safinsaf_rollup/hyperledger_governance.md) |
+| [`hyperledger/iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs) | 3 | [hyperledger_iroha-2-docs.md](safinsaf_rollup/hyperledger_iroha-2-docs.md) |
+| [`hyperledger/iroha-ios`](https://github.com/hyperledger/iroha-ios) | 2 | [hyperledger_iroha-ios.md](safinsaf_rollup/hyperledger_iroha-ios.md) |
+| [`hyperledger/iroha-java`](https://github.com/hyperledger/iroha-java) | 2 | [hyperledger_iroha-java.md](safinsaf_rollup/hyperledger_iroha-java.md) |
+| [`hyperledger-iroha/iroha`](https://github.com/hyperledger-iroha/iroha) | 1 | [hyperledger-iroha_iroha.md](safinsaf_rollup/hyperledger-iroha_iroha.md) |
+
+---
+
+<sub>Generated by `gh-report` from `gh-activity` archive data.</sub>

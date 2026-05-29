@@ -1,0 +1,17 @@
+repo,month,PushEvent,CreateEvent,PullRequestEvent,total
+hiero-ledger/hiero-mirror-node,2025-02,37,9,4,50
+hiero-ledger/hiero-mirror-node,2025-03,135,15,8,158
+hiero-ledger/hiero-mirror-node,2025-04,115,17,9,141
+hiero-ledger/hiero-mirror-node,2025-05,89,15,8,112
+hiero-ledger/hiero-mirror-node,2025-06,73,12,5,90
+hiero-ledger/hiero-mirror-node,2025-07,50,8,5,63
+hiero-ledger/hiero-mirror-node,2025-08,44,9,4,57
+hiero-ledger/hiero-mirror-node,2025-09,50,10,5,65
+hiero-ledger/hiero-mirror-node,2025-10,54,6,4,64
+hiero-ledger/hiero-mirror-node,2025-11,29,5,3,37
+hiero-ledger/hiero-mirror-node,2025-12,56,4,6,66
+hiero-ledger/hiero-mirror-node,2026-01,35,3,5,43
+hiero-ledger/hiero-mirror-node,2026-02,38,3,0,41
+hiero-ledger/hiero-mirror-node,2026-03,33,2,0,35
+hiero-ledger/hiero-mirror-node,2026-04,42,4,0,46
+hiero-ledger/hiero-mirror-node,2026-05,40,4,1,45

@@ -1,0 +1,11 @@
+repo,month,PushEvent,CreateEvent,PullRequestEvent,PullRequestReviewEvent,PullRequestReviewCommentEvent,DeleteEvent,IssuesEvent,ReleaseEvent,IssueCommentEvent,CommitCommentEvent,ForkEvent,total
+hiero-ledger/hiero-sdk-java,2025-01,0,0,1,0,0,0,0,0,0,0,1,2
+hiero-ledger/hiero-sdk-java,2025-02,19,4,7,6,3,0,0,0,0,0,0,39
+hiero-ledger/hiero-sdk-java,2025-03,12,7,4,4,3,1,0,1,1,0,0,33
+hiero-ledger/hiero-sdk-java,2025-04,41,10,9,7,5,2,2,2,0,1,0,79
+hiero-ledger/hiero-sdk-java,2025-05,27,12,12,3,3,4,2,2,1,0,0,66
+hiero-ledger/hiero-sdk-java,2025-06,19,6,4,2,2,5,4,0,0,0,0,42
+hiero-ledger/hiero-sdk-java,2025-07,23,8,7,1,0,2,3,0,0,0,0,44
+hiero-ledger/hiero-sdk-java,2025-08,11,2,2,0,0,0,0,1,0,0,0,16
+hiero-ledger/hiero-sdk-tck,2025-03,0,0,0,2,0,0,0,0,2,0,0,4
+hiero-ledger/hiero-sdk-tck,2025-04,0,0,0,0,0,0,0,0,1,0,0,1

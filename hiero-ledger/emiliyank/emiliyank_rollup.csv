@@ -1,0 +1,9 @@
+repo,month,PushEvent,PullRequestEvent,CreateEvent,IssuesEvent,DeleteEvent,IssueCommentEvent,PullRequestReviewEvent,PullRequestReviewCommentEvent,total
+hiero-ledger/hiero-sdk-java,2025-09,0,2,0,2,0,0,0,1,5
+hiero-ledger/hiero-sdk-java,2025-10,0,3,0,0,0,0,0,1,4
+hiero-ledger/hiero-sdk-java,2025-11,0,5,0,1,0,0,1,0,7
+hiero-ledger/hiero-sdk-java,2025-12,17,4,2,0,0,2,0,0,25
+hiero-ledger/hiero-sdk-java,2026-01,33,2,5,4,6,1,0,0,51
+hiero-ledger/hiero-sdk-java,2026-02,11,3,4,3,0,0,1,0,22
+hiero-ledger/hiero-sdk-python,2025-12,0,1,0,0,0,1,2,1,5
+hiero-ledger/hiero-sdk-python,2026-01,0,2,0,1,0,0,0,0,3

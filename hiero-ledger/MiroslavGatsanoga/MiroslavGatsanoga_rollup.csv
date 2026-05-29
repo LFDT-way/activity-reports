@@ -1,0 +1,7 @@
+repo,month,PushEvent,PullRequestReviewEvent,PullRequestEvent,PullRequestReviewCommentEvent,CreateEvent,DeleteEvent,IssueCommentEvent,IssuesEvent,total
+hiero-ledger/hiero-consensus-node,2025-02,16,4,2,1,0,1,1,0,25
+hiero-ledger/hiero-consensus-node,2025-03,35,9,5,13,4,2,0,2,70
+hiero-ledger/hiero-consensus-node,2025-04,16,0,5,2,2,1,1,1,28
+hiero-ledger/hiero-consensus-node,2025-05,7,1,4,0,1,0,1,0,14
+hiero-ledger/hiero-consensus-node,2025-06,22,2,3,1,1,0,1,0,30
+hiero-ledger/hiero-consensus-node,2025-07,6,4,0,0,0,0,0,0,10

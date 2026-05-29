@@ -1,0 +1,4 @@
+repo,month,PullRequestEvent,DeleteEvent,ForkEvent,PushEvent,total
+LFDT-Verii/core,2025-07,4,1,0,0,5
+LFDT-Verii/core,2025-08,0,0,0,1,1
+openwallet-foundation/credo-ts-docs,2025-02,1,0,1,0,2

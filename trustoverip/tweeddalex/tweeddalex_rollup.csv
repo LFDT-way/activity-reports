@@ -1,0 +1,14 @@
+repo,month,IssueCommentEvent,PushEvent,PullRequestReviewEvent,CreateEvent,PullRequestEvent,PullRequestReviewCommentEvent,ForkEvent,total
+trustoverip/high-assurance-verifiable-identifiers,2026-03,0,6,0,4,1,0,0,11
+trustoverip/high-assurance-verifiable-identifiers,2026-04,0,4,0,0,0,0,0,4
+openwallet-foundation/credo-ts,2024-09,1,0,0,0,0,0,0,1
+openwallet-foundation/credo-ts,2025-05,2,0,4,0,0,4,0,10
+openwallet-foundation/credo-ts,2025-07,1,0,0,0,0,0,0,1
+openwallet-foundation/credo-ts,2025-10,1,0,0,0,0,0,0,1
+openwallet-foundation/credo-ts,2026-01,1,0,0,0,0,0,0,1
+hyperledger/anoncreds-methods-registry,2022-11,0,0,0,0,1,0,1,2
+hyperledger/anoncreds-methods-registry,2023-03,1,0,0,0,1,0,0,2
+openwallet-foundation/credo-ts-docs,2024-09,1,0,1,0,0,0,0,2
+trustoverip/tswg-trust-registry-protocol,2025-07,1,0,0,0,0,0,0,1
+trustoverip/tswg-trust-registry-protocol,2025-10,1,0,0,0,0,0,0,1
+hyperledger/anoncreds-spec,2022-11,0,0,0,0,1,0,0,1

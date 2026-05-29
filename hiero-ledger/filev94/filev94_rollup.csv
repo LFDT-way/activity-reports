@@ -1,0 +1,7 @@
+repo,month,PullRequestReviewEvent,PullRequestReviewCommentEvent,PushEvent,PullRequestEvent,CreateEvent,IssuesEvent,IssueCommentEvent,DeleteEvent,total
+hiero-ledger/hiero-mirror-node,2025-02,20,16,14,3,1,1,1,0,56
+hiero-ledger/hiero-mirror-node,2025-03,26,21,25,4,4,7,5,2,94
+hiero-ledger/hiero-mirror-node,2025-04,48,39,20,6,7,3,0,0,123
+hiero-ledger/hiero-mirror-node,2025-05,39,33,19,6,6,2,1,1,107
+hiero-ledger/hiero-mirror-node,2025-06,18,20,9,2,2,1,2,0,54
+hiero-ledger/hiero-mirror-node,2025-07,13,12,5,1,0,0,2,0,33

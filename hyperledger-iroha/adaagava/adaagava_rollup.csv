@@ -1,0 +1,7 @@
+repo,month,IssueCommentEvent,PullRequestReviewEvent,IssuesEvent,PullRequestReviewCommentEvent,total
+hyperledger/iroha,2022-11,3,0,0,0,3
+hyperledger/iroha,2022-12,2,0,0,0,2
+hyperledger/iroha,2023-01,1,0,0,0,1
+hyperledger/iroha,2023-09,0,3,0,2,5
+hyperledger/iroha,2024-06,0,0,1,0,1
+hyperledger/iroha-2-docs,2022-11,0,0,1,0,1

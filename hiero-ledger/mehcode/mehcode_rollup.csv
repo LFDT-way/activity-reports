@@ -1,0 +1,4 @@
+repo,month,IssueCommentEvent,PullRequestEvent,total
+hiero-ledger/hiero-sdk-js,2025-02,0,1,1
+hiero-ledger/hiero-sdk-rust,2025-08,1,0,1
+hiero-ledger/tsc,2025-01,1,0,1

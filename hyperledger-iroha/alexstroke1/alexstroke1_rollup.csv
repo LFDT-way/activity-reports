@@ -1,0 +1,5 @@
+repo,month,PullRequestReviewCommentEvent,PullRequestReviewEvent,PullRequestEvent,IssuesEvent,IssueCommentEvent,ForkEvent,total
+hyperledger/iroha,2024-07,1,1,4,0,1,0,7
+hyperledger/iroha,2024-08,4,4,0,4,1,0,13
+hyperledger/iroha-javascript,2024-08,1,1,0,0,0,0,2
+hyperledger/iroha-python,2024-08,0,0,1,0,0,1,2

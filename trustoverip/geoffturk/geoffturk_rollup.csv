@@ -1,0 +1,14 @@
+repo,month,PushEvent,DeleteEvent,CreateEvent,PullRequestEvent,MemberEvent,PullRequestReviewEvent,total
+OpenVTC/governance,2026-04,5,1,3,0,0,0,9
+OpenVTC/governance,2026-05,2,2,1,1,0,0,6
+trustoverip/toip-template,2026-03,1,0,0,0,0,0,1
+trustoverip/toip-template,2026-04,0,0,1,0,0,0,1
+trustoverip/toip-template,2026-05,3,4,3,0,0,0,10
+OpenVTC/vti-setup,2026-05,4,3,0,0,0,1,8
+trustoverip/dtgwg-trust-tasks-tf,2026-05,3,1,1,2,0,0,7
+trustoverip/dtgwg-cred-tf,2025-10,0,0,0,0,1,0,1
+trustoverip/dtgwg-cred-tf,2026-01,0,1,0,1,0,0,2
+trustoverip/dtgwg-cred-tf,2026-05,1,0,1,0,0,0,2
+OpenVTC/wiki,2026-05,1,2,1,0,0,0,4
+OpenVTC/openvtc,2026-04,1,0,0,0,0,0,1
+trustoverip/governance,2025-10,0,0,0,1,0,0,1
